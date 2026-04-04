@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space Daily Digest</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Star Canvas Background -->
+  <canvas id="stars"></canvas>
+
+  <!-- Navigation -->
+  <nav id="nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-logo">
+        <span class="logo-mark">SD</span>
+        <span class="logo-text">Space Digest</span>
+      </a>
+      <div class="nav-links" id="nav-links">
+        <a href="#digest" class="nav-link">Today</a>
+        <a href="#archive" class="nav-link">Archive</a>
+        <a href="#rockets" class="nav-link">Rockets</a>
+        <a href="#agencies" class="nav-link">Agencies</a>
+      </div>
+      <div class="nav-date" id="nav-date"></div>
+      <button class="nav-toggle" id="nav-toggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <div class="hero-content">
+      <div class="hero-eyebrow">
+        <span class="live-dot"></span>
+        <span class="mono">LIVE UPDATES</span>
+      </div>
+      <h1 class="hero-title">Space Daily<br>Digest</h1>
+      <p class="hero-sub" id="hero-date"></p>
+      <p class="hero-desc">The latest from NASA, SpaceX, Blue Origin, ISRO, CNSA, ESA and beyond — updated daily, archived forever.</p>
+      <a href="#digest" class="hero-cta">Today's Digest ↓</a>
+    </div>
+    <div class="hero-scroll">
+      <div class="scroll-indicator"></div>
+    </div>
+  </section>
+
+  <!-- Daily Digest Section -->
+  <section id="digest">
+    <div class="section-inner">
+      <div class="section-header reveal">
+        <span class="section-label mono">DAILY DIGEST</span>
+        <h2 class="section-title" id="digest-title">Today's Updates</h2>
+        <div class="digest-meta" id="digest-meta"></div>
+      </div>
+      <div class="digest-grid" id="digest-grid">
+        <!-- Cards injected by app.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Archive Section -->
+  <section id="archive">
+    <div class="section-inner">
+      <div class="section-header reveal">
+        <span class="section-label mono">ARCHIVE</span>
+        <h2 class="section-title">Past Digests</h2>
+        <p class="section-desc">Browse all previous daily digests by date.</p>
+      </div>
+
+      <!-- Month Navigator -->
+      <div class="archive-nav reveal">
+        <button class="archive-nav-btn" id="archive-prev">← Prev</button>
+        <span class="archive-month" id="archive-month-label"></span>
+        <button class="archive-nav-btn" id="archive-next">Next →</button>
+      </div>
+
+      <!-- Date Pills Grid -->
+      <div class="archive-days" id="archive-days">
+        <!-- Date pills injected by app.js -->
+      </div>
+
+      <!-- Archive Digest View -->
+      <div class="archive-digest-view" id="archive-digest-view" style="display:none">
+        <div class="archive-viewing-bar">
+          <span class="mono" id="archive-viewing-label"></span>
+          <button class="back-to-today-btn" id="back-to-today">← Back to Today</button>
+        </div>
+        <div class="digest-grid" id="archive-digest-grid">
+          <!-- Archive cards injected by app.js -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Rocket Comparison Section -->
+  <section id="rockets">
+    <div class="section-inner">
+      <div class="section-header reveal">
+        <span class="section-label mono">ROCKET COMPARISON</span>
+        <h2 class="section-title">Side by Side</h2>
+        <p class="section-desc">All vehicles scaled to real proportions. Heights range from 44m (LVM3) to 120m (Starship).</p>
+      </div>
+
+      <!-- SVG Rocket Chart -->
+      <div class="rocket-chart-wrapper reveal">
+        <div class="rocket-chart-scroll">
+          <svg id="rocket-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+        </div>
+      </div>
+
+      <!-- Specs Table -->
+      <div class="specs-table-wrapper reveal">
+        <table class="specs-table" id="specs-table">
+          <!-- Injected by rockets.js -->
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Agencies Section -->
+  <section id="agencies">
+    <div class="section-inner">
+      <div class="section-header reveal">
+        <span class="section-label mono">SPACE AGENCIES</span>
+        <h2 class="section-title">Around the World</h2>
+        <p class="section-desc">The organizations shaping humanity's future in space.</p>
+      </div>
+      <div class="agencies-grid" id="agencies-grid">
+        <!-- Cards injected by app.js -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <div class="footer-inner">
+      <div class="footer-logo">
+        <span class="logo-mark">SD</span>
+        <span class="mono">Space Digest</span>
+      </div>
+      <p class="footer-note mono">Data current as of April 2026. Built for educational purposes.<br>All agency links go to official sources.</p>
+      <div class="footer-links">
+        <a href="#digest">Today</a>
+        <a href="#archive">Archive</a>
+        <a href="#rockets">Rockets</a>
+        <a href="#agencies">Agencies</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="rockets.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
