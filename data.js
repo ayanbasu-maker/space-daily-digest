@@ -99,15 +99,15 @@ const DIGESTS = {
         agency: "ISRO",
         category: "Mission Update",
         headline: "ISRO Forms Expert Panel to Review PSLV Anomaly as 2026 Launch Backlog Grows",
-        body: "ISRO has convened a national-level expert committee to investigate the anomaly that grounded its workhorse PSLV vehicle, leaving six planned 2026 missions still awaiting launch. The setback follows a successful LVM3 M6 flight in late 2025 but has pushed back several commercial and scientific payloads. European satellite operator Eutelsat has entered negotiations with ISRO as it seeks to diversify its launch provider pool beyond SpaceX and Ariane.",
+        body: "ISRO has convened a national-level expert committee to investigate the anomaly that grounded its workhorse PSLV vehicle, leaving six planned 2026 missions still awaiting launch. The setback follows a successful LVM3 M6 flight in late 2025 but has pushed back several commercial and scientific payloads. Separately, India's NavIC navigation satellite constellation has been degraded after an atomic clock failure aboard IRNSS-1F, leaving coverage below the threshold for full GPS-equivalent service.",
         sourceUrl: "https://www.isro.gov.in",
         timestamp: "2026-04-05T05:00:00Z"
       },
       {
         agency: "ESA",
         category: "Mission Update",
-        headline: "European Service Module Powers Artemis II Flawlessly Through Translunar Coast",
-        body: "ESA's European Service Module (ESM) is performing nominally aboard NASA's Orion spacecraft as Artemis II continues its journey to the Moon. The ESM, built by Airbus for ESA, provides Orion with power, propulsion, and life support — having successfully executed the translunar injection burn on April 2. ESA confirmed all ESM systems are in excellent health as the spacecraft approaches its record-setting maximum lunar distance on April 6.",
+        headline: "ESA Renegotiates Lunar Role as European Service Module Powers Artemis II",
+        body: "ESA's European Service Module (ESM) is performing nominally aboard NASA's Orion spacecraft as Artemis II continues its journey to the Moon. The ESM, built by Airbus for ESA, provides Orion with propulsion, power, and life support — having successfully executed the translunar injection burn on April 2. Following NASA's recent suspension of the Gateway lunar space station program, ESA announced it will renegotiate terms of participation in NASA's revised lunar surface architecture.",
         sourceUrl: "https://www.esa.int",
         timestamp: "2026-04-05T09:00:00Z"
       },
@@ -115,7 +115,7 @@ const DIGESTS = {
         agency: "CNSA",
         category: "Science",
         headline: "China–ESA SMILE Satellite Clears Final Pre-Launch Checks, Four Days to Liftoff",
-        body: "The joint Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) satellite, developed by China's National Space Science Center and ESA, has completed all pre-launch readiness checks at Xichang Satellite Launch Center ahead of its April 9 launch on a Long March 3B rocket. SMILE will use X-ray imaging and ultraviolet aurora cameras to study how solar wind shapes Earth's magnetosphere in real time. The mission represents one of the most significant China–Europe collaborative science projects to date.",
+        body: "The joint Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) satellite, developed by China's National Space Science Center and ESA, has completed all pre-launch readiness checks ahead of its April 9 launch on a Long March 3B rocket from Xichang Satellite Launch Center. SMILE will use X-ray imaging and ultraviolet aurora cameras to study how solar wind shapes Earth's magnetosphere in real time. The mission represents one of the most significant China–Europe collaborative science projects to date.",
         sourceUrl: "https://www.cnsa.gov.cn/english/",
         timestamp: "2026-04-05T06:00:00Z"
       }
