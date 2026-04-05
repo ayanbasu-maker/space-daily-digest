@@ -223,9 +223,7 @@
       img.loading = 'lazy';
       // On error, show agency color gradient instead
       img.onerror = function() {
-        heroWrap.classList.add('card-hero-fallback');
-        heroWrap.style.setProperty('--hero-color', c.text);
-        this.style.display = 'none';
+        heroWrap.style.display = 'none';
       };
       heroWrap.appendChild(img);
     } else {
