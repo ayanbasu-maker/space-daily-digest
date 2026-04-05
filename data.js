@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-05": {
+    date: "April 5, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "Artemis II Crew Passes Earth–Moon Halfway Point, Record-Breaking Flyby Tomorrow",
+        body: "On Flight Day 4, NASA's Artemis II crew aboard Orion has passed the halfway point between Earth and the Moon, with all four astronauts reporting good health and high spirits. The crew is preparing the cabin for a lunar observation period ahead of tomorrow's historic flyby. On April 6, Orion will reach approximately 252,757 miles (406,773 km) from Earth — surpassing Apollo 13's 1970 record and marking the farthest any humans have ever traveled from our planet.",
+        sourceUrl: "https://www.nasa.gov/artemis",
+        timestamp: "2026-04-05T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets April 6 Falcon 9 Starlink Launch from Vandenberg",
+        body: "SpaceX has set a launch window on April 6 from Space Launch Complex 4E at Vandenberg Space Force Base for its next Starlink mission, carrying 25 satellites to low-Earth orbit. The booster assigned to this mission is set for its latest reuse following a successful April 2 Starlink flight from the same site. Meanwhile, SpaceX continues ground testing of the Starship V3 Super Heavy booster ahead of a targeted Flight 12 in May 2026.",
+        sourceUrl: "https://www.spacex.com",
+        timestamp: "2026-04-05T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial",
+        headline: "New Glenn NG-3 Targets April 10 for AST SpaceMobile BlueBird Launch",
+        body: "Blue Origin has confirmed a no-earlier-than April 10, 2026 launch date for New Glenn's third flight, carrying AST SpaceMobile's BlueBird 7 broadband satellite. This mission is a key milestone in Blue Origin's plan for four New Glenn launches in 2026 as it ramps toward full commercial cadence. The company is also aiming to attempt its first booster landing and re-flight on this mission, a milestone that would establish New Glenn as a fully reusable rocket.",
+        sourceUrl: "https://www.blueorigin.com",
+        timestamp: "2026-04-05T07:30:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Mission Update",
+        headline: "ISRO Forms Expert Panel to Review PSLV Anomaly as 2026 Launch Backlog Grows",
+        body: "ISRO has convened a national-level expert committee to investigate the anomaly that grounded its workhorse PSLV vehicle, leaving six planned 2026 missions still awaiting launch. The setback follows a successful LVM3 M6 flight in late 2025 but has pushed back several commercial and scientific payloads. European satellite operator Eutelsat has entered negotiations with ISRO as it seeks to diversify its launch provider pool beyond SpaceX and Ariane.",
+        sourceUrl: "https://www.isro.gov.in",
+        timestamp: "2026-04-05T05:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission Update",
+        headline: "European Service Module Powers Artemis II Flawlessly Through Translunar Coast",
+        body: "ESA's European Service Module (ESM) is performing nominally aboard NASA's Orion spacecraft as Artemis II continues its journey to the Moon. The ESM, built by Airbus for ESA, provides Orion with power, propulsion, and life support — having successfully executed the translunar injection burn on April 2. ESA confirmed all ESM systems are in excellent health as the spacecraft approaches its record-setting maximum lunar distance on April 6.",
+        sourceUrl: "https://www.esa.int",
+        timestamp: "2026-04-05T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "China–ESA SMILE Satellite Clears Final Pre-Launch Checks, Four Days to Liftoff",
+        body: "The joint Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) satellite, developed by China's National Space Science Center and ESA, has completed all pre-launch readiness checks at Xichang Satellite Launch Center ahead of its April 9 launch on a Long March 3B rocket. SMILE will use X-ray imaging and ultraviolet aurora cameras to study how solar wind shapes Earth's magnetosphere in real time. The mission represents one of the most significant China–Europe collaborative science projects to date.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-04-05T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-03": {
     date: "April 3, 2026",
     stories: [
