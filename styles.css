@@ -323,18 +323,18 @@ section:nth-child(even) {
 /* ── Digest Cards ─────────────────── */
 .digest-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 24px;
 }
 
 .story-card {
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--r-lg);
-  padding: 24px;
+  padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  overflow: hidden;
   transition: border-color 0.25s var(--ease), box-shadow 0.25s var(--ease), transform 0.25s var(--ease);
   opacity: 0;
   transform: translateY(20px);
@@ -347,8 +347,47 @@ section:nth-child(even) {
 
 .story-card:hover {
   border-color: var(--border-hover);
-  box-shadow: 0 0 0 1px var(--accent-glow), 0 8px 32px rgba(0,0,0,0.5);
-  transform: translateY(-3px);
+  box-shadow: 0 0 0 1px var(--accent-glow), 0 16px 48px rgba(0,0,0,0.6);
+  transform: translateY(-4px);
+}
+
+/* ── Card Hero Image ──────────────── */
+.card-hero {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  flex-shrink: 0;
+  position: relative;
+  background: var(--bg-mid);
+}
+
+.card-hero-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  transition: transform 0.5s var(--ease);
+}
+
+.story-card:hover .card-hero-img {
+  transform: scale(1.05);
+}
+
+.card-hero-fallback {
+  background: linear-gradient(135deg,
+    rgba(79,156,249,0.15) 0%,
+    var(--bg-mid) 100%
+  );
+}
+
+/* ── Card Content ─────────────────── */
+.card-content {
+  padding: 20px 22px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex: 1;
 }
 
 .card-tags {
@@ -363,7 +402,7 @@ section:nth-child(even) {
   font-size: 10px;
   font-weight: 600;
   letter-spacing: 1px;
-  padding: 3px 8px;
+  padding: 3px 9px;
   border-radius: 4px;
   text-transform: uppercase;
 }
@@ -380,16 +419,17 @@ section:nth-child(even) {
 }
 
 .card-headline {
-  font-size: 16px;
-  font-weight: 600;
-  line-height: 1.4;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 1.35;
   color: var(--text);
+  letter-spacing: -0.3px;
 }
 
 .card-body {
-  font-size: 14px;
+  font-size: 15px;
   color: var(--text-dim);
-  line-height: 1.65;
+  line-height: 1.7;
   flex: 1;
 }
 
@@ -398,7 +438,7 @@ section:nth-child(even) {
   align-items: center;
   justify-content: space-between;
   margin-top: 4px;
-  padding-top: 12px;
+  padding-top: 14px;
   border-top: 1px solid var(--border);
 }
 
@@ -410,17 +450,20 @@ section:nth-child(even) {
 
 .card-link {
   font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--accent);
-  padding: 4px 10px;
-  border: 1px solid rgba(79,156,249,0.3);
-  border-radius: 4px;
-  transition: background 0.2s, border-color 0.2s;
+  font-size: 12px;
+  font-weight: 500;
+  color: #050810;
+  background: var(--accent);
+  padding: 7px 14px;
+  border-radius: 6px;
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+  letter-spacing: 0.2px;
 }
 
 .card-link:hover {
-  background: var(--accent-glow);
-  border-color: var(--accent);
+  background: #6badff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(79,156,249,0.4);
 }
 
 .digest-meta {

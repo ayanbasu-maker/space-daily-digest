@@ -77,7 +77,8 @@ const DIGESTS = {
         headline: "Artemis II Crew Completes Translunar Injection, Heading for the Moon",
         body: "NASA's Orion spacecraft carrying commander Reid Wiseman, pilot Victor Glover, mission specialists Christina Koch and Jeremy Hansen (CSA) has completed its translunar injection burn and is now coasting toward the Moon. The crew is conducting daily health checks and testing Orion's life support systems. At 248,000 miles, they will surpass Apollo 13's distance record — the farthest humans have traveled from Earth.",
         sourceUrl: "https://www.nasa.gov/artemis",
-        timestamp: "2026-04-03T10:00:00Z"
+        timestamp: "2026-04-03T10:00:00Z",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Artemis_I_Launch_%28NHQ202211160011%29.jpg/1280px-Artemis_I_Launch_%28NHQ202211160011%29.jpg"
       },
       {
         agency: "SpaceX",
@@ -161,7 +162,8 @@ const DIGESTS = {
         headline: "LAUNCH: Artemis II Lifts Off — Humans Bound for the Moon for First Time in 54 Years",
         body: "At 6:35 PM EDT, NASA's SLS Block 1 rocket ignited its RS-25 engines and twin solid rocket boosters, carrying the Orion spacecraft and four astronauts off Pad 39B at Kennedy Space Center. This is the first crewed mission beyond Earth orbit since Apollo 17 in 1972. Commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and CSA astronaut Jeremy Hansen are now in Earth orbit awaiting the translunar injection burn.",
         sourceUrl: "https://www.nasa.gov/artemis",
-        timestamp: "2026-04-01T22:35:00Z"
+        timestamp: "2026-04-01T22:35:00Z",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Artemis_I_Launch_%28NHQ202211160011%29.jpg/1280px-Artemis_I_Launch_%28NHQ202211160011%29.jpg"
       },
       {
         agency: "NASA",

@@ -38,6 +38,19 @@
     } catch(e) { return ''; }
   }
 
+  // ── Agency default hero images ─────────────────────
+  // Fallback images per agency (Wikimedia Commons / public domain)
+  const AGENCY_IMAGES = {
+    'NASA':        'https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Artemis_I_Launch_%28NHQ202211160011%29.jpg/1280px-Artemis_I_Launch_%28NHQ202211160011%29.jpg',
+    'SpaceX':      'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Integrated_Flight_Test_4_launch.jpg/1280px-Integrated_Flight_Test_4_launch.jpg',
+    'Blue Origin': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/New_Glenn_NG-1_launch_%28cropped%29.jpg/1280px-New_Glenn_NG-1_launch_%28cropped%29.jpg',
+    'ISRO':        'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/PSLV-C54_launch.jpg/1280px-PSLV-C54_launch.jpg',
+    'CNSA':        'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/CSS_Tianhe_with_CSST.jpg/1280px-CSS_Tianhe_with_CSST.jpg',
+    'ESA':         'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ariane_6_launch_01.jpg/1280px-Ariane_6_launch_01.jpg',
+    'Roscosmos':   'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Soyuz_TMA-20M_rocket_launch_2016.jpg/1280px-Soyuz_TMA-20M_rocket_launch_2016.jpg',
+    'ULA':         'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Vulcan_Centaur_VC2S_first_launch.jpg/1280px-Vulcan_Centaur_VC2S_first_launch.jpg',
+  };
+
   // ── Agency color map ───────────────────────────────
   const AGENCY_COLORS = {
     'NASA':        { bg: 'rgba(11,61,145,0.25)', text: '#6b9cf9', border: 'rgba(11,61,145,0.5)' },
@@ -200,6 +213,30 @@
 
     const c = getAgencyColor(story.agency);
 
+    // Hero image
+    const heroWrap = el('div', 'card-hero');
+    const imgUrl = story.imageUrl || AGENCY_IMAGES[story.agency] || '';
+    if (imgUrl) {
+      const img = el('img', 'card-hero-img');
+      img.src = imgUrl;
+      img.alt = story.headline;
+      img.loading = 'lazy';
+      // On error, show agency color gradient instead
+      img.onerror = function() {
+        heroWrap.classList.add('card-hero-fallback');
+        heroWrap.style.setProperty('--hero-color', c.text);
+        this.style.display = 'none';
+      };
+      heroWrap.appendChild(img);
+    } else {
+      heroWrap.classList.add('card-hero-fallback');
+      heroWrap.style.setProperty('--hero-color', c.text);
+    }
+    card.appendChild(heroWrap);
+
+    // Content wrapper
+    const content = el('div', 'card-content');
+
     // Tags row
     const tags = el('div', 'card-tags');
     const agencyTag = el('span', 'agency-tag');
@@ -211,17 +248,17 @@
     catBadge.textContent = story.category;
     tags.appendChild(agencyTag);
     tags.appendChild(catBadge);
-    card.appendChild(tags);
+    content.appendChild(tags);
 
     // Headline
     const headline = el('h3', 'card-headline');
     headline.textContent = story.headline;
-    card.appendChild(headline);
+    content.appendChild(headline);
 
     // Body
     const body = el('p', 'card-body');
     body.textContent = story.body;
-    card.appendChild(body);
+    content.appendChild(body);
 
     // Footer
     const footer = el('div', 'card-footer');
@@ -232,10 +269,11 @@
     link.href = story.sourceUrl;
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
-    link.textContent = 'Source ↗';
+    link.textContent = 'Read Article ↗';
     footer.appendChild(link);
-    card.appendChild(footer);
+    content.appendChild(footer);
 
+    card.appendChild(content);
     return card;
   }
 
