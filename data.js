@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-06": {
+    date: "April 6, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "Artemis II Breaks All-Time Human Distance Record During Lunar Flyby",
+        body: "At 7:07 p.m. ET today, NASA's Orion spacecraft carrying the four-person Artemis II crew reached 252,760 miles from Earth — surpassing Apollo 13's 1970 record and marking the farthest any humans have ever traveled from our planet. Crew members Reid Wiseman, Victor Glover, Christina Koch, and CSA astronaut Jeremy Hansen photographed and observed the Moon's far side, including the 3.8-billion-year-old Orientale basin, during the historic flyby. NASA streamed live coverage on NASA+ as Orion began its return journey toward Earth following the successful free-return trajectory around the Moon.",
+        sourceUrl: "https://www.nasa.gov/artemis",
+        timestamp: "2026-04-06T19:07:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Deploys 25 Starlink Satellites from Vandenberg in Latest 2026 Mission",
+        body: "SpaceX successfully launched another batch of 25 Starlink satellites from Space Launch Complex 4E at Vandenberg Space Force Base during a window opening at 7:39 p.m. PT on April 6. The reused Falcon 9 booster executed a flawless landing on the droneship shortly after stage separation, marking another step in SpaceX's aggressive 2026 cadence of over 140 planned launches. SpaceX is separately targeting a Starship Flight 12 test in late April, with the V3 Super Heavy booster undergoing final ground testing at Starbase.",
+        sourceUrl: "https://www.spacex.com",
+        timestamp: "2026-04-06T02:39:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial",
+        headline: "Blue Origin Files FCC Application for 51,600-Satellite Orbital Data Center Constellation",
+        body: "Blue Origin has formally filed with the FCC to deploy a constellation of over 51,600 satellites in sun-synchronous orbit as part of 'Project Sunrise,' an ambitious plan to host energy- and water-intensive cloud computing workloads in space. The constellation would be complemented by a TeraWave optical backhaul network of 5,408 satellites to transmit data between orbital nodes and ground stations. The announcement positions Blue Origin directly against terrestrial hyperscale cloud providers at a time when AI compute demand is outpacing ground-based power and cooling capacity.",
+        sourceUrl: "https://www.blueorigin.com",
+        timestamp: "2026-04-06T14:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Science",
+        headline: "ISRO's Mission MITRA Studies High-Altitude Human Performance to Support Gaganyaan",
+        body: "ISRO launched Mission MITRA (Mapping of Interoperable Traits and Response Assessment) in Leh, Ladakh, conducting crew-candidate research at 3,500 meters altitude through April 9. The study measures physiological and psychological responses to high-altitude conditions to generate data directly applicable to India's Gaganyaan crewed spaceflight program and future long-duration missions. The research adds to ISRO's growing human spaceflight knowledge base as the agency finalizes plans for its first uncrewed Gaganyaan test flight, now expected before mid-2026.",
+        sourceUrl: "https://www.isro.gov.in",
+        timestamp: "2026-04-06T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission Update",
+        headline: "ESA-CAS SMILE Mission Enters Final 72-Hour Countdown for April 9 Launch",
+        body: "The Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE), a joint mission between ESA and the Chinese Academy of Sciences, has entered its final 72-hour countdown to liftoff from Europe's Spaceport in Kourou, French Guiana on April 9. SMILE will use soft X-ray imaging and UV aurora cameras to observe in real time how the solar wind shapes Earth's magnetosphere and ionosphere — providing the first-ever global, simultaneous view of this interaction. The mission represents one of the most significant ESA-China scientific collaborations ever undertaken and is one of ESA's flagship science launches of 2026.",
+        sourceUrl: "https://www.esa.int",
+        timestamp: "2026-04-06T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "CAS Space's Lijian-2 Completes Debut Orbital Mission, Placing Two Satellites in Polar Orbit",
+        body: "China's commercial launch provider CAS Space successfully completed the inaugural orbital flight of its modular Lijian-2 rocket, deploying two satellites into a polar sun-synchronous orbit earlier this week. The Lijian-2 is a scalable vehicle capable of lifting 2 to 20 tonnes to LEO depending on the number of core boosters, positioning it as a competitor in the medium-to-heavy commercial launch market. China's broader commercial space sector also saw Space Pioneer attempt the maiden flight of its Tianlong-3 vehicle — a Falcon 9-class rocket standing 71 meters tall — adding to a record pace of Chinese launches in early 2026.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-04-06T04:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-05": {
     date: "April 5, 2026",
     stories: [
