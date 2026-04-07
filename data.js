@@ -68,6 +68,61 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-07": {
+    date: "April 7, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "Artemis II Crew Exits Lunar Sphere of Influence, Begins Return to Earth",
+        body: "On Flight Day 7, Orion exited the lunar sphere of influence at approximately 1:25 PM EDT and began its coast back toward Earth after completing the first crewed lunar flyby in over 50 years. The April 6 flyby saw the spacecraft pass within 4,067 miles of the Moon's surface and set a new human distance record of 252,756 miles from Earth — surpassing Apollo 13's 1970 mark. The crew endured a 40-minute communications blackout while behind the Moon before reestablishing contact with Mission Control. Splashdown off the coast of San Diego is expected later this week.",
+        sourceUrl: "https://www.nasa.gov/artemis",
+        timestamp: "2026-04-07T13:25:00Z",
+        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Artemis_I_Launch_%28NHQ202211160011%29.jpg/1280px-Artemis_I_Launch_%28NHQ202211160011%29.jpg"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA's European Service Module Performs Flawlessly Through Artemis II Lunar Flyby",
+        body: "The European Service Module (ESM), built by Airbus Defence and Space, provided propulsion, power, water, and oxygen to Orion throughout the critical lunar flyby on Flight Day 6. The ESM's main engine and attitude control thrusters operated nominally during the 40-minute blackout behind the Moon. ESA is also finalizing countdown preparations for the SMILE (Solar Wind Magnetosphere Ionosphere Link Explorer) joint mission with the Chinese Academy of Sciences, targeting an April 9 launch on a Long March 3B from Xichang.",
+        sourceUrl: "https://www.esa.int",
+        timestamp: "2026-04-07T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Launches 25 Starlink Satellites from Vandenberg in Twilight Mission",
+        body: "A SpaceX Falcon 9 lifted off at 7:50 PM PDT from Space Launch Complex 4 East at Vandenberg Space Force Base, deploying 25 Starlink satellites to low Earth orbit. The first-stage booster successfully landed on a drone ship off the Baja California coast, completing another recovery. The twilight launch produced a dramatic illuminated plume visible across much of Central California, drawing widespread attention on social media.",
+        sourceUrl: "https://www.spacex.com",
+        timestamp: "2026-04-07T02:50:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Technology",
+        headline: "Blue Origin Files for 'Project Sunrise' In-Orbit Data Center Constellation",
+        body: "Blue Origin has submitted filings with U.S. regulators for permission to deploy a network of more than 50,000 satellites in low Earth orbit to host an in-space computing platform dubbed 'Project Sunrise.' The concept aims to offload energy- and water-intensive data center workloads from the ground to space, leveraging the near-unlimited solar power available in orbit. The company is separately targeting no earlier than April 10 for the New Glenn NG-3 launch carrying AST SpaceMobile's BlueBird 7 broadband satellite.",
+        sourceUrl: "https://www.blueorigin.com",
+        timestamp: "2026-04-07T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO CE20 Cryogenic Engine Clears Hot-Fire Milestone Ahead of Gaganyaan",
+        body: "ISRO successfully completed a sea-level hot-fire test of the CE20 cryogenic engine, validating it at 22 tonnes of thrust using a newly designed nozzle protection system. The test is a key qualification step for the human-rated LVM3 rocket that will carry the Gaganyaan crew to orbit. The agency is simultaneously working through a launch backlog after a Q1 anomaly sidelined a PSLV vehicle, with a national expert committee investigating the root cause.",
+        sourceUrl: "https://www.isro.gov.in",
+        timestamp: "2026-04-07T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China Eyes Tianlong-3 Debut and Outlines Ambitious 2026 Deep-Space Roadmap",
+        body: "Space Pioneer is targeting an early April inaugural flight of Tianlong-3, a Falcon 9-class reusable rocket standing 71 meters tall and powered by nine Tianhuo-12 engines — a major step for China's commercial launch sector. On the national side, CNSA confirmed 2026 plans include two crewed Tiangong station missions (one featuring astronauts from Hong Kong and Macao SAR), a cargo resupply flight, and the Chang'e 7 polar lunar mission deploying a rover, lander, and hopper. CNSA also unveiled a roadmap through 2030 that includes a heliosphere probe leveraging a Jupiter gravity assist.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-04-07T04:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-06": {
     date: "April 6, 2026",
     stories: [
