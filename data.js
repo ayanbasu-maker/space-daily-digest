@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-08": {
+    date: "April 8, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "Artemis II Crew on Final Coast Home as Splashdown Countdown Begins",
+        body: "On Flight Day 8, the Artemis II crew practiced in-flight radiation procedures and tested Orion's attitude control system modes while coasting back toward Earth following last week's historic lunar flyby. Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialists Christina Koch and Jeremy Hansen are on track for splashdown at approximately 8:07 p.m. EDT on Friday, April 10, in the Pacific Ocean off San Diego — the fastest crewed reentry ever attempted, at roughly 25,000 mph. The crew joined a live media call at 9:45 p.m. EDT to discuss highlights including Sunday's all-time human distance record of 252,760 miles from Earth. Recovery ship USS John P. Murtha is pre-positioned in the recovery zone, with meteorologists monitoring a light rain system that could affect conditions at splashdown.",
+        sourceUrl: "https://www.nasa.gov/artemis",
+        timestamp: "2026-04-08T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Sends 25 Starlinks Skyward from Vandenberg; CRS-24 Cygnus Pushed to Friday",
+        body: "SpaceX launched 25 Starlink satellites on a Falcon 9 from Space Launch Complex 4 East at Vandenberg Space Force Base at 7:49 p.m. PT, with the booster completing its 10th mission and landing on drone ship Of Course I Still Love You in the Pacific. Separately, SpaceX's Falcon 9 that was to carry Northrop Grumman's Cygnus XL cargo spacecraft on the CRS-24 resupply mission has been delayed from today to no earlier than 8:03 a.m. EDT Friday, April 10, due to inclement weather at Cape Canaveral's Space Launch Complex 40. Cygnus XL — named in honor of astronaut Steven Nagel — will deliver approximately 11,000 pounds of science and supplies to the International Space Station, with a backup opportunity on April 11.",
+        sourceUrl: "https://www.spacex.com",
+        timestamp: "2026-04-08T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "Vega-C Postpones SMILE Launch After Supplier Flags Component Production Issue",
+        body: "European launch provider Avio has postponed the Vega-C VV29 mission carrying the SMILE (Solar Wind Magnetosphere Ionosphere Link Explorer) spacecraft, originally scheduled to lift off from Kourou, French Guiana on April 9. A supplier identified a technical issue on a subsystem component production line following rocket integration, requiring additional inspections before a new launch date can be confirmed within a window extending through May 7, 2026. SMILE is a joint ESA and Chinese Academy of Sciences mission designed to provide humanity's first complete view of how Earth's magnetic environment responds to solar wind, using X-ray and ultraviolet cameras alongside particle and magnetic field detectors.",
+        sourceUrl: "https://www.esa.int",
+        timestamp: "2026-04-08T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 with AST SpaceMobile BlueBird 7 Satellite Slips to NET April 10",
+        body: "Blue Origin's New Glenn rocket carrying AST SpaceMobile's BlueBird 7 broadband satellite has slipped from its early April target to no earlier than April 10, 2026, marking the third orbital flight of the vehicle since its debut in January 2025. BlueBird 7 is part of AST SpaceMobile's direct-to-device cellular broadband constellation aimed at providing smartphone connectivity from low Earth orbit without specialized hardware. Blue Origin has not detailed the cause of the delay but continues to target more than a dozen New Glenn missions in 2026 as the rocket ramps up its operational cadence.",
+        sourceUrl: "https://www.blueorigin.com",
+        timestamp: "2026-04-08T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Faces Six-Mission Backlog After Consecutive PSLV Failures; Return to Flight Eyed for June",
+        body: "India's space agency continues to manage the fallout from two consecutive PSLV launch failures — including the January 12 loss of 16 satellites aboard PSLV-C62 due to a third-stage anomaly — leaving six major 2026 missions delayed. A national expert committee is actively investigating the root cause, and ISRO has penciled in a technology demonstrator mission (TDS-01) as the first step back to flight, targeted no earlier than June 2026. ISRO chief V. Narayanan has stated that Gaganyaan crewed mission preparations remain on schedule, with the CE20 cryogenic engine recently clearing a key sea-level hot-fire milestone. A parliamentary panel has separately raised concerns over ISRO technology being transferred to private Indian companies at below-market rates.",
+        sourceUrl: "https://www.isro.gov.in",
+        timestamp: "2026-04-08T06:30:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Exploration",
+        headline: "China Advances Tiangong Crew Rotation and Tianlong-3 Debut as Artemis II Crew Spots Lunar Robots",
+        body: "China's space program is moving on multiple fronts in April 2026, with CNSA planning two crewed Tiangong station missions this year — including a historic flight featuring astronauts from Hong Kong and Macao SAR — alongside one cargo resupply. Commercial launcher Space Pioneer is preparing the inaugural flight of Tianlong-3, a Falcon 9-class reusable rocket powered by nine Tianhuo-12 engines, which would be a landmark moment for China's private launch sector. In an unexpected intersection of programs, the Artemis II crew had a unique vantage point to observe Chinese lunar robots operating on the Moon's far side during their close approach last weekend. CNSA's Chang'e-7 spacecraft continues searching for water ice near the lunar south pole, a critical precursor to eventual human lunar landing missions planned for the 2030s.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-04-08T04:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-07": {
     date: "April 7, 2026",
     stories: [
