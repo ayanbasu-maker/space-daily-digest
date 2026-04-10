@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-10": {
+    date: "April 10, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "Artemis II Crew Splashes Down in Pacific, Completing Historic Lunar Voyage",
+        body: "NASA's Artemis II mission concluded successfully on Friday evening when Orion splashed down in the Pacific Ocean off the coast of San Diego at approximately 8:07 p.m. EDT, completing a nine-day mission that sent humans farther from Earth than any crew since Apollo. Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialists Christina Koch and Jeremy Hansen endured a 13-minute reentry sequence, plunging through Earth's atmosphere at nearly 24,000 mph before 11 parachutes slowed their descent for splashdown. Recovery teams aboard USS John P. Murtha retrieved the crew by helicopter, and all four astronauts were confirmed healthy following post-splashdown medical evaluations. The mission validated Orion's heat shield, life support, and navigation systems ahead of the crewed lunar landing planned for Artemis III.",
+        sourceUrl: "https://www.nasa.gov/artemis",
+        timestamp: "2026-04-10T20:07:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "CRS-24 Cygnus XL Slips to April 11 as Cape Canaveral Weather Forces Delay",
+        body: "Forecasted inclement weather at Space Launch Complex 40 at Cape Canaveral Space Force Station has pushed the Northrop Grumman CRS-24 resupply mission from its April 10 target to no earlier than 7:41 a.m. EDT Saturday, April 11. The Falcon 9 booster assigned to the mission is flying for the seventh time, previously supporting missions including Ax-4, Crew-11, and NG-23. Cygnus XL — named S.S. Steven R. Nagel in honor of the late astronaut — will deliver more than 11,000 pounds of research hardware and crew supplies to the ISS, where Canadarm2 will grapple the spacecraft before it is berthed at the Unity module's Earth-facing port.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/04/07/nasas-northrop-grumman-crs-24-mission-targets-friday-april-10-launch/",
+        timestamp: "2026-04-10T09:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Slips to April 16; Company Files for Second Cape Canaveral Pad",
+        body: "Blue Origin's New Glenn NG-3 mission carrying AST SpaceMobile's BlueBird 7 broadband satellite has been pushed to no earlier than April 16, the third delay for a flight that had been targeting an April 10 window. The mission will mark the first reflown New Glenn first stage, reusing booster 'Never Tell Me The Odds' — which successfully landed after delivering NASA's ESCAPADE Mars probes in November 2025 — a key milestone for the company's reusability programme. Separately, Blue Origin filed documents with the FAA on April 9 to begin the environmental review process for a second launch pad at Cape Canaveral, proposing to repurpose the historic Launch Complex 11 site just north of SLC-36 to meet growing demand from its Project Kuiper and commercial manifests.",
+        sourceUrl: "https://www.blueorigin.com",
+        timestamp: "2026-04-10T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "Tianlong-3 Failure Inquiry Under Way; Long March 8 Delivers 18 Qianfan Satellites",
+        body: "Space Pioneer's internal investigation into the April 3 Tianlong-3 maiden flight failure continues, with early analysis pointing to an anomaly roughly 33 seconds after liftoff from Jiuquan that caused the Falcon 9-class vehicle to deviate from its planned trajectory and fail to reach orbit. The setback marks China's third orbital launch failure of 2026 and is a significant blow to the commercial sector's ambitions, though Space Pioneer — which has raised approximately $764 million in total funding — says it is committed to a rapid return to flight. In more positive news, a Chang Zheng 8 rocket successfully deployed 18 Qianfan broadband satellites on April 7, continuing expansion of China's domestic satellite internet megaconstellation toward its planned 15,000-satellite network.",
+        sourceUrl: "https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/",
+        timestamp: "2026-04-10T04:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "SMILE Launch Window Extended to May 7 as Vega-C Component Inspection Continues",
+        body: "European launch provider Avio has confirmed that the Vega-C VV29 mission carrying the SMILE spacecraft remains on hold while engineers investigate a technical anomaly found in a subsystem component production line discovered after full rocket integration at Europe's Spaceport in French Guiana. The launch window has been extended through May 7, 2026, to allow sufficient time for inspections and verification before a new target date can be confirmed. SMILE — the Solar wind Magnetosphere Ionosphere Link Explorer, a joint mission between ESA and the Chinese Academy of Sciences — is designed to produce the first simultaneous global view of how Earth's magnetosphere responds to solar wind using a suite of soft X-ray and ultraviolet cameras alongside in-situ particle and magnetic field instruments.",
+        sourceUrl: "https://www.esa.int",
+        timestamp: "2026-04-10T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-08": {
     date: "April 8, 2026",
     stories: [
