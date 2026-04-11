@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-11": {
+    date: "April 11, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Lofts Cygnus XL S.S. Steven R. Nagel to ISS; Booster Nails Cape Canaveral Landing",
+        body: "A SpaceX Falcon 9 successfully launched Northrop Grumman's CRS-24 Cygnus XL cargo spacecraft at 7:41 a.m. EDT from Space Launch Complex 40 at Cape Canaveral Space Force Station, completing a mission that had slipped from April 10 after forecasted inclement weather forced a 24-hour delay. The Falcon 9 first stage — flying its seventh mission — executed a smooth return-to-launch-site landing at Cape Canaveral approximately eight minutes after liftoff. The Cygnus XL spacecraft, named S.S. Steven R. Nagel in honor of the late astronaut who flew four Space Shuttle missions, is delivering more than 11,000 pounds of science hardware and crew supplies to the International Space Station. Canadarm2 is expected to grapple the vehicle on Monday, April 13, before it is berthed at the Unity module's Earth-facing port.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/04/08/nasas-northrop-grumman-crs-24-mission-targets-april-11/",
+        timestamp: "2026-04-11T07:41:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Delayed Again to April 16 Ahead of Historic First Booster Reuse",
+        body: "Blue Origin has slipped the New Glenn NG-3 mission carrying AST SpaceMobile's BlueBird 7 satellite by two additional days to no earlier than April 16, the latest in a series of postponements since the mission first targeted an early-April window. The rocket sections remain in the integration bay and have not yet rolled to the pad at Space Launch Complex 36 at Cape Canaveral. NG-3 will mark the first reflight of a New Glenn first stage, reusing booster 'Never Tell Me The Odds' that landed successfully after delivering NASA's ESCAPADE Mars probes in November 2025. BlueBird 7's Block 2 design features a 2,400-square-foot communications array with ten times the bandwidth of Block 1 and peak speeds up to 120 Mbps, targeting direct smartphone connectivity from low Earth orbit.",
+        sourceUrl: "https://nationaltoday.com/us/fl/cape-canaveral/news/2026/04/10/blue-origin-delays-new-glenn-rocket-launch-by-two-days-1/",
+        timestamp: "2026-04-11T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Completes Second Integrated Air Drop Test for Gaganyaan Crew Module Parachute System",
+        body: "The Indian Space Research Organisation successfully conducted the second Integrated Air Drop Test (IADT-2) for the Gaganyaan crew module, releasing the capsule from altitude and triggering a ten-parachute deployment sequence that slowed the craft to a safe splashdown speed — validating the recovery system's ability to protect astronauts during re-entry emergencies. The test marks a crucial milestone in the human spaceflight programme ahead of the first uncrewed orbital demonstration mission, designated HLVM-3 G1/OM1, whose launch date announcement is now imminent. In parallel, a national expert committee continues its investigation into the January 2026 PSLV-C62 anomaly that stranded 16 satellites, with a technology demonstrator return-to-flight targeted no earlier than June.",
+        sourceUrl: "https://www.businesstoday.in/science/story/gaganyaan-mission-isro-completes-second-integrated-air-drop-test-what-it-means-525219-2026-04-11",
+        timestamp: "2026-04-11T06:30:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Exploration",
+        headline: "Tianwen-2 Asteroid Probe on Course for July Kamo'oalewa Rendezvous; Shenzhou-23 Crew Prep Advances",
+        body: "China's Tianwen-2 spacecraft remains on track to reach near-Earth asteroid Kamo'oalewa in July 2026, where it will photograph and eventually collect samples from the small body that astronomers suspect may be a fragment of the Moon. Mission teams confirmed nominal spacecraft health this week as the probe continues its interplanetary cruise. On the human spaceflight front, CNSA is advancing preparations for the Shenzhou-23 crew rotation mission to Tiangong later this year, which is expected to include the first astronaut from Pakistan — a milestone for China's programme of international collaboration aboard the station.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-04-11T04:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Schedules Pre-Ship Clean Room Views of FLEX, Sentinel-3C, and MTG-I2 Satellites",
+        body: "The European Space Agency has arranged a final clean room inspection of three upcoming Earth-observation spacecraft at Airbus facilities in Cannes on April 16 — the Fluorescence Explorer (FLEX), Sentinel-3C, and the Meteosat Third Generation Imager-2 (MTG-I2) — before the satellites are shipped to their respective launch sites. FLEX will be the world's first satellite dedicated to mapping chlorophyll fluorescence from orbit globally, providing critical data on vegetation health for climate and food-security science. Meanwhile, the SMILE solar-wind magnetosphere mission's Vega-C launch window remains open through May 7 as engineers continue verification work on a component production-line anomaly discovered after full rocket integration at Europe's Spaceport in Kourou.",
+        sourceUrl: "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/",
+        timestamp: "2026-04-11T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-10": {
     date: "April 10, 2026",
     stories: [
