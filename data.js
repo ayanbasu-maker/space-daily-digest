@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-12": {
+    date: "April 12, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Milestone",
+        headline: "World Marks Yuri's Night on 65th Anniversary of Gagarin's Flight and 45th Anniversary of STS-1",
+        body: "April 12 marks a double anniversary for human spaceflight: 65 years since Soviet cosmonaut Yuri Gagarin became the first human in space aboard Vostok 1 on April 12, 1961, and 45 years since the maiden flight of NASA's Space Shuttle Columbia on STS-1 in 1981. NASA is hosting Yuri's Night celebrations at the Kennedy Space Center Visitor Complex as part of the worldwide World Space Party, with astronaut appearances and after-hours access to the Space Shuttle Atlantis exhibit. The festivities come just two days after the historic return of the Artemis II crew, who set a new record for the farthest human journey from Earth — 252,756 miles — underscoring how far crewed spaceflight has advanced in 65 years.",
+        sourceUrl: "https://www.kennedyspacecenter.com/event/kennedy-under-the-stars-yuris-night-edition/",
+        timestamp: "2026-04-12T00:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Cargo",
+        headline: "Cygnus XL S.S. Steven R. Nagel Flies Free After Solar Array Deployment; ISS Berthing Set for Monday",
+        body: "NASA's Northrop Grumman CRS-24 Cygnus XL cargo spacecraft is in good health following Saturday's Falcon 9 launch, with both solar arrays successfully deployed and all systems confirmed nominal on approach to the International Space Station. ISS flight controllers have confirmed Canadarm2 will grapple the spacecraft at approximately 12:50 p.m. EDT on Monday, April 13, before berthing at the Unity module's Earth-facing common berthing port. The S.S. Steven R. Nagel is carrying over 11,000 pounds of science experiments, crew provisions, and hardware — the largest cargo load ever flown on a Cygnus vehicle — and will remain berthed at the station for approximately six months.",
+        sourceUrl: "https://news.quantosei.com/2026/04/12/spacex-launches-huge-cygnus-xl-cargo-ship-carrying-over-5-tons-of-supplies-to-iss-astronauts-video/",
+        timestamp: "2026-04-12T09:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Integrated New Glenn NG-3 Rocket Prepares for Static Fire Ahead of April 16 Launch Attempt",
+        body: "Blue Origin's fully integrated New Glenn NG-3 launch vehicle is preparing for a static fire test of its seven BE-4 engines at Space Launch Complex 36, Cape Canaveral — the final major verification step before its planned April 16 liftoff carrying AST SpaceMobile's BlueBird 7 broadband satellite. The flight will mark the first-ever reuse of a New Glenn first stage, reflying booster 'Never Tell Me The Odds' that previously launched NASA's ESCAPADE Mars probes in November 2025. A successful hotfire and clean vehicle review would lock in the April 16 target as Blue Origin presses toward its goal of more than a dozen New Glenn missions in 2026.",
+        sourceUrl: "https://www.eonmsk.com/2026/04/12/blue-origins-integrated-new-glenn-3-rocket-is-about-hotfire/",
+        timestamp: "2026-04-12T12:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Chairman Says Gaganyaan Uncrewed Launch Date Announcement Is Imminent",
+        body: "ISRO Chairman Dr. V. Narayanan confirmed that the agency is finalizing the launch date for the first uncrewed orbital demonstration of the Gaganyaan programme, with a public announcement expected within days. The mission — designated HLVM-3 G1/OM1 — will carry Vyommitra, ISRO's half-humanoid robot, to validate life-support and environmental control systems before a crewed flight planned no earlier than 2027. The statement follows ISRO's successful second Integrated Air Drop Test for the Gaganyaan crew module parachute recovery system, which was completed on April 11.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/04/isro-nears-announcement-of-first.html",
+        timestamp: "2026-04-12T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-21 Crew Nears Conclusion of Five-Month Tiangong Mission as Rotation Approaches",
+        body: "China's Shenzhou-21 crew — taikonauts Zhang Lu, Wu Fei, and Zhang Hongzhang — is approaching the end of their roughly six-month mission aboard the Tiangong space station, with a crew handover expected in late April or May 2026. The three crew members have conducted in-orbit experiments in space medicine, brain network dynamics, microgravity combustion science, and fluid physics over the past five months. CNSA is preparing the Shenzhou-22 spacecraft and its three-person crew for launch to execute a standard overlapping handover before the Shenzhou-21 vehicle returns to Earth.",
+        sourceUrl: "https://www.friendsofnasa.org/2026/04/shenzhou-21-crew-advances-space.html",
+        timestamp: "2026-04-12T04:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Sets April 16 Clean Room Preview for FLEX, Sentinel-3C, and MTG-I2 Ahead of Shipment to Launch Sites",
+        body: "The European Space Agency has scheduled a media clean room inspection on April 16 at Airbus facilities in Cannes for three upcoming Earth-observation spacecraft — the Fluorescence Explorer (FLEX), Sentinel-3C, and Meteosat Third Generation Imager-2 — before each is shipped to its respective launch site. FLEX will be the world's first satellite dedicated to mapping vegetation fluorescence globally from orbit, providing vital data for monitoring crop health, ecosystem productivity, and the global carbon cycle. Separately, the Vega-C VV29 launch carrying the joint ESA–CAS SMILE solar wind mission remains on hold with a window open through May 7, pending completion of a supplier component inspection triggered after full rocket integration.",
+        sourceUrl: "https://spacepolicyonline.com/news/whats-happening-in-space-policy-april-5-11-2026/",
+        timestamp: "2026-04-12T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-11": {
     date: "April 11, 2026",
     stories: [
