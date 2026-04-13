@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-13": {
+    date: "April 13, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Cargo",
+        headline: "Cygnus NG-24 S.S. Steven R. Nagel Berthed at ISS, Delivering Record 11,000-Pound Cargo Load to Expedition 74",
+        body: "Astronaut Jack Hathaway used Canadarm2 to grapple Northrop Grumman's Cygnus XL cargo spacecraft at 12:50 p.m. EDT Monday, completing the ISS rendezvous two days after its April 11 Falcon 9 launch, while Mission Specialist Chris Williams monitored the approach. Flight controllers then directed the S.S. Steven R. Nagel to its berth at the Unity module's Earth-facing common berthing port, securing the largest cargo load ever flown on a Cygnus — more than 11,000 pounds, including 1,075 kg of science experiments spanning biology, fluid physics, and materials research. The spacecraft will remain attached to the station for approximately six months to support Expedition 74 research operations before departing for a destructive reentry.",
+        sourceUrl: "https://spacepolicyonline.com/events/northrop-grummans-cygnus-24-arrives-at-iss-apr-13-2026-earth-orbit-1250-pm-et-nasa-coverage-begins-1200-pm-et/",
+        timestamp: "2026-04-13T16:50:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "Starship Flight 12 Slips to May as FAA Probe Continues and Full 33-Engine Static Fire Remains Pending",
+        body: "SpaceX's Starship IFT-12 has slipped from a late-April target to early May, driven by an ongoing FAA mishap investigation following a Flight 11 anomaly and a rapid unscheduled disassembly of a Starship component at Starbase on April 6. The debut V3 configuration featuring upgraded Raptor 3 engines makes IFT-12 the most significant iteration yet, and a full 33-engine static fire of Super Heavy Booster 19 — whose 10-engine test in March ended early on a ground-side issue — remains the final major pre-flight milestone. SpaceX continues parallel testing of Booster 19 and Ship 39 while working with the FAA toward a new confirmed flight date.",
+        sourceUrl: "https://www.basenor.com/blogs/news/starship-ift-12-delayed-to-may-what-the-v3-upgrade-means",
+        timestamp: "2026-04-13T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Completes Successful 7-Engine Hotfire at SLC-36, Clearing Path to April 16 Liftoff",
+        body: "Blue Origin confirmed a successful static fire of its fully integrated New Glenn NG-3 vehicle at Space Launch Complex 36, Cape Canaveral, with all seven BE-4 engines performing nominally during a 38-second test that included 22 seconds at full 100-percent thrust. The hotfire clears the final major ground verification milestone before the rocket's planned April 16 launch carrying AST SpaceMobile's BlueBird 7 broadband satellite — the Block 2 design with a 2,400-square-foot communications array and peak speeds up to 120 Mbps. NG-3 will also mark the first-ever reflight of a New Glenn first-stage booster, with 'Never Tell Me The Odds' — which landed after the November 2025 ESCAPADE mission — set to make history again pending a clean vehicle review and favorable weather.",
+        sourceUrl: "https://www.blueorigin.com/news/new-glenn-completes-integrated-launch-vehicle-hotfire",
+        timestamp: "2026-04-13T18:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Education",
+        headline: "ISRO Publishes YUVIKA 2026 First Selection List, Opening Space Science Residency for India's Top Class 9 Students",
+        body: "The Indian Space Research Organisation released the first selection list for its YUVIKA (YUva VIgyani KAryakram) 2026 programme on April 13, identifying Class 9 students from across India who will attend a fully-funded two-week residential workshop in space technology, satellite applications, and rocketry at ISRO national facilities. A second confirmation list will follow on April 20 to fill any remaining vacancies, with residential sessions expected to run through the summer. ISRO's educational outreach push accompanies intensifying preparations for the Gaganyaan programme — whose uncrewed orbital demonstration launch date announcement is described as imminent — as the agency seeks to inspire the next generation of Indian space scientists.",
+        sourceUrl: "https://www.isro.gov.in/media_isro/pdf/YUVIKA_2026_Selection_List_Publication.pdf",
+        timestamp: "2026-04-13T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA-CAS SMILE Solar Wind Mission Launch Remains Postponed After Vega-C Component Anomaly; New Date Pending",
+        body: "ESA confirmed that the joint ESA–Chinese Academy of Sciences SMILE (Solar Wind Magnetosphere Ionosphere Link Explorer) mission will not launch on its planned April 9 date after a technical anomaly was identified in a subsystem component production line following full Vega-C VV29 rocket integration at Europe's Spaceport in Kourou. Engineers continue work to resolve the issue, with a new launch date still to be confirmed and the available window open through May 7; SMILE will fly to a highly elliptical orbit to image Earth's magnetosphere and study how it responds to the solar wind. Separately, ESA has scheduled an April 16 clean room inspection at Airbus in Cannes for three upcoming Earth-observation missions — the Fluorescence Explorer (FLEX), Sentinel-3C, and Meteosat Third Generation Imager-2 — ahead of their shipments to launch sites.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live",
+        timestamp: "2026-04-13T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-12": {
     date: "April 12, 2026",
     stories: [
