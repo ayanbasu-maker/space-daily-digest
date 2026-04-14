@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-14": {
+    date: "April 14, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Artemis II Crew Postflight News Conference Set for April 16 at JSC as Wiseman, Glover, Koch, and Hansen Decompress in Houston",
+        body: "NASA has announced that the four Artemis II astronauts — commander Reid Wiseman, pilot Victor Glover, and mission specialists Christina Koch and Jeremy Hansen — will hold a postflight news conference at 2:30 p.m. EDT Thursday, April 16, at Johnson Space Center in Houston, offering the crew's first public reflections on their historic lunar journey. The crew launched April 1 aboard Orion atop the Space Launch System, flew around the Moon, and splashed down off San Diego on April 10 after a nearly 10-day mission that set a new record for the farthest human journey from Earth at 252,756 miles — the farthest humans have traveled from Earth since Apollo 17 in 1972. Mission objectives included testing Orion's life-support systems, manual piloting exercises, and unprecedented views of the lunar far side before the vehicle's safe re-entry and recovery. The crew returned to Houston on April 11 and has since completed initial post-flight medical evaluations.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+        timestamp: "2026-04-14T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Crosses 1,000 Starlink Satellites Launched in 2026 with Early-Morning Falcon 9 Mission from Cape Canaveral",
+        body: "A SpaceX Falcon 9 lifted off at 5:33 a.m. EDT Tuesday from Cape Canaveral Space Force Station on the Starlink 10-24 mission, deploying 29 broadband satellites and pushing SpaceX's 2026 Starlink launch tally past 1,000 satellites in just over three months — a pace of roughly one Falcon 9 mission every 2.3 days. Booster B1080, flying its 21st flight, executed a routine landing on drone ship 'Just Read the Instructions' in the Atlantic Ocean, marking the 598th booster recovery in SpaceX history. The milestone follows SpaceX surpassing 10,000 simultaneous active Starlink satellites in orbit on March 17; the constellation now stands at more than 10,168 operational satellites serving over 10 million customers worldwide at median download speeds around 170 Mbps.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/14/live-coverage-spacex-to-launch-1000th-starlink-satellite-of-2026-on-falcon-9-rocket-from-cape-canaveral/",
+        timestamp: "2026-04-14T09:33:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Slips to NET April 17 After Additional Vehicle Reviews; 'Never Tell Me The Odds' Stands Ready for Historic Booster Reuse",
+        body: "Blue Origin has moved the New Glenn NG-3 launch window to no earlier than April 17, a two-day slip from the previously targeted April 15 date driven by additional vehicle checks after the rocket completed a successful 7-engine static fire and rolled to Space Launch Complex 36 at Cape Canaveral. The flight will mark the first-ever reuse of a New Glenn first-stage booster, reflying 'Never Tell Me The Odds' — which successfully landed after delivering NASA's ESCAPADE Mars probes in November 2025 — setting up a potential second consecutive booster landing. Payload BlueBird 7, a next-generation Block 2 broadband satellite for AST SpaceMobile featuring a 2,400-square-foot communications array and peak speeds up to 120 Mbps, will be placed into low Earth orbit to support direct-to-smartphone coverage.",
+        sourceUrl: "https://www.nextbigfuture.com/2026/04/third-blue-origin-new-glenn-launch-delayed-until-april-17-2026.html",
+        timestamp: "2026-04-14T16:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-23 Launch Approaches as Tiangong's Shenzhou-21 Taikonauts Complete Final Biomedical Research Sessions",
+        body: "China's Shenzhou-21 crew — taikonauts Zhang Lu, Wu Fei, and Zhang Hongzhang — are completing their final weeks of experiments aboard Tiangong, including Raman spectrometry analysis of urine metabolites and blood sample collections for bone metabolism studies, ahead of their imminent return to Earth. CNSA is finalizing preparations for the Shenzhou-23 spacecraft, whose late-April launch will be the 11th crewed mission to Tiangong and will include one crew member planned for a full-year stay aboard the station. The extended stay is designed to bridge the Shenzhou-24 mission, which is expected to carry a Pakistani guest astronaut to Tiangong in October 2026 as part of China's international collaboration programme.",
+        sourceUrl: "https://www.china-in-space.com/p/shenzhou-21-crew-begin-last-month",
+        timestamp: "2026-04-14T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Opens Cannes Clean Room for FLEX, Sentinel-3C, and MTG-I2 Pre-Shipment Preview on April 16 as SMILE Window Narrows",
+        body: "The European Space Agency will host a media clean room inspection on April 16 at Airbus facilities in Cannes for three upcoming Earth-observation spacecraft — the Fluorescence Explorer (FLEX), Sentinel-3C, and Meteosat Third Generation Imager-2 — before each is shipped to its respective launch site in the coming weeks. FLEX will be the world's first satellite dedicated to globally mapping vegetation fluorescence from orbit, providing critical data on photosynthesis rates, crop productivity, and the terrestrial carbon cycle as part of ESA's Earth Explorer programme. Meanwhile, the Vega-C VV29 launch carrying the joint ESA–Chinese Academy of Sciences SMILE solar wind magnetosphere mission remains postponed following a component production-line anomaly discovered post-integration, with the available launch window closing May 7.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-04-14T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-13": {
     date: "April 13, 2026",
     stories: [
