@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-15": {
+    date: "April 15, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Artemis II Crew Gears Up for April 16 Postflight Press Conference as 'Earthset' Photo Draws Global Attention",
+        body: "The four Artemis II astronauts — commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and CSA astronaut Jeremy Hansen — are set to hold their first postflight news conference at 2:30 p.m. EDT tomorrow, April 16, at NASA's Johnson Space Center in Houston, where they will publicly reflect on the historic nearly 10-day lunar mission that returned humans to the Moon's vicinity for the first time since Apollo 17. Meanwhile, a striking 'Earthset' photograph captured by the crew during their lunar flyby is drawing widespread comparisons to NASA's iconic 1968 'Earthrise' image, with planetary scientists noting the newer shot's sharper resolution and the emotional resonance of seeing Earth sink below the lunar horizon from a crewed spacecraft. The Orion capsule splashed down off San Diego on April 10 after setting a new record for the farthest human distance from Earth at 252,756 miles, and all four astronauts have cleared initial post-flight medical evaluations.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+        timestamp: "2026-04-15T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Completes Back-to-Back Falcon 9 Launches 19 Hours Apart, Deploying 54 Starlink Satellites from Both Coasts",
+        body: "SpaceX capped a busy 24-hour period by launching Falcon 9 on the Starlink 17-27 mission from Vandenberg Space Force Base at 9:29:49 p.m. PDT Tuesday (04:29 UTC Wednesday), deploying 25 V2 Mini Optimized Starlink satellites into polar low Earth orbit and marking the company's 47th Falcon family launch of 2026. The West Coast liftoff came just 19 hours after Monday morning's Starlink 10-24 mission from Cape Canaveral delivered 29 satellites and pushed SpaceX's 2026 Starlink tally past 1,000 — a feat accomplished in fewer than 105 days. Booster B1082 executed a successful return landing on drone ship 'Of Course I Still Love You' in the Pacific, extending SpaceX's consecutive landing streak and demonstrating the operational tempo the company says is essential for closing remaining gaps in Starlink's global coverage.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/15/west-coast-spacex-falcon-9-mission-to-launch-25-starlink-satellites/",
+        timestamp: "2026-04-15T04:30:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Targeting April 17 Launch Window as 'Never Tell Me The Odds' Prepares for Historic First Booster Reuse",
+        body: "Blue Origin confirmed a no-earlier-than April 17 launch target for New Glenn NG-3 from Space Launch Complex 36 at Cape Canaveral, with a two-hour window opening at 6:45 a.m. EDT, following final vehicle reviews that extended the slip from the previously planned April 15 date. The mission will attempt the first-ever reuse of a New Glenn first-stage booster — 'Never Tell Me The Odds,' which successfully landed after the November 2025 ESCAPADE mission — a milestone that would validate the rocket's economic model and accelerate Blue Origin's goal of 12 or more New Glenn launches in 2026. Payload BlueBird 7, an AST SpaceMobile Block 2 broadband satellite with a 2,400-square-foot communications array, will be placed into low Earth orbit to expand the company's direct-to-smartphone service.",
+        sourceUrl: "https://spacecoastdaily.com/2026/04/blue-origins-new-glenn-3-set-to-launch-ast-spacemobile-satellite-friday-morning/",
+        timestamp: "2026-04-15T14:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Confirms IADT-02 Parachute Recovery Test a Full Success as Agency Announces Joint ESA Heliophysics Workshop",
+        body: "ISRO released its full technical assessment of the April 10 second Integrated Air Drop Test (IADT-02) for the Gaganyaan programme, confirming that a 5.7-tonne simulated crew module released from an IAF Chinook helicopter deployed all 10 parachutes in the correct sequence and descended to a safe splashdown velocity — the highest-fidelity crew recovery simulation conducted to date, matching the mass profile of the first uncrewed orbital flight. The agency also announced a joint workshop with the European Space Agency focusing on coordinated heliophysics science using data from the Aditya-L1 solar observatory, ESA's Solar Orbiter, and ESA's Proba-3 formation-flying coronagraph mission, underlining the growing partnership between India's and Europe's space science communities. ISRO said remaining Gaganyaan milestones ahead of the uncrewed orbital demonstration include completing abort system qualification and crew module propulsion verification.",
+        sourceUrl: "https://www.isro.gov.in/ISRO_conducts_Second_Integrated_Air_Drop_Test_for_Gaganyaan.html",
+        timestamp: "2026-04-15T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Schedules Cannes Clean Room Preview for FLEX, Sentinel-3C, and MTG-I2 Ahead of Shipments as SMILE Window Tightens",
+        body: "The European Space Agency has organised a media clean room inspection for tomorrow, April 16, at Airbus facilities in Cannes, where journalists will get a rare look at three upcoming Earth-observation spacecraft — the Fluorescence Explorer (FLEX), Sentinel-3C, and Meteosat Third Generation Imager-2 — before each vehicle is shipped to its respective launch site in coming weeks. FLEX, the world's first satellite designed to globally map vegetation fluorescence, will deliver critical data on photosynthesis rates and terrestrial carbon cycling as part of ESA's Earth Explorer programme; Sentinel-3C continues the Copernicus ocean and land monitoring constellation; and MTG-I2 is the second imaging satellite in Europe's next-generation geostationary weather system. Meanwhile, the Vega-C VV29 rocket carrying the joint ESA–CAS SMILE solar-wind mission remains grounded by a component production-line anomaly, with the available launch window closing May 7 and a new date still to be determined.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-04-15T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Tiangong Station Sustains Full Crew Operations as Shenzhou-23 Launch Preparations Enter Final Phase",
+        body: "China's Tiangong space station continues around-the-clock operations with the Shenzhou-21 crew — taikonauts Zhang Lu, Wu Fei, and Zhang Hongzhang — conducting experiments in biology, fluid physics, and materials science in preparation for handover to the incoming Shenzhou-23 crew, whose late-April launch is now entering final vehicle integration checks. CMSA confirmed that development of major Shenzhou-23 flight products is on schedule and that one crew member is designated for a full-year long-duration stay aboard Tiangong to bridge toward the Shenzhou-24 mission later in 2026, which is expected to carry a Pakistani payload specialist as part of China's expanding international collaboration programme. Progress on the Long March-10 heavy launcher and the Mengzhou crewed lunar spacecraft — key elements of China's plan to land taikonauts on the Moon before 2030 — was described as advancing smoothly following a series of major ground tests.",
+        sourceUrl: "https://www.globaltimes.cn/page/202602/1355831.shtml",
+        timestamp: "2026-04-15T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-14": {
     date: "April 14, 2026",
     stories: [
