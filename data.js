@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-16": {
+    date: "April 16, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Artemis II Crew Holds First Postflight Press Conference at JSC, Calls Moon Voyage 'The Most Special Thing That Will Ever Happen in My Life'",
+        body: "The four Artemis II astronauts — commander Reid Wiseman, pilot Victor Glover, mission specialist Christina Koch, and CSA astronaut Jeremy Hansen — held their first postflight news conference at 2:30 p.m. EDT at NASA's Johnson Space Center in Houston, publicly reflecting for the first time on their historic nearly 10-day mission that sent humans to the Moon's vicinity for the first time since Apollo 17 in 1972. The crew discussed achieving the mission's primary objectives, including successfully testing Orion's life-support systems, manually piloting the spacecraft, executing trajectory maneuvers, and capturing unprecedented imagery of the Moon's far side during the record-setting 252,756-mile flyby. One crew member described the experience as 'the most special thing that will ever happen in my life,' and the quartet spoke candidly about the emotional weight of looking back at Earth from deep space. NASA confirmed the press conference was livestreamed on NASA+ and that the crew has cleared all post-flight medical evaluations following their April 10 splashdown off San Diego.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+        timestamp: "2026-04-16T18:30:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Keeps Up Relentless 2026 Cadence with Starlink Mission from Kennedy Space Center as Back-to-Back Launches Bookend the Week",
+        body: "SpaceX conducted another Starlink satellite deployment from Launch Complex 39A at Kennedy Space Center on April 16, extending the company's extraordinary 2026 launch tempo that saw two Falcon 9 missions fly from both US coasts just 19 hours apart earlier this week. The April 14 and April 15 missions delivered a combined 54 satellites and pushed SpaceX's 2026 total well past 1,000 Starlink satellites — a benchmark the company crossed for the first time in under 105 days. The back-to-back pace underscores SpaceX's goal of continuous Starlink constellation expansion as it closes remaining polar and mid-latitude coverage gaps and works toward full global service availability for maritime and aviation customers requiring the highest-tier performance tiers.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-04-16T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Slips One Final Day to April 17 as FAA Lists 6:45 a.m. EDT Opening for Historic Booster Reuse Attempt",
+        body: "Blue Origin confirmed a no-earlier-than April 17 liftoff for New Glenn NG-3, after an additional day of vehicle reviews nudged the mission past its April 16 target at Space Launch Complex 36 at Cape Canaveral; the FAA listed a two-hour window opening at 6:45 a.m. EDT extending to 12:19 p.m. EDT. The mission carries AST SpaceMobile's BlueBird 7 Block 2 broadband satellite — featuring a 2,400-square-foot communications array with ten times the bandwidth of Block 1 and peak speeds up to 120 Mbps — and, critically, will attempt the first-ever reflown New Glenn first-stage booster, reusing 'Never Tell Me The Odds' that landed successfully after the November 2025 ESCAPADE mission. A successful launch and second booster recovery would validate New Glenn's full reusability business model and accelerate Blue Origin's path to its goal of 12 or more flights in 2026.",
+        sourceUrl: "https://aviationweek.com/space/operations-safety/blue-origin-targeting-april-16-new-glenn-flight-3",
+        timestamp: "2026-04-16T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Opens Cannes Clean Room for Last Public View of FLEX, Sentinel-3C, and MTG-I2 Before Shipment to Launch Sites",
+        body: "The European Space Agency hosted a media clean room inspection at Thales Alenia Space facilities in Cannes today, offering the final opportunity to see three major upcoming Earth-observation satellites — the Fluorescence Explorer (FLEX), Sentinel-3C, and Meteosat Third Generation Imager-2 (MTG-I2) — before each spacecraft is shipped to its respective launch site in the coming weeks. FLEX, developed under ESA's Earth Explorer programme and designed to fly in tandem with Sentinel-3, will be the world's first satellite dedicated to globally mapping chlorophyll fluorescence from orbit, providing vital data on photosynthesis rates, crop health, and the terrestrial carbon cycle that scientists say is critical for both climate models and food-security monitoring. MTG-I2 continues Europe's next-generation geostationary weather observing system, while Sentinel-3C extends the Copernicus ocean and land monitoring constellation; together the three missions represent the next wave of European Earth science capability for the decade ahead.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-04-16T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-23 Crew Rotation Enters Final Integration Phase as CMSA Confirms Year-Long Stay for One Taikonaut",
+        body: "China Manned Space Agency confirmed that Shenzhou-23 has entered its final vehicle integration and crew readiness phase ahead of a late-April launch to Tiangong, which will relieve the outgoing Shenzhou-21 crew of taikonauts Zhang Lu, Wu Fei, and Zhang Hongzhang after their six-month expedition. CMSA also confirmed that one member of the Shenzhou-23 crew is designated for a full year-long stay aboard the station — the first such extended tour in the Chinese program — to provide continuity between Shenzhou-23 and the Shenzhou-24 mission planned for October 2026, which is expected to carry a Pakistani payload specialist as part of China's expanding international collaboration programme. The Tiangong station continues to operate with full crew productivity, with ongoing experiments in space medicine, brain network dynamics, microgravity combustion science, and materials research.",
+        sourceUrl: "https://en.cmse.gov.cn/",
+        timestamp: "2026-04-16T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Formally Schedules Gaganyaan-1 Uncrewed Orbital Demo for Second Half of 2026 as Agency Joint Heliophysics Workshop Opens with ESA",
+        body: "ISRO officially confirmed that Gaganyaan-1 — the first uncrewed orbital demonstration of India's human spaceflight programme, carrying the Vyommitra half-humanoid robot — is scheduled for the second half of 2026, with the crewed mission now targeting 2027 following additional schedule refinements. The announcement comes after recent key milestones including the successful second Integrated Air Drop Test of the Gaganyaan crew module parachute recovery system on April 10 and earlier qualification of the CE20 cryogenic engine for the human-rated LVM3 rocket. Separately, ISRO opened a joint heliophysics workshop with the European Space Agency today to coordinate science from the Aditya-L1 solar observatory, ESA's Solar Orbiter, and Proba-3 formation-flying coronagraph, deepening a collaboration that both agencies say will accelerate understanding of space weather phenomena affecting satellite operations and crewed missions.",
+        sourceUrl: "https://www.isro.gov.in/Gaganyaan.html",
+        timestamp: "2026-04-16T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-15": {
     date: "April 15, 2026",
     stories: [
