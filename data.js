@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-17": {
+    date: "April 17, 2026",
+    stories: [
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn NG-3 Slips 48 Hours to April 19 as Solar Storm Activity Triggers Precautionary Launch Window Review",
+        body: "Blue Origin has shifted the New Glenn NG-3 launch window to no earlier than Sunday, April 19, with a two-hour window opening at 6:45 a.m. EDT, after elevated solar storm activity prompted a precautionary review that caused the team to stand down from the April 17 window at Space Launch Complex 36 at Cape Canaveral — a setback that nonetheless leaves the mission firmly on track for the weekend. The slip comes one day after the successful April 16 hot fire of the NG-3 booster 'Never Tell Me The Odds,' the first previously-flown New Glenn first stage ever to be tested and reflown, which performed nominally across all seven BE-4 engines during the static fire — the final major pre-launch milestone. The Blue Origin team closely monitors space weather conditions before every launch due to potential effects on satellite electronics, and the G1-level geomagnetic storm watch issued for April 17 by NOAA's Space Weather Prediction Center — driven by a fast solar wind stream from a coronal hole — was sufficient to prompt the additional review period before clearing the rocket and its AST SpaceMobile BlueBird 7 payload for flight. A successful April 19 launch and second recovery of 'Never Tell Me The Odds' would validate New Glenn's full reuse business model and mark the first time any New Glenn booster has flown twice.",
+        sourceUrl: "https://www.techi.com/blue-origin-new-glenn-launch-delay-solar-storms/",
+        timestamp: "2026-04-17T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "Starship V3 IFT-12 Clears April Milestone Checklist Items at Starbase as May Launch Window Firms Up",
+        body: "SpaceX engineers confirmed on April 17 that both Super Heavy Booster 19 and Starship Ship 39 — the vehicles assigned to Starship's inaugural V3 configuration test flight — are actively progressing through pre-flight checklist items at Starbase in Boca Chica, Texas, with completion of key verification tasks continuing to clear the path toward a May 2026 launch target. Booster 19, powered by 33 next-generation Raptor 3 engines delivering approximately 280 tonnes of thrust each with dramatically simplified external plumbing compared to Raptor 2, successfully completed a partial-engine static fire in March and has been working through remaining certification tasks; Ship 39's upper stage engine bay has completed its own standalone test series at Massey's Test Site. The flight remains contingent on the FAA closing its mishap investigation into a Rapid Unscheduled Disassembly incident observed at Starbase on April 6, as well as regulatory approval of the Flight 12 license amendment. IFT-12 will be the most significant Starship test yet, flying the fully redesigned V3 architecture with taller vehicle dimensions, increased propellant capacity, and upgraded heat shield tiles — a critical stepping stone toward SpaceX's Artemis III Human Landing System obligations and eventual Mars mission architecture.",
+        sourceUrl: "https://www.basenor.com/blogs/news/starship-testing-resumes-v3-and-ift-12-are-coming-fast",
+        timestamp: "2026-04-17T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA JPL Tracks Safe Flyby of Airplane-Sized Asteroid 2026 GA1 as Comet C/2025 R3 Approaches Prime Pre-Dawn Viewing Window",
+        body: "NASA's Jet Propulsion Laboratory confirmed that asteroid 2026 GA1, a rocky body approximately 89 feet (27 meters) in diameter — roughly the size of a commercial aircraft — made its closest Earth approach today, April 17, passing at a safe distance of 826,000 miles, more than three times the lunar distance, with orbital models confirming zero impact risk at all points during the approach. The Asteroid Watch team at JPL's Center for Near Earth Object Studies tracked the object through the flyby, consistent with the agency's ongoing mandate to catalog and characterize near-Earth objects that pass within 4.65 million miles of Earth. Separately, NASA's April 2026 skywatching advisory highlights Comet C/2025 R3 (PanSTARRS) — discovered by the Pan-STARRS survey telescope in September 2025 and estimated to orbit the Sun once every 170,000 years — as entering its best pre-dawn viewing window this week ahead of perihelion on April 19; JPL scientists project the comet may reach naked-eye visibility at around magnitude 3.5 in an optimistic scenario, though comet brightness remains notoriously difficult to predict, and April 17 represents one of the final pre-perihelion mornings to observe it rising low in the eastern sky before sunrise.",
+        sourceUrl: "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/",
+        timestamp: "2026-04-17T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "CNSA Announces Chang'e-7 and Chang'e-8 Open to Partners from 17 Nations as Agency Steps Up Global Collaboration Ahead of Space Day",
+        body: "At a pre–Space Day press conference in Beijing on April 17, CNSA officials outlined an expanded international cooperation agenda for 2026 and beyond, confirming that China's upcoming Chang'e-7 lunar polar mission — expected to launch in the second half of 2026 — will carry six scientific payloads contributed by Egypt, Bahrain, Italy, Russia, Switzerland, and Thailand, making it the most internationally collaborative Chinese lunar mission to date. Officials also confirmed that the later Chang'e-8 mission, targeting approximately 2029, has received instrument contributions from 11 countries and regions spanning Asia, Europe, Africa, and South America, representing a major shift in China's deep-space science strategy toward multilateral partnerships. The International Lunar Research Station, China's proposed multinational lunar base program, now counts 17 member nations and more than 50 international research institutions, and Brazil was announced as guest of honor for China's National Space Day on April 24 — the 56th anniversary of the launch of China's first satellite, Dongfanghong-1 — with the two nations deepening collaboration on the planned CBERS-06 Earth observation satellite. The announcements underscore CNSA's strategy of building a parallel international coalition to NASA's Artemis program ahead of both nations' stated goals of landing humans on the Moon before 2030.",
+        sourceUrl: "https://english.news.cn/20260417/ef12ae2fe0884354ba6143c60cf066bf/c.html",
+        timestamp: "2026-04-17T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Clears FLEX, Sentinel-3C, and MTG-I2 for Launch-Site Shipment After Cannes Inspection as SMILE Window Countdown Tightens",
+        body: "Following yesterday's media clean room inspection at Thales Alenia Space facilities in Cannes, ESA confirmed on April 17 that the Fluorescence Explorer (FLEX), Sentinel-3C, and Meteosat Third Generation Imager-2 have each passed their pre-shipment readiness reviews and are cleared to proceed to their respective launch sites in the coming weeks. FLEX — the world's first satellite dedicated to globally mapping chlorophyll fluorescence from orbit, providing a direct proxy for photosynthesis rates, crop stress, and terrestrial carbon uptake at 300-meter resolution — drew particular attention during the inspection to its innovative FLORIS spectrometer, which can distinguish plant fluorescence from reflected sunlight, a technically demanding measurement no previous mission has attempted from orbit, and which scientists say will provide revolutionary data for climate models and global food-security monitoring. MTG-I2 will continue Europe's next-generation geostationary weather observing system, while Sentinel-3C extends the Copernicus ocean and land monitoring constellation that serves hundreds of millions of users worldwide; together the three missions represent the next wave of European Earth science capability. Separately, ESA engineers said on April 17 that anomaly-resolution work with the Italian component supplier for the Vega-C VV29 SMILE launch is proceeding with 'increased urgency' as the available window extending through May 7 narrows — raising the stakes for a prompt return to flight of the Vega-C rocket.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-04-17T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-16": {
     date: "April 16, 2026",
     stories: [
