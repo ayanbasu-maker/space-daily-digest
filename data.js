@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-18": {
+    date: "April 18, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Achieves Historic 600th Falcon Booster Recovery as Record-Setting B1071 Completes 33rd Flight on West Coast Starlink Mission",
+        body: "A SpaceX Falcon 9 rocket lifted off from Vandenberg Space Force Base carrying 25 Starlink V2 Mini Optimized satellites on the Starlink 17-22 mission, with first stage booster B1071 — the most-flown Falcon 9 booster in history — flying for a record 33rd time before landing aboard drone ship 'Of Course I Still Love You' in the Pacific Ocean to claim SpaceX's 600th Falcon booster recovery overall. The milestone, achieved less than eleven years after the first-ever Falcon 9 landing in December 2015, reflects the profound economic transformation reusability has brought to the launch industry, with SpaceX now routinely recovering and reflying boosters at a pace unimaginable a decade ago. The 25 new satellites join a Starlink constellation that now exceeds 10,200 spacecraft in low Earth orbit, continuing SpaceX's drive toward complete global coverage for maritime, aviation, and residential customers.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
+        timestamp: "2026-04-18T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "CNSA Publishes 2026 Mission Manifest: Tianwen-2 Asteroid Approach, Shenzhou-23 Crew Rotation, and Reusable Rocket Debut Flights Confirmed",
+        body: "China's National Space Administration on April 18 outlined its intensive 2026 mission schedule, confirming that the Tianwen-2 probe — en route to near-Earth asteroid 2016 HO3 (Kamoʻoalewa) — will conduct its critical close-approach observation phase this year, validating China's first asteroid sample-return architecture before the spacecraft continues on to comet 311P in the 2030s. The agency confirmed Shenzhou-23 will rotate the Tiangong space station crew later in 2026 and that flight verification tests of multiple new commercial reusable rockets are scheduled, reflecting China's rapidly maturing launch industry that conducted a record 92 missions in 2025. The China-Europe SMILE satellite, a joint CNSA-ESA mission to study solar wind interactions with Earth's magnetosphere, also remains on the 2026 launch manifest.",
+        sourceUrl: "http://en.people.cn/n3/2026/0418/c90000-20447930.html",
+        timestamp: "2026-04-18T06:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "U.S. Space Force Selects Blue Origin for Vandenberg SLC-14 Lease as New Glenn Gains West Coast Polar-Orbit Launch Capability",
+        body: "The U.S. Space Force announced the selection of Blue Origin to enter final lease negotiations for Space Launch Complex 14 at Vandenberg Space Force Base, formalizing the company's path to a West Coast New Glenn launch facility that will provide direct access to polar and sun-synchronous orbits critical for national security satellite missions. The currently undeveloped SLC-14 site will require safety assessments, environmental impact analysis, and substantial infrastructure construction before New Glenn can fly from California — a process estimated to take approximately two years — but the agreement is a major strategic expansion beyond Blue Origin's existing Cape Canaveral operations. Separately, New Glenn's NG-3 mission with AST SpaceMobile's BlueBird 7 satellite remains on track for a Sunday April 19 launch after a solar-storm-induced stand-down on April 17.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/15/blue-origin-one-step-closer-to-launching-new-glenn-from-vandenberg-space-force-base/",
+        timestamp: "2026-04-18T16:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO Commits to October 2027 Chandrayaan-4 Sample Return, March 2028 Venus Orbiter, and December 2028 Space Station Module in Parliamentary Roadmap",
+        body: "ISRO's Parliamentary Standing Committee report has confirmed firm timelines for India's next major space endeavors: Chandrayaan-4, a lunar sample-return mission targeting Shiv Shakti Point near the south pole, is set for October 2027; the Shukrayaan-1 Venus orbiter, designed to map the planet's surface at high resolution and study its dense atmosphere, follows in March 2028. The first module of India's Bharatiya Antariksh Station (BAS-1) is planned for launch to low Earth orbit in December 2028, with the full station targeted for completion by 2035. The report also acknowledged continuing delays to the Gaganyaan human spaceflight program — the first uncrewed test, originally slated for early 2026, was postponed following the PSLV-C62 failure — with ISRO citing the exceptional care required for human-rated hardware certification.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/04/isro-sets-ambitious-timelines-for-lunar.html",
+        timestamp: "2026-04-18T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA JPL Monitors Two Asteroid Flybys April 18, Including 280-Foot Space Rock 2026 GM1 Passing at Safe Distance",
+        body: "NASA's Jet Propulsion Laboratory tracked two separate asteroid close-approach events on April 18, with the primary object being asteroid 2026 GM1 — approximately 280 feet (85 meters) across, roughly the size of a 25-story building — passing Earth at a safe distance with JPL's Center for Near Earth Object Studies confirming zero impact probability throughout its trajectory. A second asteroid, 2026 FJ6, also made a close approach on the same day, illustrating the frequency with which near-Earth objects transit the inner solar system. The dual flyby highlights the ongoing value of NASA's planetary defense survey programs, which have now catalogued more than 35,000 near-Earth asteroids and continue to monitor all objects passing within 4.65 million miles of Earth.",
+        sourceUrl: "https://www.jpl.nasa.gov/asteroid-watch/next-five-approaches/",
+        timestamp: "2026-04-18T12:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-17": {
     date: "April 17, 2026",
     stories: [
