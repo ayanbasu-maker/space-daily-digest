@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-19": {
+    date: "April 19, 2026",
+    stories: [
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin Makes History with First New Glenn Booster Reuse as NG-3 Delivers AST SpaceMobile's BlueBird 7 to Orbit",
+        body: "Blue Origin's New Glenn rocket lifted off from Launch Complex 36 at Cape Canaveral at 7:25 a.m. EDT on Sunday, successfully delivering AST SpaceMobile's BlueBird 7 direct-to-cellphone satellite to low Earth orbit while simultaneously making history as first stage booster 'Never Tell Me The Odds' — the same core flown on NG-2 in November 2025 — became the first New Glenn booster ever to be reflown, touching down on a barge in the Atlantic Ocean at 7:35 a.m. The milestone validates Blue Origin's reusability architecture and marks a pivotal step in the company's drive to compete with SpaceX, which has built its launch business on routine booster recovery and reuse since 2015. NG-2's booster had previously carried NASA's twin Escapade Mars probes to orbit before its recovery, and its successful second flight demonstrates that New Glenn's BE-4 engines can survive the rigors of orbital ascent and re-entry for multiple missions.",
+        sourceUrl: "https://techcrunch.com/2026/04/19/blue-origin-successfully-re-uses-a-new-glenn-rocket-for-the-first-time-ever/",
+        timestamp: "2026-04-19T11:25:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Starlink 17-22 from Vandenberg with Veteran Booster B1097 on Eighth Flight as West Coast Cadence Continues",
+        body: "SpaceX deployed 25 Starlink V2 Mini Optimized satellites to low Earth orbit Sunday morning on the Starlink 17-22 mission, with Falcon 9 first stage B1097 — on its eighth flight — lifting off from Space Launch Complex 4 East at Vandenberg Space Force Base at 7:33 a.m. PDT before landing on drone ship 'Of Course I Still Love You' in the Pacific Ocean approximately eight minutes later, marking the 191st landing on that vessel. The mission continues SpaceX's aggressive Starlink build-out pace, with the constellation now exceeding 10,200 active satellites providing broadband coverage to maritime, aviation, and residential customers worldwide. With Blue Origin's NG-3 launching simultaneously from Cape Canaveral in Florida, Sunday marked one of the most active days for American commercial orbital launch operations so far in 2026.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/18/live-coverage-spacex-attempts-600th-falcon-booster-landing-amid-west-coast-starlink-mission/",
+        timestamp: "2026-04-19T14:33:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Rare Oort Cloud Comet C/2025 R3 PanSTARRS Reaches Perihelion on Its First Visit to the Inner Solar System in 170,000 Years",
+        body: "Comet C/2025 R3 PanSTARRS — a hyperbolic Oort Cloud visitor not seen in the inner solar system for approximately 170,000 years — reached perihelion on April 19 at 0.499 AU (roughly 75 million km) from the Sun, the closest it will ever come to our star before heading back into the outer solar system on a trajectory that will not bring it back. Discovered by the Panoramic Survey Telescope and Rapid Response System survey in September 2025, the comet has been steadily brightening and is expected to reach peak naked-eye visibility of around magnitude 3.5 between April 20 and April 24, when observers at dark-sky sites can spot it in the pre-dawn eastern sky using binoculars or the naked eye. NASA's Jet Propulsion Laboratory is closely monitoring the comet's behavior as it experiences maximum solar heating for the first time in its existence; survival through perihelion is uncertain for long-period comets, though current observations indicate the nucleus remains intact.",
+        sourceUrl: "https://in-the-sky.org/news.php?id=2026_19_CK25R030_100",
+        timestamp: "2026-04-19T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "Artemis II Crew Wraps Post-Flight Debriefs at Johnson Space Center as Mission Science Data Collection Moves Into Full Swing",
+        body: "Nine days after splashing down in the Pacific Ocean on April 10, the four Artemis II astronauts — Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Canadian Space Agency astronaut Jeremy Hansen — are completing post-flight medical evaluations and formal mission debriefs at NASA's Johnson Space Center following their first public news conference on April 16, in which they described the historic nearly 10-day journey around the Moon. The crew confirmed they met all primary mission objectives: manually piloting the Orion capsule, exercising its life support systems, conducting a lunar flyby with unprecedented views of the Moon's far side, and setting a new record for the farthest distance humans have ever traveled from Earth. NASA's human research teams are now collecting detailed physiological data from the crew to refine spaceflight medicine protocols ahead of the Artemis III crewed lunar surface landing, which remains targeted for late 2026.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-host-artemis-ii-crew-postflight-news-conference/",
+        timestamp: "2026-04-19T17:30:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Milestone",
+        headline: "ISRO Marks 51 Years Since India's First Satellite Aryabhata as Agency Advances Gaganyaan and Chandrayaan-4 Programs",
+        body: "April 19, 2026 marks the 51st anniversary of the launch of Aryabhata, India's first satellite, placed into orbit by a Soviet Kosmos-3M rocket from the Kapustin Yar launch site on April 19, 1975, beginning the nation's journey as a spacefaring power. ISRO is observing the milestone while pressing ahead with its next major milestones: an uncrewed Gaganyaan test flight that has seen scheduling slips following the PSLV-C62 anomaly earlier in 2026, and the Chandrayaan-4 lunar sample-return mission targeting a 2027 launch to the south pole landing site. In five decades, India has progressed from Aryabhata's 360-kilogram experimental payload to operating the Aditya-L1 solar observatory at the Sun-Earth L1 point, successfully soft-landing Chandrayaan-3 near the lunar south pole, and planning a full crewed space station — the Bharatiya Antariksh Station — for the 2030s.",
+        sourceUrl: "https://www.isro.gov.in/",
+        timestamp: "2026-04-19T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-18": {
     date: "April 18, 2026",
     stories: [
