@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-20": {
+    date: "April 20, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Powers Down Voyager 1's Final Particle Detector to Buy Interstellar Probe Another Year of Life",
+        body: "Engineers at NASA's Jet Propulsion Laboratory sent commands on April 17 to deactivate Voyager 1's Low-energy Charged Particles (LECP) experiment — the last particle detector aboard the spacecraft — after an unexpected power drop following a routine roll maneuver on February 27 forced earlier-than-planned action. LECP had operated almost without interruption since Voyager 1's 1977 launch, measuring ions, electrons, and cosmic rays in interstellar space, but the plutonium power source now generates just enough electricity to sustain the two remaining instruments: a plasma wave sensor and a magnetometer. The savings are expected to grant Voyager 1 roughly one additional year of operations while engineers finalize a broader energy-management overhaul they call \"the Big Bang,\" designed to extend both Voyager probes' missions into the 2030s.",
+        sourceUrl: "https://science.nasa.gov/blogs/voyager/2026/04/17/nasa-shuts-off-instrument-on-voyager-1-to-keep-spacecraft-operating/",
+        timestamp: "2026-04-20T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "International",
+        headline: "Latvia Signs Artemis Accords at NASA Headquarters, Joining Growing Coalition for Peaceful Lunar Exploration",
+        body: "Latvia formalized its commitment to the Artemis Accords during a ceremony at NASA Headquarters in Washington, D.C. on April 20, with NASA Administrator Jared Isaacman hosting Latvia's minister for education and science alongside other officials. The Accords, first established in 2020, outline principles for transparent, sustainable, and peaceful civil space exploration and serve as a key diplomatic pillar of NASA's Artemis program. Latvia's accession comes just ten days after the Artemis II crew splashed down following humanity's first crewed lunar flyby since Apollo 17, underscoring the program's growing global momentum.",
+        sourceUrl: "https://www.nasa.gov/2026-news-releases/",
+        timestamp: "2026-04-20T13:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Delivers GPS III SV-10 'Hedy Lamarr' Satellite to Orbit for U.S. Space Force in National Security Mission",
+        body: "A SpaceX Falcon 9 lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station in the early hours of April 20, carrying GPS III Space Vehicle 10 — named 'Hedy Lamarr' in honor of the actress and inventor whose 1942 frequency-hopping patent helped lay conceptual groundwork for GPS, Wi-Fi, and Bluetooth technology — to medium Earth orbit for the U.S. Space Force. The mission marked a notable contract shift, with the Space Force having moved the award from ULA to SpaceX in March 2026, further consolidating SpaceX's dominance of U.S. government launch. Booster B1095, flying for the seventh time, successfully landed on the drone ship 'Just Read the Instructions' about 8.5 minutes after liftoff, and the upper stage deployed the satellite approximately 90 minutes later.",
+        sourceUrl: "https://www.rocketlaunch.live/launch/gps-iii-sv-10",
+        timestamp: "2026-04-20T06:57:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "New Glenn Achieves Historic First Booster Reuse on NG-3 but Upper Stage Anomaly Sends AST SpaceMobile Satellite to Wrong Orbit",
+        body: "Blue Origin's New Glenn rocket launched from Space Launch Complex 36 at Cape Canaveral on April 19 and accomplished a major milestone: the successful recovery and reuse of first stage booster 'Never Tell Me The Odds,' which touched down on an Atlantic drone ship roughly 10 minutes after liftoff — the first time any New Glenn booster has flown twice. However, an upper stage anomaly resulted in the AST SpaceMobile BlueBird 7 satellite being deployed into a lower-than-planned orbit insufficient to sustain operations, and the spacecraft will be deorbited; AST SpaceMobile shares fell sharply on Monday as a result. The lost satellite is covered by insurance, and AST said successive BlueBirds will be ready within about a month as the company pushes to launch 45 more satellites by end of 2026. Blue Origin separately confirmed that its Blue Moon Mark 1 uncrewed lunar lander remains on track for launch before the end of summer 2026.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-reuses-new-glenn-rocket-landing-success-1st-time-on-april-19-2026-video",
+        timestamp: "2026-04-20T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO Chairman Unveils G20 Climate Satellite for 2027 Launch and Reaffirms Human Moon Mission Target of 2040",
+        body: "ISRO Chairman V. Narayanan announced on April 19 that a dedicated G20 satellite — designed to monitor climate change, air quality, and weather systems on behalf of all 20 member nations — is targeted for launch in 2027 and is expected to remain operational through 2032. Narayanan also reaffirmed ISRO's roadmap for deep-space human exploration, including a lunar sample-return mission under Chandrayaan-4 in October 2027, a joint Chandrayaan-5/LUPEX rover mission with JAXA in September 2028, and a crewed lunar landing by 2040. The announcements underscore India's accelerating ambitions across Earth observation and exploration as ISRO prepares for the Gaganyaan crewed orbital mission later this year.",
+        sourceUrl: "https://www.deccanchronicle.com/science/isro-chief-narayanan-says-g20-satellite-launch-planned-for-2027-1951248",
+        timestamp: "2026-04-20T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Space Conference Opens April 23 in Chengdu as CNSA Outlines Intensive 2026 Mission Slate Including Tianwen-2 Asteroid Flyby",
+        body: "CNSA confirmed on April 18 that China will conduct a dense schedule of space missions in 2026, headlined by Tianwen-2's close approach and scientific observation of near-Earth asteroid 2016 HO3 (Kamoʻoalewa) — China's first asteroid exploration and sample-return mission — as it continues its transfer trajectory. Additional milestones this year include crewed Shenzhou-23 operations at the Tiangong station, flight verification tests of multiple new reusable launch vehicles, and the continued expansion of China's commercial space sector. The China Space Conference will feature a main forum alongside more than 20 academic sessions and a public exhibition in Chengdu from April 24 to May 5, marking the 56th anniversary of the April 24, 1970 launch of China's first satellite, Dongfanghong-1.",
+        sourceUrl: "https://news.cgtn.com/news/2026-04-18/China-to-carry-out-intensive-space-missions-in-2026-says-CNSA-1MqYnNpxN8A/p.html",
+        timestamp: "2026-04-20T05:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-19": {
     date: "April 19, 2026",
     stories: [
