@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-21": {
+    date: "April 21, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Unveils Fully Assembled Roman Space Telescope at Goddard, Targeting Fall 2026 Launch",
+        body: "NASA hosted media at Goddard Space Flight Center in Greenbelt, Maryland on Tuesday for an up-close look at the fully integrated Nancy Grace Roman Space Telescope — one of the last opportunities to view the flagship observatory before it ships to Kennedy Space Center ahead of a launch targeted as early as fall 2026. The telescope completed construction following integration of its two major segments in November 2025 and has since been undergoing final prelaunch environmental testing. Roman will survey the cosmos in near-infrared light across a field of view 100 times wider than Hubble's, enabling transformative studies of dark energy, dark matter, exoplanet atmospheres, and the large-scale structure of the universe.",
+        sourceUrl: "https://www.nasa.gov/missions/roman-space-telescope/nasa-completes-nancy-grace-roman-space-telescope-construction/",
+        timestamp: "2026-04-21T20:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "SPHEREx All-Sky Survey Releases First Science Results, Mapping Interstellar Ice Across Milky Way Star-Forming Regions",
+        body: "NASA's SPHEREx observatory — which maps the entire sky in 102 infrared wavelengths every six months — has released its first science highlights, including a striking April 15 observation revealing the chemical signatures of water ice and polycyclic aromatic hydrocarbons in Cygnus X, one of the most active star-forming regions in the Milky Way. Launched in March 2025 aboard a Falcon 9 from Vandenberg, SPHEREx is progressing toward completing the first of four planned all-sky surveys and has already catalogued data on more than 450 million galaxies and 100 million Milky Way stars. The mission's ice-mapping capability is central to understanding how life's chemical building blocks are distributed across the galaxy and potentially seeded onto forming planetary systems.",
+        sourceUrl: "https://www.jpl.nasa.gov/news/nasas-spherex-space-telescope-begins-capturing-entire-sky/",
+        timestamp: "2026-04-21T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Skywatching",
+        headline: "Lyrid Meteor Shower Peaks Tonight with Up to 18 Meteors Per Hour, One of the Oldest Showers on Record",
+        body: "The annual Lyrid meteor shower — with recorded observations stretching back 2,700 years — reaches its peak on the night of April 21 into the early morning of April 22, with rates of 10 to 18 meteors per hour expected under dark-sky conditions. NASA advises observers to look toward the eastern sky beginning around 10 p.m. local time, with the radiant point near the bright star Vega in the constellation Lyra rising higher and rates increasing toward pre-dawn on April 22. The Lyrids are produced by debris shed by Comet Thatcher (C/1861 G1), which last visited the inner solar system in 1861 and will not return for another 350-plus years.",
+        sourceUrl: "https://science.nasa.gov/solar-system/whats-up-april-2026-skywatching-tips-from-nasa/",
+        timestamp: "2026-04-21T22:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "SMILE Solar Wind Mission Still Awaiting New Launch Date After Vega-C Technical Issue Forced April 9 Postponement",
+        body: "The joint ESA–Chinese Academy of Sciences SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) satellite remains grounded in French Guiana after a technical issue in a Vega-C launcher subsystem component — discovered on April 6, just three days before liftoff — prompted an indefinite stand-down from the VV29 mission slot. Investigations into the component production-line anomaly are ongoing, and ESA has not yet confirmed a new launch date within the original April 8–May 7 window. Once flown, SMILE will enter a highly elliptical orbit reaching 121,000 km apogee to provide month-long continuous views of Earth's magnetosphere, revolutionizing understanding of how the solar wind drives geomagnetic storms.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_prepares_for_launch_on_Vega-C_follow_along",
+        timestamp: "2026-04-21T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Development",
+        headline: "China's Long March 10B Methane-Fueled Reusable Rocket Poised for Debut Flight from Wenchang This Spring",
+        body: "China Rocket is preparing to conduct the maiden flight of the Long March 10B — a two-stage, partially reusable launch vehicle powered by liquid methane and liquid oxygen — from the Wenchang Commercial Space Launch Site's Commercial Launch Pad 2 in the first half of 2026, adding a new reusable competitor to China's rapidly expanding launch market. The 5-meter-diameter first stage is designed for propulsive landing and reuse, mirroring the commercial reusability trend pioneered by SpaceX and now pursued by multiple Chinese state and private launch providers. The debut comes as China prepares for its 11th Space Day on April 24, commemorating 56 years since the launch of Dongfanghong-1, the nation's first satellite, in 1970.",
+        sourceUrl: "https://spacenews.com/china-to-debut-reusable-long-march-10-derived-rocket-in-first-half-of-2026/",
+        timestamp: "2026-04-21T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-20": {
     date: "April 20, 2026",
     stories: [
