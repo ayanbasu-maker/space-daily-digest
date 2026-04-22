@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-22": {
+    date: "April 22, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "NASA Administrator Isaacman Defends 47% Science Budget Cut Before House Committee as Agency Faces $5.6 Billion Reduction",
+        body: "NASA Administrator Jared Isaacman testified before the full House Science, Space, and Technology Committee on Wednesday morning in a high-stakes hearing on the President's Fiscal Year 2027 budget request, which proposes cutting the agency's total budget by roughly 23% — from the current $24.4 billion appropriation down to $18.8 billion — including a 47% reduction to the Science Mission Directorate that would terminate more than 40 active missions across Earth science, astrophysics, heliophysics, and planetary science. Isaacman defended the proposal, arguing that NASA retains sufficient resources to pursue its top exploration priorities including Artemis III, Commercial Lunar Payload Services deliveries, and a renegotiated Mars Sample Return campaign. Lawmakers on both sides of the aisle pushed back sharply, with Senate Commerce appropriations subcommittee chair Jerry Moran calling the proposed science cuts \"a mistake\" and warning that Congress is unlikely to accept a budget that guts scientific research programs to subsidize crewed exploration alone.",
+        sourceUrl: "https://science.house.gov/2026/4/full-committee-hearing-nasa-budget",
+        timestamp: "2026-04-22T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Earth Day APOD Features Artemis II's Breathtaking iPhone 'Earthset' Video Captured from the Moon by Commander Wiseman",
+        body: "To mark the 56th Earth Day on April 22, NASA chose an extraordinary image from Artemis II as its Astronomy Picture of the Day: Commander Reid Wiseman's iPhone footage of Earth gradually eclipsed by the lunar limb during the crew's historic flyby earlier this month — the first time humans had watched their entire home planet sink behind the Moon since the Apollo 17 crew in December 1972. The footage, recorded at 8x optical zoom on a commercial iPhone as part of NASA's ongoing evaluation of consumer-grade imaging hardware for deep-space missions, became one of the most widely shared pieces of space media in recent memory after Wiseman posted it while the crew was still at lunar distance. The APOD selection echoes the tradition set by Apollo 8's 1968 \"Earthrise\" photograph, which transformed humanity's environmental self-perception and helped catalyze the very first Earth Day two years later.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260422.html",
+        timestamp: "2026-04-22T04:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Eyes Starlink Mission from Vandenberg Tonight as Veteran Booster B1100 Targets Eighth Flight",
+        body: "SpaceX opened a launch window at 7:00 p.m. PDT Wednesday from Space Launch Complex 4 East at Vandenberg Space Force Base, California, for a Falcon 9 carrying 25 Starlink V2 Mini Optimized satellites to low Earth orbit, continuing the company's relentless broadband constellation build-out toward more than 10,250 active satellites. First-stage booster B1100, targeting its eighth flight, was set to land on drone ship 'Of Course I Still Love You' downrange in the Pacific Ocean — a vessel that has now supported more than 191 successful booster landings. The mission is part of SpaceX's aggressive 2026 launch cadence that has averaged more than one Falcon 9 flight every three days, sustaining Starlink's growth toward the 12,000-satellite Phase 1 constellation authorized by the FCC.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-04-22T17:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA's Long-Delayed Rosalind Franklin Mars Rover Cleared to Fly on Falcon Heavy in 2028 After Four Years in Limbo",
+        body: "The European Space Agency's Rosalind Franklin rover — stranded since 2022 when Russia's invasion of Ukraine severed a planned joint launch with Roscosmos — cleared a pivotal milestone last week as NASA formally approved its Rosalind Franklin Support and Augmentation (ROSA) project on April 16 and announced the selection of SpaceX's Falcon Heavy rocket for a late-2028 launch from Launch Complex 39A at Kennedy Space Center. NASA's contributions to the mission include the Falcon Heavy launch vehicle, the lander's propulsion system, radioisotope heater units, and hardware for the Mars Organic Molecule Analyzer (MOMA) instrument, specifically designed to search for molecular biosignatures. Once on the surface, Rosalind Franklin will be the first Mars rover capable of drilling up to two metres below ground — deep enough to access material shielded from the sterilizing effects of cosmic radiation — representing humanity's best near-term prospect for detecting preserved evidence of ancient Martian life.",
+        sourceUrl: "https://science.nasa.gov/blogs/mars-rosa/2026/04/16/nasa-begins-implementation-for-esas-rosalind-franklin-mission-to-mars/",
+        timestamp: "2026-04-22T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Space Conference Set to Open in Chengdu Wednesday on Eve of 11th Space Day, Spotlighting Tianwen-2 and 2026 Ambitions",
+        body: "The China Space Conference is set to open its three-day program in Chengdu on April 23 — one day before the official 11th Space Day of China on April 24, which marks 56 years since Dongfanghong-1 became China's first satellite on April 24, 1970 — with CNSA officials poised to highlight the country's most ambitious launch manifest to date, including Tianwen-2's ongoing transit toward near-Earth asteroid 2016 HO3 (Kamoʻoalewa), the approaching Shenzhou-23 crewed Tiangong rotation, and inaugural flights of several domestically developed reusable launch vehicles. The conference features more than 20 academic sessions alongside a main forum, plus a public space science and technology exhibition running April 24 through May 5 in Chengdu showcasing advances across launch, Earth observation, deep-space exploration, and commercial aerospace. CNSA also emphasized plans to deepen international cooperation in 2026, including the joint SMILE solar-magnetosphere mission with ESA and the continued China-Brazil CBERS Earth observation partnership, now approaching its fourth decade.",
+        sourceUrl: "https://news.cgtn.com/news/2026-04-18/China-to-carry-out-intensive-space-missions-in-2026-says-CNSA-1MqYnNpxN8A/p.html",
+        timestamp: "2026-04-22T06:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "FAA Orders Formal Mishap Probe Keeping New Glenn Grounded as Blue Origin CEO Confirms Upper Stage Engine Caused NG-3 Orbit Miss",
+        body: "Blue Origin's New Glenn rocket remains grounded under a formal FAA mishap investigation stemming from the April 19 NG-3 mission, on which an upper stage engine produced insufficient thrust to place AST SpaceMobile's BlueBird 7 satellite into its intended orbit — a root cause CEO Dave Limp disclosed publicly this week, as the satellite was subsequently deorbited after its onboard thrusters could not compensate for the altitude shortfall. The grounding will keep New Glenn off the manifest until Blue Origin completes a full root-cause analysis and demonstrates corrective action to FAA satisfaction, complicating the company's 2026 schedule at a moment when it had just celebrated the historic first booster reuse achieved on that same NG-3 flight. AST SpaceMobile said the lost satellite is covered by launch insurance and that the next BlueBird units in its production line will be ready within approximately one month, keeping the company's target of 45 additional satellites before end of 2026 nominally intact.",
+        sourceUrl: "https://easternherald.com/2026/04/21/blue-origin-new-glenn-failure-faa-grounding/",
+        timestamp: "2026-04-22T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-21": {
     date: "April 21, 2026",
     stories: [
