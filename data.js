@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-23": {
+    date: "April 23, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Diplomacy",
+        headline: "Jordan Signs Artemis Accords as 63rd Nation at NASA Headquarters Ceremony Hosted by Administrator Isaacman",
+        body: "The Hashemite Kingdom of Jordan formally joined the Artemis Accords on Thursday morning in a signing ceremony at the James E. Webb Memorial Auditorium in Washington, D.C., hosted by NASA Administrator Jared Isaacman alongside Ambassador Dina Kawar and U.S. State Department Principal Deputy Assistant Secretary Ruth Perry. Jordan becomes the 63rd signatory to the framework, which establishes norms for transparent, interoperable, and sustainable civil space exploration on the Moon, Mars, and beyond. The signing comes roughly two weeks after the Artemis II crew's historic crewed lunar flyby — the first since Apollo 17 in 1972 — underscoring the surge in international interest in U.S.-led deep-space exploration partnerships.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-jordan-artemis-accords-signing-ceremony/",
+        timestamp: "2026-04-23T13:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's APOD Spotlights DESI's Record-Breaking 47-Million-Galaxy 3D Map That Hints Dark Energy May Be Weakening",
+        body: "NASA's Astronomy Picture of the Day for April 23 features a sweeping visualization from the Dark Energy Spectroscopic Instrument, which completed its planned five-year survey on April 15 at Kitt Peak National Observatory in Arizona — cataloguing over 47 million galaxies and quasars, far surpassing its original 34-million target, and producing the largest high-resolution three-dimensional map of the universe ever assembled. Analysis of the survey's data has yielded tantalizing evidence that dark energy may be declining in strength over cosmic time, a finding that, if confirmed, would require a fundamental revision to the standard cosmological model. DESI will continue observations through 2028 to build on the map and pin down whether the apparent weakening is real, with collaborators calling it one of the most significant potential shifts in modern physics.",
+        sourceUrl: "https://newscenter.lbl.gov/2026/04/15/desi-completes-planned-3d-map-of-the-universe-and-continues-exploring/",
+        timestamp: "2026-04-23T04:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Confirms Successful 40th Starlink Mission of 2026 After Overnight Vandenberg Launch; Booster B1100 Nails 602nd Landing",
+        body: "A SpaceX Falcon 9 lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base at 8:23 p.m. PDT Wednesday (0323 UTC Thursday, April 23), deploying 24 Starlink satellites to low Earth orbit as the company's 40th dedicated Starlink mission of 2026. First-stage booster B1100, completing its fifth flight, executed a successful propulsive landing aboard drone ship 'Of Course I Still Love You' roughly eight minutes after liftoff — the 192nd recovery on that vessel and SpaceX's 602nd booster landing across all missions to date. The milestone cadence reflects SpaceX's push toward an unprecedented annual launch rate, with Falcon 9 averaging more than one mission every three days in 2026.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/23/live-coverage-spacex-to-launch-25-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-3/",
+        timestamp: "2026-04-23T03:23:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Event",
+        headline: "China Space Conference Opens in Chengdu on Eve of 11th Space Day, Highlighting Tianwen-2 Asteroid Mission and Reusable Rockets",
+        body: "The three-day China Space Conference commenced in Chengdu on April 23 — one day before China's 11th Space Day on April 24, commemorating the 56th anniversary of the 1970 launch of Dongfanghong-1 — with CNSA officials presenting progress on Tianwen-2's ongoing transit toward near-Earth asteroid Kamoʻoalewa, detailing plans for the Shenzhou-23 crew rotation at Tiangong, and outlining the debut flights of multiple domestically developed reusable launch vehicles expected later in 2026. The conference spans more than 20 academic sessions and includes a public space science and technology exhibition running April 24 to May 5. CNSA also highlighted a deepened international cooperation agenda, citing the joint ESA–China SMILE solar wind mission and the four-decade China-Brazil CBERS Earth-observation program as cornerstones of its 2026 partnerships.",
+        sourceUrl: "https://english.news.cn/20260418/0105fa9c521d4b99ba70d78336e17fcb/c.html",
+        timestamp: "2026-04-23T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO Closing In on Launch Date for Gaganyaan Uncrewed Mission Carrying Half-Humanoid Vyommitra to Orbit",
+        body: "The Indian Space Research Organisation is finalizing plans to announce an official launch date for HLVM-3 G1/OM1, the first uncrewed mission of the Gaganyaan human spaceflight programme, which will carry Vyommitra — a half-humanoid robot designed to simulate astronaut conditions and validate the spacecraft's life-support, orbital, and re-entry systems — aboard a human-rated LVM3 rocket. Originally targeting the first quarter of 2026, the mission has slipped to the second half of the year following additional engineering reviews, with ISRO indicating an announcement is imminent. Successful completion of at least one uncrewed demonstration is a mandatory prerequisite before the crewed Gaganyaan mission, now targeted for 2027, which would make India only the fourth nation to independently launch humans to space.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/04/isro-nears-announcement-of-first.html",
+        timestamp: "2026-04-23T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin and U.S. Space Force to Construct New Glenn Pad at Vandenberg, Opening Sun-Synchronous Polar Orbits to Heavy-Lift Rocket",
+        body: "Blue Origin and the U.S. Space Force jointly announced on April 14 that a new New Glenn launch facility — Space Launch Complex 14 (SLC-14) — will be built at Vandenberg Space Force Base in California, giving the heavy-lift rocket access to polar and sun-synchronous orbits currently unreachable from its Cape Canaveral home at SLC-36. The West Coast pad will expand New Glenn's addressable mission set to include Earth-observation, weather, and national-security reconnaissance satellites that require high-inclination trajectories, placing Blue Origin in more direct competition with SpaceX's Vandenberg-based Falcon 9 and Falcon Heavy operations. The infrastructure investment comes as New Glenn remains grounded under an FAA mishap investigation following the NG-3 upper-stage engine anomaly on April 19, with Blue Origin working to complete root-cause analysis and corrective actions before the rocket can return to flight.",
+        sourceUrl: "https://www.blueorigin.com/news/new-glenn-ng-3-mission",
+        timestamp: "2026-04-23T14:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-22": {
     date: "April 22, 2026",
     stories: [
