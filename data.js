@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-24": {
+    date: "April 24, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Hubble Marks 36 Years in Orbit with Stunning Trifid Nebula Portrait Revealing Changes Since Its 1997 First Image",
+        body: "NASA's Hubble Space Telescope celebrated its 36th anniversary of launch on April 24 — the date it was carried to orbit aboard Space Shuttle Discovery in 1990 — by releasing an exquisite new close-up portrait of the Trifid Nebula (Messier 20), a glowing star-forming cloud roughly 5,000 light-years from Earth, first observed by Hubble in 1997. The new image, captured with the more sensitive Wide Field Camera 3 installed during Servicing Mission 4, shows a rusty-brown pillar of gas and dust that astronomers liken to a marine sea slug drifting through the cosmos — its sinuous shape sculpted over 300,000 years by ultraviolet winds from massive stars just outside the frame. By placing the two observations nearly three decades apart side by side, scientists can for the first time detect real structural evolution within a nebula on human timescales, a capability unique to a long-lived space observatory. ESA/Hubble and the Space Telescope Science Institute published the anniversary image jointly, and it appeared as Space.com's Photo of the Day on April 23.",
+        sourceUrl: "https://science.nasa.gov/missions/hubble/nasas-hubble-dazzles-with-young-stars-in-trifid-nebula/",
+        timestamp: "2026-04-24T13:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Reveals Five International Partners for Tianwen-3 Mars Sample-Return Mission at Space Day Ceremony in Chengdu",
+        body: "At the opening ceremony of the 11th Space Day of China held in Chengdu on April 24 — the 56th anniversary of the 1970 launch of Dongfanghong-1, China's first satellite — the China National Space Administration announced the selected international partners for Tianwen-3, its planned first Mars sample-return mission, choosing five projects from 28 applications received after a global call for cooperation in April 2025. The selected collaborators will contribute a Mars Molecular Ion Composition Analyzer (Macau University of Science and Technology), a Laser Heterodyne Spectrometer measuring water-isotope profiles and wind fields in the Martian atmosphere (Chinese University of Hong Kong), a Mars Terrestrial Hyperspectral Imaging Spectrometer (University of Hong Kong), and a Laser Retroreflector Array led by Italy's National Laboratory of Frascati under the National Institute for Nuclear Physics. Tianwen-3 is planned to launch around 2028 using two Long March 5 rockets and to deliver Martian samples to Earth around 2031, which would make China the first nation to independently accomplish a Mars sample-return mission after more than two decades of planning.",
+        sourceUrl: "https://english.news.cn/20260424/96fdcad629b64bf3abdd3c5d1e90edc9/c.html",
+        timestamp: "2026-04-24T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "China Opens 15 kg of Payload Space on Xihe-2 Solar Observatory at Sun-Earth L5 Point to Global Scientific Partners",
+        body: "Also on China's Space Day, CNSA announced an open international call for the Xihe-2 solar observation mission, offering approximately 15 kilograms of payload resources to research teams worldwide to jointly observe the Sun from the strategically unique Sun-Earth Lagrangian L5 point — a vantage roughly 150 million kilometres from Earth that allows advance warning of solar storms before they reach our planet. Xihe-2's scientific objectives include characterizing magnetic field structures in solar active regions, reconstructing the three-dimensional architecture of coronal mass ejections, and tracking how solar bursts propagate through interplanetary space to enable more accurate space weather forecasts. The mission extends China's solar science portfolio beyond the original Xihe (CHASE) satellite launched in 2021 to the L1 point, and will be the country's first spacecraft placed at the operationally critical L5 orbit — a position currently occupied by no other nation's dedicated solar monitor.",
+        sourceUrl: "https://english.news.cn/20260424/a3105d5b4ab541469550339b58930194/c.html",
+        timestamp: "2026-04-24T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO Expands NETRA Space Surveillance Network While Gaganyaan Crew Module Parachute System Cleared in IADT-02 Drop Test",
+        body: "India's space agency published its Indian Space Situational Awareness Report for 2025 (ISSAR-2025) at the SMOPS-2026 international conference in Bengaluru, detailing the expanded reach of the Network for Space Objects Tracking and Analysis (NETRA) — a constellation of radar systems and optical telescopes that performed hundreds of collision avoidance manoeuvres in 2025 to protect India's operational satellite fleet from an increasingly congested orbital environment. ISRO Chairman V. Narayanan highlighted the agency's commitment to debris-free operations as a pillar of its long-term space sustainability strategy, with NETRA's data being shared with international partners through standard conjunction warning frameworks. Separately, the Gaganyaan programme successfully completed its second Integrated Air Drop Test (IADT-02) on April 10 at Satish Dhawan Space Centre, dropping a weighted boilerplate crew module from an IAF Chinook helicopter to validate the parachute deployment, descent control, and splashdown recovery systems required before the uncrewed Gaganyaan-1 orbital demonstration mission.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/04/isro-expands-space-surveillance-network.html",
+        timestamp: "2026-04-24T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Policy",
+        headline: "ESA and European Defence Agency Sign Pact to Audit Europe's Earth Observation Satellite Arsenal for Security Readiness",
+        body: "The European Space Agency and the European Defence Agency signed a new Implementing Arrangement in Brussels on April 22, launching an 18-month joint study to comprehensively audit Europe's existing Earth observation satellite infrastructure and draft a long-term roadmap for bolstering the continent's security and defence readiness from space, with both agencies contributing equally to the study's funding. ESA Director General Josef Aschbacher framed the agreement as a shift from planning to active implementation of ESA's expanding defence-support mandate, situating it within the broader European Resilience from Space programme that seeks to harden space-based services against adversarial threats. The study will catalogue imagery capabilities, data processing pipelines, and ground segment assets relevant to monitoring crises, protecting critical infrastructure, and supporting NATO operations — with its findings expected to directly inform investment decisions for the Copernicus Earth observation fleet and the IRIS² secure government satellite communications constellation.",
+        sourceUrl: "https://news.fundsforngos.org/2026/04/23/europe-boosts-earth-observation-capacity-with-esa-eda-joint-study-2026/",
+        timestamp: "2026-04-24T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-23": {
     date: "April 23, 2026",
     stories: [
