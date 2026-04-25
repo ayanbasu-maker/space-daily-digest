@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-25": {
+    date: "April 25, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Releases Initial Artemis II Post-Mission Assessment Confirming Orion and SLS Performed as Designed, Clearing Path to Artemis III",
+        body: "Two weeks after the Artemis II crew splashed down off the California coast on April 10, NASA released its initial post-mission assessment confirming that the Orion spacecraft, Space Launch System, and Kennedy Space Center ground infrastructure all performed within expected parameters during the ten-day crewed lunar flyby — the first human journey beyond low Earth orbit since Apollo 17 in 1972. Engineers at Johnson Space Center and Marshall Space Flight Center are now conducting detailed analysis of more than 4,000 sensors that monitored Orion's heat shield, life-support, propulsion, and communications systems through the lunar transit and the approximately 5,000°F re-entry, with results feeding directly into Artemis III hardware certification decisions. NASA confirmed no major design changes are required ahead of Artemis III, which will target the first crewed Moon landing since 1972, currently slated for no earlier than 2027.",
+        sourceUrl: "https://www.nasa.gov/missions/nasa-on-track-for-future-missions-with-initial-artemis-ii-assessments/",
+        timestamp: "2026-04-25T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Deploys 24 Starlink Satellites from Vandenberg in Another Milestone Falcon 9 Flight Maintaining Record 2026 Cadence",
+        body: "A SpaceX Falcon 9 lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base on Saturday, deploying 24 Starlink V2 Mini Optimized satellites to low Earth orbit and sustaining the company's relentless broadband constellation expansion toward more than 10,250 active satellites serving subscribers on every continent. The first-stage booster executed a routine propulsive landing aboard drone ship 'Of Course I Still Love You' approximately eight minutes after liftoff, continuing SpaceX's streak of successful recoveries that now numbers more than 600 across all missions. The launch is part of an aggressive 2026 cadence that has seen Falcon 9 averaging more than one flight every three days, cementing SpaceX's position as the world's highest-volume launch provider by a wide margin.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_April%E2%80%93June_2026",
+        timestamp: "2026-04-25T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Diplomacy",
+        headline: "China Names Pakistan's Muhammad Zeeshan Ali and Khurram Daud as First Foreign Astronaut Candidates to Train for Tiangong Space Station Missions",
+        body: "China's human spaceflight program took a landmark step toward international openness on April 25 as the China Manned Space Agency formally announced the selection of two Pakistani Air Force pilots — Muhammad Zeeshan Ali and Khurram Daud — as the first foreign nationals to undertake astronaut candidate training for missions to the Tiangong space station, completing a rigorous multi-stage selection that included preliminary screening in Pakistan and advanced evaluations at the Astronaut Centre of China in Beijing. One of the two candidates will ultimately fly as a payload specialist on a Tiangong mission, becoming both the first foreign national to visit China's orbital station and the first Pakistani to reach Earth orbit. The announcement deepens the China-Pakistan space partnership and reflects Beijing's strategy to develop Tiangong as a globally accessible platform as the International Space Station approaches the end of its operational life.",
+        sourceUrl: "https://orbitaltoday.com/2026/04/25/two-pakistani-astronauts-selected-to-train-for-chinas-space-station-missions/",
+        timestamp: "2026-04-25T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Chang'e-7 Lunar South Pole Mission Confirmed for August 2026 Launch as Spacecraft Completes Delivery to Wenchang Space Launch Site",
+        body: "China's Chang'e-7 lunar mission is on track for an August 2026 liftoff after the fully integrated spacecraft — comprising an orbiter, lander, rover, and a novel mini-hopping probe specifically engineered to descend into the permanent shadow of south-polar craters — arrived at the Wenchang Space Launch Site in Hainan province for mating with its Long March 5 rocket. The mission will target the illuminated rim of Shackleton crater near the lunar south pole to confirm the presence and accessible depth of water ice deposits that could sustain future human outposts, and will also validate the precision landing and surface-hopping technologies required for China's International Lunar Research Station. Chang'e-7 serves as a direct precursor to Chang'e-8 in 2028, and together the pair will establish the operational groundwork for China's crewed Moon landing, targeted for no earlier than 2030.",
+        sourceUrl: "https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/",
+        timestamp: "2026-04-25T10:00:00Z"
+      },
+      {
+        agency: "Roscosmos",
+        category: "Launch",
+        headline: "Russia's Progress MS-34 Cargo Freighter Lifts Off from Baikonur on Soyuz-2.1a, Carrying 2.5 Tonnes of Supplies to ISS Crew",
+        body: "A Soyuz-2.1a rocket lifted off from the Baikonur Cosmodrome in Kazakhstan at 22:21 UTC on April 25, propelling the uncrewed Progress MS-34 resupply freighter toward the International Space Station with approximately 2.5 tonnes of propellant, water, food, spare parts, and scientific hardware. Designated Progress 95 by NASA — the 95th Progress vehicle to visit the ISS since the station's assembly began — the spacecraft is set to dock autonomously at the Poisk module on April 27 at approximately 00:21 UTC following a two-day rendezvous profile, with NASA providing live coverage of docking on NASA+ and the agency's YouTube channel. The resupply mission sustains the current ISS expedition crew as planning continues for the station's eventual deorbit in 2030 and the transition to commercial low-Earth orbit platforms.",
+        sourceUrl: "https://nextspaceflight.com/launches/details/8091/",
+        timestamp: "2026-04-25T22:21:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin Advances Root-Cause Fix for New Glenn NG-3 Upper Stage Failure as FAA Mishap Investigation Completes First Week of Review",
+        body: "Blue Origin confirmed this week that its engineering teams have identified the root cause of the upper stage engine underperformance that caused the April 19 NG-3 mission to deliver AST SpaceMobile's BlueBird 7 satellite into an orbit too low to sustain operations — the satellite has since been deorbited — and that corrective action is being implemented ahead of a return-to-flight application to the Federal Aviation Administration. CEO Dave Limp reiterated that the same NG-3 mission successfully performed New Glenn's first-ever booster reuse, with the first stage returning to the Atlantic drone ship intact, underscoring the company's view that recovery hardware performed as designed while the upper stage work remains the sole focus of the investigation. AST SpaceMobile said the lost satellite is covered by launch insurance and that replacement BlueBird units are progressing through production, with the company maintaining its target of deploying 45 additional broadband satellites before the end of 2026.",
+        sourceUrl: "https://techcrunch.com/2026/04/20/faa-orders-investigation-into-blue-origins-new-glenn-mishap/",
+        timestamp: "2026-04-25T16:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-24": {
     date: "April 24, 2026",
     stories: [
