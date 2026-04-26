@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-26": {
+    date: "April 26, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's APOD Features Hubble's Dramatic View of 'Mystic Mountain' Pillars Being Carved Apart by an Embedded Star's Jets in the Carina Nebula",
+        body: "NASA's Astronomy Picture of the Day for April 26 showcases a Hubble Space Telescope image of a towering column of gas and dust in the Carina Nebula — known informally as 'Mystic Mountain' — located approximately 7,500 light-years from Earth, in which a nascent star hidden within the opaque pillar is slowly destroying its own host by blasting opposing beams of energetic particles called Herbig-Haro jets. The image, processed by Hubble community contributor Judy Schmidt, illustrates how stellar birth is a violent process: the embedded protostar's jets punch through the pillar's walls and drag away the very material that fed its formation, offering a rare window into the self-destructive dynamics of star-forming regions. Mystic Mountain has been a recurring Hubble subject since the Wide Field Camera 3 was installed during Servicing Mission 4 in 2009, and successive generations of image processing continue to reveal fine jet structure and shock fronts invisible in earlier renditions of the iconic photograph.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260426.html",
+        timestamp: "2026-04-26T04:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Rolls Falcon Heavy to Pad 39A for Monday's ViaSat-3 F3 Mission That Will Complete a Global Broadband Constellation",
+        body: "SpaceX rolled its Falcon Heavy rocket carrying Viasat's ViaSat-3 F3 communications satellite to Launch Complex 39A at Kennedy Space Center on April 26, with an 85-minute launch window opening at 10:21 a.m. EDT on Monday, April 27 — Viasat confirmed the mission remains on track following final launch readiness reviews. ViaSat-3 F3 is the third and final satellite in the ViaSat-3 constellation, designed to deliver more than 1 Tbps of throughput over the Asia-Pacific region and complete a global high-capacity broadband network spanning the Americas, Europe, the Middle East, and Africa. After upper-stage separation, the spacecraft will use electric propulsion to drift to geostationary orbit over several months with commercial service expected by late summer 2026; the two expended side boosters will attempt coordinated landings at Landing Zones 2 and 40 at Cape Canaveral Space Force Station.",
+        sourceUrl: "https://www.globenewswire.com/news-release/2026/04/20/3277083/0/en/Viasat-Confirms-ViaSat-3-F3-Satellite-to-Launch-April-27-2026.html",
+        timestamp: "2026-04-26T14:00:00Z"
+      },
+      {
+        agency: "Roscosmos",
+        category: "Mission",
+        headline: "Progress MS-34 Cargo Freighter Completes Healthy On-Orbit Day En Route to ISS with 2.5 Tonnes of Supplies Including a New Orlan Spacesuit",
+        body: "The Progress MS-34 uncrewed cargo spacecraft, designated Progress 95 by NASA, is on a nominal two-day rendezvous with the International Space Station following its April 25 launch on a Soyuz-2.1a rocket from the Baikonur Cosmodrome, with automated docking at the Zvezda module's aft port scheduled for approximately 8:00 p.m. EDT on April 27. The 7,280-kilogram freighter is carrying more than 2,500 kilograms of supplies for Expedition 74, including food, water, propellant for station re-boost manoeuvres, scientific hardware, and a new Orlan spacesuit to replace a suit approaching the end of its certified service life on the Russian segment. NASA confirmed the launch was nominal and will provide live docking coverage beginning at 7:15 p.m. EDT on NASA+, Amazon Prime Video, and the agency's YouTube channel.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/04/progress-ms34/",
+        timestamp: "2026-04-26T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Confirms SMILE Solar-Wind Mission Will Launch May 19 on Vega-C After Avio Completes Review of Component Production Issue",
+        body: "The European Space Agency confirmed on April 26 that the Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) — a joint mission with the Chinese Academy of Sciences designed to image Earth's magnetosphere in X-rays and monitor how the solar wind interacts with our planet's magnetic shield — is now targeting May 19, 2026, for launch on an Avio Vega-C rocket from Europe's Spaceport in Kourou, French Guiana. The mission was originally planned to lift off on April 9 but was postponed as a precautionary measure after a technical issue was identified on a Vega-C subsystem component production line post-integration; Avio engineers completed their root-cause review and verified the launcher's flightworthiness before confirming the new date. Once in its highly elliptical Earth orbit, SMILE will deliver the first systematic X-ray movies of the dayside magnetopause and polar cusps, imaging the regions where solar-wind plasma penetrates Earth's magnetic defenses and enabling sharper space-weather forecasts.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-04-26T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China Launches Pakistani Earth-Observation Satellite PRSC-EO3 on Long March-6 While Releasing Nation's First Commercial Space Standards System",
+        body: "On April 26, China executed a significant double play in space affairs: a Long March-6 rocket lifted off from the Taiyuan Satellite Launch Centre at 8:15 p.m. Beijing Time, successfully placing the PRSC-EO3 Earth observation satellite for Pakistan into its planned orbit and further cementing the China-Pakistan space partnership that already includes the PRSS-1 and MM-1 satellites. In parallel, the China National Space Administration and the State Administration for Market Regulation jointly unveiled Commercial Space Standards System Version 1.0 — the world's first unified national framework governing technical, safety, and interoperability standards across launch vehicles, satellites, ground infrastructure, and data services for China's rapidly expanding commercial space sector. The standards system is designed to reduce development costs and accelerate certification timelines as Beijing moves to grow its private launch and satellite manufacturing industries to international scale.",
+        sourceUrl: "https://news.cgtn.com/news/2026-04-26/China-unveils-commercial-space-standards-system-1MEn7pqgB4Q/p.html",
+        timestamp: "2026-04-26T13:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Comet C/2025 R3 PanSTARRS Reaches Its Closest Earth Approach, Passing 73 Million Kilometres Away While Tracked by Solar Observatories",
+        body: "Comet C/2025 R3 (PanSTARRS) reached its closest point to Earth on April 26, passing within approximately 0.489 AU (73.2 million kilometres, or about 45.5 million miles) — less than half the Earth-Sun distance — having reached perihelion on April 19 at a scorching 0.5 AU from the Sun. Although the comet has brightened to naked-eye visibility under dark skies, its extremely low solar elongation of only 3.7 degrees makes direct visual observation challenging, prompting astronomers to track it primarily through satellite-based solar observatories such as ESA/NASA's SOHO LASCO coronagraph, which has captured striking imagery of the comet's active ion tail being swept back by the solar wind. The comet is expected to pull away from the Sun over the coming weeks, potentially improving viewing conditions for Southern Hemisphere observers through early May.",
+        sourceUrl: "https://www.space.com/stargazing/comet-panstarrs-approaches-earth-on-april-26-heres-how-to-catch-it-in-satellite-imagery-this-weekend",
+        timestamp: "2026-04-26T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-25": {
     date: "April 25, 2026",
     stories: [
