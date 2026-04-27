@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-27": {
+    date: "April 27, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon Heavy Roars Back to Life for First Time in 18 Months, Lifting ViaSat-3 F3 to Complete a Global Broadband Constellation",
+        body: "SpaceX's Falcon Heavy rocket lifted off from Launch Complex 39A at NASA's Kennedy Space Center at 10:21 a.m. EDT on April 27, sending Viasat's ViaSat-3 F3 communications satellite toward geostationary transfer orbit — the triple-core vehicle's 12th flight ever and its first in 18 months, generating approximately 5.1 million pounds of thrust at liftoff. ViaSat-3 F3, weighing 6.6 tonnes at launch, is the third and final satellite in the ViaSat-3 mini-constellation; once its electric propulsion system drifts it to geostationary orbit over several months, Viasat expects to deliver more than 1 Tbps of broadband throughput over the Asia-Pacific region, completing a global high-capacity network spanning the Americas, Europe, the Middle East, and Africa. Both expendable side boosters executed coordinated propulsive landings at Landing Zones 1 and 2 at Cape Canaveral Space Force Station, while the center core was expended over the Atlantic as planned.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+        timestamp: "2026-04-27T14:21:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's APOD Captures Comet C/2025 R3 PanSTARRS Framed Behind a Ghostly Web of Satellite Trails in Striking Ten-Minute Exposure",
+        body: "NASA's Astronomy Picture of the Day for April 27 features a dramatic long-exposure photograph by astrophotographer Uli Fehr showing Comet C/2025 R3 (PanSTARRS) — the current naked-eye visitor passing through the inner Solar System — partially veiled behind dozens of glowing satellite trails that crisscross the frame after more than ten minutes of continuous exposure. The image serves as a visual time capsule of the modern night sky: the comet, a natural visitor making its first passage through the inner Solar System in recorded history, competes for attention with the ever-growing constellation of low-Earth orbit broadband satellites whose streaks now routinely intersect long astrophotography exposures. The image has prompted renewed discussion within the astronomy community about the cumulative impact of satellite megaconstellations on wide-field sky surveys and amateur observation, with the International Astronomical Union expected to publish updated mitigation guidance later this year.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260427.html",
+        timestamp: "2026-04-27T04:00:00Z"
+      },
+      {
+        agency: "Roscosmos",
+        category: "Mission",
+        headline: "Progress MS-34 Cargo Freighter Autonomously Docks at ISS Zvezda Port, Delivering New Orlan Spacesuit and 2.5 Tonnes of Supplies to Expedition 74",
+        body: "The uncrewed Progress MS-34 resupply spacecraft autonomously docked to the aft port of the Zvezda service module on the International Space Station at approximately 8:00 p.m. EDT on April 27, completing a two-day rendezvous that began with its Soyuz-2.1a launch from the Baikonur Cosmodrome on April 25. The 7,280-kilogram freighter delivered more than 2,500 kilograms of cargo to the Expedition 74 crew — including food, water, propellant for station reboost manoeuvres, scientific hardware, and a new Orlan spacesuit to replace one approaching the end of its certified service life on the Russian segment. NASA provided live docking coverage on NASA+, Amazon Prime Video, and the agency's YouTube channel, with the operation completing nominally with no reported anomalies.",
+        sourceUrl: "https://spacepolicyonline.com/events/progress-ms-34-docks-with-iss-apr-27-2026-earth-orbit-800-pm-et/",
+        timestamp: "2026-04-27T00:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Responds to Gateway Module Corrosion Claims, Confirms Thales Alenia Fix for HALO and I-HAB Due by End of Q3 2026",
+        body: "The European Space Agency issued a clarifying statement on April 27 in response to remarks made by NASA's Administrator regarding corrosion found in the Gateway lunar-orbit station's HALO and I-HAB habitation modules — both built by Thales Alenia Space — confirming that a root-cause investigation has identified the issue as a combination of the forging process, surface treatment, and the chemical properties of the Aluminum-Lithium 2195 alloy used in the modules' pressure vessel walls. Thales Alenia Space stated its teams are working closely with prime contractor Northrop Grumman and NASA to remediate the affected hardware using NASA-approved processes, with a full fix expected by the end of the third quarter of 2026. The development adds further schedule pressure to the Gateway program, which underpins NASA's Artemis III and IV lunar surface missions, though neither ESA nor NASA characterised the corrosion as mission-threatening provided repairs are completed within the current timeline.",
+        sourceUrl: "https://europeanspaceflight.com/esa-sheds-light-on-nasa-administrators-claims-on-gateway-modules/",
+        timestamp: "2026-04-27T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO Approves Civilian Scientists for Second Gaganyaan Astronaut Batch as Agency Eyes Bharatiya Antariksh Station Crews Beyond 2030",
+        body: "The Indian Space Research Organisation's Astronaut Selection and Management Committee has formally endorsed a mixed second batch of astronaut candidates comprising six military test pilots and four civilian specialists drawn from science, technology, engineering, and mathematics fields — a landmark shift from the agency's initial approach of selecting exclusively from the Indian Air Force for the Gaganyaan human spaceflight program. Civilian candidates will complete the same physical and psychological screening as their military counterparts before entering astronaut training at the Astronaut Training Facility in Bengaluru, though they are projected to fly no earlier than the fourth crewed Gaganyaan mission to allow early flights to validate life-support, re-entry, and mission-operations procedures with experienced military pilots. The expansion reflects ISRO's long-term ambition to staff the planned Bharatiya Antariksh Station — India's own orbital outpost targeted for the early 2030s — with a diverse pool of scientists and engineers capable of conducting sustained microgravity research.",
+        sourceUrl: "https://odishabytes.com/second-batch-breakthrough-isro-recruits-civilians-amid-space-station-plans/",
+        timestamp: "2026-04-27T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Policy",
+        headline: "China Officially Publishes World's First National Commercial Space Standard System, Setting Technical and Safety Benchmarks Across the Entire Industry",
+        body: "The China National Space Administration and the State Administration for Market Regulation formally published the Commercial Space Standard System Version 1.0 on April 27, marking the culmination of a year-long drafting effort that involved more than 80 enterprises and research institutes and resulted in a unified national framework covering launch vehicles, satellites, ground infrastructure, data services, and interoperability protocols for China's rapidly growing commercial space sector. The framework is designed to lower development costs, accelerate regulatory certification timelines, and raise the international competitiveness of Chinese space companies by replacing a fragmented patchwork of enterprise-level standards with coherent national benchmarks — a move that analysts say mirrors the role military standards played in scaling the United States commercial launch industry in the 1990s. Industry groups said the system would particularly benefit small launch vehicle start-ups such as LandSpace, Galactic Energy, and Space Pioneer, which have struggled to navigate inconsistent component qualification requirements across different government procurement bodies.",
+        sourceUrl: "https://orbitaltoday.com/2026/04/27/china-issues-its-commercial-space-standard-system/",
+        timestamp: "2026-04-27T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-26": {
     date: "April 26, 2026",
     stories: [
