@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-28": {
+    date: "April 28, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon Heavy Scrubbed at T-23 Seconds by Gusty Winds; Return-to-Flight Attempt Rescheduled for Tuesday as ViaSat-3 F3 Waits on Pad 39A",
+        body: "A last-second weather hold aborted the count of SpaceX's Falcon Heavy rocket at Launch Complex 39A at Kennedy Space Center on Monday, April 27, just 23 seconds before the close of an 85-minute launch window, as gusty upper-level winds pushed conditions outside the vehicle's flight constraints — leaving the triple-core rocket standing on the pad with the ViaSat-3 F3 geostationary communications satellite still secured to its upper stage. SpaceX identified a new opening on Tuesday, April 28, at approximately 10:17 a.m. EDT (14:17 UTC), with a backup window available Wednesday, April 29, at 10:13 a.m. EDT if conditions again prevent flight. The mission would mark Falcon Heavy's 12th flight overall and its first in 18 months, with both expended side boosters targeting coordinated propulsive landings at Cape Canaveral's Landing Zones 1 and 2 after delivering ViaSat-3 F3 — the third and final satellite in Viasat's global broadband constellation — toward geostationary transfer orbit.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+        timestamp: "2026-04-28T04:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA APOD Showcases CG 30 — A Cometary Globule 1,300 Light-Years Away Where a Protostellar Jet Betrays a Star Being Born Inside a Sculpted Dark Cloud",
+        body: "NASA's Astronomy Picture of the Day for April 28 features a striking image of CG 30, one of a grouping of light-year-sized cometary globules located roughly 1,300 light-years from Earth near the borders of the southern constellations Puppis and Vela — bright-rimmed, cloud-like structures whose swept-back shapes have been carved by energetic ultraviolet radiation from nearby hot stars and may have been further sculpted by the ancient shock wave of the Vela supernova remnant. Inside the dense, dark head of CG 30, a cold core of gas and dust is collapsing toward stellar ignition, revealing its presence through a small reddish glow at the globule's tip — the telltale signature of energetic jets from a protostar in the earliest stages of formation, analogous to Herbig-Haro objects seen across star-forming regions. The image illustrates the self-destructive nature of stellar birth: UV radiation and protostellar jets from both nearby and embedded young stars gradually erode the very clouds that birthed them, giving each cometary globule a finite lifespan as a cosmic nursery.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260428.html",
+        timestamp: "2026-04-28T04:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "NASA Chief Isaacman Faces Senate Grilling Over Trump's Proposed 23% Budget Cut as Science Directorate Stares Down a 46% Reduction to $3.9 Billion",
+        body: "NASA Administrator Jared Isaacman appeared before the Senate Appropriations Subcommittee on Commerce, Justice, Science, and Related Agencies on Tuesday, April 28, to defend the administration's fiscal year 2027 budget request of $18.8 billion — a roughly 23 percent reduction from the agency's FY2026 enacted level — with the deepest proposed cut falling on the Science Mission Directorate, which faces a 46 percent decrease to $3.9 billion that would affect planetary science, heliophysics, Earth observation, and astrophysics programs. Pressed by senators on which missions had effectively been canceled by omission from budget documents, Isaacman maintained 'we haven't canceled anything yet,' arguing that missions in formulation could survive on coverage from existing operational assets — a position that drew skepticism from both Republican and Democratic members of the subcommittee. Congressional opposition remains bipartisan and vocal, with House Science Committee Chairman Brian Babin noting that Congress had rejected similar proposed cuts in FY2026 and expressing confidence that 'they are going to be rejected again' — a sentiment echoed by Ranking Member Zoe Lofgren and a coalition of advocacy groups urging the restoration of the science budget.",
+        sourceUrl: "https://www.appropriations.senate.gov/hearings/a-review-of-the-presidents-fiscal-year-2027-budget-request-for-the-national-aeronautics-and-space-administration",
+        timestamp: "2026-04-28T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "Artemis III SLS Core Stage Completes 900-Mile Barge Voyage to Kennedy Space Center, Marking a Critical Milestone Toward the First Crewed Moon Landing Since 1972",
+        body: "NASA's Space Launch System core stage for the Artemis III mission arrived at Kennedy Space Center on April 27 after completing a 900-mile sea voyage aboard the Pegasus barge from NASA's Michoud Assembly Facility in New Orleans, where technicians installed all four RS-25 main engines — the towering 27-story tank structure will now be processed through structural fit checks, functional testing, and hazardous propellant operations before being stacked in the Vehicle Assembly Building with the twin solid rocket boosters and Orion spacecraft. The delivery accelerates the Artemis III processing schedule and arrives on the heels of NASA's initial post-flight assessment of Artemis II, released last week, which confirmed that SLS and Orion performed within design parameters during April's crewed lunar flyby and required no major design changes before the planned Moon landing attempt targeted for no earlier than 2027. Artemis III will return humans to the lunar surface for the first time since Apollo 17 in December 1972, with the mission profile calling for a SpaceX Human Landing System Starship to ferry two astronauts from a near-rectilinear halo orbit to the lunar south pole and back.",
+        sourceUrl: "https://www.nasa.gov/blogs/missions/2026/04/27/nasas-artemis-core-stage-arrives-at-kennedy/",
+        timestamp: "2026-04-28T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Shenzhou-23 Crew Enters Final Countdown at Jiuquan as Tiangong Prepares to Welcome Its 11th Crewed Expedition on Long March 2F",
+        body: "China's Manned Space Agency is conducting final launch preparations for Shenzhou-23 at the Jiuquan Satellite Launch Center, with a three-person taikonaut crew completing medical quarantine and the Long March 2F/G rocket passing its final technical readiness reviews ahead of an imminent liftoff — the 11th crewed flight to the Tiangong space station and the second planned crewed mission of 2026. The Shenzhou-23 mission carries particular long-duration significance: one crew member is planned to remain aboard Tiangong for approximately a full year, leaving an empty return seat that will be used by a Pakistani short-stay astronaut candidate launching on Shenzhou-24 in October 2026 — which would make a Pakistani national both the first foreign visitor to Tiangong and the first Pakistani to reach Earth orbit. Once Shenzhou-23 docks at the Tianhe module's forward port, the current resident crew will hand over ongoing science experiments, maintenance records, and station operations before undocking for re-entry and a parachute landing in Inner Mongolia.",
+        sourceUrl: "https://spacelaunchnow.me/launch/long-march-2fg-shenzhou-23/",
+        timestamp: "2026-04-28T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-27": {
     date: "April 27, 2026",
     stories: [
