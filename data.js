@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-29": {
+    date: "April 29, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon Heavy Returns to Flight After 18-Month Hiatus Carrying ViaSat-3 F3 Broadband Satellite to Geosynchronous Orbit",
+        body: "SpaceX's Falcon Heavy rocket lifted off from Launch Complex 39A at Kennedy Space Center on Wednesday morning, April 29, marking the triple-core rocket's return to flight after an 18-month stand-down and its 12th mission overall. The rocket carried ViaSat-3 F3, a 6.6-tonne high-throughput communications satellite destined for geosynchronous orbit to serve customers across the Asia-Pacific region, with the upper stage targeting payload separation approximately five hours after liftoff. The mission followed a weather scrub on April 27 and a second scrub on April 28, before successfully launching within an 85-minute window opening at 10:13 a.m. EDT. ViaSat-3 F3 completes the three-satellite ViaSat-3 global broadband constellation, rounding out coverage over the Asia-Pacific to pair with F1 over the Americas and F2 over Europe, the Middle East, and Africa.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
+        timestamp: "2026-04-29T14:13:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Sunspot Region AR4420 Fires Three M-Class Flares in Under Two Hours on April 29 as Fast Solar Wind Eyes Earth by May 1",
+        body: "Sunspot region AR4420 erupted with three M-class solar flares in rapid succession on April 29, capping a day of intense solar activity that also included more than 20 C-class events, according to real-time monitoring via NASA's Solar Dynamics Observatory and NOAA's Space Weather Prediction Center. Two large coronal holes are simultaneously visible on the solar disk; the fast solar wind they are funneling into interplanetary space is forecast to arrive at Earth on approximately April 30 to May 1, potentially triggering minor to moderate geomagnetic storm conditions and aurora sightings at elevated mid-latitudes. The most powerful flare of the sequence reached M6 intensity, causing a brief high-frequency radio blackout over sunlit portions of Earth. Scientists are watching AR4420 closely as it rotates toward disk center, where future eruptions would be more directly geoeffective.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-04-29T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Holds Prelaunch News Conference for Astronaut Anil Menon Ahead of July 14 Soyuz MS-29 Mission to ISS with Cosmonauts Dubrov and Kikina",
+        body: "NASA hosted a prelaunch news conference at 1:45 p.m. EDT on April 29 at Johnson Space Center in Houston, giving astronaut Anil Menon his public preview before his July 14 first spaceflight — the Soyuz MS-29 mission that will carry him and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina to the International Space Station for an approximately eight-month stay supporting Expeditions 74 and 75. Menon, a physician and former SpaceX flight surgeon who helped crew the inaugural commercial Dragon mission in 2020, was selected to NASA's 2021 astronaut class and will be the first Indian-American to fly to the station aboard a Soyuz spacecraft. His assignment underscores the U.S.–Russia crew-exchange agreement that keeps both nations' astronauts rotating to the ISS despite broader geopolitical strains, and comes weeks after the Artemis II crew's historic crewed lunar flyby reinforced American space dominance.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-to-discuss-upcoming-launch-mission/",
+        timestamp: "2026-04-29T17:45:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Policy",
+        headline: "China Releases First Commercial Space Standard System Covering 1,000-Plus Items to Unify Its Booming Private Launch and Satellite Industry",
+        body: "The China National Space Administration and the State Administration for Market Regulation jointly released the Commercial Space Standards System (Version 1.0) on April 24, establishing a sweeping regulatory and technical framework spanning six branches — industry governance, research and development, manufacturing, launch and telemetry, space application services, and general facilities — with plans to ultimately codify more than 1,000 individual standard items. The document draws on China's seven decades of state-led space development to create market-oriented benchmarks that enable the rapidly growing commercial sector, which executed dozens of orbital launches in 2025, to develop and operate spacecraft and rockets on a level, interoperable playing field. Analysts view the system as a critical step toward replicating the cost-efficiency gains achieved by U.S. commercial players, as Chinese startups including LandSpace, Galactic Energy, and CAS Space accelerate their own reusability programs. Select provisions are deliberately aligned with international norms to facilitate global commercial partnerships.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/n6465652/n6465653/c10744882/content.html",
+        timestamp: "2026-04-29T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO Plans to Open Future Gaganyaan Missions to Civilian STEM Researchers After Initial Military Test-Pilot Flights Validate Systems",
+        body: "India's space agency announced plans to extend Gaganyaan crewed missions beyond the initial cadre of Indian Air Force test pilots to include civilian scientists and researchers with strong STEM backgrounds, signaling ambitions to evolve the program from a demonstration exercise into a sustained national orbital research capability. The roadmap mirrors precedents set by NASA's payload specialist program and JAXA's visiting researcher flights, where domain experts conduct hands-on experiments that require human presence rather than remote operation. Immediate priorities remain the uncrewed Gaganyaan-1 mission — carrying the Vyommitra humanoid robot to validate life-support and re-entry systems — targeted for the second half of 2026, followed by the first crewed flight in 2027. ISRO also completed Mission MITRA crew-psychology simulations in early April to help define astronaut selection criteria for future civilian candidate pools.",
+        sourceUrl: "https://www.indiatvnews.com/science/isro-to-include-civilian-astronauts-in-future-gaganyaan-missions-stem-experts-likely-to-join-2026-04-27-1039065",
+        timestamp: "2026-04-29T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA/Hubble Publishes April Picture of the Month: 'Starry Spiral in a Familiar Neighbourhood' Capturing a Nearby Galaxy in Stunning Detail",
+        body: "The ESA/Hubble team released its April 2026 Picture of the Month on April 29, titled 'Starry Spiral in a Familiar Neighbourhood,' presenting a richly detailed portrait of a nearby spiral galaxy rendered in visible and near-infrared light by Hubble's Wide Field Camera 3 and Advanced Camera for Surveys. The image resolves individual star-forming knots, dark dust lanes, and clusters of hot blue massive stars tracing the galaxy's arms — structural features that serve as benchmarks for models of disk galaxy evolution and star formation rate density. Hubble's precise astrometry of Cepheid variable stars in nearby spirals like this one remains central to the ongoing effort to reconcile the two main methods of measuring the Hubble constant, a tension that has persisted for over a decade and may hint at new physics beyond the standard cosmological model.",
+        sourceUrl: "https://esahubble.org/",
+        timestamp: "2026-04-29T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-28": {
     date: "April 28, 2026",
     stories: [
