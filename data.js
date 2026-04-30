@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-04-30": {
+    date: "April 30, 2026",
+    stories: [
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Ariane 64 Deploys 32 Amazon Project Kuiper Satellites on VA267, Marking Only the Second Flight of Europe's Heavy-Lift Rocket Variant",
+        body: "Europe's Ariane 6 rocket in its Ariane 64 heavy-lift configuration lifted off from the Guiana Space Centre in Kourou, French Guiana, at 08:57 UTC on Thursday, April 30, deploying a stack of 32 Amazon Leo broadband satellites into low Earth orbit — only the second flight of the four-strap-on-booster Ariane 64 variant. The mission, designated VA267, is part of Amazon's Project Kuiper constellation buildout, which aims to orbit 3,200 satellites across more than 80 total launches using Ariane 6, Falcon 9, and United Launch Alliance vehicles, with ArianeGroup contracted for 18 of those flights. The successful deployment further cements Ariane 6's operational rhythm and bolsters European independent access to space as Amazon races to challenge SpaceX's Starlink for global broadband market share.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-launch-32-amazon-leo-satellites-va267",
+        timestamp: "2026-04-30T08:57:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Delivers 24 Starlink Group 17-36 Satellites from Vandenberg in SpaceX's 42nd Starlink Mission of 2026 as Booster B1093 Nails Its 13th Landing",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base in California at 7:42 p.m. PDT on April 29 (02:42 UTC April 30), delivering 24 Starlink Group 17-36 satellites to low Earth orbit in the company's 42nd Starlink mission of 2026. Booster B1093, flying for the 13th time, executed a successful propulsive landing, extending SpaceX's remarkable streak of first-stage recoveries. The deployment adds to SpaceX's Starlink megaconstellation, which continues to serve millions of broadband customers in more than 100 countries worldwide and remains the most-launched satellite network in history.",
+        sourceUrl: "https://spaceflightnow.com/2026/04/29/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-6/",
+        timestamp: "2026-04-30T02:42:49Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA APOD 'Waves on Titan' Showcases New Model Revealing That a Light Breeze on Saturn's Moon Would Raise Taller, Slower Swells Than on Earth",
+        body: "NASA's Astronomy Picture of the Day for April 30 features a visualization titled 'Waves on Titan,' based on a new scientific model exploring how surface liquids behave under the exotic conditions of Saturn's largest moon. Researchers found that a light breeze on Titan would generate taller, slower-moving waves than an equivalent wind on Earth would produce, owing to Titan's methane- and ethane-filled hydrocarbon seas, its surface gravity roughly one-seventh of Earth's, and its denser atmospheric pressure. Titan is the only body in the solar system besides Earth known to host stable liquid lakes and seas on its surface, making wave-behavior modeling a key input for NASA's Dragonfly rotorcraft lander, which is targeting a landing in Titan's Shangri-La dune fields in the mid-2030s.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260430.html",
+        timestamp: "2026-04-30T04:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Moon Mark 2 Lunar Lander Passes Launch Separation and Communications Tests at Merritt Island, Setting Up Wet Dress Rehearsal as Moon Mission Approaches",
+        body: "Blue Origin confirmed this week that its Blue Moon Mark 2 uncrewed lunar lander has passed a significant round of pre-launch environmental verification tests at its processing facility on Merritt Island, Florida, successfully validating both the launch vehicle separation system — which governs how the spacecraft detaches from its carrier rocket — and onboard communications systems under simulated launch conditions. A wet dress rehearsal has been identified as the next major milestone before the lander targets a potential uncrewed Moon landing attempt in 2026 to support NASA's Artemis program. The encouraging progress arrives as Blue Origin works to rebuild confidence following the April 19 New Glenn upper-stage mishap that stranded an AST SpaceMobile satellite in the wrong orbit and triggered a formal FAA investigation.",
+        sourceUrl: "https://www.yahoo.com/news/articles/blue-origin-one-step-closer-131948662.html",
+        timestamp: "2026-04-30T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Outreach",
+        headline: "China's 11th Space Day Celebrations Continue in Chengdu Through May 5, Featuring First-Ever Joint Display of Chang'e-5 and Chang'e-6 Lunar Samples",
+        body: "The 11th China Space Day celebrations, centered in Chengdu, Sichuan Province, are continuing through May 5 under the theme 'A Seven-Decade Celestial Path, A Shared Cosmos Faith,' featuring a landmark public exhibition of lunar samples collected from both the near and far sides of the Moon by the Chang'e-5 and Chang'e-6 missions — the first time specimens from both lunar hemispheres have been displayed together. Delegations from 26 countries, regions, and international organizations are attending alongside Chinese officials and academicians, with Brazil named as the guest of honor to underscore deepening bilateral cooperation in space. The event also served as the backdrop for CNSA to detail its ambitious 2026 mission roster, including the imminent crewed Shenzhou-23 launch, ongoing Tianwen-2 asteroid operations, and the planned debut flights of several domestic reusable rocket systems — all as China marks 70 years since it began building its space industry.",
+        sourceUrl: "https://english.news.cn/20260424/04d959398a724e828d261fa41d9b93f4/c.html",
+        timestamp: "2026-04-30T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Policy",
+        headline: "ISRO and South Korea's KASA Sign Space Cooperation MOU at Korea–India Space Day, Advancing Bilateral Ties in Satellites, Launches, and Commercial Applications",
+        body: "India's ISRO and South Korea's Korea AeroSpace Administration (KASA) formalized expanded bilateral cooperation this week by signing a memorandum of understanding covering satellite technology, launch systems, and space applications — an agreement highlighted at a 'Korea–India Space Day' event that convened startups, industry leaders, and research institutions from both nations. The partnership reflects India's growing ambition to position itself as a central node in Asia's emerging commercial space ecosystem, complementing existing cooperation agreements with NASA, ESA, JAXA, and CNES. The MOU arrives as ISRO prepares for one of its most consequential launch schedules in years, with the uncrewed Gaganyaan-1 mission and the commissioning of the SSLV Launch Complex both targeted for the second half of 2026.",
+        sourceUrl: "https://en.channeliam.com/2026/04/26/india-south-korea-space-collaboration-isro-kasa/",
+        timestamp: "2026-04-30T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-29": {
     date: "April 29, 2026",
     stories: [
