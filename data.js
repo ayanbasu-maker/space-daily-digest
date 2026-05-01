@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-01": {
+    date: "May 1, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Lofts 29 Starlink Satellites from Cape Canaveral on May Day as Booster Notches Its 31st Flight and Nails Droneship Landing",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida, at 1:33 p.m. EDT on May 1, carrying 29 Starlink satellites to low Earth orbit in the company's 43rd Starlink mission of 2026. The first-stage booster, on its 31st flight — having previously launched CRS-24, Eutelsat HOTBIRD 13F, OneWeb 1, SES-18, SES-19, and 26 Starlink missions — executed a successful propulsive landing on the droneship A Shortfall of Gravitas stationed in the Atlantic Ocean. The deployment continues the relentless buildout of SpaceX's Starlink broadband megaconstellation, which now serves customers across more than 100 countries and remains the most-launched satellite network in history.",
+        sourceUrl: "https://spacecoastdaily.com/2026/04/spacex-schedules-starlink-mission-rocket-launch-for-friday-may-1-from-cape-canaveral/",
+        timestamp: "2026-05-01T17:33:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "Artemis III SLS Core Stage Moves Inside Kennedy's Vehicle Assembly Building as Moon Rocket Stack Assembly Officially Begins for 2027 Launch",
+        body: "Engineers at NASA's Kennedy Space Center rolled the Artemis III Space Launch System core stage into the Vehicle Assembly Building on April 28, just one day after the 212-foot-tall rocket section arrived by Pegasus barge from NASA's Michoud Assembly Facility in New Orleans following a 900-mile sea voyage. Technicians will lift the core stage vertically into High Bay 2, where it will be mated with the engine section and boat-tail integrated at Michoud in August 2025 — the first time full core stage assembly operations have taken place at Kennedy rather than at the manufacturing site. Artemis III, now redesigned to test rendezvous and docking with commercial landers in Earth orbit rather than a direct lunar surface landing, is targeting a 2027 launch as the program pivots toward Artemis IV for the first crewed lunar touchdown in 2028.",
+        sourceUrl: "https://www.nasa.gov/blogs/missions/2026/04/28/nasas-artemis-iii-moon-rocket-hardware-arrives-artemis-ii-capsule-returns-to-kennedy/",
+        timestamp: "2026-04-28T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "ESA Confirms SMILE Solar-Wind Science Satellite Will Launch May 19 on Vega-C After Subsystem Technical Review Clears the Rocket for Flight",
+        body: "The European Space Agency announced that the joint ESA–Chinese Academy of Sciences Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) satellite is confirmed for launch on May 19, 2026, at 04:52 BST on a Vega-C rocket from the Guiana Space Centre in Kourou, French Guiana. The date was reset after a precautionary stand-down to investigate a technical issue identified on the production line of a Vega-C subsystem component; following thorough inspection, all partners have cleared the vehicle. SMILE carries an X-ray camera — the first ever capable of imaging Earth's magnetosphere in X-rays — alongside an ultraviolet imager that will monitor the northern lights continuously for up to 45 hours, returning data from a highly elliptical orbit that reaches 121,000 km from Earth to reveal how the solar wind drives geomagnetic storms.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-01T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Targets May Return to Orbit with GSLV F17 Carrying EOS-05 After PSLV-C62 Failure Left Five-Payload Backlog at Start of 2026-27 Fiscal Year",
+        body: "Indian Space Research Organisation Chairman V. Narayanan confirmed this week that ISRO is targeting a return to orbital launches in May 2026 following the PSLV-C62 upper-stage failure in January — the second consecutive failure for India's workhorse rocket — with the GSLV F17 mission carrying the EOS-05 Earth observation satellite slated to fly first. The agency enters the 2026-27 financial year with a backlog of five payloads queued behind EOS-05, including the PSLV-C63 mission with the TDS-01 technology demonstrator and a PSLV N1 flight, representing the most consequential near-term recovery schedule in years. The return to flight is critical for restoring India's launch cadence before the Gaganyaan-1 uncrewed orbital test — carrying the Vyommitra humanoid robot — targeted for the second half of 2026.",
+        sourceUrl: "https://www.news9live.com/science/isro-to-return-to-rocket-launches-in-may-2026-2952275",
+        timestamp: "2026-05-01T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Advances Shenzhou-23 Crew Rotation and Tianwen-2 Asteroid Close Approach as CNSA Touts Its Most Intensive Space Mission Year on Record",
+        body: "China's crewed Shenzhou-23 spacecraft is advancing toward its mid-2026 launch aboard a Long March 2F rocket from the Jiuquan Satellite Launch Center, targeting a standard crew rotation at the Tiangong space station that will relieve the Shenzhou-22 crew and sustain the uninterrupted human habitation China has maintained since 2021. Simultaneously, the Tianwen-2 spacecraft is conducting its first close approach and observation campaign at near-Earth asteroid Kamoʻoalewa (2016 HO3), executing the sample-collection phase of China's first asteroid mission before the probe embarks on a flyby of main-belt comet 311P/PANSTARRS in the 2030s. CNSA officials this week reaffirmed that 2026 constitutes China's most ambitious single-year space manifest, encompassing Shenzhou-23, the Tianwen-2 asteroid campaign, reusable rocket flight demonstrations, and groundwork for the Xuntian space telescope's December launch.",
+        sourceUrl: "https://english.news.cn/20260417/500a6f9165d746c88ab859385b2d347c/c.html",
+        timestamp: "2026-05-01T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-04-30": {
     date: "April 30, 2026",
     stories: [
