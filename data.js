@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-02": {
+    date: "May 2, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Lifts Off from Vandenberg with Korea's CAS500-2 Earth-Observation Satellite on 45-Payload Rideshare as Booster Nails Landing Zone 4 Return",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base in California late Saturday night, carrying the Korean Aerospace Research Institute's CAS500-2 compact Earth-observation satellite as the primary payload alongside 44 secondary rideshare payloads — making it one of SpaceX's most diverse rideshare manifests of 2026. CAS500-2 is a 500-kilogram-class optical imaging satellite headed for a sun-synchronous low Earth orbit, where it will capture panchromatic and multispectral imagery of Earth's surface using an advanced onboard sensor system, complementing KARI's growing Earth-observation infrastructure. The Falcon 9 first-stage booster executed a propulsive return to Landing Zone 4 at Vandenberg, producing sonic booms heard across the Santa Barbara area roughly eight to ten minutes after liftoff. NanoAvionics contributed three milestone rideshare payloads to the mission, underscoring the rapid maturation of the small-satellite commercial sector.",
+        sourceUrl: "https://www.vandenberg.spaceforce.mil/News/Article-Display/Article/4476202/vsfb-to-support-midnight-launch-and-landing-may-2-3/",
+        timestamp: "2026-05-03T06:59:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "SpaceX Targets Mid-May Starship V3 Debut as Flight 12 Opens Window May 12 at OLP2 — First Launch from New Pad with Raptor 3-Powered Booster 19 and Ship 39",
+        body: "SpaceX has confirmed that Starship Flight 12 is targeting a launch window opening May 12 at 22:30 UTC from the newly completed Orbital Launch Pad 2 at Starbase, Texas — the first Starship mission to lift off from OLP2 and the debut of the all-new V3 architecture pairing Booster 19 and Ship 39, both powered entirely by next-generation Raptor 3 engines. The fully stacked V3 vehicle stands 408 feet tall, about four feet taller than its V2 predecessor, and is designed to deliver more than 100 metric tons to low Earth orbit — nearly triple the V2's demonstrated payload capacity — thanks to higher chamber pressure and an improved propellant mass fraction. The mission will follow a suborbital arc with both the Super Heavy booster and Starship upper stage targeting splashdown rather than a tower catch, a deliberate step back in operational ambition to validate the new architecture before resuming the booster-catch milestones achieved in Flight 11. Daily two-hour windows remain available through May 18 should earlier attempts scrub.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+        timestamp: "2026-05-02T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Accelerates SpaceX CRS-34 Dragon Cargo Mission to May 12 as Revised ISS 2026 Flight Plan Reflects Baikonur Disruptions and Post-Artemis II Reshuffling",
+        body: "NASA and its international partners published a revised International Space Station 2026 flight plan this week, with the most consequential change being the acceleration of the SpaceX Commercial Resupply Services-34 Dragon cargo mission from its original June target to a May 12 launch from Space Launch Complex 40 at Cape Canaveral Space Force Station, Florida. The Dragon spacecraft will carry more than 6,400 pounds of science payloads and crew supplies, arriving at the station in under two days — a schedule change driven in part by disruptions at the Baikonur Cosmodrome that complicated Russian cargo logistics earlier in the year. The updated manifest also accounts for broader mission reoptimization following the Artemis II crew's successful return to Earth in April, as NASA redistributes resources toward ISS Expedition 74 and 75 crew training and the Artemis III core stage integration now underway in the Vehicle Assembly Building at Kennedy Space Center.",
+        sourceUrl: "https://www.nasa.gov/blogs/commercialcrew/2026/05/01/nasa-partners-update-international-space-station-2026-flight-plan/",
+        timestamp: "2026-05-01T16:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Eta Aquariid Meteor Shower Nears May 5–6 Peak as Halley's Comet Debris Trail Promises 10–30 Shooting Stars per Hour in Northern Predawn Skies",
+        body: "NASA's May 2026 skywatching guide highlights the approaching Eta Aquariid meteor shower, which reaches its predicted maximum at 03:51 UTC on May 5 as Earth passes through the debris trail left by Halley's Comet — generating fast, bright meteors that frequently leave glowing persistent trains across the sky. Northern Hemisphere observers can expect roughly 10 to 30 meteors per hour under dark conditions, though the afterglow from May 1's Full Moon will still brighten the sky and suppress fainter streaks for the next several nights. Southern Hemisphere skywatchers enjoy a notably richer display, with up to 50 meteors per hour possible from dark sites where the radiant rises higher in the predawn sky. NASA recommends lying flat on one's back and facing east-southeast in the final two hours before local sunrise, with no optical aid needed — the shower remains active from April 19 through late May.",
+        sourceUrl: "https://science.nasa.gov/solar-system/whats-up-may-2026-skywatching-tips-from-nasa/",
+        timestamp: "2026-05-02T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Active Sample-Site Survey at Asteroid Kamoʻoalewa While Shenzhou-23 Crew Rotation Preparations Advance at Jiuquan for Mid-2026 Launch",
+        body: "China's Tianwen-2 spacecraft has entered its active close-proximity observation and sample-site characterization phase at near-Earth asteroid Kamoʻoalewa (2016 HO3), marking the first time CNSA has conducted sustained orbital operations around a small solar system body — a milestone that ground controllers at the Beijing Aerospace Control Center describe as validating China's deep-space autonomous navigation capabilities ahead of more ambitious sample-return and Mars missions in the 2030s. The roughly 50-meter-wide quasi-satellite, which orbits in near resonance with Earth, is being mapped in detail to select optimal touchdown zones before Tianwen-2 attempts sample collection and then departs for a flyby of main-belt comet 311P/PANSTARRS. Back on Earth, integration and testing for the crewed Shenzhou-23 mission continue at Jiuquan Satellite Launch Center, with a Long March 2F rocket targeting a mid-2026 launch to relieve the Shenzhou-22 crew and sustain the uninterrupted human presence China has maintained aboard the Tiangong space station since 2021.",
+        sourceUrl: "https://english.news.cn/20260417/500a6f9165d746c88ab859385b2d347c/c.html",
+        timestamp: "2026-05-02T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-01": {
     date: "May 1, 2026",
     stories: [
