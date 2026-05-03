@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-03": {
+    date: "May 3, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "SpaceX Completes Pre-Flight Checks on Version 3 Starship at OLP2 as FAA Clears Flight 12 for May 12 Opening Window — First Launch from New Pad with Raptor 3 Stack",
+        body: "SpaceX has wrapped the final round of pre-flight static fire tests and propellant loading verifications for its all-new Version 3 Starship, with the fully stacked 408-foot vehicle now standing at the newly completed Orbital Launch Pad 2 at Starbase in Boca Chica, Texas, and the Federal Aviation Administration having granted flight-safety authorization for Flight 12's first available window on May 12 at 22:30 UTC. Booster 19, powered by 33 Raptor 3 engines, and Ship 39 both completed full-duration static fires in mid-April, with follow-on spin prime tests confirming stable propellant conditioning across both stages and resolving all pre-ignition anomalies logged during the campaign. A Federal Communications Commission communications license remains valid through October 2026, clearing the final regulatory hurdle for the inaugural V3 flight from OLP2 — a second launch complex that structurally enables SpaceX to prepare one Starship while another is being serviced, removing a critical throughput bottleneck from the program. The V3 architecture, pairing Booster 19 and Ship 39 for the first time, is designed to deliver more than 100 metric tons to low Earth orbit on fully reusable flights — nearly triple the payload capacity demonstrated by its V2 predecessor.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-next-gen-version-3-starship-ahead-of-landmark-may-test-flight-photos",
+        timestamp: "2026-05-03T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA APOD 'Trifid Pillars and Jets' Showcases Hubble View of Photoevaporating Dust Pillars and a Protostellar Jet Nearly One Light-Year Long Inside Nebula M20",
+        body: "NASA's Astronomy Picture of the Day for May 3 features a striking Hubble Space Telescope image titled 'Trifid Pillars and Jets,' capturing the end of a towering gas-and-dust pillar deep inside the Trifid Nebula (Messier 20) in Sagittarius, roughly 9,000 light-years from Earth. Intense ultraviolet radiation from a massive off-frame star is slowly photoevaporating the dense pillar column — a process expected to consume the structure over tens of thousands of years — while simultaneously illuminating a narrow protostellar jet that extends nearly a light-year to the upper left of the frame. The jet originates from a young stellar object buried inside the pillar; as the surrounding dusty envelope is stripped away, this nascent star will gradually be exposed, making the Trifid a living laboratory for studying triggered star formation in molecular clouds. Many of the bright point sources visible in the image are themselves newly formed stars embedded in the nebula, and the image is credited to NASA, ESA, and STScI from archival Hubble Advanced Camera for Surveys data.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260503.html",
+        timestamp: "2026-05-03T04:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Confirms Artemis III Will Fly as Earth-Orbit Lander Demo in Late 2027 Rather Than Lunar Landing — First Moonwalks Now Targeting Artemis IV in 2028",
+        body: "NASA Administrator Jared Isaacman confirmed to the House Appropriations Committee that Artemis III will target a late-2027 launch as an Earth-orbit rendezvous and docking demonstration rather than a crewed lunar surface landing, marking the latest schedule and mission-profile change driven by concurrent delays in SpaceX's Starship Human Landing System and Blue Origin's Blue Moon lander. Under the revised plan, the SLS-launched Orion crew capsule will rendezvous with both commercial landers in low Earth orbit to verify docking interfaces, spacesuit fit checks using the Axiom AxEMU, and interoperability — a high-fidelity test intended to de-risk the subsequent Artemis IV mission, now the earliest opportunity for a crewed lunar touchdown and targeting 2028. Neither Starship HLS nor Blue Moon currently incorporates operational life-support systems for crewed habitation; cryogenic propellant boil-off management and in-space fuel transfer also remain undemonstrated at scale, challenges that drove the mission redesign. Both vendors have provided schedules confirming they can support a late-2027 rendezvous ahead of a landing bid the following year.",
+        sourceUrl: "https://www.theregister.com/2026/05/01/artemis_iii_aims_for_late/",
+        timestamp: "2026-05-01T16:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "FAA Grounds New Glenn Indefinitely After NG-3 Upper Stage Failure and Undisclosed 2CAT Facility Explosion Create Dual Investigation Fronts for Blue Origin",
+        body: "The Federal Aviation Administration has issued an indefinite launch moratorium for Blue Origin's New Glenn rocket following two overlapping safety events: the April 19 NG-3 mission's failure to deliver AST SpaceMobile's BlueBird 7 satellite to its intended orbit, and a separate structural anomaly at Blue Origin's Second Stage Cleaning and Test facility at Exploration Park in Florida discovered via satellite imagery. CEO Dave Limp attributed the NG-3 orbital insertion failure to one of the two BE-3U upper-stage engines producing insufficient thrust during the second burn, leaving BlueBird 7 in an orbit too low to salvage — AST SpaceMobile has since written the spacecraft off entirely. Open-source satellite imagery subsequently revealed a significant hole in the roof of the 2CAT building, consistent with an undisclosed pressure-test anomaly involving a second-stage propellant tank that reportedly occurred on or around April 9, weeks before the launch failure. The FAA will oversee every step of Blue Origin's investigation and must approve all corrective actions before New Glenn can fly again, putting the company's stated goal of up to 12 New Glenn missions in 2026 in serious jeopardy.",
+        sourceUrl: "https://satnews.com/2026/04/30/faa-grounds-blue-origin-following-new-glenn-upper-stage-failure-and-facility-anomaly/",
+        timestamp: "2026-04-30T18:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Mission",
+        headline: "ISRO Details Gaganyaan Astronaut Training Milestones and Crew Module Qualification as Uncrewed Vyommitra Mission Holds H2 2026 Target",
+        body: "India's ISRO published a comprehensive Gaganyaan readiness update confirming that all four prime crew astronauts — Prashanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap, and Shubhanshu Shukla — are in the final phase of mission-specific training using a full-scale Static Mock-up Simulator that replicates the crew module interior, with completed sessions lasting 2, 6, 10, and 18 hours to validate crew reachability, life-support operations, emergency egress, and onboard communications. An upgraded Virtual Reality Training Simulator introduced in early 2026 allows the four astronauts to rehearse orbital maneuvers, rendezvous procedures, and contingency scenarios in immersive full-fidelity environments, and the agency reports that more than 8,000 ground qualification tests on the crew module and service module have now been completed, clearing all structural, propulsion, and environmental control systems for flight. The Gaganyaan-1 uncrewed orbital mission — carrying the Vyommitra semi-humanoid robot to validate life-support systems ahead of human flight — remains on track for the second half of 2026, and ISRO says the crewed Gaganyaan-2 mission, which would make India only the fourth nation to independently send humans to orbit, is currently projected for no earlier than 2028.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/05/isro-details-gaganyaan-astronaut.html",
+        timestamp: "2026-05-03T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-02": {
     date: "May 2, 2026",
     stories: [
