@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-04": {
+    date: "May 4, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "Ireland Becomes 65th Nation to Sign Artemis Accords at NASA Headquarters Ceremony as Administrator Isaacman and Irish Ambassador Geraldine Byrne Nason Formalize Commitment to Responsible Lunar Exploration",
+        body: "NASA Administrator Jared Isaacman hosted Ambassador of Ireland to the United States Geraldine Byrne Nason, Ireland's Minister for Enterprise, Tourism and Employment Peter Burke T.D., and U.S. State Department officials at a ceremony at NASA Headquarters in Washington, D.C., on Monday afternoon, where Ireland formally became the 65th signatory of the Artemis Accords. The Accords, first established in 2020 during President Trump's first administration and co-led by NASA and the State Department, enumerate ten core principles governing responsible, transparent, and peaceful civil space exploration on the Moon, Mars, and beyond — including open publication of scientific data, interoperability of rescue systems, and avoidance of harmful interference with other nations' operations. Ireland's signature extends the accords' reach across Europe at a moment when the program is building momentum for the Artemis III and IV crewed missions and broadening its coalition beyond the original eight founding nations. The ceremony follows similar signings by several European nations in 2025 and early 2026 and underscores growing multilateral alignment around the norms that NASA argues are essential for an era of sustained human activity beyond low Earth orbit.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-ireland-artemis-accords-signing/",
+        timestamp: "2026-05-04T19:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA APOD 'Superplumes Inside Earth' Visualizes Two Continent-Sized Low-Shear-Velocity Provinces Whose Origins — Moon-Forming Collision Debris or Ancient Tectonic Plate Graveyards — Remain an Open Mystery",
+        body: "NASA's Astronomy Picture of the Day for May 4 features an animated scientific visualization titled 'Superplumes Inside Earth,' highlighting two enormous anomalous masses lurking deep within Earth's mantle — structures identified through seismic tomography by charting how earthquake waves travel at different speeds through regions of varying temperature and composition. Known formally as large low-shear-velocity provinces, or LLSVPs, the superplumes sit near the core-mantle boundary beneath Africa and the Pacific Ocean, each roughly continent-sized, and have significantly different acoustic properties than the surrounding mantle. Two leading hypotheses compete to explain them: one holds they are sunken debris from the giant planetary impact that created Earth's Moon approximately 4.5 billion years ago, while the other proposes they are ancient tectonic plates that subducted into the mantle over billions of years and accumulated at the base. Regardless of origin, the LLSVPs are thought to drive deep mantle upwelling plumes that reach Earth's surface as hotspots, potentially giving rise to volcanic island chains such as Hawaii.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260504.html",
+        timestamp: "2026-05-04T04:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA-China SMILE Satellite Encapsulated in Vega-C Fairing at Kourou with 15 Days to May 19 Launch — First Spacecraft Ever to Image Earth's Magnetosphere in X-Rays",
+        body: "The joint European Space Agency and Chinese Academy of Sciences Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) has been fully fuelled, mated to its Vega-C rocket adapter, and enclosed inside the launch vehicle's payload fairing at the Guiana Space Centre in Kourou, French Guiana, setting the stage for liftoff at 04:52 BST on May 19, 2026. SMILE carries an X-ray camera — the first instrument capable of capturing full-disk images of Earth's magnetosphere in X-rays — alongside a UV aurora imager that can monitor the northern lights continuously for up to 45 hours per orbit, and a suite of in-situ solar wind sensors. The mission was briefly delayed from an earlier April window when a technical issue was identified in the production line of a Vega-C subsystem component, but following thorough inspection all partners cleared the rocket and confirmed May 19 as the new launch date. From its highly elliptical 121,000-km apogee orbit, SMILE will for the first time let scientists watch in near-real-time how bursts of solar wind compress and reshape Earth's magnetic shield — observations that could improve forecasting of geomagnetic storms affecting power grids and satellite operations.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-04T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Policy",
+        headline: "China Issues Its First Commercial Space Standard System, Mapping 1,000-Plus Standards Across Six Branches to Anchor the Nation's Rapidly Expanding Private Launch and Satellite Industry",
+        body: "The China National Space Administration and the State Administration for Market Regulation jointly issued China's inaugural Commercial Space Standard System at a ceremony in Chengdu on April 24 — Space Day — creating the first comprehensive regulatory and technical framework specifically designed for the country's booming private space sector. The system organizes more than 1,000 planned standards across six branches: industry governance, research and development and manufacturing, launch and telemetry-tracking-command operations, space application services, basic and common foundational items, and facilities and ground equipment. CNSA officials said the document will drive innovation across the entire commercial space supply chain and establish a standards-service platform to support companies developing reusable rockets, satellite constellations, and in-orbit services — activities that saw 92 national launches in 2025, a 35 percent year-on-year increase. China's private space sector now includes numerous domestic launch providers, and the government has framed standardization as essential to sustaining competitiveness while maintaining national security oversight of a rapidly decentralizing industry.",
+        sourceUrl: "https://orbitaltoday.com/2026/04/27/china-issues-its-commercial-space-standard-system/",
+        timestamp: "2026-04-24T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "SpaceX Completes Full Tile Coverage on Starship Ship 40 and Begins Booster 20 Integration for Flight 13 as Parallel-Processing Strategy Hits New Milestone at Starbase",
+        body: "SpaceX has completed full thermal protection system tile coverage on Ship 40, the Starship upper stage designated for the Flight 13 mission, and has begun integration work on Booster 20 at the Starbase production facility in Boca Chica, Texas — advancing the company's strategy of simultaneously preparing successive Starship vehicles while the Flight 12 stack of Booster 19 and Ship 39 awaits its May 12 launch window at Orbital Launch Pad 2. The ability to run parallel vehicle preparation campaigns across two orbital launch pads is central to SpaceX's goal of achieving monthly Starship launch cadence by the end of 2026, and the Flight 13 vehicle build is proceeding even before Flight 12's V3 architecture has flown for the first time. Ship 40 incorporates the same Raptor 3 engine suite and structural refinements introduced on the V3 stack, and its rapid tiling completion signals that SpaceX is manufacturing thermal protection tiles at a rate capable of supporting a roughly four-to-six week turnaround between missions. Booster 20's integration with Ship 40 for ground stacking tests is expected later in May once the Flight 12 pad operations have concluded.",
+        sourceUrl: "https://www.basenor.com/blogs/news/starship-ship-40-fully-tiled-for-flight-13-whats-next",
+        timestamp: "2026-05-04T12:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-03": {
     date: "May 3, 2026",
     stories: [
