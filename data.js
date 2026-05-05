@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-05": {
+    date: "May 5, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Sends 24 Starlink V2 Mini Satellites to Sun-Synchronous Orbit from Vandenberg as Veteran Booster B1081 Completes Its 24th Flight and Nails OCISLY Drone Ship Landing",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base in California at approximately 7:09 p.m. PDT on May 5, delivering 24 Starlink version 2 Mini broadband satellites to a 97.29-degree-inclination sun-synchronous orbit — SpaceX's second Starlink launch of May and a continuation of the company's campaign to build out polar coverage across its megaconstellation. Booster B1081, a veteran first stage embarking on its 24th flight, previously supported NASA's Crew-7 crewed ISS rotation, the PACE Earth-science satellite, CRS-29, EarthCARE, two NRO national security missions, and 13 prior Starlink missions — an extraordinary reuse record that illustrates how thoroughly Falcon 9's turnaround economics have matured. Following stage separation B1081 executed a propulsive entry burn and targeted a landing on the drone ship Of Course I Still Love You stationed downrange in the Pacific Ocean, a recovery that — if successful — would mark the 195th touchdown on that vessel and SpaceX's 609th booster landing overall. Satellite deployment was confirmed approximately 65 minutes after liftoff, with all 24 spacecraft separating nominally before raising themselves to operational altitude using their onboard krypton ion thrusters.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/05/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-7/",
+        timestamp: "2026-05-06T02:09:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA APOD 'Orion over Mount Teide' Showcases Snow-Capped Tenerife Volcano Beneath a Long-Exposure Panorama of the Orion Nebula, Flame Nebula, and the Full Arc of Barnard's Loop",
+        body: "NASA's Astronomy Picture of the Day for May 5 features a sweeping long-exposure image titled 'Orion over Mount Teide,' blending the volcanic silhouette of Teide on the Canary Island of Tenerife, Spain, with a rich astrophotograph that reveals faint nebular structures spanning much of the constellation Orion — structures completely invisible to the unaided eye. The image captures the iconic Orion Nebula (M42) and the adjacent Flame Nebula glowing in emission-line light alongside the vast reddish arc of Barnard's Loop, a supernova-remnant-candidate emission nebula encircling much of the Orion star-forming complex and detectable only through hours of tracked, stacked exposures on a sensitive digital sensor. Teide, standing 3,718 meters above sea level, is one of the world's premier dark-sky astronomical sites; its rare winter snowcap — present only a few days each year — adds a dramatic foreground element that makes this particular composition an exceptionally difficult image to time. The photograph highlights the Canary Islands' central role in professional and amateur astronomy, home to the Teide Observatory and the Instituto de Astrofísica de Canarias, which host some of the world's largest solar telescopes and contribute significantly to time-domain stellar science.",
+        sourceUrl: "https://apod.nasa.gov/apod/ap260505.html",
+        timestamp: "2026-05-05T04:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin's Blue Moon MK1 Lunar Lander 'Endurance' Passes Final Thermal Vacuum Test in NASA Johnson's Chamber A, Clearing Last Major Environmental Milestone Before South Pole Delivery Mission",
+        body: "Blue Origin announced that its Blue Moon Mark 1 uncrewed cargo lunar lander — dubbed Endurance — has successfully completed environmental qualification testing inside Thermal Vacuum Chamber A at NASA's Johnson Space Center in Houston, clearing the spacecraft's final major pre-launch environmental milestone. Chamber A, one of the world's largest thermal vacuum facilities, replicated the hard vacuum and extreme temperature swings of cislunar space to verify Endurance's structural integrity, thermal management systems, propulsion health, and autonomous guidance, navigation, and control performance under realistic mission conditions. The lander — funded by Blue Origin as a Commercial Lunar Payload Services demonstration mission — will carry two NASA science payloads, Stereo Cameras for Lunar Plume-Surface Studies and a Laser Retroreflective Array, to the lunar South Pole region, a target area of intense scientific interest for its suspected water-ice deposits in permanently shadowed craters. The successful chamber campaign positions Endurance as a near-term bright spot for Blue Origin amid the ongoing FAA investigation into the New Glenn upper-stage anomaly, and its completion of key HLS qualification work supports the company's long-term role in NASA's Artemis lunar surface architecture.",
+        sourceUrl: "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+        timestamp: "2026-05-05T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Primes Shenzhou-23 for Imminent Tiangong Launch as CMSEO Confirms Nation's First One-Year In-Orbit Residency Experiment and Pakistani Astronaut Slot on Shenzhou-24",
+        body: "The China Manned Space Engineering Office confirmed that one member of the incoming Shenzhou-23 crew will remain aboard the Tiangong space station for a full year — China's first one-year continuous human spaceflight experiment — while the other two crew members follow the standard roughly six-month rotation schedule ahead of the arrival of Shenzhou-24 in late 2026. The Shenzhou-23 spacecraft was delivered to the Jiuquan Satellite Launch Center approximately two months ahead of its normal schedule following a cascade of contingency planning triggered by the discovery of a cracked viewport on Shenzhou-20 in late 2025, and Chinese officials have confirmed the mission is ready to launch in the April–May 2026 window atop a Long March 2F rocket. Separately, CMSEO confirmed that a payload specialist from Pakistan's national space program will fly aboard Shenzhou-24, making Pakistan the latest nation to send a citizen to Tiangong as China expands its human spaceflight international partnership beyond the roster of Chinese taikonauts. The year-long residency experiment is designed to generate data on long-duration human physiology comparable to NASA and Roscosmos uniyear ISS mission datasets, supporting China's planning for eventual crewed lunar and deep-space exploration.",
+        sourceUrl: "https://spacenews.com/china-set-for-its-first-one-year-human-spaceflight-mission-confirms-pakistani-astronaut-flight/",
+        timestamp: "2026-05-05T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Finalizes GSLV F17 Pre-Launch Campaign for EOS-05 Geo-Imaging Satellite as India's Orbital Return Following January PSLV-C62 Failure Reaches Final Countdown Phase",
+        body: "India's ISRO is completing pre-launch processing for the GSLV F17 rocket carrying the EOS-05 Earth-observation satellite — also known as GISAT-1A — as the agency targets its first orbital launch since the PSLV-C62 upper-stage failure in January that grounded India's workhorse rocket and created a backlog of five payloads awaiting flight. EOS-05 is a geostationary imaging satellite designed to provide near-real-time views of the entire Indian subcontinent at roughly 30-minute intervals, with the ability to zoom into selected sectors every five minutes — capabilities critical for continuous tracking of cyclones, floods, forest fires, and other rapidly evolving disasters that demand timely imagery for emergency response. ISRO Chairman V. Narayanan confirmed the agency's readiness to return to flight in May, with the GSLV F17 mission serving as the precursor to a busy second half of 2026 that includes PSLV-C63 with the TDS-01 technology demonstrator and the pivotal Gaganyaan-1 uncrewed orbital test flight carrying the Vyommitra semi-humanoid robot. A successful GSLV F17 mission would restore national confidence in India's indigenous launch vehicles and clear the path for Gaganyaan-2, the crewed orbital mission that would make India only the fourth nation to independently send humans to space.",
+        sourceUrl: "https://www.indiastrategic.in/isro-all-set-to-return-to-rocket-launches-in-may-2026/",
+        timestamp: "2026-05-05T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-04": {
     date: "May 4, 2026",
     stories: [
