@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-06": {
+    date: "May 6, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA and SpaceX Confirm May 12 Launch of Dragon CRS-34 to ISS Carrying Over 6,400 Pounds of Crew Supplies and Science Payloads Including Wooden Bone Scaffold for Osteoporosis Research",
+        body: "NASA and SpaceX have confirmed May 12 at 23:16 UTC as the target launch date for the 34th Commercial Resupply Services mission to the International Space Station, with a Falcon 9 lifting the Dragon capsule from Space Launch Complex 40 at Cape Canaveral Space Force Station carrying more than 6,400 pounds of crew provisions, hardware, and science experiments. Among the science cargo is a wooden bone scaffold designed to study osteoporosis treatments under microgravity conditions, a microgravity simulator validation experiment, and a study examining how spaceflight alters red blood cells and spleen function — continuing NASA's effort to understand long-duration physiological changes ahead of crewed deep-space missions. The Dragon capsule is expected to arrive at the orbiting laboratory approximately 38 hours after liftoff, docking to the forward port of the Harmony module at around 09:50 EDT on May 14. CRS-34 comes as the Expedition 73 crew wraps up a busy science sprint covering fluid physics, materials science, and human research experiments in preparation for the station's eventual decommissioning in 2030.",
+        sourceUrl: "https://www.nasa.gov/event/nasas-spacex-crs-34/",
+        timestamp: "2026-05-06T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Eyes Historic Double-Header on May 12 as CRS-34 Dragon from Cape Canaveral and Starship Version 3 Flight 12 from Starbase Both Target the Same Launch Date",
+        body: "SpaceX is on track for a potential landmark double-launch day on May 12 as two entirely separate vehicle systems converge on the same target date: the Dragon CRS-34 cargo mission lifting off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 23:16 UTC, and the inaugural Starship Version 3 Flight 12 — pairing Booster 19 and Ship 39 — readying for its opening window from Orbital Launch Pad 2 at Starbase in Boca Chica, Texas. If both missions succeed, it would mark the first time a single company has simultaneously launched two distinct rocket architectures — a 70-meter orbital workhorse Falcon 9 and a 122-meter fully reusable super-heavy Starship — on the same calendar day, operating under independent FAA launch authorizations from complexes more than 1,100 miles apart. Operations teams at both sites are conducting parallel countdown preparations, with final vehicle health verifications for the Raptor 3-powered Starship stack and Dragon capsule cargo loading proceeding independently of one another. The dual-mission scenario underscores the extraordinary industrial scale SpaceX has assembled, running simultaneous launch campaigns for a crewed-class cargo vehicle and the world's largest rocket without resource conflicts.",
+        sourceUrl: "https://spacelaunchlive.com/launches/falcon-9-block-5-dragon-crs-2-spx-34/",
+        timestamp: "2026-05-06T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "NASA Files FCC Objection to Blue Origin's 'Project Sunrise' Plan for 51,600-Satellite Orbital AI Compute Constellation, Warning of Unacceptable Human Spaceflight and Debris Risks",
+        body: "NASA formally filed an objection with the Federal Communications Commission on May 5 opposing Blue Origin's 'Project Sunrise' application, which seeks authorization to deploy up to 51,600 satellites at altitudes between 500 and 1,800 kilometers to host orbiting data centers and artificial intelligence compute infrastructure for terrestrial cloud customers. The agency's filing argues that Project Sunrise presents 'significant safety and sustainability concerns' because its proposed operating bands directly overlap with human spaceflight corridors used by the International Space Station, the Lunar Gateway, and future Artemis vehicles, as well as dozens of NASA Earth and space science missions. NASA specifically called for 'early and sustained technical engagement' with Blue Origin and a comprehensive Orbital Debris Mitigation Plan before any FCC operating authority is granted. The objection is notable because NASA is simultaneously Blue Origin's partner on the Artemis Human Landing System program, illustrating the mounting tension between the agency's roles as anchor customer and orbital environment regulator as commercial satellite ambitions scale to unprecedented levels.",
+        sourceUrl: "https://satnews.com/2026/05/05/nasa-objects-to-blue-origins-project-sunrise/",
+        timestamp: "2026-05-05T20:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "China's Tianwen-2 Probe Transmits First Navigation Images of Quasi-Moon Asteroid Kamo'oalewa as Rendezvous Window Approaches in July 2026 for Historic Sample-Grab at Earth's Companion Rock",
+        body: "China's Tianwen-2 asteroid sample-return spacecraft, launched in May 2025 aboard a Long March 3B rocket from Xichang, has transmitted its first optical navigation images of near-Earth asteroid 469219 Kamo'oalewa as the probe refines its interplanetary trajectory ahead of a planned close approach and rendezvous expected in July 2026. Kamo'oalewa is a small body estimated at 40 to 100 meters in diameter that currently acts as a quasi-satellite of Earth, and spectral analysis suggests its composition may resemble lunar material ejected by an ancient impact rather than a conventional carbonaceous asteroid — a hypothesis that Tianwen-2's sample return will directly test by returning surface regolith to China for laboratory analysis. After the sample capsule re-enters Earth's atmosphere in 2027, the Tianwen-2 mothership will fire its engine for a second interplanetary cruise to rendezvous with main-belt comet 311P/PanSTARRS, making it China's first dual-target deep space mission. CNSA confirmed all eleven scientific instruments aboard the spacecraft remain in nominal condition during the cruise phase, and trajectory correction maneuvers executed earlier this year have placed the probe precisely on course.",
+        sourceUrl: "https://www.space.com/space-exploration/missions/chinas-tianwen-2-spacecraft-sends-home-1st-photo-as-it-heads-for-mysterious-quasi-moon-asteroid",
+        timestamp: "2026-05-06T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA-China SMILE Satellite Enters 13-Day Final Countdown to May 19 Vega-C Launch as Kourou Ground Teams Complete Electrical Interface Checks and Prep Launch Readiness Review",
+        body: "With fewer than two weeks remaining before its May 19 liftoff, the joint ESA and Chinese Academy of Sciences Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) has entered its final countdown phase at the Guiana Space Centre in Kourou, French Guiana, with ground teams completing electrical interface verifications between the spacecraft and its Vega-C launch vehicle and scheduling the launch readiness review for later this week. SMILE carries the first wide-field soft X-ray imager ever flown capable of capturing continuous global images of Earth's magnetospheric boundary — the magnetopause — in real time, a UV aurora imager that can observe northern lights for up to 45 hours per orbit, and a suite of in-situ solar wind plasma and magnetic field sensors. The satellite's highly elliptical orbit reaching 121,000 kilometers at apogee will allow it to dwell over the polar magnetosphere for extended periods, a capability no previous spacecraft has demonstrated and one that scientists expect to fundamentally transform space weather forecasting. Mission planners note that SMILE data will for the first time let researchers watch how solar storms reshape Earth's magnetic shield as they happen, rather than reconstructing events after the fact from widely separated point-sensor measurements.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-06T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Development",
+        headline: "ISRO and Roscosmos Hold Technical Talks in Moscow on Semi-Cryogenic Engine Cooperation as India Invests ₹10,397 Crore to Close Critical Gap in Its Heavy-Lift Launch Vehicle Roadmap",
+        body: "India's ISRO and Russia's Roscosmos conducted a technical delegation meeting in Moscow focused on potential collaboration in semi-cryogenic propulsion, with discussions centered on delivery timelines and specifications for engine systems that India needs to power the upper stage of its next-generation heavy-lift launch vehicle beyond the GSLV Mark III. Semi-cryogenic engines, which run on liquid oxygen and kerosene rather than the more expensive and hazardous liquid hydrogen, offer significantly higher thrust-to-weight ratios and simpler ground handling — capabilities that ISRO Chairman V. Narayanan has identified as critical for India to remain competitive with global launch providers scaling up reusable and high-mass systems. The talks come as ISRO simultaneously advances an indigenous semi-cryogenic development program backed by a government-approved budget of ₹10,397 crore, with the parallel international dialogue potentially accelerating the timeline if Russia can supply flight-proven hardware or key subsystem know-how. A successful outcome would support ISRO's roadmap of fielding a vehicle capable of launching heavy geostationary payloads and delivering Gaganyaan extended-duration crew missions without relying on imported upper-stage propulsion.",
+        sourceUrl: "https://www.newsbytesapp.com/news/science/isro-roscosmos-hold-talks-on-semi-cryogenic-engines/story",
+        timestamp: "2026-05-06T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-05": {
     date: "May 5, 2026",
     stories: [
