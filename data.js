@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-07": {
+    date: "May 7, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "FAA Clears Starship Flight 12 With Revised Suborbital Trajectory as SpaceX Targets May 12 Debut of Version 3 Vehicle and Pad 2 at Starbase",
+        body: "The FAA issued a launch license for Starship Flight Test 12 on May 7, authorizing SpaceX to proceed toward a May 12 opening window from Orbital Launch Pad 2 at Starbase in Boca Chica, Texas — the first orbital-class launch attempt from Starbase's second pad. The authorized mission follows a revised trajectory compared to prior Starship flights, with both Booster 19 and Ship 39 targeting controlled splashdown at sea rather than a mechazilla tower catch, a deliberate step back intended to focus validation on the clean-sheet Version 3 architecture featuring Raptor 3 engines and Ship 39's stretched propellant tanks that boost low-Earth orbit payload capacity to over 100 metric tons. SpaceX engineers completed a full static fire of Booster 19's 33 Raptor 3 engines earlier in the week, with all systems reported nominal ahead of countdown. A successful Flight 12 would debut both Pad 2 and the substantially redesigned V3 Starship that SpaceX envisions as the backbone of its Mars transportation architecture.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+        timestamp: "2026-05-07T18:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "Expedition 73 Crew Clears CRS-34 Docking Pathways and Advances Quantum Physics and Health Research Ahead of May 14 Dragon Arrival",
+        body: "Expedition 73 crew members aboard the International Space Station spent May 7 completing final pre-arrival preparations for SpaceX's CRS-34 cargo Dragon, targeting a May 12 launch and an autonomous docking at Harmony's forward port on May 14. Activities included verifying docking mechanism hardware, stowing equipment to clear berthing corridors, and coordinating handoff procedures with flight controllers at Mission Control Houston for the 6,400-pound cargo delivery. The crew simultaneously advanced ongoing science across several disciplines, including quantum physics thin-film experiments, advanced radio frequency array testing, and spleen function monitoring — part of a sustained sprint to generate physiological datasets before the station's planned 2030 decommissioning. CRS-34 will bring a wooden bone scaffold for osteoporosis research, a microgravity simulator validation study, and new instruments to characterize Earth's radiation belts, further deepening the station's science return in its final active years.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/",
+        timestamp: "2026-05-07T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Long March 2F Carrying Shenzhou-23 Rolls Out to Jiuquan Launch Pad as China Counts Down to First One-Year Human Spaceflight Mission",
+        body: "China's Long March 2F rocket carrying the Shenzhou-23 crewed spacecraft completed its rollout to the launch pad at the Jiuquan Satellite Launch Center in Inner Mongolia on May 7, with the China Manned Space Engineering Office confirming all systems nominal and a liftoff target later this month. The three-taikonaut crew will relieve the Shenzhou-22 mission team currently aboard Tiangong, with one taikonaut designated to remain in orbit for a full year — China's first one-year continuous spaceflight experiment, generating long-duration physiology data comparable to NASA and Roscosmos uniyear ISS datasets. The mission was accelerated several months from its original November 2026 schedule following the emergency Shenzhou-22 replacement response to the cracked Shenzhou-20 viewport discovered in late 2025, and ground teams reported no anomalies across all countdown health checks. Shenzhou-23's extended residency will also bridge to the Shenzhou-24 flight in late 2026, which is slated to carry Pakistan's first taikonaut to the Tiangong station.",
+        sourceUrl: "https://www.china-in-space.com/p/2026-human-spaceflight-missions-to",
+        timestamp: "2026-05-07T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "SMILE Satellite Clears Launch Readiness Review at Kourou, Authorizing Vega-C Countdown Toward May 19 Liftoff to Study Earth's Magnetosphere in Real Time",
+        body: "The European Space Agency confirmed on May 7 that the joint ESA–Chinese Academy of Sciences SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) satellite and its Vega-C launch vehicle successfully passed the Launch Readiness Review at the Guiana Space Centre in Kourou, French Guiana, formally authorizing countdown operations toward the planned May 19 liftoff at 05:52 CEST. Cross-agency teams from ESA, the Chinese Academy of Sciences, and ArianeGroup verified spacecraft health, signed off on all interface compatibility checks between SMILE and the Vega-C upper stage, and approved the flight safety analysis — the final approval gate before terminal countdown begins. SMILE will enter a highly elliptical orbit reaching 121,000 kilometers at apogee, where its wide-field soft X-ray imager will capture continuous global images of Earth's magnetopause — a first in spaceflight history — alongside a UV aurora imager and in-situ plasma sensors. Scientists expect SMILE's real-time global magnetosphere imaging to transform space weather forecasting in a manner analogous to how geostationary weather satellites revolutionized terrestrial meteorology decades ago.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-07T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Initiates GSLV F17 Countdown at Sriharikota Targeting EOS-05 Return-to-Flight as Agency Clears Path to Gaganyaan-1 Uncrewed Test",
+        body: "India's ISRO formally initiated the countdown sequence for the GSLV F17 mission carrying the EOS-05 (GISAT-1A) geostationary imaging satellite at the Satish Dhawan Space Centre in Sriharikota on May 7, targeting liftoff from the Second Launch Pad as the agency's first return-to-flight attempt since the PSLV-C62 third-stage spin failure grounded India's launch vehicles in January. EOS-05 is designed to provide near-real-time imagery of the Indian subcontinent at 30-minute refresh intervals — with the ability to zoom to five-minute cadence over selected sectors — making it a critical tool for cyclone tracking, flood response, and forest fire monitoring. ISRO Chairman V. Narayanan confirmed that a comprehensive root-cause investigation of the PSLV-C62 anomaly has been completed and corrective actions implemented across both vehicle lines, expressing confidence in the readiness of the GSLV F17 stack. A successful mission would restore national launch cadence and clear the manifest for Gaganyaan-1, the uncrewed orbital test flight carrying the Vyommitra semi-humanoid robot, currently targeted for the second half of 2026.",
+        sourceUrl: "https://www.indiastrategic.in/isro-all-set-to-return-to-rocket-launches-in-may-2026/",
+        timestamp: "2026-05-07T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-06": {
     date: "May 6, 2026",
     stories: [
