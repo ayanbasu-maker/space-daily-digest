@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-08": {
+    date: "May 8, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 12 Launch Window Slips to NET May 15 as SpaceX Updates Maritime Advisories; Daily Windows Open at 22:30 UTC Through May 18 for First V3 Vehicle Flight",
+        body: "SpaceX updated local notices to mariners on May 8 to reflect a not-earlier-than date of May 15 for Starship Flight Test 12, revising the previously announced May 12 opening target that had accompanied the FAA's launch license issuance earlier in the week. The maritime advisory now shows daily windows beginning at approximately 5:30 p.m. Central Time (22:30 UTC) from May 15 through May 18, offering multiple opportunities for the inaugural Version 3 Starship flight from Orbital Launch Pad 2 at Starbase in Boca Chica, Texas. The mission will be the first to fly the radically redesigned V3 architecture pairing Booster 19 and Ship 39 — both powered exclusively by Raptor 3 engines — and will validate the propellant tank stretch that raises Ship 39's low-Earth orbit payload capacity to over 100 metric tons. SpaceX teams are completing final pre-launch checkout activities and cannot commit to a specific launch date until countdown operations formally begin.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/05/spacex-mid-may-starship-flight-12-revised-trajectory/",
+        timestamp: "2026-05-08T18:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Powerhouse Sunspot Region AR4419 Rotates Back to Earth-Facing Sun on May 8, Prompting Space Weather Watches and Elevated X-Flare Risk as Solar Cycle 25 Remains Near Peak",
+        body: "Space weather forecasters at NOAA's Space Weather Prediction Center issued alerts on May 8 as former active region AR4419 began rotating back into the Earth-facing hemisphere after completing a roughly 14-day far-side transit, returning one of Solar Cycle 25's most energetic sunspot groups to a geoeffective position. AR4419 fired two X-class flares in rapid succession during its previous Earth-facing rotation on April 24 — an X2.4 followed by an X2.5 within a seven-hour window — along with multiple M-class events and a rare sympathetic flare caused by magnetic coupling across the solar disk. NOAA's updated forecast carries a slight chance of G1 (minor) geomagnetic storm conditions driven by fast solar wind already arriving from a coronal hole, with elevated storm potential rising over coming days as AR4419 settles into a central disk position ideal for directing any energetic ejecta toward Earth. Aurora watchers at high latitudes in Scandinavia, Canada, and the northern United States are advised to monitor conditions on the evening of May 8, while satellite operators and power grid managers have been notified of the heightened radiation environment.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-05-08T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "Blue Origin Submits Preliminary Anomaly Report to FAA as New Glenn Remains Grounded Three Weeks After April 19 Wrong-Orbit Mishap; No Return-to-Flight Date Announced",
+        body: "Blue Origin submitted a preliminary anomaly report to the Federal Aviation Administration on May 8 detailing its root-cause analysis for the April 19 New Glenn third-flight incident, in which AST SpaceMobile's BlueBird 7 communications satellite was deposited into a 153-kilometer orbit — far below the planned 459-kilometer target — after one of the two BE-3U engines on the upper stage failed to produce sufficient thrust during the second GS2 burn. The satellite, unable to raise its orbit using onboard propulsion from such a low altitude, subsequently reentered the atmosphere and was destroyed, representing a total mission loss despite a flawless first-stage booster recovery by drone ship Jacklyn. CEO Dave Limp confirmed that telemetry clearly identified the underthrust event, and engineering teams have traced the anomaly to a propellant conditioning issue upstream of the engine turbopump. Blue Origin must receive FAA approval for both its final root-cause report and proposed corrective actions before New Glenn may resume flights; neither the company nor the agency has indicated a target return-to-flight date.",
+        sourceUrl: "https://satnews.com/2026/04/30/faa-grounds-blue-origin-following-new-glenn-upper-stage-failure-and-facility-anomaly/",
+        timestamp: "2026-05-08T16:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "SMILE Satellite Teams Complete Final Propulsion and Software Checks at Kourou With 11 Days to Vega-C Launch, Readying First-Ever Global X-Ray Imager of Earth's Magnetosphere",
+        body: "Technicians at the Guiana Space Centre in Kourou, French Guiana, completed final propulsion system verification and software upload activities aboard the joint ESA–Chinese Academy of Sciences SMILE satellite on May 8, clearing the last pre-launch verification milestones as the mission enters its final 11-day stretch before the scheduled May 19 liftoff on a Vega-C rocket at 05:52 CEST. Engineers confirmed that all four instrument suites — the wide-field soft X-ray imager, the UV aurora imager, the in-situ magnetometer, and the energetic particle detector — are reporting nominal functionality following the payload's post-transport health checks and environmental qualification campaign. SMILE's highly elliptical orbit, reaching 121,000 kilometers at apogee above Earth's northern polar regions, will allow the X-ray camera to photograph the entire magnetopause boundary simultaneously for the first time in history, directly revealing how solar wind sculpts Earth's magnetic shield in real time during geomagnetic storms. Scientists at ESA and the Chinese Academy of Sciences plan to begin nominal operations roughly four months after launch once instrument calibration and initial orbit verification are complete.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-08T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO's GSLV F17 Clears Pre-Launch Readiness Review at Sriharikota Ahead of EOS-05 Mission, Marking Final Approval Gate Before Terminal Countdown for First Return-to-Flight Since January",
+        body: "India's ISRO confirmed on May 8 that the GSLV F17 rocket carrying the EOS-05 (GISAT-1A) geostationary imaging satellite passed its pre-launch readiness review at the Satish Dhawan Space Centre in Sriharikota, formally authorizing terminal countdown operations for the agency's first launch attempt since the PSLV-C62 third-stage spin failure grounded all Indian launch vehicles in January. The review board verified that all vehicle and spacecraft systems meet mission readiness criteria, cleared range safety procedures, and confirmed acceptable weather within the planned launch window, completing the final major governance gate before countdown. EOS-05 is designed to provide near-real-time imagery of the Indian subcontinent at 30-minute revisit intervals — with a five-minute emergency cadence over priority sectors — serving disaster response, cyclone tracking, flood monitoring, and agricultural assessment for the national government. A successful GSLV F17 mission will restore ISRO's launch cadence and clear the manifest for Gaganyaan-1, the uncrewed orbital test carrying the Vyommitra semi-humanoid robot, currently targeted for the second half of 2026.",
+        sourceUrl: "https://www.indiastrategic.in/isro-all-set-to-return-to-rocket-launches-in-may-2026/",
+        timestamp: "2026-05-08T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-07": {
     date: "May 7, 2026",
     stories: [
