@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-09": {
+    date: "May 9, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Ship 39 Preps for Rollout to OLP-2 After Booster 19 Clears Second Full-Duration 33-Engine Static Fire, Completing All Ground Tests for Starship Flight 12's May 15 Target",
+        body: "SpaceX teams at Starbase in Boca Chica, Texas, began preparing Ship 39 for rollout to Orbital Launch Pad 2 on May 9, following Booster 19's successful second full-duration, full-thrust 33-engine static fire conducted on May 7, which completed the final major ground-test milestone for the Starship Flight 12 campaign. The 14-to-15-second qualification burn at liftoff power levels validated all 33 Raptor 3 engines and the upgraded water deluge system at OLP-2, which was designed to absorb the substantially higher acoustic and thermal loads produced by the first-generation Raptor 3 booster compared to infrastructure at the original OLP-1. Ship 39's rollout to join Booster 19 on the mount will form the complete Flight 12 stack — the stretched V3 upper stage mated atop the 33-engine superheavy booster — ahead of a not-earlier-than May 15 launch window established via updated maritime advisories issued earlier this week. A successful Flight 12 would simultaneously debut Orbital Launch Pad 2, the V3 Starship architecture, and Ship 39's expanded-tank design that SpaceX says can deliver more than 100 metric tons to low-Earth orbit in a fully reusable configuration.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+        timestamp: "2026-05-09T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China Rolls Long March-7 With Tianzhou-10 to Wenchang Launch Pad, Targeting May 11 Liftoff to Deliver New Spacesuit and 6.3 Tons of Tiangong Supplies Ahead of Shenzhou-23 Crew Arrival",
+        body: "The Long March-7 rocket stacked with China's Tianzhou-10 uncrewed cargo spacecraft completed its transfer to the launch area at the Wenchang Space Launch Site in Hainan Province on May 8, with the China Manned Space Engineering Office setting a liftoff target of May 11 at 12:14 UTC for the mission that will resupply the Tiangong space station ahead of the arriving Shenzhou-23 crew. Tianzhou-10 carries more than 220 supply items weighing approximately 6.3 tons, including 700 kilograms of propellant for station reboost maneuvers, a new-generation extravehicular spacesuit, a space treadmill for crew fitness, and science experiment hardware to support both the Shenzhou-23 and Shenzhou-24 crews during their extended orbital stays. The mission is a critical logistics precursor to the Shenzhou-23 crewed launch planned for later this month, which will relieve the current Shenzhou-22 team and begin China's first-ever one-year continuous human spaceflight experiment with one crew member designated to remain aboard for twelve months. Teams at Wenchang are conducting final joint functionality checks between the Long March-7 vehicle and the spacecraft systems, with no anomalies reported during the rollout and transfer operation.",
+        sourceUrl: "https://news.cgtn.com/news/2026-05-08/Tianzhou-10-rolls-out-China-s-latest-space-supply-ship-on-the-move-1MZ0bQBZgdO/p.html",
+        timestamp: "2026-05-09T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA CRS-34 Dragon Enters Three-Day Countdown at Cape Canaveral as Final Cargo Loading Completes, Targeting May 12 Launch to ISS With Wooden Bone Scaffold and Six New Science Payloads",
+        body: "The SpaceX Dragon cargo capsule for NASA's 34th Commercial Resupply Services mission entered its terminal three-day countdown at Space Launch Complex 40 at Cape Canaveral Space Force Station on May 9, with technicians completing final pressurized-bay cargo loading and pre-launch verification activities ahead of a 7:16 p.m. EDT liftoff on May 12 atop a Falcon 9 Block 5 rocket. The 6,500-pound cargo manifest includes a wooden bone scaffold engineered to investigate osteoporosis therapies in microgravity, a red blood cell and spleen physiology study to quantify how spaceflight alters human blood biology, an experiment testing whether short-duration microgravity simulators can replicate true weightlessness for bench science, and advanced radio-frequency array hardware for the Expedition 73 crew. Dragon is expected to autonomously dock to the forward port of Harmony at approximately 9:50 a.m. EDT on May 14, with a backup launch opportunity available May 13 at 6:50 p.m. EDT should weather or technical constraints push the primary attempt. NASA flight controllers at Mission Control Houston have verified docking pathways and berthing corridor clearances aboard the station to support Dragon's arrival after the 38-hour free-flight transit.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/",
+        timestamp: "2026-05-09T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "Blue Moon MK1 Lander 'Endurance' Passes Thermal Vacuum Gauntlet in NASA's Chamber A at JSC, Heading Back to Florida for Final Preflight Checkout Before New Glenn Lunar Debut",
+        body: "Blue Origin's Blue Moon Mark 1 uncrewed lunar cargo lander — nicknamed Endurance — successfully completed a multi-week thermal vacuum test campaign inside Thermal Vacuum Chamber A at NASA's Johnson Space Center in Houston, with engineers confirming full qualification of the spacecraft's structural integrity, cryogenic propulsion system, and autonomous guidance, navigation, and control hardware under simulated lunar vacuum and extreme temperature conditions. The lander arrived at JSC by barge from Port Canaveral in January 2026 and entered Chamber A in February for what became one of the most extensive pre-flight environmental test campaigns undertaken for a commercial lunar lander, validating the methane-oxygen propulsion system's performance across the full thermal range the spacecraft will encounter during its descent to the lunar South Pole. Endurance will carry two NASA science payloads to the lunar surface under the Commercial Lunar Payload Services initiative: a stereo camera array designed to image the interaction between the lander's engine plume and lunar regolith during descent, and a laser retroreflector array for precision surface-position measurements that will support future navigation. With Chamber A testing behind it, the spacecraft is expected to return to Blue Origin's Florida facilities for final preflight checkouts and integration with its New Glenn launch vehicle, currently targeting a late-2026 liftoff for the first commercial lunar landing by a Blue Origin vehicle.",
+        sourceUrl: "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+        timestamp: "2026-05-09T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Publishes Live-Launch Guide for SMILE as Vega-C Countdown Enters Final 10 Days at Kourou, Setting Stage for First-Ever Global X-Ray Imaging of Earth's Magnetosphere on May 19",
+        body: "ESA published viewer and media guidance for following the SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) launch live on May 9, as the joint ESA–Chinese Academy of Sciences mission entered its final ten-day stretch at the Guiana Space Centre in Kourou ahead of the confirmed May 19 liftoff at 05:52 CEST aboard a Vega-C rocket. Launch preparations at the spaceport are proceeding nominally following the six-week delay forced by a production-line component issue discovered on the Vega-C upper stage that scrubbed the original April 9 launch date, with engineers confirming all spacecraft and vehicle systems are healthy after corrective actions were implemented. SMILE's wide-field soft X-ray imager will capture continuous global photographs of Earth's magnetopause — the boundary where the solar wind meets Earth's magnetic field — for the first time in spaceflight history, revealing in real time how geomagnetic storms compress and sculpt the shield that protects Earth's surface. The satellite's highly elliptical orbit reaching 121,000 kilometers at apogee above the northern polar regions positions the X-ray camera for broad simultaneous coverage of the entire dayside magnetosphere, a geometric advantage that scientists say will transform space weather research in a manner comparable to how geostationary meteorological satellites transformed weather forecasting decades ago.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/How_to_follow_the_Smile_launch_live",
+        timestamp: "2026-05-09T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-08": {
     date: "May 8, 2026",
     stories: [
