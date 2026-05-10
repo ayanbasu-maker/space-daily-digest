@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-10": {
+    date: "May 10, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 12 Full Stack Mated at OLP-2 Ahead of Wet Dress Rehearsal; SpaceX Locks In NET May 15 Window for V3 Debut With Booster 19 and Ship 39",
+        body: "SpaceX engineers mated Ship 39 to Booster 19 on Orbital Launch Pad 2 at Starbase in Boca Chica, Texas, completing the full Flight 12 stack and positioning the vehicles for an imminent Wet Dress Rehearsal that will simulate a complete countdown — including propellant loading of the Version 3 Starship — for the first time at the new pad. The WDR will validate OLP-2's upgraded water deluge infrastructure and pad systems under live-vehicle conditions before SpaceX commits to a launch attempt not-earlier-than May 15 at 22:30 UTC, as reflected in current maritime advisories. Flight 12 represents a step-change in capability: the V3 architecture pairs Raptor 3 engines on both stages with Ship 39's stretched propellant tanks, raising the vehicle's reusable low-Earth orbit payload capacity to over 100 metric tons — nearly three times what the Version 2 design could achieve. SpaceX has chosen controlled ocean splashdowns for both booster and ship on this flight, deliberately deferring mechazilla tower catches to focus testing on clean-sheet V3 performance and the new pad's operability.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/05/booster-19-33-ship-39-rollout/",
+        timestamp: "2026-05-10T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China's Tianzhou-10 Cargo Craft Stands Ready at Wenchang for May 11 Launch, Delivering New EVA Suits, Space Treadmill, and 6.3 Tons of Tiangong Supplies",
+        body: "China's Tianzhou-10 uncrewed cargo spacecraft and its Long March-7 Y11 carrier rocket are in final pre-launch configuration at the Wenchang Space Launch Site in Hainan Province, targeting liftoff on May 11 at 12:14 UTC after completing vertical transfer to the launch pad on May 8. The 6.3-tonne cargo manifest includes a new-generation extravehicular activity spacesuit that completes an in-orbit spacesuit upgrade begun with the previous Tianzhou mission, a new space treadmill for crew cardiovascular fitness, and six scientific experiment payloads weighing approximately 280 kilograms covering microgravity fluid physics and advanced space technology research. Tianzhou-10 is expected to dock automatically with the Tiangong station roughly three hours after liftoff and will pre-position supplies for both the arriving Shenzhou-23 crew and the follow-on Shenzhou-24 mission planned for later in 2026. The cargo flight is a critical precursor to Shenzhou-23's crewed launch later this month, which will include China's first one-year continuous human spaceflight experiment.",
+        sourceUrl: "https://news.cgtn.com/news/2026-05-08/China-to-complete-spacesuit-upgrade-with-Tianzhou-10-mission-1MYo6iOIO1W/p.html",
+        timestamp: "2026-05-10T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Publishes 12,000-Image Artemis II Archive Featuring First-Ever Photos of a Solar Eclipse as Seen From the Moon, Shot on Nikon and iPhone 17 Cameras",
+        body: "NASA released a tranche of more than 12,000 previously unseen photographs from the Artemis II mission, bringing the total public archive to 12,217 photos captured during the crew's 10-day voyage around Earth and the Moon in April 2026. The collection documents unprecedented perspectives including the first photographs of a solar eclipse as viewed from the lunar surface — the crew observed Earth passing between their spacecraft and the Sun, showing the corona glowing around the darkened Moon in a sight no human had ever captured before. Commander Reid Wiseman, Christina Koch, Victor Glover, and Canadian astronaut Jeremy Hansen shot the imagery on a combination of Nikon D5 SLR, Nikon Z9 mirrorless, and iPhone 17 cameras, producing a historic record of humanity's first crewed lunar mission since Apollo 17 in 1972. The full archive is publicly accessible through NASA's Gateway to Astronaut Photography of Earth website.",
+        sourceUrl: "https://www.nasa.gov/artemis-ii-multimedia/",
+        timestamp: "2026-05-10T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "ALMA Finds Interstellar Comet 3I/ATLAS Contains 30 Times More Semi-Heavy Water Than Solar System Comets, Confirming Ultra-Cold Birth Environment Below -243°C",
+        body: "Scientists using the Atacama Large Millimeter/submillimeter Array (ALMA) have determined that interstellar comet 3I/ATLAS carries approximately 30 times the concentration of semi-heavy water found in comets native to our solar system — and roughly 40 times the deuterium-to-hydrogen ratio present in Earth's oceans — according to a study published in Nature Astronomy on April 24 and widely highlighted this week. The elevated ratio indicates that 3I/ATLAS formed in an environment colder than 30 Kelvin (-243°C), significantly colder than the conditions that shaped comets in our own protoplanetary disk, pointing to an origin in a distant stellar system with a far cooler thermal history. This marks the first direct measurement of a water isotope ratio in an interstellar object — only the third such visitor ever confirmed after 1I/'Oumuamua and 2I/Borisov — and establishes a new chemical method for fingerprinting the birth environments of bodies from other planetary systems. Lead researchers at the University of Michigan say the finding provides a direct window into planetary formation processes elsewhere in the galaxy, implying that 3I/ATLAS's home star system had a substantially different chemistry than our Sun's.",
+        sourceUrl: "https://www.almaobservatory.org/en/press-releases/alma-reveals-interstellar-comet-3i-atlas-formed-in-a-far-colder-world-than-our-own/",
+        timestamp: "2026-05-10T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA SMILE Mission Enters Final Nine-Day Countdown at Kourou as Vega-C Launch Teams Confirm All Systems Healthy for May 19 Magnetosphere Science Debut",
+        body: "The European Space Agency's SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) satellite and its Vega-C launch vehicle are in their final nine-day countdown at the Guiana Space Centre in Kourou, French Guiana, with launch teams confirming all systems healthy as the mission targets liftoff on May 19 at 05:52 CEST. SMILE — a collaboration between ESA and the Chinese Academy of Sciences — will fly into a highly elliptical orbit reaching 121,000 kilometers at apogee above Earth's northern polar regions, placing its wide-field soft X-ray imager in position to continuously photograph the entire magnetopause boundary for the first time in history. The May 19 date was set after a six-week delay caused by a technical issue identified on the Vega-C production line; corrective actions were implemented and all systems were re-verified before the launch readiness review cleared the vehicle for countdown operations. In addition to its headline X-ray instrument, SMILE carries a UV aurora imager that will observe the northern lights continuously for up to 45 hours per orbit, alongside in-situ magnetometer and energetic particle detector instruments that together will revolutionize space weather science.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-10T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Targets May 21 for GSLV F17 Return-to-Flight Launch of EOS-05 Geostationary Imaging Satellite — First Mission Since January PSLV-C62 Failure",
+        body: "The Indian Space Research Organisation has confirmed May 21, 2026 as the target launch date for GSLV F17, carrying the EOS-05 (GISAT-1A) geostationary Earth observation satellite from the Satish Dhawan Space Centre at Sriharikota — the agency's first launch since the PSLV-C62 third-stage spin failure in January that grounded all Indian launch vehicles. EOS-05 is designed to provide near-real-time imagery of the Indian subcontinent every 30 minutes from geostationary orbit, with a five-minute emergency cadence over priority sectors, serving disaster management, cyclone tracking, flood monitoring, and agricultural monitoring agencies. A successful GSLV F17 mission will clear the manifest for several high-priority flights ahead, including the PSLV-C63 technology demonstrator, the first privately assembled PSLV-N1, and the Gaganyaan G1 uncrewed flight test carrying the Vyommitra semi-humanoid robot — all targeted for the second half of 2026. ISRO Chairman V. Narayanan has stated the agency aims to complete five flights in the current financial year, restoring India's launch cadence after the prolonged stand-down.",
+        sourceUrl: "https://www.indiastrategic.in/isro-all-set-to-return-to-rocket-launches-in-may-2026/",
+        timestamp: "2026-05-10T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-09": {
     date: "May 9, 2026",
     stories: [
