@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-11": {
+    date: "May 11, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China's Tianzhou-10 Cargo Spacecraft Launches on Long March-7 and Docks With Tiangong in Just 5 Hours, Delivering 6.2 Tonnes of Supplies and 41 Science Experiments",
+        body: "China successfully launched the Tianzhou-10 uncrewed cargo spacecraft aboard a Long March-7 Y11 rocket from the Wenchang Spacecraft Launch Site in Hainan Province on May 11 at 08:17 Beijing Time, marking the 641st flight of the Long March rocket family. The spacecraft autonomously docked with the aft port of Tiangong's Tianhe core module just over five hours after liftoff, delivering nearly 6.2 tonnes of cargo including a next-generation extravehicular activity spacesuit, a new space treadmill, and approximately 700 kilograms of propellant for station reboost operations. The mission's 41 scientific experiments — spanning microgravity fluid physics, advanced materials science, and a pioneering 'space embryo development' research chain covering lower vertebrates to higher mammals — represent Tianzhou-10's most ambitious science manifest to date. The cargo delivery pre-positions critical supplies for the Shenzhou-23 crew, who are expected to launch to Tiangong later this month in what will include China's first one-year continuous human spaceflight experiment.",
+        sourceUrl: "https://news.cgtn.com/news/2026-05-11/China-says-it-successfully-launches-Tianzhou-10-cargo-spacecraft-1N3cLeSCySQ/p.html",
+        timestamp: "2026-05-11T00:17:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Lofts NROL-172 Classified NRO Payload From Vandenberg on Booster B1103's Second Flight, With Drone Ship Landing in the Pacific",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4-East at Vandenberg Space Force Base, California, at 3:28 p.m. PDT on May 11, carrying the NROL-172 classified payload for the National Reconnaissance Office — the 13th batch of satellites for a proliferated reconnaissance constellation believed to consist of Starshield satellites built by SpaceX and Northrop Grumman. The mission used booster B1103 on its second flight; approximately eight and a half minutes after liftoff the first stage executed a successful propulsive landing on the drone ship 'Of Course I Still Love You' positioned in the Pacific Ocean. NROL-172 continues the NRO's rapid expansion of its low-Earth orbit surveillance architecture, with the proliferated constellation design offering increased revisit rates and resilience compared to traditional large-aperture spy satellites. SpaceX conducted no public webcast of the classified mission, consistent with standard NRO launch practice.",
+        sourceUrl: "https://www.noozhawk.com/vandenbergs-next-mission-spacex-rocket-launch-monday/",
+        timestamp: "2026-05-11T22:28:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Holds CRS-34 Prelaunch Media Briefing as SpaceX Dragon Targets May 12 Liftoff With 6,500 Pounds of Science Experiments and Crew Supplies for the ISS",
+        body: "NASA held its prelaunch media teleconference on May 11 for SpaceX's 34th Commercial Resupply Services mission (CRS-34), confirming a launch window opening at 7:16 p.m. EDT on May 12 from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The Dragon cargo capsule will carry approximately 6,500 pounds of science experiments, crew provisions, hardware, and equipment to the International Space Station, with autonomous docking at the forward port of the Harmony module expected around 9:50 a.m. EDT on May 14. Key science payloads aboard include multiple experiments targeting human health and physiology in microgravity, continuing NASA's long-running program to develop countermeasures for the health impacts of long-duration spaceflight ahead of crewed lunar and Mars missions. The CRS-34 mission represents another routine but operationally critical supply run that maintains uninterrupted research capabilities aboard the station.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/",
+        timestamp: "2026-05-11T15:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "NASA Begins Artemis Crew Training With Blue Origin's Full-Scale Blue Moon Mark 2 Lander Mockup at Johnson Space Center's Space Vehicle Mockup Facility",
+        body: "NASA began active training operations on May 11 using a full-scale replica of Blue Origin's Blue Moon Mark 2 crew lunar lander cabin, which was delivered to the Space Vehicle Mockup Facility at Johnson Space Center in Houston — standing over 15 feet (5 meters) tall, the mockup includes the exterior ladder and full interior astronaut workspace that crews will use on the lunar surface during Artemis III and Artemis IV missions. Human-in-the-loop tests now underway include mission scenario simulations, spacesuit checkouts, communications exercises with mission control, and simulated moonwalk preparation sequences that will directly inform crew procedures and lander interface designs. The Blue Moon MK2 mockup training milestone follows the successful completion of thermal vacuum testing of the actual flight-unit MK1 lander in NASA's Chamber A at JSC earlier in May, confirming the vehicle's readiness to survive the thermal extremes of the lunar environment. Blue Origin is competing alongside SpaceX's Starship Human Landing System for future Artemis crewed lunar surface missions, and both companies' lander hardware is now in active testing phases.",
+        sourceUrl: "https://orbitaltoday.com/2026/05/11/nasa-starts-using-blue-origins-lunar-lander-mockup/",
+        timestamp: "2026-05-11T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA's SMILE Solar-Magnetosphere Mission Enters Eight-Day Countdown at Kourou as Vega-C and Science Payload Confirmed Healthy for May 19 Launch",
+        body: "The European Space Agency's SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) mission entered its eight-day countdown phase at the Guiana Space Centre in Kourou, French Guiana, on May 11, with agency launch teams confirming the Vega-C rocket and spacecraft in fully healthy condition following final systems checks. SMILE — developed jointly by ESA and the Chinese Academy of Sciences — will use a wide-field soft X-ray imager to photograph the entire dayside magnetopause boundary for the first time continuously, alongside a UV aurora imager capable of watching the northern lights non-stop for up to 45 hours per orbit. Liftoff is targeted for May 19 at 05:52 CEST, placing the spacecraft into a highly elliptical orbit that peaks at 121,000 kilometers above Earth's northern polar regions before sweeping back to 5,000 kilometers above the south pole for data downlink. The May 19 date was set after a six-week stand-down caused by a technical issue identified in a Vega-C subsystem production component; following corrective actions and re-verification, all partners cleared the vehicle for final countdown operations.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-11T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-10": {
     date: "May 10, 2026",
     stories: [
