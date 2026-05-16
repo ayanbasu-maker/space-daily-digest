@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-16": {
+    date: "May 16, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "Dragon CRS-34 Midway Through 37-Hour Transit to ISS After Friday Launch, Docking at Harmony Forward Port Locked In for 7:05 a.m. EDT Sunday With Expedition 73 Crew Standing By",
+        body: "SpaceX's Dragon CRS-34 cargo spacecraft is midway through its two-day free-flight transit to the International Space Station following its successful May 15 launch from Cape Canaveral, with autonomous docking at the forward port of the Harmony module confirmed for approximately 7:05 a.m. EDT on Sunday, May 17. The capsule — on its sixth flight — is carrying roughly 6,500 pounds of science hardware and crew supplies for Expedition 73, including a wood-derived bone scaffold for osteoporosis research and a red blood cell physiology study examining how spaceflight alters human biology in microgravity. NASA flight controllers at Johnson Space Center are monitoring Dragon's approach trajectory and verifying docking corridor clearances in preparation for Sunday's arrival. Following docking, the capsule is expected to remain berthed at the station for approximately one month before returning to Earth with time-sensitive research samples, targeting a splashdown off the coast of California in mid-June.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/15/live-coverage-spacex-makes-another-attempt-to-launch-space-station-cargo-mission/",
+        timestamp: "2026-05-16T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Mission",
+        headline: "Starship Flight 12 Three Days From Launch as SpaceX Confirms First-Ever In-Space Raptor Relight Planned for May 19 Mission Alongside 22 Starlink Simulator Payload Deployment",
+        body: "With three days remaining before Starship Flight 12's May 19 launch window opens at 6:30 p.m. EDT from Orbital Launch Pad 2 at Starbase, SpaceX has confirmed an additional test objective: a single Raptor engine relight while Ship 39 is in space, making it the first time a Raptor has been restarted in the vacuum of orbit. The relight demonstration, combined with the deployment of 22 Starlink simulator satellites representing the first actual payload ever carried on a Starship test vehicle, makes Flight 12 the most operationally ambitious Starship mission to date. Booster 19 — equipped with 33 Raptor 3 engines — and Ship 39, with its stretched propellant tanks raising reusable LEO payload capacity past 100 metric tonnes, have completed all pre-flight testing including a successful wet dress rehearsal. Both stages are targeting controlled ocean splashdowns rather than a tower catch, prioritizing clean V3 architecture data over repeating the Flight 11 mechazilla milestone.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
+        timestamp: "2026-05-16T11:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "Blue Moon MK1 Lander 'Endurance' Relocated From Johnson Space Center to Kennedy for Final Pre-Flight Testing as Full-Scale MK2 Mockup Begins Supporting Artemis III Crew Training at JSC",
+        body: "Blue Origin's Blue Moon Mark 1 lunar lander, named Endurance, has completed thermal vacuum testing inside Chamber A at NASA's Johnson Space Center and has been relocated to Kennedy Space Center in Florida for additional pre-flight environmental verification ahead of its planned uncrewed demonstration mission later in 2026. Simultaneously, a full-scale mockup of the Blue Moon Mark 2 crew lander arrived at Johnson Space Center this month to support Artemis III and Artemis IV mission simulations, enabling astronauts to practice cabin ingress, suit donning, and crew operations in a realistic lander environment before the crewed lunar landing missions. NASA's Artemis III mission, which calls for dual commercial lander availability from both Blue Origin and SpaceX, is being refined following an updated mission plan published earlier this month. The MK1 demonstration flight will provide critical flight heritage data for the MK2 crew lander system Blue Origin is developing under NASA's Human Landing System contract.",
+        sourceUrl: "https://www.nasa.gov/missions/artemis/blue-origin-moon-lander-completes-testing-at-nasa-vacuum-chamber/",
+        timestamp: "2026-05-16T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Science",
+        headline: "NASA-ISRO NISAR Radar Satellite Delivers High-Resolution Surface Imagery of Indian Subcontinent as Joint Mission Enters Full Science Operations Phase, Producing Soil Moisture and Deformation Maps",
+        body: "The NASA-ISRO Synthetic Aperture Radar (NISAR) satellite has delivered its first high-resolution radar images of India, according to ISRO, marking the commencement of full science operations for the joint mission following its declaration of operational status in January 2026. India's National Remote Sensing Centre has processed initial NISAR L-band data to generate 100-meter resolution soil moisture maps covering central India and the Indo-Gangetic plains, with the data set expected to serve agricultural planning, disaster response, and groundwater management applications across the subcontinent. NISAR's dual-frequency SAR system — the only such instrument ever flown in space — allows it to map surface deformation, ecosystem disturbance, ice dynamics, and hazard zones on a 12-day repeat cycle, providing continuous monitoring of India's diverse terrain types from the Himalayas to coastal deltas. The mission is a landmark collaboration between NASA's Jet Propulsion Laboratory and ISRO, with each agency contributing one of the satellite's two radar frequency bands.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-isro-satellite-sends-first-radar-images-of-earths-surface/",
+        timestamp: "2026-05-16T07:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Opens Media Registration for May 20 Final Cleanroom Viewing of PLATO Exoplanet Spacecraft at ESTEC Ahead of Transport to Kourou, With 26-Camera Observatory on Track for Early 2027 Ariane 6 Launch",
+        body: "ESA has issued a media invitation for a final cleanroom viewing of its PLATO (PLAnetary Transits and Oscillations of stars) spacecraft at the European Space Research and Technology Centre in Noordwijk, Netherlands, on May 20 — the last opportunity to see the satellite before it is prepared for shipment to Europe's Spaceport in Kourou, French Guiana, ahead of an early 2027 Ariane 6 launch. PLATO recently emerged from ESA's Large Space Simulator chamber, where it successfully completed a demanding series of thermal-vacuum tests verifying the spacecraft and its 26 wide-field cameras can withstand the temperature extremes of space while maintaining the ultraprecise photometric stability needed to detect the tiny brightness dips caused by Earth-sized planets transiting Sun-like stars. The mission aims to discover and characterize rocky planets in the habitable zones of nearby bright stars, measuring planetary sizes to better than 3% accuracy and stellar ages to better than 10% by combining transit photometry with asteroseismology. PLATO will operate from the Sun-Earth L2 Lagrange point for a nominal four-year mission following its Ariane 6 insertion, with an extended science phase possible through 2034.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Final_chance_to_see_Europe_s_planet-hunting_satellite_Plato_in_cleanroom",
+        timestamp: "2026-05-16T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Confirms Tianwen-2 Asteroid Sample-Return Mission on Track for Late-May Launch as Shenzhou-23 Crew Assignment Announcement Expected Within Days",
+        body: "China's National Space Administration confirmed that the Tianwen-2 mission, targeting a close flyby and surface sample collection from near-Earth asteroid Kamoʻoalewa before continuing to the main-belt comet 311P/PANSTARRS, remains on schedule for a launch window opening at the end of May from the Xichang Satellite Launch Center aboard a Long March 3B rocket. Tianwen-2 would mark China's first asteroid sample-return attempt and the first mission to visit both an asteroid and a comet, with the retrieved Kamoʻoalewa samples expected to return to Earth in the early 2030s while the spacecraft continues its extended journey to 311P/PANSTARRS. Separately, China's manned space engineering office is expected to announce the three-member Shenzhou-23 crew within days of the planned late-May crewed launch to Tiangong, which will relieve the extended Shenzhou-22 crew and begin a groundbreaking one-year continuous spaceflight experiment for one crew member. The missions together represent the most ambitious two-week launch cadence in China's space program history.",
+        sourceUrl: "https://english.news.cn/20260418/0105fa9c521d4b99ba70d78336e17fcb/c.html",
+        timestamp: "2026-05-16T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-15": {
     date: "May 15, 2026",
     stories: [
