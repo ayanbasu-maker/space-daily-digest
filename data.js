@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-17": {
+    date: "May 17, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "Dragon CRS-34 Docks Successfully at ISS Harmony Port at 6:37 a.m. EDT, Delivering 6,500 Pounds of Science Hardware to Expedition 74 in First-Ever Sixth Flight of a Cargo Dragon Capsule",
+        body: "SpaceX's Dragon cargo spacecraft CRS-34 autonomously docked to the forward port of the ISS Harmony module at 6:37 a.m. EDT on Sunday, May 17, completing the two-day transit from its May 15 launch at Cape Canaveral and delivering approximately 6,500 pounds of science hardware, crew provisions, and equipment for Expedition 74. The mission marks the sixth flight of capsule C209 — the first cargo Dragon ever to reach that milestone — underscoring how SpaceX's reusable vehicle economics have quietly transformed station resupply operations since CRS-22 in 2021. Key payloads include a wood-derived bone scaffold targeting new osteoporosis therapies, a red blood cell and spleen physiology study, and a simulator fidelity experiment assessing how well ground-based microgravity rigs replicate on-orbit conditions. Dragon is expected to remain berthed at Harmony for approximately one month before an undocking and West Coast splashdown in mid-June.",
+        sourceUrl: "https://www.nasa.gov/mission/nasa-spacex-crs-34/",
+        timestamp: "2026-05-17T10:37:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Mission",
+        headline: "Starship Flight 12 Countdown Enters Final 48 Hours as Booster 19 and Ship 39 Stand Ready on Pad 2 for Tuesday's 6:30 p.m. EDT Window — First V3 Flight to Deploy 22 Starlink Simulators and Attempt In-Space Raptor Relight",
+        body: "With two days remaining until Starship Flight 12's opening launch window at 6:30 p.m. EDT on Tuesday, May 19, Booster 19 and Ship 39 remain stacked on Orbital Launch Pad 2 at Starbase, Texas, following a clean wet dress rehearsal and dual static fire campaign that confirmed all 33 Raptor 3 engines are flight-ready. The mission will debut the Version 3 Starship-Super Heavy architecture, featuring stretched upper-stage propellant tanks that push reusable LEO payload capacity past 100 metric tonnes, and will carry the first actual payload ever flown on a Starship test vehicle — 22 Starlink simulator satellites, two of which carry cameras aimed at Ship 39's heat shield during reentry to validate remote inspection methods. An additional first is planned: a single in-space Raptor engine relight in the vacuum of orbit, a prerequisite for the propellant-transfer and point-to-point flight profiles underpinning Starship's full mission architecture. Both stages are targeting ocean splashdowns to prioritize clean V3 performance data ahead of future tower catch attempts.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
+        timestamp: "2026-05-17T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "FAA Orders Blue Origin to Investigate New Glenn Upper-Stage Anomaly That Left BlueBird-7 in Wrong Orbit, as CEO Dave Limp Signals Company May Seek Outside Investment to Fund 100-Launch-Per-Year Ambition",
+        body: "The Federal Aviation Administration has ordered Blue Origin to conduct a formal investigation into a New Glenn upper-stage malfunction during the rocket's third flight last month, in which a propulsion anomaly prevented the AST SpaceMobile BlueBird-7 satellite from reaching its intended orbit despite a successful first-stage booster recovery. The anomaly is the second consecutive New Glenn upper-stage shortfall after a payload deployment problem on its second flight, raising questions about the stage's reliability as the company targets an aggressive 12-plus launches in 2026 and a longer-term goal of 100 per year. Separately, CEO Dave Limp told employees at a company all-hands meeting this month that Blue Origin may need to pursue outside investment for the first time in its 25-year history — funded entirely by Jeff Bezos to the tune of roughly $28 billion — to finance that expanded launch cadence. Blue Origin is simultaneously scouting a 1.3-million-square-foot manufacturing and R&D campus near Hutto, Texas, which would add more than 2,000 jobs if approved.",
+        sourceUrl: "https://www.presidentialprayerteam.org/2026/05/02/faa-orders-investigation-after-blue-origins-rocket-mishap/",
+        timestamp: "2026-05-17T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Targets May 21 for GSLV-F17 Return-to-Flight With EOS-05 Geostationary Imager, Aiming to End Four-Month Stand-Down and Open Path to Gaganyaan Uncrewed Test",
+        body: "India's ISRO has set May 21 as its target for the GSLV-F17 return-to-flight mission carrying the EOS-05 (GISAT-1A) geostationary Earth observation satellite, as countdown preparations begin at the Satish Dhawan Space Centre in Sriharikota following a four-month launch stand-down triggered by a PSLV-C62 third-stage spin failure in January. EOS-05, weighing approximately 2,100 kilograms, is designed to image the entire Indian subcontinent every 30 minutes under normal operations and compress repeat cycles to five minutes over priority zones, serving disaster management, cyclone tracking, flood response, and agricultural monitoring agencies. The mission's indigenously developed CE-20 cryogenic upper stage underwent additional cold-flow testing and turbopump inspections after the January anomaly, with ISRO Chairman V. Narayanan calling a successful return-to-flight the key to unlocking a packed 2026 manifest that includes the Gaganyaan G1 uncrewed orbital test and the first privately assembled PSLV-N1 built by NewSpace India Limited. Additional schedule adjustments remain possible depending on range and weather conditions.",
+        sourceUrl: "https://www.indiastrategic.in/isro-all-set-to-return-to-rocket-launches-in-may-2026/",
+        timestamp: "2026-05-17T07:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "ESA SMILE Solar-Wind Mission Cleared for Tuesday's 05:52 CEST Vega-C Liftoff After Technical Review, Set to Give Humanity Its First Complete View of Earth's Magnetospheric Response to Solar Wind",
+        body: "ESA and the Chinese Academy of Sciences confirmed that the joint SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) spacecraft is fully cleared for its Tuesday, May 19 launch at 05:52 CEST from Europe's Spaceport in Kourou, French Guiana, after a precautionary stand-down to investigate a production-line defect in a Vega-C subsystem component was resolved to all partners' satisfaction. SMILE will be the first spacecraft to simultaneously combine soft X-ray imaging of Earth's magnetosheath and bow shock with UV auroral imaging and in-situ particle and magnetic field measurements, providing the first end-to-end picture of how the magnetosphere reacts to solar wind input — science that the Wolf Amendment has barred NASA from pursuing in collaboration with China since 2011. The spacecraft's highly elliptical orbit will carry it 121,000 km above the North Pole for imaging passes lasting up to 45 continuous hours before swinging down to 5,000 km for data downlink, enabling unprecedented long-dwell observations of auroral dynamics. Solar panel deployment 63 minutes after liftoff is the primary launch success milestone, after which SMILE enters a commissioning phase ahead of its three-year science mission.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-17T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Tianwen-2 Asteroid-Comet Mission on Track for Late-May Xichang Launch as Shenzhou-23 Crew Announcement Expected Within 24 Hours of Liftoff Targeting End of Month",
+        body: "China's space program is preparing for its most ambitious two-week launch window in history, with the Tianwen-2 dual-target planetary science mission and the crewed Shenzhou-23 orbital station flight both targeting late-May launches within days of each other. Tianwen-2 — set to launch from Xichang aboard a Long March 3B — will attempt China's first asteroid sample-return, collecting surface material from near-Earth asteroid Kamoʻoalewa before continuing to main-belt comet 311P/PANSTARRS, with the retrieved samples expected back on Earth in the early 2030s. Shenzhou-23, the crewed successor to the extended Shenzhou-22 rotation, will include a groundbreaking one-year continuous spaceflight experiment for a single crew member — more than double China's standard six-month rotation — gathering physiological data in direct support of long-duration lunar and Mars mission planning. The China Manned Space Engineering Office is expected to announce the three-member Shenzhou-23 crew approximately 24 hours before launch, consistent with its standard operational security practice.",
+        sourceUrl: "https://english.news.cn/20260418/0105fa9c521d4b99ba70d78336e17fcb/c.html",
+        timestamp: "2026-05-17T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-16": {
     date: "May 16, 2026",
     stories: [
