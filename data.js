@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-18": {
+    date: "May 18, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Newly Discovered Asteroid 2026 JH2 Makes Safe Closest-Ever Flyby of Earth Today at 90,000 km — Under a Quarter of the Lunar Distance — as Virtual Telescope Project Streams Live Views at 3:45 p.m. EDT",
+        body: "Asteroid 2026 JH2, a recently discovered Apollo-class near-Earth object measuring between 15 and 35 metres across, made its closest approach to Earth at 21:23 UTC on May 18, passing just 90,000 kilometres (56,000 miles) away — less than a quarter of the distance between Earth and the Moon, making it one of the closest recorded safe flybys of an asteroid this size. The object was discovered only eight days earlier by the Mount Lemmon Survey in Tucson, Arizona on May 10, underscoring how quickly planetary defence observation networks can characterise inbound objects and definitively rule out impact risks. At closest approach, 2026 JH2 brightened to approximately magnitude 11.5, placing it within reach of backyard telescopes under dark skies; the Virtual Telescope Project hosted a live webcast beginning at 3:45 p.m. EDT from remote observatories in Italy to capture the fleeting encounter. NASA confirmed zero probability of impact on this pass, and updated orbital calculations show no future Earth-intersection threat for at least the next century.",
+        sourceUrl: "https://www.virtualtelescope.eu/2026/05/12/near-earth-asteroid-2026-jh2-extremely-close-encounter-online-observation-18-may-2026/",
+        timestamp: "2026-05-18T21:23:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Mission",
+        headline: "Starship Flight 12 Enters Final 24-Hour Countdown for Tomorrow's 6:30 p.m. EDT Launch at Starbase as Booster 19 and Ship 39 Stand on Pad 2, Ready to Debut V3 Architecture With 22 Starlink Simulators as First-Ever Starship Payload",
+        body: "With less than 24 hours until Starship Flight 12's opening window at 6:30 p.m. EDT on Tuesday, May 19, Booster 19 and Ship 39 are fully stacked on Orbital Launch Pad 2 at Starbase, Texas, having cleared all pre-flight checkpoints including a wet dress rehearsal and successful static fire of all 33 Raptor 3 engines on the Super Heavy booster. The mission marks the debut of the Version 3 Starship architecture: Booster 19 carries the newly designed Raptor 3 engines while Ship 39 features stretched propellant tanks that push the vehicle's reusable low-Earth-orbit payload capacity past 100 metric tonnes for the first time. Flight 12 will also deploy 22 Starlink simulator satellites, making it the first Starship test flight to carry an actual payload — two of the simulators are fitted with cameras aimed at Ship 39's heat shield tiles during atmospheric reentry to validate remote inspection methods ahead of future operational flights. Both stages are targeting controlled splashdowns — Booster 19 into the Gulf of Mexico and Ship 39 into the Indian Ocean — rather than a tower catch, prioritising clean V3 performance data over repeating the mechazilla milestone achieved on Flight 11.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/12/spacex-targets-may-19-for-debut-of-starship-super-heavy-version-3-launch-pad-2/",
+        timestamp: "2026-05-18T18:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "ESA-CAS SMILE Solar-Wind Mission Hours From Vega-C Liftoff at 05:52 CEST Tuesday as Final Pre-Launch Checks Clear at Kourou, Marking Vega-C Return-to-Flight and Opening New Era of Magnetosphere Science",
+        body: "Final launch preparations are complete at Europe's Spaceport in Kourou, French Guiana, for the ESA–Chinese Academy of Sciences SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) mission, with liftoff locked in for 05:52 CEST (03:52 UTC) on Tuesday, May 19 aboard a Vega-C — the rocket's return to flight following a months-long stand-down to address a production-line defect found in a subsystem component. SMILE carries four science instruments — a soft X-ray imager, an ultraviolet auroral imager, an ion mass spectrometer, and a magnetometer — that will for the first time simultaneously image the magnetosheath boundary and Earth's auroral ovals while measuring in-situ particle and field conditions, delivering a complete end-to-end picture of how the magnetosphere responds to solar wind input that no previous mission has been able to provide. The spacecraft will be placed in a highly elliptical orbit reaching 121,000 km above the North Pole for extended imaging passes lasting up to 45 continuous hours, before swooping to 5,000 km above the South Pole to downlink data at high bandwidth; solar panel deployment 63 minutes after liftoff will serve as the primary launch success confirmation milestone. SMILE's three-year science mission will improve space weather forecasting models and shed light on geomagnetic storm dynamics affecting satellites, power grids, and communications infrastructure worldwide.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_set_to_launch_on_19_May",
+        timestamp: "2026-05-18T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Shenzhou-23 Stands Ready on Jiuquan Launchpad as Long March-2F Clears Final Checks, While Tianwen-2 Asteroid-Comet Probe Waits on Xichang Launch Tower Ahead of Late-May Double Launch Sprint",
+        body: "China's Long March-2F Y23 rocket carrying the Shenzhou-23 crewed spacecraft has completed final function checks and joint tests at the Jiuquan Satellite Launch Center following its rollout to the launch pad on May 16, with the China Manned Space Engineering Office set to announce the three-member crew approximately 24 hours before liftoff in keeping with its standard operational security practice. The mission will relieve the Shenzhou-22 crew currently aboard Tiangong, and will include a landmark one-year continuous spaceflight experiment for a single crew member — more than double China's standard six-month rotation — gathering long-duration physiological data critical for future crewed lunar and Mars mission planning. Simultaneously, the Tianwen-2 planetary science probe has been mated with its Long March-3B Y110 rocket at Xichang following the stack's move from the technical area to the launch tower on May 14, positioning China for an extraordinarily busy close to May; Tianwen-2 will attempt China's first asteroid sample-return from near-Earth object Kamoʻoalewa before continuing to main-belt comet 311P/PANSTARRS. The two launches represent the most ambitious two-week cadence in the history of China's crewed and deep-space exploration programmes.",
+        sourceUrl: "https://news.cgtn.com/news/2026-05-16/China-to-launch-Shenzhou-23-crewed-mission-to-space-station-1NbELlzHy7e/p.html",
+        timestamp: "2026-05-18T06:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "New Glenn Remains Grounded as FAA Probes Both April Upper-Stage Engine Failure and Separate Launch Facility Anomaly, While Blue Origin Advances Blue Moon MK1 RF Testing in Parallel",
+        body: "Blue Origin's New Glenn rocket remains grounded with no firm return-to-flight date following the Federal Aviation Administration's dual investigation into a BE-3U upper-stage engine thrust shortfall during the April 19 third flight — which stranded AST SpaceMobile's BlueBird-7 satellite in a lower-than-planned orbit where it is expected to deorbit and burn up — and a separate facility anomaly at Blue Origin's Cape Canaveral complex that the FAA is examining concurrently. CEO Dave Limp attributed the propulsion shortfall to one of the BE-3U engines producing insufficient thrust during the second upper-stage burn, and the company must demonstrate to the FAA that any system, process, or procedure implicated in the mishap has been corrected before New Glenn is cleared to fly again, a timeline that threatens the company's stated 2026 target of 8 to 12 launches. Blue Origin is using the stand-down period to advance preparations for its Blue Moon Mark 1 uncrewed lunar lander demonstration, which has completed thermal vacuum testing at Johnson Space Center and moved to Kennedy Space Center for radio frequency compatibility testing ahead of a planned 2026 Moon flight. The grounding also adds pressure to Blue Origin's early discussions around seeking outside investment for the first time in the company's 25-year history, as the window for achieving meaningful launch cadence this year narrows with each week the FAA investigation remains open.",
+        sourceUrl: "https://hanfordsentinel.com/news/national/blue-origin-preps-for-moonshot-lander-mission-while-new-glenn-remains-grounded/article_c14a2f88-d44e-5113-b9b6-32911f1b709a.html",
+        timestamp: "2026-05-18T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO's GSLV-F17 Three Days From May 21 Return-to-Flight as EOS-05 Geostationary Imager Passes Final Pre-Launch Reviews at Sriharikota, Opening the Path to Gaganyaan Uncrewed Test",
+        body: "India's GSLV-F17 rocket carrying the EOS-05 (GISAT-1A) geostationary Earth observation satellite is three days from its planned May 21 liftoff at the Satish Dhawan Space Centre, Sriharikota, with countdown preparations progressing nominally as the vehicle undergoes final pre-launch function checks and range clearances following a four-month stand-down triggered by the PSLV-C62 third-stage spin failure in January 2026. EOS-05, a 2,100-kilogram geostationary imager designed to cover the entire Indian subcontinent every 30 minutes under routine operations — compressible to five-minute repeat cycles over designated priority zones — will serve disaster management, flood response, cyclone tracking, and agricultural monitoring agencies across India and South Asia once on station. ISRO's indigenously developed CE-20 cryogenic upper stage has undergone additional cold-flow testing and turbopump acceptance inspections since the January anomaly, with Chairman V. Narayanan describing a successful return-to-flight as the key that unlocks a demanding second-half manifest including the Gaganyaan G1 uncrewed orbital test and the first PSLV-N1 assembled by NewSpace India Limited. A launch scrub before May 25 would require a reassessment of the launch window given the geostationary transfer insertion geometry, raising the stakes for a clean countdown on the first attempt.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/05/isro-to-launch-gslv-f17-with-gisat-1a.html",
+        timestamp: "2026-05-18T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-17": {
     date: "May 17, 2026",
     stories: [
