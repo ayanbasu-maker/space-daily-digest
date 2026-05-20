@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-20": {
+    date: "May 20, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Stands Down from Starship Flight 12 for Second Consecutive Day, Shifting V3 Debut to Thursday May 21 at 6:30 p.m. EDT — Third Scheduling Adjustment Since Monday as Booster 19 and Ship 39 Remain Stacked and Healthy on Pad 2",
+        body: "SpaceX has stood down from Starship Flight 12 for a second consecutive day, shifting the V3 debut to no earlier than Thursday, May 21 at 6:30 p.m. EDT from Orbital Launch Pad 2 at Starbase, Texas — the third scheduling adjustment since the flight was originally targeted for Monday, May 18. Booster 19, equipped with 33 Raptor 3 engines, and Ship 39, with stretched propellant tanks that push reusable LEO payload capacity past 100 metric tonnes, remain fully stacked and in good health; SpaceX cited the need for additional pre-flight verification time without identifying a specific technical concern. Thursday's 90-minute window again opens at 6:30 p.m. EDT, with the mission carrying 22 Starlink simulator satellites — the first payload ever flown aboard a Starship test vehicle — and targeting an in-space Raptor engine relight before both stages make controlled ocean splashdowns. The repeated holds are consistent with SpaceX's pattern ahead of a new vehicle configuration's inaugural flight, as engineers work through the comprehensive verification checklist required before Flight 12 can attempt to make history as the most powerful rocket ever to fly.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-20-2026",
+        timestamp: "2026-05-20T22:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Confirms Airplane-Sized Asteroid 2026 JP1 Safely Passes Earth at 4.2 Million Miles on May 20 — No Impact Threat as 180-Foot Space Rock Joins Growing List of Near-Earth Objects Tracked by JPL Planetary Defense Network",
+        body: "An airplane-sized near-Earth asteroid designated 2026 JP1, measuring approximately 55 metres (180 feet) wide, safely flew past Earth today at a distance of 4.2 million miles — roughly 17 times the average Earth-Moon separation — posing zero impact threat, according to NASA's Jet Propulsion Laboratory. The object was placed on JPL's 'Next Five Approaches' dashboard in the days leading up to the encounter, where its distinctive brightness and steady orbital path provided useful data for refining trajectory models. Unlike the more dramatic 2026 JH2 pass two days prior, which came within a quarter of the lunar distance, JP1's much greater separation puts it firmly in the routine monitoring category even for an object of its size. NASA uses encounters like today's to calibrate ground-based radar and optical tracking systems that form the first line of planetary defense against genuinely hazardous impactors, continuously improving detection lead-times for any future object on a collision course.",
+        sourceUrl: "https://www.newsbytesapp.com/news/science/nasa-asteroid-2026-jp1-will-safely-pass-earth-may-20/tldr",
+        timestamp: "2026-05-20T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "Jeff Bezos Cautions That 2-3 Year Timelines for Orbital Data Centers Are 'A Little Ambitious' Despite Calling Space Compute 'Very Realistic,' as Blue Origin's Project Sunrise Eyes 51,600-Satellite Constellation with 2027 TeraWave Backbone",
+        body: "Amazon founder Jeff Bezos publicly acknowledged on Wednesday that two-to-three-year industry timelines for deploying space-based AI data centers are 'a little ambitious,' even as he reaffirmed that offloading energy- and water-intensive compute to orbital platforms is 'very realistic' over a longer horizon. Bezos was responding to optimistic estimates from rivals including SpaceX CEO Elon Musk, who has suggested Starship could begin delivering orbital data center hardware within a similar timeframe. Blue Origin filed plans with the Federal Communications Commission in March to deploy Project Sunrise — a constellation of up to 51,600 orbital compute satellites operating in sun-synchronous orbits between 500 and 1,800 km altitude — backed by the TeraWave high-throughput communications constellation that Blue Origin is simultaneously seeking FCC approval to build. With New Glenn currently grounded pending an FAA investigation into the April upper-stage anomaly, the heavy-lift launch cadence Project Sunrise would ultimately require remains a significant open question for the company's orbital compute ambitions.",
+        sourceUrl: "https://www.cnbc.com/2026/05/20/bezos-blue-origin-space-data-centers.html",
+        timestamp: "2026-05-20T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Technology",
+        headline: "ESA Hosts Final Cleanroom Media Viewing of Plato Planet-Hunting Satellite at ESTEC Noordwijk as Spacecraft Completes Thermal Vacuum Testing — 26-Camera Exoplanet Observatory on Track for Early 2027 Ariane 6 Launch to Sun-Earth L2",
+        body: "The European Space Agency opened its ESTEC test centre in Noordwijk, the Netherlands to journalists on Wednesday for a final opportunity to see the Plato spacecraft inside the cleanroom before the observatory ships to Kourou for launch preparations — a milestone that reflects how deep into final integration the exoplanet hunter has progressed. Plato, short for PLAnetary Transits and Oscillations of stars, carries 26 individual cameras designed to discover potentially habitable, Earth-sized planets around bright, Sun-like stars by precisely measuring the tiny brightness dips produced when a planet crosses in front of its host. The spacecraft recently emerged from the Large Space Simulator at ESTEC having passed a full suite of thermal vacuum tests under simulated deep-space conditions — the most demanding environmental qualification a satellite undergoes before flight. Plato remains on schedule for launch aboard an Ariane 6 rocket from French Guiana in early 2027, following which it will travel to the Sun-Earth L2 Lagrange point to begin a multi-year photometric survey covering more than 200,000 nearby stars.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases/Media_invitation_Final_chance_to_see_Europe_s_planet-hunting_satellite_Plato_in_cleanroom",
+        timestamp: "2026-05-20T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO GSLV-F17 Enters Final 24-Hour Countdown for Thursday's EOS-05 Return-to-Flight Launch at Sriharikota, With CE-20 Cryogenic Stage Cleared and Range Conditions Nominal — Success Unlocks Gaganyaan G1 Uncrewed Test Path",
+        body: "India's ISRO entered the final 24-hour countdown phase on Wednesday for the GSLV-F17 return-to-flight mission, targeting liftoff at 03:15 UTC on Thursday, May 21, from the Satish Dhawan Space Centre at Sriharikota — the agency's first launch since a PSLV-C62 third-stage failure in January 2026 triggered a four-month fleet-wide safety review. The vehicle carries EOS-05 (GISAT-1A), a 2,100-kilogram geostationary Earth observation satellite capable of imaging the entire Indian subcontinent every 30 minutes under normal conditions and compressing coverage to five-minute repeat cycles over disaster-zone priority areas for cyclone, flood, and forest-fire monitoring. ISRO's indigenously developed CE-20 cryogenic upper stage — which underwent additional turbopump acceptance testing and cold-flow inspections in the wake of the January anomaly — has been formally declared flight-ready, with range and weather assessments at Sriharikota reported as nominal through Wednesday evening. ISRO Chairman V. Narayanan has described a successful GSLV-F17 launch as the critical gate event that clears the path to the Gaganyaan G1 uncrewed orbital test and the maiden flight of the first PSLV-N1 assembled by NewSpace India Limited.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/05/isro-to-launch-gslv-f17-with-gisat-1a.html",
+        timestamp: "2026-05-20T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Shenzhou-23 Crewed Mission to Tiangong Now Targeting NET May 24 Launch as Long March-2F Y23 Stands Ready at Jiuquan Pad 921 — One Taikonaut to Attempt Historic Year-Long Stay to Gather Deep-Space Health Data Ahead of Lunar Ambitions",
+        body: "China's Manned Space Engineering Office has set a launch date of no earlier than May 24 for the Shenzhou-23 crewed mission to Tiangong, with the Long March-2F Y23 rocket standing in launch-ready status at Jiuquan's Pad 921 following its rollout on May 16 and successful completion of all joint function checks. In keeping with China's standard operational security protocol, the three-member crew names will be announced approximately 24 hours before liftoff, placing a public crew reveal on the evening of May 23 local time barring any further schedule adjustments. The mission's defining element is a planned year-long continuous spaceflight experiment for one of the three crew members — more than doubling China's standard six-month rotation — generating long-duration physiological and psychological data that will directly inform human lunar and Mars mission planning. A successful one-year Tiangong stay would also clear the schedule for a Pakistani astronaut to fly aboard Shenzhou-24 in October 2026, making him the first foreign national to launch on a Chinese crewed mission.",
+        sourceUrl: "https://dailygalaxy.com/2026/05/china-shenzhou-23-mission-to-space-station/",
+        timestamp: "2026-05-20T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-19": {
     date: "May 19, 2026",
     stories: [
