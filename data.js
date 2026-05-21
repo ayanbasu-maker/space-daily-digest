@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-21": {
+    date: "May 21, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Third Consecutive Attempt at Starship Flight 12 V3 Debut Tonight at 6:30 p.m. EDT — Booster 19 With 33 Raptor 3 Engines and Ship 39 Stand Ready on Orbital Launch Pad 2 as 55% Favorable Weather Holds for 90-Minute Window",
+        body: "SpaceX is targeting a third consecutive launch opportunity opening at 6:30 p.m. EDT (22:30 UTC) tonight for Starship Flight 12, the inaugural flight of the Version 3 architecture, after standing down from two earlier attempts earlier this week for additional pre-flight verification without citing a specific technical cause. Booster 19, equipped with 33 newly designed Raptor 3 engines, and Ship 39, whose stretched propellant tanks push reusable low-Earth-orbit payload capacity past 100 metric tonnes, remain stacked and healthy on Orbital Launch Pad 2 at Starbase, Texas, with the 90-minute window running from 6:30 to 8:00 p.m. EDT. Flight 12 will carry 22 Starlink simulator satellites — the first payload ever flown aboard a Starship test vehicle — and attempt the first in-space Raptor engine relight before both stages target controlled ocean splashdowns in the Gulf of Mexico and Indian Ocean, with SpaceX prioritising clean V3 performance data over repeating the mechazilla tower catch achieved on Flight 11. Weather stands at 55% favorable for the window opening with conditions expected to improve across the duration, and SpaceX live coverage begins approximately 45 minutes before the targeted liftoff on X.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-21-2026",
+        timestamp: "2026-05-21T16:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO GSLV-F17 Lifts Off at 08:45 IST From Sriharikota Carrying EOS-05 Geostationary Imager in Return-to-Flight Mission — CE-20 Cryogenic Stage Performs Nominally, Ending Four-Month Stand-Down and Clearing Path to Gaganyaan G1 Uncrewed Test",
+        body: "India's ISRO launched the GSLV-F17 rocket at 08:45 IST (03:15 UTC) from the Satish Dhawan Space Centre at Sriharikota, placing the EOS-05 (GISAT-1A) geostationary Earth observation satellite on its planned transfer trajectory in the agency's first mission since a PSLV-C62 third-stage spin failure grounded the fleet for four months beginning in January 2026. The indigenously developed CE-20 cryogenic upper stage — which underwent extensive additional cold-flow testing and turbopump acceptance inspections during the stand-down — performed nominally throughout its burn, validating the engineering changes made in the months since the January anomaly. EOS-05, a 2,100-kilogram geostationary imager, will image the entire Indian subcontinent every 30 minutes under routine operations and can compress coverage to five-minute repeat cycles over designated disaster priority zones, serving cyclone tracking, flood response, agricultural monitoring, and forest-fire detection agencies across South Asia. The return-to-flight success clears the critical gate event that ISRO Chairman V. Narayanan identified as the prerequisite for both the Gaganyaan G1 uncrewed orbital test and the debut flight of the first PSLV-N1 assembled by NewSpace India Limited.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/05/isro-to-launch-gslv-f17-with-gisat-1a.html",
+        timestamp: "2026-05-21T03:15:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Technology",
+        headline: "NASA 2026 Lunabotics Challenge Concludes at Kennedy Space Center With Finals Day Showcasing 50 University Teams' Fully Autonomous Lunar Regolith Excavators — Competition Results Feed Directly Into Artemis Surface Infrastructure Engineering",
+        body: "NASA's 2026 Lunabotics Challenge wrapped up its three-day final competition today at the Astronauts Memorial Foundation's Center for Space Education at Kennedy Space Center Visitor Complex in Florida, with 50 university teams having competed since Tuesday to build and operate fully autonomous rovers capable of excavating simulated lunar regolith and constructing protective berms without any real-time human control inputs — directly mirroring the communication latency constraints that make Earth-based teleoperation impractical from the lunar surface. The challenge directly addresses one of the Artemis programme's most pressing unresolved engineering problems: constructing earthen berms that shield surface equipment from landing and launch ejecta, shade cryogenic propellant storage tanks, and reduce radiation exposure for nuclear power systems intended to support sustained human presence on the Moon. Teams were evaluated on both the mechanical performance of their excavators and the robustness of their autonomy software, with NASA officials on-site to identify engineering talent and technology approaches that may influence future prototype specifications for Artemis surface operations. The competition is one of NASA's longest-running university engineering challenges and was streamed live each day from KSC, with standout robotic designs potentially informing NASA-funded development contracts that feed into Artemis crewed surface operations planning in the late 2020s.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-annual-lunabotics-robotics-competition/",
+        timestamp: "2026-05-21T18:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Shenzhou-23 Crew Names Expected Within Hours as Long March-2F Stands Ready at Jiuquan for NET May 24 Liftoff — Tianwen-2 Probe Transmits First Deep-Space Image En Route to July Rendezvous With Asteroid Kamoʻoalewa",
+        body: "China's Manned Space Engineering Office is expected to announce the three-member Shenzhou-23 crew within the next 24 to 48 hours in keeping with its standard pre-launch operational security protocol, as the Long March-2F Y23 rocket sits in launch-ready status at Jiuquan Satellite Launch Center's Pad 921 targeting a no-earlier-than May 24 liftoff for the 11th crewed mission to Tiangong — with one crew member committed to an unprecedented year-long continuous stay that would more than double China's standard six-month rotation and generate critical physiological data for crewed lunar and Mars mission planning. Meanwhile, the Tianwen-2 planetary probe, which launched in May 2025, transmitted its first deep-space photograph this week as it continues its outbound trajectory toward near-Earth quasi-satellite asteroid Kamoʻoalewa (469219 Kamo'oalewa), where the spacecraft is expected to arrive for close-proximity operations and surface sample collection in July 2026 ahead of a planned Earth sample return in 2027. A Pakistani astronaut is also scheduled to fly aboard the subsequent Shenzhou-24 mission in October 2026 — making him the first foreign national to launch on a Chinese crewed spacecraft — contingent on a successful Shenzhou-23 mission completing the current Tiangong crew rotation. The concurrent progress of Shenzhou-23's crewed mission preparation and Tianwen-2's active deep-space journey underscores the remarkable breadth of China's simultaneously running crewed and robotic space exploration agenda.",
+        sourceUrl: "https://www.space.com/space-exploration/missions/chinas-tianwen-2-spacecraft-sends-home-1st-photo-as-it-heads-for-mysterious-quasi-moon-asteroid",
+        timestamp: "2026-05-21T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA-CAS SMILE Spacecraft Enters Commissioning Phase Two Days After Successful Vega-C Launch — All Four Science Instruments Healthy as Probe Begins Autonomous Orbit-Raising Burns Toward 121,000 km Polar Apogee Science Orbit",
+        body: "The ESA–Chinese Academy of Sciences SMILE (Solar wind Magnetosphere Ionosphere Link Explorer) spacecraft entered its formal commissioning phase today in confirmed good health, two days after its successful Vega-C launch from Kourou on May 19, with all four science instruments — the soft X-ray imager, ultraviolet auroral imager, ion mass spectrometer, and magnetometer — powered on and confirmed functional following initial in-orbit checkouts conducted by ESA's mission operations team at ESOC in Darmstadt. SMILE has begun a series of autonomous apogee-raising manoeuvres that will gradually shape its highly elliptical science orbit over the coming weeks, ultimately reaching a 121,000 km north polar apogee for uninterrupted 45-hour observing sessions imaging Earth's magnetopause and bow shock, then sweeping to a 5,000 km southern perigee for high-bandwidth data downlinks to New Norcia and Malargüe ground stations. The spacecraft represents the first jointly designed and built ESA–China mission-level science satellite, with ESA providing the overall spacecraft bus and science operations leadership while the Chinese Academy of Sciences contributed the ultraviolet auroral imager and ion mass spectrometer, and its successful launch also marked Vega-C's return to operational service following a production-line defect stand-down. SMILE's three-year science programme will deliver the first-ever simultaneous global images of Earth's entire magnetosphere boundary layer while measuring in-situ particle and field conditions, data products expected to substantially improve space weather forecasting models protecting satellites, power grids, and aviation communications worldwide.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
+        timestamp: "2026-05-21T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-20": {
     date: "May 20, 2026",
     stories: [
