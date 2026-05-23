@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-23": {
+    date: "May 23, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship V3 Makes Historic Debut on Flight 12 as Ship 39 Reaches Indian Ocean on Two Engines While Booster 19 Is Lost Over Gulf of Mexico Following Engine Failures — 22 Starlink Simulators Deployed Successfully in First-Ever Starship Payload Drop",
+        body: "SpaceX's Starship Flight 12 completed the debut of the Version 3 architecture on Friday evening, lifting off from Orbital Launch Pad 2 at Starbase, Texas at 6:30 p.m. EDT in a mission that delivered a partial but significant success: Ship 39 deployed all 22 Starlink simulator satellites — the first payload ever flown on a Starship test vehicle — and completed a controlled splashdown in the Indian Ocean on just two of its six Raptor engines at approximately 7:36 p.m. CT, while Super Heavy Booster 19 was lost when its engines failed to relight after hot-stage separation, sending it into an uncontrolled descent that ended in a hard impact in the Gulf of Mexico. Ship 39 operated through the mission with one engine already out, executing a landing flip maneuver and sustaining a burn on only two of three functioning engines before touching down in the target zone, demonstrating the fault tolerance of the V3 architecture and the ship's ability to complete primary objectives despite propulsion degradation. SpaceX confirmed the 22 Starlink simulators separated successfully mid-flight — the first-ever operational payload deployment from a Starship vehicle — a milestone tied directly to the company's IPO narrative and its near-term plan to use Starship for Starlink V3 megaconstellation launches. The loss of Booster 19 means SpaceX must analyze the relight failure data before committing Flight 13 objectives, though engineers will draw significant validation data from Ship 39's successful coast, reentry, and ocean touchdown.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-12-launch-updates-may-22-2026",
+        timestamp: "2026-05-23T00:36:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Unveils Shenzhou-23 Crew at Saturday Press Conference — Commander Zhu Yangzhu Leads Mission With Zhang Zhiyuan and Lai Ka-ying, Hong Kong's First-Ever Astronaut and Police Superintendent With a Computer Science PhD, Ahead of Sunday 11:08 p.m. Beijing Time Liftoff",
+        body: "China's Manned Space Agency formally announced the three-member Shenzhou-23 crew at a press conference Saturday morning in Beijing, with Zhu Yangzhu — a veteran of Shenzhou-16 — serving as commander, Zhang Zhiyuan as spacecraft pilot, and Lai Ka-ying as payload specialist; both Zhang and Lai are making their first spaceflight. The mission's most historic element is Lai Ka-ying, a 43-year-old police superintendent and computer science PhD from the University of Hong Kong who becomes the first astronaut from the Hong Kong Special Administrative Region and the first female payload specialist selected from Hong Kong or Macao, having applied to China's fourth batch of astronaut recruitment in October 2022 despite a personal history of motion sickness, enduring three gruelling rounds of selection before joining the People's Liberation Army Astronaut Corps in August 2024. Shenzhou-23 is scheduled to lift off from Pad 921 at the Jiuquan Satellite Launch Center aboard a Long March-2F Y23 rocket at 11:08 p.m. Sunday Beijing time (15:08 UTC Sunday), with the crew set to dock at Tiangong and relieve the Shenzhou-22 crew in a standard handover, after which one crew member will begin the planned one-year long-duration physiological experiment. The mission also paves the way for Shenzhou-24, currently planned for October 2026, which is expected to carry a Pakistani astronaut as the first foreign national aboard a Chinese crewed spacecraft.",
+        sourceUrl: "https://english.news.cn/20260523/7c50f7f18a4e4b62b8a2f7ee62c0a902/c.html",
+        timestamp: "2026-05-23T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "NASA Administrator Isaacman Unveils Sweeping Agency Reorganization, Merging Human Spaceflight and Space Operations Into One Directorate and Opening JPL Management to Competition for the First Time in the Lab's 90-Year History — Restructuring Tied to Moon Base Acceleration",
+        body: "NASA Administrator Jared Isaacman announced the agency's most significant structural reorganization in recent memory on Friday, consolidating the Human Exploration and Operations Mission Directorate and the Space Operations Mission Directorate into a unified Human Spaceflight Mission Directorate, while merging the Aeronautics Research Mission Directorate and Space Technology Mission Directorate into a new Research and Technology Mission Directorate — changes designed to eliminate redundant reporting layers as the agency accelerates toward its Moon Base goals. Under the new structure, all mission directorates will report directly to Isaacman rather than through the associate administrator, a chain-of-command shortening intended to improve coordination across NASA's field centers and international partnerships. In a parallel announcement, NASA said it will open the management contract for the Jet Propulsion Laboratory to competition for the first time in the lab's history, ending the sole-source arrangement with the California Institute of Technology that has governed JPL since its founding in the 1930s. Isaacman framed both moves as part of a wider effort to liberate the workforce from unnecessary bureaucracy — stating 'we are focusing resources on the most pressing objectives only NASA is capable of undertaking' — with the structural changes expected to take effect in the coming weeks ahead of the May 26 Moon Base strategy briefing at NASA headquarters.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
+        timestamp: "2026-05-22T17:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "FAA Clears New Glenn for Return to Flight After April Upper-Stage Mishap While Blue Origin Simultaneously Announces $600 Million 'Project Horizon' Cape Canaveral Factory Expansion Creating 500 Aerospace Jobs",
+        body: "The Federal Aviation Administration formally lifted its grounding of Blue Origin's New Glenn rocket on May 22, clearing the vehicle for flight resumption after reviewing and accepting the corrective action plan addressing the April 19 BE-3U upper-stage thrust anomaly that stranded AST SpaceMobile's BlueBird-7 satellite in an unusably low orbit — though Blue Origin has not yet announced a specific return-to-flight date as it works through its reconstituted 2026 launch manifest. The FAA clearance arrived on the same day that Florida Governor Ron DeSantis announced Blue Origin's $600 million 'Project Horizon' campus expansion at its Rocket Park in Cape Canaveral — an 830,000-square-foot upper-stage manufacturing facility that CEO Dave Limp called 'the latest and most ambitious chapter in Blue Origin's decade-long commitment to Florida,' supporting 500 new aerospace jobs with average salaries exceeding $98,000 and financed in part through the Spaceport Improvement Program administered jointly by Space Florida and the Florida Department of Transportation. Blue Origin has invested more than $2.3 billion across 500 Florida suppliers since 2015 and now employs nearly 4,000 people in the state, with the expanded campus designed to support the high-cadence New Glenn launch rate needed to deploy the company's TeraWave broadband constellation. Blue Origin has stated an 8-to-12 New Glenn launch target for 2026, a goal whose achievability will depend on how quickly the company can work through its reconstituted manifest after the month-long grounding.",
+        sourceUrl: "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+        timestamp: "2026-05-22T16:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA SMILE Spacecraft Completes Second Orbit-Raising Manoeuvre Four Days After Vega-C Launch, Maintaining Healthy Telemetry Across All Four Science Instruments as It Climbs Toward 121,000 km Polar Apogee Science Orbit",
+        body: "The joint ESA–Chinese Academy of Sciences SMILE spacecraft completed its second apogee-raising manoeuvre on Saturday, four days after its May 19 Vega-C launch from Kourou, with ESA's ESOC mission operations team in Darmstadt confirming nominal telemetry across the spacecraft bus and all four science instruments — the soft X-ray imager, ultraviolet auroral imager, ion mass spectrometer, and magnetometer — as the probe continues its methodical climb toward the highly elliptical science orbit that will define its three-year mission. Each manoeuvre progressively reshapes SMILE's orbit from its initial parking configuration toward the 121,000 km north polar apogee that will enable uninterrupted 45-hour observing sessions imaging Earth's magnetopause, bow shock, and auroral ovals during periods of active solar wind, with the full sequence of burns expected to complete over the coming weeks before formal science operations begin. SMILE is the first jointly designed and built ESA–China science satellite, and its commissioning progress is being monitored in parallel by ESA's European Space Astronomy Centre and the National Space Science Center in Beijing, with joint science teams already beginning calibration preparations using instrument housekeeping data. The probe's science data will feed directly into improved space weather forecasting models projected to benefit satellite operators, power grid managers, and high-latitude aviation communications currently vulnerable to major geomagnetic storm events.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
+        timestamp: "2026-05-23T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-22": {
     date: "May 22, 2026",
     stories: [
