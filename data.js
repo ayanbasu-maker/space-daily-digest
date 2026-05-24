@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-24": {
+    date: "May 24, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "Shenzhou-23 Lifts Off at 15:08 UTC From Jiuquan With Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying — Hong Kong's Historic First Astronaut — as One Crew Member Begins Unprecedented Year-Long Stay Aboard Tiangong to Support Future Deep-Space Planning",
+        body: "China's Long March-2F Y23 rocket carried the Shenzhou-23 crewed spacecraft aloft from Pad 921 at the Jiuquan Satellite Launch Center at 15:08 UTC (11:08 p.m. Beijing time) on Sunday, May 24, placing commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Lai Ka-ying on course for an automated docking with China's Tiangong space station approximately six hours after liftoff. Lai Ka-ying, a 43-year-old police superintendent and computer science PhD from the University of Hong Kong who is making her first spaceflight, becomes the first astronaut from the Hong Kong Special Administrative Region and the first female payload specialist selected from Hong Kong or Macao — cementing Shenzhou-23 as one of the most symbolically significant crewed missions in the history of the Chinese space program. One crew member will carry out a full year-long continuous spaceflight experiment aboard Tiangong, more than doubling China's standard six-month crew rotation and generating long-duration physiological and psychological datasets directly applicable to crewed lunar and Mars mission planning. The mission paves the way for Shenzhou-24, planned for October 2026, which is set to carry a Pakistani astronaut as the first foreign national ever to fly aboard a Chinese crewed spacecraft.",
+        sourceUrl: "https://news.cgtn.com/news/2026-05-23/China-to-launch-Shenzhou-23-crewed-spaceship-on-May-24-1Nn49DFWuuA/p.html",
+        timestamp: "2026-05-24T15:08:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Mission",
+        headline: "SpaceX Confirms Ship 40 Will Fly Starship Flight 13 After Post-Flight 12 Analysis Clears V3 Architecture — Next Mission May Attempt Full Orbital Insertion as Engineers Study Booster 19 Relight Failure and Raptor Data From Partial-Engine Ship 39 Splashdown",
+        body: "SpaceX has confirmed that Ship 40 will serve as the upper stage for Starship Flight 13, the follow-on to last Friday's Flight 12 partial success, as engineers complete a detailed post-flight data review of Booster 19's hot-stage separation and failed engine relight and Ship 39's two-engine Indian Ocean splashdown. The company has indicated Flight 13 may attempt a full orbital insertion rather than a suborbital splashdown profile, contingent on findings from the Flight 12 booster relight investigation and verification that Ship 40's propulsion configuration meets the performance margins required for circularization burns at orbital altitude. Ship 39's successful deployment of all 22 Starlink simulator satellites — the first payload ever flown on a Starship test vehicle — and its controlled ocean touchdown despite operating on just two engines has been celebrated internally as a landmark validation of the V3 architecture's fault tolerance. The IPO roadshow implication of Flight 13 timing is not lost on analysts, given that SpaceX's S-1 prospectus targets a June 12 public debut under ticker SPCX at an implied $1.75 trillion valuation and frames Starship's operational cadence as the primary growth driver for the next decade.",
+        sourceUrl: "https://nextspaceflight.com/starship/",
+        timestamp: "2026-05-24T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "NASA Moon Base May 26 Briefing Set to Detail South Pole Infrastructure Timeline, New Industry Partners, and Mission Cadence as Administrator Isaacman Prepares First Full Public Presentation of Sustained Lunar Presence Architecture",
+        body: "NASA will host a live news conference at 2 p.m. EDT on Tuesday, May 26, at agency headquarters in Washington, D.C., at which Administrator Jared Isaacman and acting associate administrator Lori Glaze will publicly present the full Moon Base program architecture for the first time — including new industry partnerships, mission timelines, and the infrastructure roadmap for establishing a permanent crewed presence near the lunar south pole in the 2030s. The briefing follows this week's agency-wide reorganisation that merged Human Exploration and Space Operations into a single directorate and opened JPL management to competitive bidding, moves Isaacman described as clearing bureaucratic obstacles in advance of an accelerated Moon Base delivery schedule. Moon Base is designed to evolve from Artemis's initial short surface visits toward a permanently staffed Antarctic-style research station drawing on south-pole water-ice deposits for drinking water, oxygen, and rocket propellant — enabling weeks- or months-long crew stays that feed directly into the physiological database needed for eventual crewed Mars missions in the 2040s. The briefing will be streamed live on NASA+, the agency's YouTube channel, and NASA Television.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/",
+        timestamp: "2026-05-24T14:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Mission",
+        headline: "ISRO EOS-05 Satellite Completes Second Apogee-Raising Burn on Path to Geostationary Slot as Gaganyaan Integrated Air Drop Test-2 Data Confirms Crew Module Parachute System Ready for G1 Uncrewed Orbital Test",
+        body: "India's EOS-05 (GISAT-1A) geostationary Earth observation satellite, placed into transfer orbit by the successful GSLV-F17 return-to-flight launch on May 21, has completed its second liquid apogee motor burn on schedule, progressively circularising its orbit toward the final 36,000 km geostationary operational slot from which it will image the entire Indian subcontinent every 30 minutes under routine conditions. ISRO controllers at the Master Control Facility in Hassan are monitoring spacecraft health across all subsystems and confirm nominal performance ahead of the remaining apogee burns that will place EOS-05 in its final geostationary slot within approximately two weeks. In parallel, ISRO engineers have released processed data from the second integrated air drop test (IADT-02) of the Gaganyaan crew module parachute recovery system, confirming that the system met all design criteria for both terminal deceleration and precision splashdown — a critical green gate for the G1 uncrewed orbital test. The combination of a clean EOS-05 orbit-raising profile and verified crew module recovery performance puts ISRO on track to announce a G1 launch date in the coming weeks.",
+        sourceUrl: "https://www.isro.gov.in/FutureMissions.html",
+        timestamp: "2026-05-24T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "FAA Formally Clears New Glenn for Return to Flight as Blue Origin CEO Dave Limp Signals First Launch of Reconstituted 2026 Manifest Could Come Within Weeks — $600 Million Cape Canaveral Factory Expansion Breaks Ground This Month",
+        body: "Blue Origin confirmed Sunday that the Federal Aviation Administration has formally accepted the company's corrective action plan for the April 19 BE-3U upper-stage thrust anomaly that stranded AST SpaceMobile's BlueBird-7 satellite in an unusably low orbit, lifting the New Glenn grounding and clearing the vehicle for a return to flight at a date Blue Origin has not yet announced publicly. CEO Dave Limp indicated in internal communications reviewed by industry reporters that the company is targeting a return-to-flight window within the coming weeks and has begun reconstituting the 2026 manifest to recover as much of the company's 8-to-12 launch goal as the remaining calendar year permits. Simultaneously, Blue Origin broke ground on the $600 million 'Project Horizon' upper-stage manufacturing campus expansion at Rocket Park in Cape Canaveral on Friday, a 830,000-square-foot facility designed to produce the BE-3U upper stages and TeraWave satellite components needed to support triple-digit annual launch cadence in the late 2020s. The expansion, backed in part by Space Florida's Spaceport Improvement Program, will create 500 aerospace jobs averaging more than $98,000 annually and bring Blue Origin's Florida employment to nearly 4,500.",
+        sourceUrl: "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
+        timestamp: "2026-05-24T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA SMILE Spacecraft Completes Third Orbit-Raising Manoeuvre Five Days After Vega-C Launch, Remaining in Nominal Health as It Climbs Toward 121,000 km Polar Science Orbit — Joint ESA-CAS Science Teams Begin Instrument Calibration",
+        body: "The joint ESA–Chinese Academy of Sciences SMILE spacecraft completed its third apogee-raising manoeuvre on Sunday, five days after its May 19 Vega-C launch from Kourou, with ESA's ESOC mission operations team in Darmstadt confirming nominal telemetry across the spacecraft bus and all four science instruments — the soft X-ray imager, ultraviolet auroral imager, ion mass spectrometer, and magnetometer — as the probe continues methodically climbing toward the highly elliptical science orbit that will define its three-year mission. Joint ESA–CAS science teams have begun preliminary instrument calibration exercises using housekeeping data streamed via the New Norcia and Malargüe ground stations, with the calibration process expected to refine pointing accuracy and instrument sensitivity models ahead of the first formal science observations planned for late June. Each successive manoeuvre progressively reshapes SMILE's orbit toward the 121,000 km north polar apogee that will enable uninterrupted 45-hour observing sessions imaging Earth's magnetopause, bow shock, and auroral ovals, with the full burn sequence expected to complete over the next three to four weeks. SMILE's science data will feed improved space weather forecasting models benefiting satellite operators, power grid managers, and high-latitude aviation communications currently vulnerable to major geomagnetic storm events.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
+        timestamp: "2026-05-24T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-23": {
     date: "May 23, 2026",
     stories: [
