@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-25": {
+    date: "May 25, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Shenzhou-23 Docks With Tiangong at 02:45 Beijing Time as Commander Zhu Yangzhu, Zhang Zhiyuan, and Hong Kong's Historic First Astronaut Lai Ka-ying Float Into Tianhe Core Module — Six-Person Station at Full Capacity as One Taikonaut Begins Record Year-Long Stay",
+        body: "China's Shenzhou-23 crewed spacecraft autonomously docked with the forward radial port of the Tiangong space station at 02:45 a.m. Beijing Time on Monday, approximately 6.5 hours after its Long March-2F Y23 liftoff from Jiuquan Satellite Launch Center on Sunday evening, with mission controllers confirming all docking mechanisms latched nominally and all spacecraft subsystems healthy. Commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Lai Ka-ying — Hong Kong's historic first astronaut — opened the hatches and floated into the Tianhe core module to greet the waiting Shenzhou-22 crew, bringing Tiangong to its full six-person capacity for the multi-day handover period before the outgoing crew departs. The successful docking marks China's 16th crewed space mission and a significant operational milestone for Tiangong, which has now hosted continuous crew rotations for more than three years. One designated crew member will remain aboard for a full 12-month continuous stay — more than double China's standard six-month rotation — gathering long-duration physiological and psychological data considered essential for the nation's 2030 crewed lunar landing programme.",
+        sourceUrl: "https://en.people.cn/n3/2026/0525/c90000-20459754.html",
+        timestamp: "2026-05-24T18:45:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Launches 29 Starlink V2 Mini Optimized Satellites From Cape Canaveral at 07:41 EDT on Starlink 10-47 Mission — Veteran Booster B1078 Scores Record 28th Landing on 'A Shortfall of Gravitas' as Constellation Surpasses 10,000 Active Spacecraft",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 7:41 a.m. EDT on May 25, deploying 29 Starlink V2 Mini Optimized satellites 61 minutes and 26 seconds after liftoff in the Starlink 10-47 mission, adding to a megaconstellation that now exceeds 10,000 active spacecraft in low Earth orbit. First stage booster B1078 — flying for a record 28th time on a career that includes NASA's Crew-6, USSF-124, SES O3b mPOWER-B, and more than 20 Starlink deliveries — completed a smooth automated landing on the drone ship A Shortfall of Gravitas approximately 8.5 minutes after liftoff, marking the 151st recovery for that vessel and SpaceX's 614th successful booster landing overall. The mission continues SpaceX's aggressive Starlink V2 Mini deployment campaign, which underpins the company's near-term revenue strategy and feeds directly into the high-throughput constellation narrative at the heart of its S-1 IPO prospectus filed earlier this month. Starlink 10-47 is one of several rapid-fire Falcon 9 missions SpaceX is maintaining alongside Starship Flight 13 preparations, demonstrating the multi-vehicle cadence at the core of the company's $1.75 trillion IPO valuation case.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/24/live-coverage-spacex-to-launch-29-starlink-satellites-on-a-falcon-9-rocket-from-cape-canaveral/",
+        timestamp: "2026-05-25T11:41:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "Details Emerge on Tomorrow's Moon Base Briefing: $20 Billion Seven-Year Architecture, Shackleton Crater South-Pole Site, and 2028 First Crewed Landing — Administrator Isaacman, Lori Glaze, and Program Executive Carlos García-Galán to Present Live at 2 p.m. EDT May 26",
+        body: "New details previewed ahead of Tuesday's 2 p.m. EDT Moon Base news conference at NASA headquarters reveal a program with a topline cost envelope of approximately $20 billion over seven years and $30 billion over the full 11-year architecture, anchored by site selection on the high-elevation ridges along the rim of Shackleton Crater at the lunar south pole — a location chosen for near-continuous solar illumination for power arrays and proximity to permanently shadowed craters confirmed to contain water ice. Administrator Jared Isaacman, acting exploration associate administrator Lori Glaze, and newly named Moon Base program executive Carlos García-Galán will jointly present newly selected industry partner awards, mission schedules, and the infrastructure roadmap that envisions Artemis IV delivering the first crewed surface landing in early 2028. The programme builds progressively toward a permanently occupied, nuclear-power-supported lunar base by the mid-2030s, operating on the Antarctic station model of continuous scientific staffing rather than short expedition visits. The May 26 briefing, streaming live on NASA+, YouTube, and NASA Television, is expected to be the agency's most consequential lunar policy announcement since Artemis was formally chartered, and comes just days after Isaacman's sweeping reorganisation merging human spaceflight and operations into a single streamlined directorate.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/",
+        timestamp: "2026-05-25T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Powers Down AWE Atmospheric-Waves Experiment on ISS After 30-Month Mission Collecting 80 Million Nighttime Airglow Images — ISS Exterior Slot to Be Taken by CLARREO Pathfinder Solar Reflectance Sensor Offering Five-to-Ten Times Greater Measurement Accuracy",
+        body: "Ground controllers at NASA formally powered down the Atmospheric Waves Experiment (AWE) instrument mounted on the exterior of the International Space Station on May 21, marking the planned and successful conclusion of a heliophysics mission that exceeded its two-year design life by six months and generated more than 80 million nighttime infrared images of mesosphere airglow used to trace large-scale atmospheric gravity waves. During its 30-month tenure, AWE's cameras captured four frames per second, recording gravity-wave signatures from major weather events including the May 2024 central U.S. tornado outbreak and Hurricane Helene's September 2024 Gulf Coast landfall, directly linking violent tropospheric events to perturbations in the near-space environment that affect satellite communications and GPS accuracy. The dataset produced will feed atmospheric and space-weather models that seek to understand how energy from surface storms propagates upward through the atmosphere and into the ionosphere and thermosphere where operational satellites operate. The AWE mounting location will next host CLARREO Pathfinder, a solar reflectance calibration instrument designed to measure Earth- and Moon-reflected sunlight with five to ten times greater absolute accuracy than current Earth-observing sensors, improving the reliability of long-term climate trend records derived from the satellite era.",
+        sourceUrl: "https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/",
+        timestamp: "2026-05-25T15:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Policy",
+        headline: "Blue Origin Completes FAA-Approved New Glenn NG-3 Upper-Stage Anomaly Investigation and Advances Return-to-Flight Preparations While Weighing Historic First External Investment Round — Blue Moon RF Testing and $600 Million Cape Canaveral Expansion Continue in Parallel",
+        body: "Blue Origin confirmed the Federal Aviation Administration has formally approved its investigation report into the April 19 New Glenn NG-3 mission anomaly, in which an off-nominal thermal condition ahead of the BE-3U upper stage's second burn caused one engine to fail to achieve full thrust — leaving AST SpaceMobile's BlueBird-7 satellite stranded in a decay orbit where it is expected to re-enter the atmosphere within months. With the corrective action plan now FAA-accepted, CEO Dave Limp has indicated a return-to-flight announcement could come within weeks as engineers implement the thermal system modifications and work to recover as many of the company's targeted 8-to-12 launches for 2026 as the calendar permits. Separately, reporting confirmed Blue Origin is evaluating external investment for the first time in the company's 25-year, self-funded history — backed entirely by Jeff Bezos to the tune of roughly $28 billion — as the capital requirements of simultaneously scaling New Glenn's cadence and deploying the TeraWave broadband satellite constellation strain the company's current funding model. Blue Origin is simultaneously advancing radio-frequency compatibility testing of the Blue Moon Mark 1 uncrewed lunar lander at Kennedy Space Center and has broken ground on a $600 million upper-stage manufacturing campus expansion in Cape Canaveral, keeping multiple major programmes progressing during the launch stand-down.",
+        sourceUrl: "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
+        timestamp: "2026-05-25T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA SMILE Completes Fourth Orbit-Raising Manoeuvre Six Days After Vega-C Launch, Advancing Through 11-Burn 25-Day Sequence Toward 121,000 km Polar Science Orbit as Instrument Calibration Begins — First Formal Science Observations Targeted for September 2026",
+        body: "The joint ESA–Chinese Academy of Sciences SMILE spacecraft completed its fourth apogee-raising manoeuvre on schedule six days after its May 19 Vega-C launch from Kourou, with ESA's ESOC mission operations team in Darmstadt reporting nominal telemetry across all four science instruments — the soft X-ray imager, ultraviolet auroral imager, ion mass spectrometer, and magnetometer — as the probe advances through a planned 11-burn sequence designed to reach its operational science orbit within 25 days of launch. Each successive manoeuvre progressively elongates SMILE's orbit from its 700 km circular parking configuration toward the highly elliptical science orbit with a 121,000 km north polar apogee, enabling the uninterrupted 45-hour observing sessions of Earth's magnetopause, bow shock, and auroral ovals at the heart of the mission's science case, before sweeping to 5,000 km above the South Pole for high-bandwidth data downlinks. With approximately 18 days of burns remaining, joint ESA–CAS science teams have begun preliminary instrument calibration using housekeeping data streamed via the New Norcia and Malargüe ground stations, though formal science observations are not expected to begin until September 2026 following full commissioning. SMILE's three-year mission will deliver the first simultaneous global-scale images of Earth's entire magnetosphere boundary layer alongside in-situ particle and field measurements, generating space weather datasets projected to substantially improve predictive models protecting satellites, power grids, and high-latitude aviation communications.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Smile/Smile_lifts_off_on_quest_to_reveal_Earth_s_invisible_shield_against_the_solar_wind",
+        timestamp: "2026-05-25T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-24": {
     date: "May 24, 2026",
     stories: [
