@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-05-28": {
+    date: "May 28, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Regulation",
+        headline: "FAA Grounds Starship Flight 13 Pending Mishap Investigation Into Booster 19 Engine Relight Failure — Agency Declares Flight 12 Booster Loss a Federal 'Mishap,' Orders SpaceX-Led Investigation With FAA Oversight Before Any New Launch License Can Be Issued",
+        body: "The Federal Aviation Administration formally declared the loss of Super Heavy Booster 19 during Starship Flight 12 on May 22 a 'mishap' under 14 CFR Part 450 commercial spaceflight regulations, grounding the Starship program and requiring a SpaceX-led investigation the agency will supervise and must approve in full before a launch license for Flight 13 is issued. Booster 19's seven Raptor 3 engines failed to reignite properly during the boostback burn over the Gulf of America, sending the vehicle to an uncontrolled hard splashdown rather than the intended catch — a failure mode distinct from Ship 39's partial success in completing a controlled Indian Ocean splashdown and deploying 22 Starlink simulator payloads. The FAA confirmed no public injuries or property damage resulted from the incident, but said it will be involved in every step of the investigation and must approve SpaceX's final report, including all corrective actions. Analysts at NASASpaceFlight estimate a July–August 2026 window for Flight 13 if the review proceeds at the pace of prior Starship mishap investigations, though the debut of the Raptor 3 engine architecture — which had no prior flight history before Flight 12 — may require additional technical scrutiny and extend the timeline, complicating SpaceX's June 12 IPO narrative.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/",
+        timestamp: "2026-05-28T01:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crew",
+        headline: "NASA to Reveal Artemis 3 Crew on June 9 at Johnson Space Center — Four Astronauts to Fly Orion on Earth-Orbit Docking Test Mission Targeting Late 2027 After Mission Profile Was Shifted Away From Lunar Surface Landing",
+        body: "NASA announced Thursday it will reveal the four-person crew assigned to Artemis 3 during a live event at 11 a.m. EDT on June 9 at Johnson Space Center in Houston, streamed on NASA+ and YouTube, accompanied by a full mission progress briefing covering Space Launch System and Orion preparations and updated commercial landing system timelines. Artemis 3 was originally slated to be the first crewed lunar surface landing since Apollo 17, but administrator Jared Isaacman restructured the mission profile in April 2026, redesignating it as an Earth-orbit rendezvous and docking demonstration that will validate Orion's ability to dock with commercial human landing systems before committing to a full lunar descent. The mission now targets late 2027 after delays in both SpaceX's Starship HLS and Blue Origin's Blue Moon Mark 2 programs, and will carry four astronauts to orbit to test the proximity operations, docking interfaces, and crew transfer procedures that Artemis IV will depend on for the first actual crewed Moon landing. The June 9 event will mark the first time NASA has formally named a crew for any Artemis mission since the Artemis II crew was announced in April 2023, and is expected to include at least one international partner astronaut from ESA or JAXA.",
+        sourceUrl: "https://www.space.com/space-exploration/artemis/nasa-will-reveal-the-artemis-3-astronauts-on-june-9",
+        timestamp: "2026-05-28T15:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Government",
+        headline: "SpaceX Wins $2.29 Billion Space Force Contract to Build Space Data Network Backbone — Starshield Mesh Constellation to Form Military Internet in LEO for Golden Dome Integration, Missile Warning, and Warfighter Connectivity With Full Prototype Capability Required by End of 2027",
+        body: "The U.S. Space Force awarded SpaceX a $2.29 billion contract to develop the Space Data Network Backbone, a mesh constellation of optically interconnected low Earth orbit satellites built on the government-focused Starshield platform that will route military data through space rather than ground-relay networks — providing resilient, low-latency pathways connecting missile warning sensors, interceptors, drones, and warfighters globally. SpaceX must deliver a fully operational prototype capability by end of 2027, with the network designed to integrate with the Space Development Agency's existing Transport Layer constellation to form a unified military space communications architecture capable of supporting multi-domain operations. The SDN Backbone is a foundational element of the Trump administration's Golden Dome missile defense initiative, providing the near-real-time data handoffs between space-based sensors and interceptors needed to defeat hypersonic glide vehicles, ballistic missiles, and cruise missiles. SpaceX secured the contract over bids from Northrop Grumman and a Lockheed Martin–Raytheon joint venture, with the Space Force citing Starshield's operational heritage, demonstrated laser inter-satellite link technology, and SpaceX's manufacturing throughput as the decisive discriminators.",
+        sourceUrl: "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
+        timestamp: "2026-05-27T22:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin Completes Successful NG-4 Pre-Launch Static Fire at LC-36 — All Seven BE-4 Engines Perform Nominally Through 38-Second Full-Duration Test at 100% Thrust, Clearing Path to New Glenn Return-to-Flight Launch in Early June",
+        body: "Blue Origin completed a successful fully integrated hotfire test of the New Glenn NG-4 launch vehicle at Launch Complex 36 at Cape Canaveral Space Force Station, with all seven BE-4 engines performing nominally through a 38-second full-duration test that included 22 seconds at 100 percent rated thrust — confirming the readiness of the thermal insulation and hydraulic line engineering changes incorporated after the April 19 NG-3 upper-stage anomaly. The hotfire is the final major milestone before Blue Origin can submit its pre-launch verification package to the FAA and set a launch date, with CEO Dave Limp having committed publicly to a return to flight 'within weeks' of the FAA's May 22 acceptance of the corrective action plan. NG-4 will carry an undisclosed commercial payload, and a successful mission would restore Blue Origin's launch cadence toward the 8-to-12 annual New Glenn missions the company originally targeted for 2026, with particular urgency given that NG-5 through NG-8 carry Amazon Project Kuiper constellation satellites and TeraWave demonstration hardware. A launch window in early-to-mid June is anticipated pending FAA license issuance.",
+        sourceUrl: "https://www.blueorigin.com/news/new-glenn-completes-integrated-launch-vehicle-hotfire",
+        timestamp: "2026-05-28T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Shenzhou-22 Crew Completes Final Handover Day Aboard Tiangong — Departure Set for May 29 as Six-Person Joint Operations Conclude and Shenzhou-23 Assumes Full Station Command With Year-Long Mission Member Beginning Extended Isolation Protocol",
+        body: "The outgoing Shenzhou-22 crew completed their final full day of joint operations with the incoming Shenzhou-23 crew aboard Tiangong on Thursday, wrapping the multi-day handover in preparation for a May 29 undocking and return to Earth that will end six months of continuous service and return the station to a standard three-person crew configuration for the next phase of the mission. The handover formally transferred operational responsibility for all ongoing science experiments across the Mengtian and Wentian laboratory modules to Shenzhou-23 commander Zhu Yangzhu, with particular care given to long-duration biology, materials science, and fluid physics payloads requiring uninterrupted data collection through the crew transition. With departure imminent, Shenzhou-23's designated year-long crew member formally commenced the intensive daily exercise and physiological monitoring protocol that will generate China's most comprehensive long-duration spaceflight dataset — data considered directly applicable to the cardiovascular, musculoskeletal, and neurological adaptation challenges of the nation's 2030s crewed lunar surface missions. The May 29 re-entry and Inner Mongolia landing will be covered live by CCTV and China Media Group, with the return sequence nominally lasting approximately ten hours from undocking to touchdown.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/05/shenzhou-23-launch/",
+        timestamp: "2026-05-28T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-27": {
     date: "May 27, 2026",
     stories: [
