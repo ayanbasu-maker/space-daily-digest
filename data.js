@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-01": {
+    date: "June 1, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Crew",
+        headline: "SpaceX Crew-11 Astronauts Cardman, Fincke, and JAXA's Yui Hold Public Event at NASA Headquarters Today Discussing 167-Day ISS Mission Cut Short by Fincke's In-Flight Medical Condition — Expedition 73/74 Science Highlights and Early Return Circumstances Examined as Crew Reintegrates Into Public Life",
+        body: "NASA hosted a public event today at 11 a.m. EDT at the Webb Auditorium in the Mary W. Jackson Building at NASA Headquarters in Washington, D.C., featuring three members of the SpaceX Crew-11 crew: commander Zena Cardman, pilot Mike Fincke, and JAXA mission specialist Kimiya Yui, who returned to Earth approximately one month earlier than planned after Fincke developed a medical condition that could not be resolved aboard the station. The crew discussed their 167-day mission as part of ISS Expeditions 73 and 74, during which they conducted wide-ranging scientific experiments in microgravity spanning human health, materials science, and Earth observation designed to advance preparations for long-duration exploration missions. Fincke's medical situation — the nature of which NASA has not publicly disclosed beyond confirming it could not be managed in the space environment — required mission managers at Johnson Space Center to coordinate an expedited return, marking one of the few early crew rotations from the ISS driven by an in-flight health event. Today's public event at NASA HQ marked the crew's formal reintegration into outward-facing roles following the post-landing medical reconditioning period standard for astronauts returning from long-duration spaceflight.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-hosts-spacex-crew-11-astronauts-for-public-event-at-headquarters/",
+        timestamp: "2026-06-01T15:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX SPCX Roadshow Launches June 4 as $1.75 Trillion Nasdaq IPO Counts Down to June 12 Trading Debut — Company Enters Historic Public Market Week With Falcon 9 as World's Sole High-Cadence Orbital Vehicle and Starship Still Grounded Under FAA Mishap Review Following Flight 12 Booster Anomaly",
+        body: "SpaceX enters the final countdown to its landmark IPO roadshow beginning June 4, with Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase leading institutional presentations ahead of a planned June 11 pricing and June 12 first-trade day on the Nasdaq under ticker SPCX at a target valuation of approximately $1.75 trillion — a figure that would make it the largest IPO in U.S. market history. The company heads into roadshow week in a position of unparalleled commercial launch dominance: Blue Origin's New Glenn pad destruction at LC-36 leaves Falcon 9 as the world's only operational high-cadence orbital launch vehicle at a moment of record commercial demand for launch slots. Complicating the narrative, Starship remains grounded under FAA mandatory mishap review following the Flight 12 anomaly in which Super Heavy Booster 19's Raptor 3 engines failed to reignite properly during the boostback burn, sending the booster to a hard uncontrolled splashdown in the Gulf of America and halting a Starlink V3 deployment schedule investors regard as central to the company's long-term revenue thesis. SpaceX's S-1 disclosed 2025 revenue of $18.67 billion, of which $11.39 billion came from Starlink's 10.3 million subscribers — the company's sole profit-generating segment and the primary growth story management will present to institutional buyers across this week's roadshow.",
+        sourceUrl: "https://www.tradingkey.com/analysis/stocks/us-stocks/261904604-spacex-ipo-spcx-date-set-for-june-12-175-trillion-valuation-tradingkey",
+        timestamp: "2026-06-01T09:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Investigation",
+        headline: "Industry Analysis Puts Blue Origin LC-36 Restoration at Six Months Minimum as Amazon Kuiper's July FCC Deadline Becomes Unachievable and SpaceX Gains Decisive Commercial Advantage — Pad Damage Survey Ongoing With No Confirmed Timeline for New Glenn Return to Flight",
+        body: "A detailed aerospace industry analysis published today concludes that the May 28 destruction of New Glenn NG-4 and the associated blast damage to Launch Complex 36 will sideline Blue Origin from orbital launch operations for a minimum of six months, with more pessimistic engineering assessments projecting that full pad restoration — including rebuilding the transporter-erector, lightning protection towers, and launch mount infrastructure — could extend well into 2027. Amazon Project Kuiper's regulatory situation has simultaneously grown acute: the FCC required Amazon to deploy more than half of its planned 3,236-satellite LEO constellation by July 2026, a milestone the company was relying on New Glenn's superior payload capacity to achieve, and with that path now closed, any partial mitigation via Falcon 9 would require roughly double the number of launches to carry equivalent satellite mass. Blue Origin CEO Dave Limp confirmed the company's root-cause investigation is active and a rebuild plan exists but declined to offer any timeline, while engineers continue mapping the full extent of structural damage at Cape Canaveral Space Force Station. The incident deals a decisive competitive advantage to SpaceX's Falcon 9 — the world's only remaining high-cadence commercial launch vehicle — arriving just days before SpaceX's landmark Nasdaq IPO debut.",
+        sourceUrl: "https://www.technology.org/2026/06/01/blue-origin-launch-pad-explosion-amazon-delay/",
+        timestamp: "2026-06-01T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Tianwen-2 Enters Final Approach Phase for Kamo'oalewa Orbit Insertion Targeted Mid-June — Spacecraft Healthy After 13-Month Interplanetary Cruise as First Close-Up Images of the Mysterious Quasi-Satellite Expected Shortly After Rendezvous",
+        body: "CNSA's Tianwen-2 deep-space probe has entered its final approach phase toward near-Earth quasi-satellite 469219 Kamo'oalewa, with mission controllers at the Beijing Aerospace Command and Control Centre confirming all eight science instruments and spacecraft systems are performing nominally as the probe closes in for orbit insertion targeted in mid-June 2026, approximately 13 months after its May 28, 2025 launch aboard a Long March-3B/E from Xichang Satellite Launch Center. Kamo'oalewa — a 40-to-100-metre carbonaceous body whose unusual retrograde quasi-satellite orbit has led researchers to theorize it may be a fragment ejected from the lunar surface by an ancient impact — will be observed in unprecedented close-up detail for the first time following rendezvous, with the mission's science teams anticipating the first resolved surface images within days of arrival. Sample collection is planned for July 2026 following the orbit insertion and approach phase, with the spacecraft ultimately designed to return over 100 grams of asteroid regolith to Earth in the late 2020s. After releasing its Earth-return sample capsule, Tianwen-2 will redirect toward its second target, Comet 311P/PANSTARRS, for a rendezvous expected around 2034 — making this the most ambitious multi-target deep-space mission CNSA has ever flown.",
+        sourceUrl: "https://newspaceeconomy.ca/2026/04/18/tianwen-2-reaches-kamooalewa-chinas-asteroid-sample-return-mission-in-focus/",
+        timestamp: "2026-06-01T07:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Policy",
+        headline: "ESA June Council Faces Critical Decision on Fate of Billion-Dollar Gateway Hardware After NASA's March Cancellation — Director General Aschbacher to Present Path Forward for I-Hab, Lunar View, and Lunar Link Modules as European Space Industry Awaits Clarity on Contracts Worth Several Billion Euros",
+        body: "ESA's governing council is meeting this month to determine what becomes of Europe's substantial Gateway hardware investments following NASA's surprise March 24 cancellation of the Lunar Gateway cislunar station, with Director General Josef Aschbacher set to present a formal path forward for the I-Hab habitation module, the Lunar View refueling and docking module, and the Lunar Link communications system — elements contracted to Thales Alenia Space Italy and Thales Alenia Space France worth several billion euros in combined development and production costs. NASA informed ESA, JAXA, and CSA of the Gateway cancellation alongside the general public, a move that deeply strained relations with international partners who had invested years of hardware development and political capital in the programme and were given no advance consultation before the announcement. ESA Director General Aschbacher subsequently stated that 'Europe has become too exposed to decisions beyond its control,' and has been consulting with member states to assess whether completed and in-progress Gateway hardware can be repurposed for an ESA-led lunar initiative, sold or transferred to other programmes, or whether European industry partners will seek compensation for cancelled contracts. The June council decision is among the most consequential ESA has faced in a decade, directly shaping whether Europe pivots toward greater spaceflight independence or re-engages with NASA under new terms for the Moon Base architecture that replaced Gateway.",
+        sourceUrl: "https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/",
+        timestamp: "2026-06-01T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-05-31": {
     date: "May 31, 2026",
     stories: [
