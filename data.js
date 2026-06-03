@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-03": {
+    date: "June 3, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Hits 200th Landing on Pacific Drone Ship as Falcon 9 Booster B1088 Delivers 24 Starlinks to Orbit on Milestone Starlink 17-47 Mission From Vandenberg — Cape Canaveral Starlink 10-43 With 29 Satellites Scrubbed by Weather Hours Before IPO Roadshow Opens Thursday",
+        body: "SpaceX achieved a landmark booster recovery milestone Wednesday morning as Falcon 9 first stage B1088 — on its 16th flight — successfully touched down on drone ship 'Of Course I Still Love You' in the Pacific Ocean following liftoff from Space Launch Complex 4 East at Vandenberg Space Force Base at 8:37 a.m. PDT, marking the 200th recovery on that vessel and the 618th booster landing in SpaceX's operational history. The Starlink 17-47 mission deployed 24 Starlink V2 Mini Optimized broadband satellites into low Earth orbit, extending a constellation that now numbers more than 7,000 active spacecraft and underpins the Starlink connectivity revenue that SpaceX is positioning as its primary growth story heading into next week's Nasdaq debut. Simultaneously, SpaceX was forced to scrub the Starlink 10-43 mission from Cape Canaveral Space Force Station — scheduled to loft 29 satellites during a window open from 4:02 to 8:02 a.m. EDT — after weather conditions proved insurmountable across multiple holds within the window, with a new attempt expected in the coming days. Both events occurred as the company's IPO roadshow prepares to open Thursday, June 4, with Goldman Sachs and Morgan Stanley leading institutional presentations ahead of a June 11 pricing and June 12 first-trade day at a valuation that has climbed above $1.8 trillion in pre-roadshow bookbuilding.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/03/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-3/",
+        timestamp: "2026-06-03T16:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Investigation",
+        headline: "Blue Origin Reveals LC-36 Damage Far Less Severe Than Feared and Announces Pivot to Vertical Operations Concept Eliminating Need for New Transporter-Erector — Propellant Farm, Tanks, and Support Tower Assessed as Salvageable as Company Reaffirms Return-to-Flight Before Year's End",
+        body: "Blue Origin released detailed findings from its ongoing LC-36 damage assessment Wednesday, revealing the destruction from the May 28 New Glenn NG-4 static fire anomaly is less catastrophic than initial satellite imagery suggested and outlining a recovery strategy that could significantly accelerate the company's return to flight. The transporter-erector — which partially collapsed into the flame trench in the explosion — will not be replaced; CEO Dave Limp confirmed the company is pivoting immediately to an alternative vertical operations concept that keeps New Glenn vertical throughout vehicle processing, integration, and launch preparation, an approach the company had already been developing independently of the accident. Critical infrastructure at LC-36 survived in good condition: the propellant farm and its liquid oxygen, liquid hydrogen, and cryogenic methane tanks are undamaged, the water tower is intact, and the main support tower sustained damage that engineers assess can be repaired in place without demolition and replacement. With the scope of recovery now materially clearer, Limp reiterated his pledge that New Glenn will fly again before the end of 2026, while NASA continues its own schedule-impact assessment for the Artemis Moon Base programme that relies on Blue Origin's New Glenn-launched Blue Moon uncrewed cargo lander.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/",
+        timestamp: "2026-06-03T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crew",
+        headline: "NASA Schedules June 9 Live Reveal of Artemis III Crew at Johnson Space Center — Announcement Follows Artemis II Splashdown as Agency Advances Restructured Mission Targeting Mid-2027 Low Earth Orbit Rendezvous Rehearsal With SpaceX and Blue Origin Lander Prototypes",
+        body: "NASA confirmed it will publicly reveal the four-member crew of the Artemis III mission during a live event at 11 a.m. EDT on Tuesday, June 9, at Johnson Space Center in Houston, with the event streaming on NASA+ and the agency's YouTube channel and crew members available for in-person and virtual media interviews immediately following. The announcement arrives approximately seven weeks after the Artemis II Orion spacecraft and its crew splashed down in the Pacific Ocean on April 12 following a successful 10-day crewed lunar flyaround, as NASA advances the restructured Artemis III concept — now targeting mid-2027 and configured as a low Earth orbit rendezvous rehearsal designed to validate docking procedures with prototype lander platforms from SpaceX and Blue Origin rather than attempting a lunar surface landing on this flight. Crew selection has been closely watched since NASA has not disclosed whether any members of the Artemis II crew — commander Reid Wiseman, pilot Victor Glover, mission specialists Christina Koch and CSA astronaut Jeremy Hansen — will continue to Artemis III, or whether an entirely new crew has been designated following the programme's 2025 restructuring. The June 9 reveal is expected to generate substantial public interest as the first formal Artemis crew assignment announcement since the mission architecture was overhauled.",
+        sourceUrl: "https://www.nasa.gov/2026-news-releases/",
+        timestamp: "2026-06-03T13:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Crew",
+        headline: "ESA Holds Press Q&A on Sophie Adenot's Epsilon Mission Three Months In — France's Second Woman Aboard ISS Shares Progress on 36 European Experiments as Nine-Month Stay Tracks Toward Longest ESA Spaceflight on Record",
+        body: "The European Space Agency hosted a press Q&A session Wednesday at ESA headquarters in Paris, with colleagues and journalists receiving an update on astronaut Sophie Adenot's ongoing epsilon mission aboard the International Space Station, now approximately three months into her planned up-to-nine-month stay following her February 13 launch on SpaceX Crew-12 alongside NASA astronauts Jessica Meir and Jack Hathaway, and Roscosmos cosmonaut Andrei Fedyaev. Adenot — the second French woman to reach the ISS after Claudie Haigneré 25 years ago and the first French astronaut assigned to the station since Thomas Pesquet's Alpha mission in 2021 — is conducting 36 European science experiments including seven developed specifically by CNES, spanning cardiovascular adaptation in microgravity, plant biology, and the ChlorISS seed-growing experiment running simultaneously in more than 4,000 classrooms across Europe. If she completes the full mission duration, epsilon will become the longest spaceflight by a European astronaut in ISS history, producing a biomedical dataset that ESA expects to be directly applicable to planning for future long-duration deep-space exploration missions. Mission controllers at ESOC in Darmstadt confirmed all station systems supporting the epsilon science programme are performing nominally at the three-month mark.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon",
+        timestamp: "2026-06-03T11:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Confirms PSLV-C63 Return-to-Flight Remains on Track for Late June With Technology Demonstrator Satellite-01 Payload — Success Prerequisite for Gaganyaan G1 Uncrewed Test Flight Targeting August–September Window",
+        body: "ISRO confirmed this week that the PSLV-C63 mission carrying the Technology Demonstrator Satellite-01 (TDS-01) remains on schedule for a late-June 2026 launch, clearing a critical pre-launch readiness review that advances the agency's recovery from two consecutive third-stage failures affecting PSLV-C61 in May 2025 and PSLV-C62 in January 2026 and representing the most significant reliability crisis in PSLV's 31-year operational history. The return-to-flight mission proceeds under heightened technical and political scrutiny following corrective measures including enhanced ultrasonic inspection of PS3 solid motor grain bonding layers, revised propellant cure cycle acceptance criteria, and additional hydrostatic pressure testing of flight-qualified motor cases — all implemented after the failure review committee traced both anomalies to manufacturing defects in the PS3 propellant grain bonding layer at the Vikram Sarabhai Space Centre. A successful PSLV-C63 outcome is considered a prerequisite by ISRO leadership before proceeding with the Gaganyaan G1 uncrewed orbital test flight — targeting an August–September 2026 window — which will carry the Vyommitra semi-humanoid robot aboard the crew module to validate India's human-rated launch system ahead of crewed missions planned for 2027. The mission also clears the path for PSLV-N1, the first PSLV rocket assembled entirely by NewSpace India Limited under ISRO's commercial production expansion, marking a major milestone in the agency's strategy to scale launch cadence through private sector partnership.",
+        sourceUrl: "https://www.indiatvnews.com/science/isro-to-relaunch-pslv-in-june-after-back-to-back-failures-sabotage-ruled-out-2026-02-03-1028693",
+        timestamp: "2026-06-03T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-02": {
     date: "June 2, 2026",
     stories: [
