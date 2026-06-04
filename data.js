@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-04": {
+    date: "June 4, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Successfully Launches Starlink 10-43 Mission With 29 Satellites From Cape Canaveral After Wednesday Weather Scrub — Booster B1090 Lands on Atlantic Drone Ship 'A Shortfall of Gravitas' on Its 12th Flight as Constellation Grows Past 7,000 Active Spacecraft",
+        body: "SpaceX successfully launched 29 Starlink V2 Mini satellites on the Starlink Group 10-43 mission from Space Launch Complex 40 at Cape Canaveral Space Force Station early Thursday morning, recovering first-stage booster B1090 on its 12th flight with a clean landing on drone ship 'A Shortfall of Gravitas' stationed in the Atlantic Ocean. The mission had been scrubbed on Wednesday, June 3 when strong upper-level winds and cloud coverage repeatedly violated launch commit criteria across a four-hour window; the 45th Weather Squadron gave an 85 percent chance of favorable conditions for Thursday's attempt, which proceeded without incident. The launch is the second of two Falcon 9 missions this week, following the 200th recovery on Pacific drone ship 'Of Course I Still Love You' during Wednesday's Starlink 17-47 mission from Vandenberg, adding to a constellation that now exceeds 7,000 active broadband satellites in low Earth orbit. Both missions feed the Starlink subscriber base — the company's sole profit-generating segment at $11.39 billion in 2025 revenue — as SpaceX management embarks on its IPO roadshow and presents the constellation's growth trajectory to institutional investors ahead of June 12 Nasdaq debut.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/",
+        timestamp: "2026-06-04T10:30:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX IPO Roadshow Opens Today With $135 Fixed Price and $1.77 Trillion Valuation as Goldman Sachs and Morgan Stanley Begin Institutional Book — Morningstar Calls Valuation Nearly Twice Fair Value While ARK Invest Projects $2.5 Trillion Enterprise Value by 2030",
+        body: "SpaceX's landmark IPO roadshow officially opened Thursday with the company marketing 555.6 million shares at a fixed price of $135 each, implying a valuation of approximately $1.77 trillion and a $75 billion capital raise that would surpass Saudi Aramco's 2019 listing as the largest public offering in history; shares are set to price June 11 and begin trading on Nasdaq under ticker SPCX on June 12. Management presentations led by Goldman Sachs, Morgan Stanley, Bank of America, Citigroup, and JPMorgan Chase center on Starlink's 10.3 million subscribers and $11.39 billion in 2025 connectivity revenue as the company's primary growth story, with Starship's eventual full reusability framed as a long-duration upside catalyst for investors willing to look past the ongoing FAA mishap review following Flight 12's booster anomaly. Analyst opinion is sharply divided: Morningstar published a note Thursday calling SpaceX's $1.75 trillion ask nearly twice its assessed fair value of $780 billion, citing execution risk on Starship commercialization and Starlink market saturation, while ARK Invest argued the $1.75 trillion target is 'grounded in a plausible trajectory' and projected a $2.5 trillion enterprise value by 2030 combining Starlink, Starship, and orbital AI revenues. If the offering clears at the targeted valuation, SpaceX would rank as the seventh-largest U.S. company by market cap, above Tesla's current $1.6 trillion.",
+        sourceUrl: "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+        timestamp: "2026-06-04T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Confirms Roman Space Telescope Is Being Packed for Shipment to Kennedy Space Center This Month Ahead of August 30 Launch on SpaceX Falcon Heavy — Eight Months Ahead of Original Schedule, Observatory Will Enter Payload Hazardous Servicing Facility Before Falcon Heavy Integration at Pad 39A",
+        body: "NASA confirmed Thursday that engineers at Goddard Space Flight Center in Greenbelt, Maryland are completing final packing procedures to ship the Nancy Grace Roman Space Telescope to Kennedy Space Center in Florida this month, targeting an August 30, 2026 Falcon Heavy launch that is eight months ahead of the observatory's original schedule — a milestone the agency attributes to the mission coming in under budget and clearing its final inspection ahead of projections. Once at Kennedy, Roman will enter the Payload Hazardous Servicing Facility for a thorough inspection to verify the 8,000-kilogram observatory traveled safely, after which engineers will conduct powered testing and launch rehearsals, load approximately 290 gallons of hydrazine propellant, and integrate the telescope with a SpaceX Falcon Heavy rocket before rolling to Launch Pad 39A. Roman's 2.4-metre primary mirror — the same diameter as the Hubble Space Telescope but with a field of view 100 times wider — will survey billions of galaxies to map the large-scale structure of the universe, measure the expansion rate of the cosmos via Type Ia supernovae, and conduct a coronagraphic direct-imaging demonstration of exoplanets. The August 30 launch date was announced via the Roman team's new NASA Science blog, where mission updates will now be published as the observatory enters its final pre-launch integration phase.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/06/03/hello-world-nasa-shares-new-home-for-roman-space-telescope-updates/",
+        timestamp: "2026-06-04T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Policy",
+        headline: "ESA June Council Convenes to Vote on Path Forward for Gateway Hardware and European Autonomous Human Spaceflight Capability — Aschbacher to Present Repurposing Options for I-Hab, Lunar View, and Lunar Link as Member States Weigh Transition From NASA Partnership Toward Independent European Crewed Access",
+        body: "ESA's June Council met this week to determine what becomes of Europe's multi-billion-euro Gateway hardware investments following NASA's March 24 cancellation of the Lunar Gateway cislunar station, with Director General Josef Aschbacher presenting formal options for the I-Hab habitation module, the Lunar View refueling and docking module, and the Lunar Link communications system — elements contracted to Thales Alenia Space Italy and France and now without a primary destination. Aschbacher has framed the decision around a broader strategic question: whether Europe should seek to negotiate with NASA for crewed seats on the Moon Base architecture that replaced Gateway, or use the crisis as a forcing function to accelerate independent European human spaceflight capability, having stated publicly that 'autonomous human spaceflight is not a luxury' and 'the dream is that eventually Europe develops its own technologies and capacities.' Member states are weighing three scenarios for the hardware: repurposing completed modules for a potential ESA-led cislunar initiative, transferring them to an alternative programme such as commercial station support, or pursuing compensation from NASA for the abrupt cancellation of contracts developed under the assumption of Gateway proceeding to flight. ESA has also been formally directed by member states to increase resilience and reduce dependency on decisions made outside European control — a mandate that adds political urgency to Thursday's council deliberations and may accelerate timelines for European crewed vehicle development.",
+        sourceUrl: "https://spacenews.com/esa-to-decide-by-june-on-europes-gateway-contributions/",
+        timestamp: "2026-06-04T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Final Countdown to Mid-June Orbit Insertion at Near-Earth Quasi-Satellite Kamo'oalewa as Amateur Radio Network Confirms Spacecraft Health — First Close-Up Images of Suspected Lunar Fragment Expected Within Days of Arrival as China Prepares for Its First Asteroid Sample Return",
+        body: "CNSA's Tianwen-2 deep-space probe is in its final days of approach to near-Earth quasi-satellite 469219 Kamo'oalewa, with orbit insertion targeted in mid-June 2026 approximately 13 months after its May 2025 launch, and a distributed amateur radio network spanning Europe, Asia, and Australia has independently confirmed via decoded telemetry that the spacecraft's bus systems, instruments, and attitude control are all performing nominally. Kamo'oalewa — a 40-to-100-metre carbonaceous body whose spectral signature closely matches lunar silicate material — is theorized by leading researchers to be a fragment of the Moon ejected by an ancient impact, making Tianwen-2's sample return scientifically extraordinary: if the hypothesis is confirmed, the mission could simultaneously deliver both the first asteroid samples and the first off-Moon lunar material ever retrieved to Earth. Sample collection is planned for July 2026 following orbital characterization and site selection, with over 100 grams of surface regolith targeted for the Earth-return capsule; after releasing that capsule, the spacecraft will redirect toward its second target, Comet 311P/PANSTARRS, for a rendezvous expected around 2034 in the most ambitious multi-target deep-space mission CNSA has ever flown. China's state broadcaster CCTV is expected to carry live coverage of the orbit insertion event, marking a historic milestone in the nation's expanding planetary science programme.",
+        sourceUrl: "https://english.www.gov.cn/news/202604/18/content_WS69e2e00ec6d00ca5f9a0a807.html",
+        timestamp: "2026-06-04T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-03": {
     date: "June 3, 2026",
     stories: [
