@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-06": {
+    date: "June 6, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Station",
+        headline: "ISS Zvezda Module Leak Rate Doubles to Two Pounds Per Day During Progress 95 Cargo Ops — Crew-12 and Williams Take Precautionary Safe Haven Inside Docked SpaceX Dragon as Roscosmos Pauses Structural Repair Work Pending Further Measurements",
+        body: "NASA reported Friday that during Progress 95 cargo operations the week of June 1, Roscosmos engineers detected an increase in the previously monitored leak rate in the Zvezda service module's transfer tunnel — known as the PrK — to approximately two pounds of atmosphere per day, prompting the identification of new suspected leak areas and a decision to begin more extensive inspection and structural repair work. In an abundance of caution, NASA directed the four Crew-12 members aboard SpaceX Dragon together with NASA astronaut Chris Williams, who arrived separately on Soyuz MS-28, to take a precautionary safe haven posture inside the docked Dragon spacecraft while Roscosmos technicians prepared to cut a bracket to access the suspected leak source for direct inspection. Roscosmos subsequently paused the planned structural repair, opting instead to conduct additional measurements and data assessments before proceeding; following that decision, Crew-12 and Williams exited safe haven and returned to normal station operations, with NASA stating the crew was never in any immediate danger and the station's overall atmosphere remained within acceptable parameters. The Zvezda PrK has been subject to monitored micro-cracking since 2019, and this latest escalation represents the most significant single-event leak rate increase since the anomaly was first documented, raising questions about the module's long-term structural trajectory as the station approaches its planned 2030 deorbit.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/06/05/nasa-provides-update-on-space-station-leak/",
+        timestamp: "2026-06-06T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Set for Historic Orbit Insertion at Quasi-Moon Asteroid Kamoʻoalewa Tomorrow — University of Hawaiʻi Celebrates Arrival at Object Its Astronomers Discovered as China Prepares Its First-Ever Asteroid Sample Return",
+        body: "China's Tianwen-2 spacecraft will execute its critical orbit insertion burn at near-Earth quasi-satellite 469219 Kamoʻoalewa on Sunday, June 7, completing a 13-month interplanetary transit from its May 2025 launch and placing China in position to conduct its first-ever asteroid sample return — with independent telemetry decoded by amateur radio operators confirming all spacecraft systems are nominal ahead of the manoeuvre. The University of Hawaiʻi celebrated the milestone this week, noting that Kamoʻoalewa was discovered by the Pan-STARRS survey telescope on Haleakalā in 2016 and has since become one of the most scientifically intriguing near-Earth objects due to its spectral match to lunar silicate material, leading researchers to hypothesize it may be an ancient fragment ejected from the Moon by an impact — a question Tianwen-2's samples, targeted for July 4 collection, may definitively answer. Orbit insertion will open roughly a year of close-proximity operations at altitudes descending from 20 kilometres to as low as 600 metres, during which Tianwen-2's 11-instrument payload — including a visible-infrared spectrometer, thermal radiation spectrometer, and subsurface detection radar — will characterise the asteroid's surface, composition, and internal structure in detail. After releasing a sample return capsule targeting the Gobi Desert in late 2027, the spacecraft will use an Earth gravity-assist manoeuvre and redirect toward the active asteroid 311P/PanSTARRS for a second rendezvous planned around 2035 — making this the most ambitious multi-target deep-space mission CNSA has ever flown.",
+        sourceUrl: "https://www.hawaii.edu/news/2026/06/05/uh-discovered-kamooalewa/",
+        timestamp: "2026-06-06T07:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX IPO Enters Final Week as Pricing Set for June 11 and Nasdaq Debut for June 12 — Institutional Book Near Oversubscribed at $135 Fixed Price While Retail Allocation Opens Across Robinhood, Fidelity, and Schwab",
+        body: "SpaceX's landmark IPO roadshow is entering its final stretch with pricing scheduled for the evening of June 11 and first trading under Nasdaq ticker SPCX set for June 12, as the Goldman Sachs and Morgan Stanley-led syndicate reports institutional demand approaching oversubscription at the fixed $135-per-share price that implies a $1.77 trillion valuation and a $75 billion capital raise — which would rank as the largest public offering in history, surpassing Saudi Aramco's 2019 listing. A 30 percent retail allocation across Robinhood, Fidelity, and Charles Schwab has drawn comparisons to the populist-shareholder strategies of Airbnb and Coinbase at their respective IPOs, generating significant individual investor interest even as Morningstar maintained its assessment that the offering is priced at nearly twice the company's fair value of approximately $780 billion. The roadshow narrative centres on Starlink's 10.3 million subscribers and $11.39 billion in 2025 connectivity revenue as the primary growth engine, while management frames Starship's ongoing FAA-mandated stand-down following the Flight 12 booster anomaly as a near-term resolved challenge with hardware for Flight 13 already in preparation at Starbase. Elon Musk will retain over 82 percent of combined voting power under prospectus terms, and if the offering clears at its targeted valuation, SpaceX would rank as the seventh-largest U.S. company by market capitalisation, above Tesla's current standing.",
+        sourceUrl: "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+        timestamp: "2026-06-06T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Confirms GSLV Mk II GISAT-1A Launch Slips to NET June 30 as Agency Completes Additional Cryogenic Upper Stage Acceptance Testing — Postponement From June 10 Target Adds Three Weeks to Timeline Ahead of Gaganyaan G1 Uncrewed Test",
+        body: "ISRO has confirmed that the GSLV Mk II launch carrying the GISAT-1A (EOS-05) geostationary Earth observation satellite has been pushed to no earlier than June 30, 2026, slipping from the previously announced NET June 10 date after engineers completed an additional round of acceptance testing on the Cryogenic Upper Stage's CE-20 turbopump assembly to satisfy post-anomaly review requirements following two consecutive PSLV third-stage failures in 2025 and early 2026. GISAT-1A will operate from geostationary orbit at 36,000 kilometres altitude to provide near-real-time multispectral and hyperspectral imagery of the Indian subcontinent at rapid revisit rates, restoring a disaster-monitoring and cyclone early-warning capability that India's National Disaster Management Authority has flagged as critical since the original GISAT-1 was lost in the August 2021 GSLV Mk II upper-stage failure. A successful June 30 mission would mark ISRO's first geostationary payload delivery in over five years and clear the launch manifest for the PSLV-C63 return-to-flight demonstrator and the Gaganyaan G1 uncrewed orbital test — the latter now targeted for an August–September 2026 window — both of which depend on the confidence restored by a clean GSLV performance. The additional three weeks of stand-down are being used to complete thermal-vacuum and vibration qualification runs on flight-representative CUS hardware at the ISRO Propulsion Complex at Mahendragiri.",
+        sourceUrl: "https://www.spacelaunchschedule.com/launch/gslv-mk-ii-gisat-1a-eos-05/",
+        timestamp: "2026-06-06T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA's SMILE Solar Wind Magnetosphere Ionosphere Link Explorer Completes First Two Weeks of Commissioning in Highly Elliptical Orbit Following May 19 Vega-C Launch — First Soft X-Ray Imager to Observe Earth's Magnetopause Is Now Calibrating Instruments Ahead of Science Phase",
+        body: "ESA's SMILE mission — the Solar Wind Magnetosphere Ionosphere Link Explorer — has completed its first two weeks of post-launch commissioning following a successful May 19, 2026 liftoff on a Vega-C rocket from Europe's Spaceport in French Guiana, with the spacecraft now settled in its highly elliptical science orbit reaching up to 121,000 kilometres at apogee and engineers reporting all four instrument packages are responding normally to initial switch-on commands. SMILE carries humanity's first wide-field soft X-ray imager dedicated to observing the boundary between Earth's magnetic field and the solar wind — the magnetopause — directly, providing continuous global images of how that boundary flexes and reconnects in response to solar activity rather than the point measurements that single in-situ spacecraft provide. The mission is a joint ESA-Chinese Academy of Sciences collaboration, with China providing the soft X-ray imager and the ultra-violet aurora imager while ESA supplied the ion mass spectrometer, magnetometer, and spacecraft platform — making it a flagship example of the space science cooperation that has continued despite broader geopolitical tensions. Science operations are expected to begin after a three-month instrument commissioning phase, with SMILE's three-year prime science mission targeting the most comprehensive portrait of geomagnetic storms and space weather events ever assembled from a single observatory.",
+        sourceUrl: "https://www.esa.int/",
+        timestamp: "2026-06-06T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-05": {
     date: "June 5, 2026",
     stories: [
