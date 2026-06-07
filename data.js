@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-07": {
+    date: "June 7, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Tianwen-2 Successfully Enters Orbit Around Near-Earth Quasi-Satellite Kamoʻoalewa on June 7 — First-Ever Chinese Asteroid Rendezvous Confirmed After 13-Month Interplanetary Cruise as AMSAT-DL Amateur Network Tracks Healthy Spacecraft Ahead of Year-Long Proximity Operations and July 4 Sample Collection Target",
+        body: "China's Tianwen-2 spacecraft executed its critical orbit insertion burn Sunday at near-Earth quasi-satellite 469219 Kamoʻoalewa, successfully entering orbit around the enigmatic asteroid 13 months after its May 2025 launch and marking China's first-ever asteroid rendezvous — a flawless manoeuvre confirmed by CNSA tracking stations and by the AMSAT-DL network's 20-metre dish at Sternwarte Bochum. The mission now enters approximately one year of close-proximity operations, descending from an initial altitude of 20 kilometres to as low as 600 metres, during which Tianwen-2's 11-instrument payload — including a visible-infrared spectrometer, thermal radiation spectrometer, and subsurface detection radar — will characterise Kamoʻoalewa's surface, composition, and internal structure. Sample collection is targeted for July 4, 2026, with the sample return capsule set to separate from the main spacecraft on November 29, 2027, for a parachute-assisted landing in China's Gobi Desert, potentially settling the decade-long scientific debate over whether Kamoʻoalewa is a fragment of the Moon or an ordinary Flora-family near-Earth asteroid. After releasing the samples, Tianwen-2 will redirect toward active asteroid 311P/PanSTARRS for a cometary rendezvous planned for January 2035, making this CNSA's most ambitious multi-target deep-space mission to date.",
+        sourceUrl: "https://www.techtimes.com/articles/317613/20260602/tianwen-2-asteroid-orbit-insertion-set-june-7-amateurs-decode-telemetry.htm",
+        timestamp: "2026-06-07T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Station",
+        headline: "Roscosmos Seals First of Two Identified Leak Sites in ISS Zvezda's Transfer Tunnel With Hermetic Compound as SpaceNews Reveals Underlying Module Cracking Remains Structurally Unresolved — NASA Pauses Further Repair Work Pending Data Assessment After Five Crew Members Sheltered in Docked Spacecraft During Friday's Bracket-Cutting Procedure",
+        body: "Roscosmos reported Sunday that cosmonauts have successfully applied the first layer of a two-component hermetic sealant compound to one of two newly identified leak sites in the Zvezda service module's PrK transfer tunnel, with the second site — located on the conical section of the chamber — being prepared for similar treatment. A SpaceNews investigation published this weekend revealed that while the immediate air-loss symptoms may be partially addressed by the sealant work, the underlying structural micro-cracking documented since 2019 remains unresolved, with engineers noting the fractures have propagated further than previously disclosed. NASA stated Sunday it has paused additional invasive repair work pending a full data assessment from Friday's bracket-cutting procedure and several days of close pressure monitoring, reiterating the station is not in danger of catastrophic depressurisation and the crew was never at acute risk. The situation intensifies pressure on both agencies to define a clear plan for Zvezda's remaining operational life as the station approaches its planned 2030 deorbit.",
+        sourceUrl: "https://spacenews.com/iss-module-cracking-still-unresolved-despite-stopping-air-leaks/",
+        timestamp: "2026-06-07T09:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Delivers 21 Starlink and 2 Classified Starshield Government Satellites to Orbit From Vandenberg in Rare Publicly Disclosed Starshield Mission — Booster B1097 Marks 10th Flight With 201st Landing on 'Of Course I Still Love You' and SpaceX's 620th Total Booster Recovery Six Days Before SPCX Nasdaq Debut",
+        body: "SpaceX launched the Starlink 17-43 mission from Space Launch Complex 4 East at Vandenberg Space Force Base at 9:24 p.m. PDT Saturday (0424 UTC Sunday), delivering 21 Starlink V2 Mini broadband satellites alongside two Starshield government communications satellites — a rare configuration publicly disclosed rather than listed as a classified payload, reflecting the growing operational dependence of U.S. defence and intelligence agencies on SpaceX's expandable low-orbit network. First-stage booster B1097, making its tenth flight after previously launching NROL-172, the Twilight rideshare, and seven Starlink batches, landed on drone ship 'Of Course I Still Love You' approximately eight minutes after liftoff, marking that vessel's 201st recovery and SpaceX's 620th total booster landing to date. The mission adds to an already-packed June launch cadence as the company's institutional IPO roadshow enters its final week, with share pricing set for June 11 and first trading under Nasdaq ticker SPCX on June 12 at the $135 fixed price implying a $1.77 trillion valuation.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/06/spacex-to-launch-2-starshield-satellites-during-saturday-night-starlink-mission/",
+        timestamp: "2026-06-07T06:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Recovery",
+        headline: "Blue Origin CEO Dave Limp Commits to New Glenn Return-to-Flight 'Before the End of the Year' Following Damage Assessment That Found Pad 36 Propellant Tanks and Integration Hangar Survived May 28 Static Fire Explosion — Company Plans to Eliminate Transporter-Erector in Favour of New Vertical Assembly Architecture for Rebuilt Launch Complex",
+        body: "Blue Origin CEO Dave Limp publicly committed this week to resuming New Glenn rocket launches before the end of 2026, following a post-explosion damage assessment of Launch Complex 36 at Cape Canaveral Space Force Station after the catastrophic May 28 static fire fireball that destroyed a New Glenn first stage and severely damaged the pad. The assessment found that the pad's propellant storage tanks and nearby processing hangar survived the blast largely intact and the main support gantry — while damaged — can be repaired in place, while a second New Glenn first stage and three upper stages stored in the integration facility were unaffected. Blue Origin plans to use the rebuilding period to eliminate the transporter-erector system in favour of a new vertical rocket assembly and stacking capability at the pad, an architectural change the company says will streamline future operations and reduce ground-handling risk. The ambitious timeline signals confidence in the recovered hardware stock and the company's ability to execute a launch campaign in the second half of 2026 despite losing one of its primary test articles.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/",
+        timestamp: "2026-06-07T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crewed",
+        headline: "NASA Schedules June 9 Live Event at Johnson Space Center to Name Four Astronauts Assigned to Artemis III — Restructured Mission Will Serve as Complex LEO Docking Rehearsal With SpaceX and Blue Origin Landing Platform Prototypes Rather Than Lunar Surface Descent, Two Months After Artemis II's Historic April Splashdown",
+        body: "NASA will hold a live announcement at 11 a.m. EDT on Tuesday, June 9, at Johnson Space Center in Houston to name the four astronauts assigned to the Artemis III mission, streaming simultaneously on NASA+ and YouTube — generating broad anticipation two months after Artemis II completed its crewed lunar flyby with splashdown on April 10, 2026. The Artemis III mission has been restructured following updates finalised earlier this spring: rather than a lunar surface landing, it will function as a complex low Earth orbit docking rehearsal validating rendezvous protocols with human landing system prototypes from SpaceX and Blue Origin before a full lunar descent is attempted on a subsequent mission. Kennedy Space Center's visitor complex has organised a watch party to coincide with the Tuesday broadcast, and the crew announcement represents the first major public milestone of Artemis III's development phase as NASA works to restore programme momentum following the March cancellation of the Lunar Gateway. The mission is currently targeting a late-2027 launch window.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+        timestamp: "2026-06-07T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-06": {
     date: "June 6, 2026",
     stories: [
