@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-09": {
+    date: "June 9, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Crewed",
+        headline: "NASA Names Four-Member Artemis III Crew at Johnson Space Center Live Event — Astronauts Assigned to 2027 Low Earth Orbit Docking Rehearsal With SpaceX and Blue Origin Human Landing System Prototypes, Livestreamed on NASA+ at 11:30 a.m. EDT",
+        body: "NASA revealed the four astronauts assigned to the restructured Artemis III mission during a live event at Johnson Space Center in Houston at 11:30 a.m. EDT, with the ceremony streaming on NASA+ and the agency's YouTube channel to a global audience. The selected crew will train for a complex low Earth orbit docking rehearsal targeting a 2027 launch window, during which they will rendezvous with demonstration prototypes of SpaceX's Starship Human Landing System and Blue Origin's Blue Moon Mark 2 lander — a preparatory mission that precedes the first crewed lunar landing since Apollo 17. A mockup of Blue Origin's Blue Moon Mark 2 lander has already been assembled at JSC, where crew members will begin simulator training immediately, and Kennedy Space Center's visitor complex hosted a public watch party for today's broadcast.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
+        timestamp: "2026-06-09T15:30:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX SPCX IPO Already Oversubscribed at $135 Per Share Ahead of Thursday Pricing and Friday Nasdaq Debut — Record $75 Billion Capital Raise Would Surpass Saudi Aramco as Largest IPO in History at $1.77 Trillion Valuation",
+        body: "SpaceX's landmark $75 billion initial public offering under Nasdaq ticker SPCX has been fully oversubscribed by institutional investors ahead of scheduled Thursday, June 11 pricing — with first trading expected on Friday, June 12 at the fixed $135 per share price implying a $1.77 trillion valuation that would rank as the largest public offering in history, surpassing the 2019 Saudi Aramco listing. The Goldman Sachs and Morgan Stanley-led syndicate reports institutional demand exceeding the full book, while a 30 percent retail allocation across Robinhood, Fidelity, and Charles Schwab has attracted significant individual investor enthusiasm. CEO Elon Musk will retain over 82 percent combined voting control after the offering, and if shares clear at the targeted valuation, SpaceX would rank as the seventh-largest U.S. company by market capitalisation.",
+        sourceUrl: "https://finance.yahoo.com/markets/stocks/articles/spcx-ipo-record-75-billion-155245946.html",
+        timestamp: "2026-06-09T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Crewed",
+        headline: "Blue Moon Mark 2 Lander Mockup Assembled at Johnson Space Center and Ready for Artemis III Crew Training — Milestone Reached Despite New Glenn Launch Complex Damage as NASA's Isaacman Warns LC-36 Repairs May Extend to 2028",
+        body: "A full-scale mockup of Blue Origin's Blue Moon Mark 2 lunar lander has been assembled at NASA's Johnson Space Center, where it will serve as the primary training simulator for the newly announced Artemis III crew preparing for rendezvous and docking operations during the restructured 2027 low Earth orbit mission. The mockup's readiness represents a significant programme milestone for Blue Origin as the company simultaneously manages recovery operations at Launch Complex 36 at Cape Canaveral following the catastrophic May 28 static fire explosion — with NASA Administrator Jared Isaacman cautioning this week that the launchpad itself may not be fully restored until 2028. Blue Origin CEO Dave Limp has nonetheless maintained the company's commitment to resuming New Glenn flights before the end of 2026, relying on hardware preserved from the explosion's aftermath and a redesigned vertical assembly architecture to hold the return-to-flight schedule.",
+        sourceUrl: "https://www.cnbc.com/2026/06/01/blue-origin-launchpad-may-not-be-restored-until-2028-nasas-isaacman.html",
+        timestamp: "2026-06-09T11:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Continues Kamoʻoalewa Altitude Descent on Schedule as CNSA Prepares First Public Release of High-Resolution Navigation Images — Instruments Nominal Two Days After Historic Orbit Insertion, July 4 Sample Collection Target on Track",
+        body: "Two days after its landmark orbit insertion at near-Earth quasi-satellite 469219 Kamoʻoalewa, China's Tianwen-2 spacecraft continues nominal operations as mission controllers at Beijing Aerospace Control Center execute the planned altitude reduction sequence from an initial 20-kilometre orbit toward as low as 600 metres. CNSA confirmed all 11 scientific instruments remain healthy and generating data, with the visible-infrared spectrometer, thermal radiation spectrometer, and subsurface detection radar building the first detailed compositional and structural portrait of Kamoʻoalewa ever assembled by a spacecraft in proximity. First close-range navigation images of the asteroid's surface are expected to be publicly released within days as the mission proceeds on schedule toward its July 4, 2026 touch-and-go sample collection manoeuvre.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-06-09T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Business",
+        headline: "ESA Director General Aschbacher to Open ILA Berlin International Airshow Space Pavilion Tomorrow Alongside German Space Minister and Astronauts Maurer and Gerst — Space4Future Theme Spotlights Ariane 6, Earth Observation, and European Space Sovereignty Across Five-Day Exhibition",
+        body: "ESA Director General Josef Aschbacher will formally open the Space Pavilion at the ILA Berlin International Airshow on June 10 alongside German Research, Technology and Space Minister Dorothee Bär, DLR Space Agency Director General Walther Pelzer, and veteran ESA astronauts Matthias Maurer and Alexander Gerst — kicking off five days of European space showcasing under the theme 'Space4Future' at Berlin Brandenburg Airport. The pavilion, jointly organised by ESA, DLR, and the German Aerospace Industries Association (BDLI), will feature presentations on Ariane 6's expanding commercial launch manifest, Earth observation missions including EarthCARE and SMILE, and Europe's long-term strategy for autonomous access to orbit. Minister Bär's participation reflects the German federal government's heightened commitment to space sovereignty heading into the next ESA ministerial council, where multi-year budget commitments for the Vigil space weather mission and European Service Module production for future Artemis flights are expected to be finalised.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
+        timestamp: "2026-06-09T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Targets June 30 GSLV Mk II Launch With GISAT-1A Disaster-Response Satellite as Expert Committee Finalises PSLV Third-Stage Remediation Plan After Two Consecutive 2025–2026 Failures",
+        body: "ISRO is targeting a June 30, 2026 launch for the GSLV Mk II rocket carrying the GISAT-1A (EOS-05) geo-imaging satellite — designed to deliver rapid imagery during natural disasters — as the agency works in parallel to restore confidence in its PSLV programme following two consecutive third-stage solid motor failures in May 2025 and January 2026. A national-level expert committee constituted to review the back-to-back anomalies has completed its technical assessment, with design remediation on the PS3 stage incorporated into the next PSLV vehicle in production. Union Science Minister Jitendra Singh confirmed ISRO intends to fly the next PSLV before June closes, signalling that both launch vehicle lines are advancing simultaneously ahead of the Gaganyaan G1 uncrewed orbital test targeting August–September 2026.",
+        sourceUrl: "https://www.deccanherald.com/science/space/after-2-failures-isro-to-attempt-pslv-launch-in-june-jitendra-singh-3883945",
+        timestamp: "2026-06-09T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-08": {
     date: "June 8, 2026",
     stories: [
