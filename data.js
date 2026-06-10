@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-10": {
+    date: "June 10, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Crewed",
+        headline: "NASA Names Artemis III Crew of Four — Commander Randy Bresnik, ESA Pilot Luca Parmitano, and Mission Specialists Frank Rubio and Andre Douglas Selected for 2027 Low Earth Orbit Docking Rehearsal With SpaceX and Blue Origin Human Landing System Prototypes as Agency Marches Toward First Crewed Lunar Landing Since Apollo 17",
+        body: "NASA officially named the four-member Artemis III crew at a Johnson Space Center live event on June 9, designating veteran astronaut Randy Bresnik as commander alongside European Space Agency pilot Luca Parmitano and NASA mission specialists Frank Rubio and Andre Douglas — with Bob Hines assigned as backup and all five astronauts entering immediate training under the restructured 2027 mission profile. The mission is designed as an essential precursor to Artemis IV, the first planned crewed lunar south pole landing in 2028, requiring the crew to demonstrate Orion rendezvous and docking with prototype versions of SpaceX's Starship Human Landing System and Blue Origin's Blue Moon Mark 2 lander in low Earth orbit. Parmitano becomes the first ESA astronaut assigned to fly as Orion pilot, while Rubio — who spent a record 371 consecutive days aboard the ISS in 2022–2023 — brings unmatched long-duration spaceflight experience to what NASA described as the most technically demanding Artemis assignment outside of an actual lunar surface descent.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/",
+        timestamp: "2026-06-10T19:30:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Business",
+        headline: "ESA Space Pavilion Opens at ILA Berlin International Airshow Under 'Space4Future' Theme — Inaugurated by German Minister Dorothee Bär, ESA's Dietmar Pilz, and DLR's Walther Pelzer as Five-Day Exhibition in Hall B Showcases Ariane 6, Lunar Exploration, Earth Observation, and Europe's Path to Autonomous Orbital Access",
+        body: "The European Space Agency's Space Pavilion at the ILA Berlin International Airshow officially opened at 10:15 a.m. CEST on June 10 at ExpoCenter Schönefeld airport, inaugurated by German Federal Minister for Research, Technology and Space Dorothee Bär, ESA Director of Technology, Engineering and Quality Dietmar Pilz, DLR Director General Walther Pelzer, and DLR Board Chair Anke Kaysser-Pyzalla — with the opening ceremony livestreamed on ESA TV for a global audience. Running through June 14 under the theme 'Space4Future,' the pavilion in Hall B is organised around four thematic areas connected by a central Moon zone, spotlighting Ariane 6's expanding commercial manifest, the SMILE and EarthCARE Earth observation missions, European contributions to Artemis through the Orion European Service Module, and the continent's long-term strategy for independent access to orbit. Trade days on Wednesday through Friday target aerospace industry professionals, with public days Saturday and Sunday expected to draw tens of thousands of visitors, as the ILA appearance serves as one of ESA's highest-profile public platforms ahead of the next ministerial council where multi-year budget commitments for the Vigil space weather mission are expected to be decided.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
+        timestamp: "2026-06-10T08:15:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX SPCX IPO Enters Final 24 Hours Before $135 Per Share Nasdaq Pricing as Roadshow Concludes — $75 Billion Capital Raise at $1.77 Trillion Valuation Would Surpass Saudi Aramco as Largest Public Offering in History, With 555.6 Million Shares Fully Subscribed and First Trading Set for June 12",
+        body: "SpaceX's landmark initial public offering enters its final 24 hours before Thursday June 11 post-market-close pricing at the fixed $135 per share under Nasdaq ticker SPCX, with Goldman Sachs and Morgan Stanley-led underwriters reporting that the 555.6 million share offering has been fully subscribed across institutional and retail channels following a roadshow that spanned institutional investors in New York, Boston, and London. At the $135 price, the offering would raise $75 billion at a $1.77 trillion fully-diluted valuation — more than triple the size of the Alibaba IPO and the largest public market debut in history — with first trading expected on Friday June 12 barring any last-minute regulatory developments. CEO Elon Musk retains over 82 percent of combined voting control after the offering, and underwriters hold an over-allotment option to purchase an additional 83.33 million shares worth $11.2 billion, meaning the total raise could reach approximately $86 billion if the greenshoe is exercised in full following the debut.",
+        sourceUrl: "https://www.cnbc.com/2026/06/03/spacex-ipo-stock-price-roadshow-musk.html",
+        timestamp: "2026-06-10T17:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Third Day of Proximity Operations at Kamoʻoalewa With All 11 Instruments Nominal as CNSA Begins Altitude Reduction Phase — First Close-Range Navigation Images of Asteroid Surface Expected This Week Ahead of July 4 Touch-and-Go Sample Collection",
+        body: "Three days after its historic June 7 orbit insertion at near-Earth quasi-satellite 469219 Kamoʻoalewa, China's Tianwen-2 spacecraft continues nominal proximity operations with all 11 science instruments generating data as mission controllers at Beijing Aerospace Control Center execute the planned altitude reduction sequence from an initial 20-kilometre orbit toward as low as 600 metres. CNSA confirmed the visible-infrared spectrometer, thermal radiation spectrometer, and subsurface detection radar are all building progressively higher-resolution portraits of Kamoʻoalewa's surface composition and internal structure — data that will directly inform the selection of the prime sample collection site before the July 4, 2026 touch-and-go manoeuvre. The agency indicated that first close-range navigation images of the asteroid's surface are expected to be publicly released within days, an announcement anticipated to generate significant scientific and public interest as Tianwen-2 moves into the most operationally intensive phase of its mission.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-06-10T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Sets NET June 30 Window for GSLV-F17 Launch Carrying GISAT-1A Geo-Imaging Satellite From Sriharikota — 2,100-Kilogram Disaster-Response Observer Targeting Geostationary Orbit to Deliver Real-Time Continuous Coverage of Indian Subcontinent as PSLV Expert Committee Finalises PS3 Stage Remediation",
+        body: "ISRO has confirmed a no-earlier-than June 30, 2026 launch window for the GSLV-F17 mission carrying the GISAT-1A (EOS-05) geostationary imaging satellite from the Second Launch Pad at Satish Dhawan Space Centre, Sriharikota, with the 2,100-kilogram spacecraft designed to provide continuous multi-spectral and hyper-spectral coverage of the Indian subcontinent for real-time monitoring of agriculture, water resources, natural hazards, and disaster response. Vehicle integration is progressing with the GSLV Mk II rocket, which has achieved a greater than 83 percent mission success rate across 12 flights with four consecutive successes since 2014, as engineers simultaneously advance Gaganyaan G1 uncrewed orbital test preparations targeting August–September 2026. In parallel, the national expert committee constituted to review PSLV's two consecutive PS3 third-stage solid motor failures in May 2025 and January 2026 has finalised its remediation recommendations, clearing the path for a return-to-flight PSLV mission that ISRO aims to schedule before the GSLV-F17 launch date.",
+        sourceUrl: "https://www.spacelaunchschedule.com/launch/gslv-mk-ii-gisat-1a-eos-05/",
+        timestamp: "2026-06-10T07:30:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Business",
+        headline: "Blue Origin Pauses New Shepard Suborbital Tourism Operations to Accelerate Blue Moon Mark 2 Lunar Lander Development — Decision Follows May 28 New Glenn Explosion as CEO Dave Limp Redirects Engineering Resources Toward Artemis Commitments While Damage Assessment at LC-36 Confirms Propellant Systems Intact",
+        body: "Blue Origin announced it is suspending New Shepard suborbital tourism flights and redirecting the programme's engineering and operations resources toward accelerating development of the Blue Moon Mark 2 human lunar lander — a strategic decision reflecting CEO Dave Limp's stated priority of meeting Artemis programme milestones as NASA has now publicly named the Artemis III crew who will train with a Blue Moon Mark 2 mockup at Johnson Space Center. The pause follows the catastrophic May 28 static fire explosion that destroyed one New Glenn first stage and severely damaged Launch Complex 36 at Cape Canaveral Space Force Station, with Limp confirming this week that the post-explosion damage assessment found propellant storage tanks, the water tower, and the launch tower base structure all intact — providing a foundation for the LC-36 reconstruction project targeting completion before a planned New Glenn return-to-flight before year's end. NASA Administrator Jared Isaacman has cautioned that full launchpad restoration may extend to 2028, but Blue Origin's decision to refocus resources on the Artemis Human Landing System contract underscores the company's commitment to delivering Blue Moon Mark 2 on a schedule compatible with the restructured Artemis IV crewed lunar landing planned for 2028.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-says-new-glenn-rocket-will-launch-again-before-the-end-of-the-year-after-explosion",
+        timestamp: "2026-06-10T14:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-09": {
     date: "June 9, 2026",
     stories: [
