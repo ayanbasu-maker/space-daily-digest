@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-11": {
+    date: "June 11, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX SPCX IPO Officially Priced at $135 Per Share After Market Close — Deal Lands 3.5×–4× Oversubscribed With $250 Billion in Investor Demand Ahead of Friday June 12 Nasdaq Debut, Raising $75 Billion at $1.77 Trillion Valuation to Become Largest Initial Public Offering in History",
+        body: "SpaceX officially priced its landmark initial public offering at $135 per share after market close on Thursday, June 11, confirming a $75 billion capital raise at a $1.77 trillion fully-diluted valuation under Nasdaq ticker SPCX — the largest public offering in market history, more than triple the size of the 2014 Alibaba IPO and surpassing the 2019 Saudi Aramco listing. Goldman Sachs and Morgan Stanley reported the book drew in excess of $250 billion in investor demand against the $75 billion raise, leaving the deal 3.5 to 4 times oversubscribed across institutional and retail channels before final pricing. CEO Elon Musk retains over 82 percent of combined voting control after the offering, and underwriters hold an over-allotment option worth an additional $11.2 billion if exercised in full. First trading in SPCX opens Friday morning on the Nasdaq, one day after the company's Falcon 9 rocket launched a fresh batch of Starlink satellites from Vandenberg.",
+        sourceUrl: "https://www.npr.org/2026/06/11/nx-s1-5853199/spacex-ipo-price-elon-musk",
+        timestamp: "2026-06-11T22:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Launches 24 Starlink 17-44 Satellites From Vandenberg SLC-4E at 8:05 a.m. PDT on Day of IPO Pricing — Mission Marks More Than 50 Starlink Flights in 2026 as Booster Completes Another Successful Return Landing",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4E at Vandenberg Space Force Base at 8:05 a.m. PDT on Thursday, June 11, carrying 24 Starlink broadband satellites for the Starlink 17-44 mission in what proved a textbook flight occurring on the same day the company priced its historic IPO after market close. The first stage booster completed a successful propulsive landing following stage separation, extending SpaceX's run of consecutive Falcon 9 booster recoveries. The 24-satellite batch joins thousands of Starlink spacecraft already in low Earth orbit, with the launch marking the company's 51st Starlink mission of 2026 and underscoring the commercial revenue engine underpinning SpaceX's record-breaking stock market debut.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/11/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-4/",
+        timestamp: "2026-06-11T15:05:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Business",
+        headline: "ESA Director General Holds ILA Berlin Day 2 Press Conference at 09:15 CEST Covering Ariane 6 Manifest and Vigil Budget Ahead of Next Ministerial — ESA and European Commission Sign Joint Declaration on In-Space Operations and Services as Sophie Adenot Conducts Live ISS Call at 14:00 CEST",
+        body: "ESA Director General Josef Aschbacher led a press conference at 09:15 CEST on the second day of the ILA Berlin International Airshow, where he addressed Ariane 6's expanding commercial launch manifest, progress on the SMILE and EarthCARE Earth observation missions, and Europe's budget priorities heading into the next ministerial council where multi-year funding for the Vigil space weather mission is expected to be decided. A major policy milestone was reached during Day 2 trade sessions when ESA and the European Commission signed a joint declaration on In-Space Operations and Services, formalising commitments to develop satellite servicing, on-orbit refuelling, and maintenance technologies as Europe moves toward a circular space economy. ESA astronaut Sophie Adenot then appeared live from the International Space Station via in-flight call at 14:00 CEST, speaking to delegates on the ILA exhibition floor about daily life aboard the ISS and the importance of European contributions to sustained human presence in orbit.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
+        timestamp: "2026-06-11T09:15:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "Nature Communications Publishes Peer-Reviewed Analysis of Kamoʻoalewa Surface Composition as Tianwen-2 Enters Systematic Imaging Campaign on Day 4 of Proximity Operations — Asteroid Confirmed to Show Itokawa-Like Silicate Mineralogy With Stronger Space Weathering Than Any Previously Sampled Body",
+        body: "A peer-reviewed paper published in Nature Communications on June 11 confirms that asteroid 469219 Kamoʻoalewa exhibits an Itokawa-like silicate surface composition but displays significantly more advanced space weathering than either Itokawa or Ryugu — findings derived from ground-based spectral observations that Tianwen-2's onboard instruments are now poised to verify and substantially expand at close range. The result has major implications for the mission's sample collection strategy, as the more weathered surface layer may need to be penetrated to retrieve pristine sub-surface material during the July 4 touch-and-go sampling manoeuvre. CNSA confirmed on Day 4 of proximity operations that Tianwen-2 is executing the planned altitude reduction sequence from its initial 20-kilometre orbit, with all 11 instruments nominal and the first high-resolution surface navigation images expected to be publicly released imminently.",
+        sourceUrl: "https://www.nature.com/articles/s41467-026-73284-w",
+        timestamp: "2026-06-11T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crewed",
+        headline: "Artemis III Crew of Bresnik, Parmitano, Rubio, and Douglas Begins Formal Mission Training at Johnson Space Center Two Days After Official Designation — Team Enters Blue Moon Mark 2 Mockup Simulator and Starts Orion Rendezvous Procedure Reviews for 2027 Low Earth Orbit Docking Mission",
+        body: "Two days after NASA's official Artemis III crew announcement, commander Randy Bresnik, ESA pilot Luca Parmitano, and mission specialists Frank Rubio and Andre Douglas formally entered mission-specific training at Johnson Space Center in Houston on Thursday, beginning with familiarisation sessions inside the full-scale Blue Moon Mark 2 mockup already assembled at JSC and proceeding into initial reviews of Orion rendezvous and proximity operations procedures. Training leads are prioritising the docking sequences Parmitano will execute as Orion pilot, given that successfully rendezvousing with both the SpaceX Starship Human Landing System prototype and the Blue Moon Mark 2 lander in low Earth orbit is the core objective of the 2027 mission. Rubio — who holds the American record for longest continuous spaceflight at 371 days — is expected to lead the crew's adaptation drills for the extended isolation protocols planned for the mission's two-week duration.",
+        sourceUrl: "https://www.space.com/space-exploration/artemis/nasa-reveals-artemis-3-astronaut-crew",
+        timestamp: "2026-06-11T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Business",
+        headline: "U.S. Space Force Confirms Blue Origin Retains Full NSSL Phase 3 Certification and Remains Eligible to Compete for Billions in National Security Launch Contracts Despite May 28 New Glenn Static Fire Explosion at Cape Canaveral — Pentagon Ruling Separates Pre-Launch Ground Test Anomalies From Certification Flight Criteria",
+        body: "The U.S. Space Force Space Systems Command issued a formal ruling confirming that Blue Origin retains its National Security Space Launch Phase 3 certification and remains fully eligible to compete against SpaceX and United Launch Alliance for military launch contracts valued in the tens of billions of dollars over the next five years, notwithstanding the catastrophic May 28 static fire explosion that destroyed one New Glenn first stage and severely damaged Launch Complex 36. The Space Force determination hinged on the distinction that the explosion occurred during a ground-based propulsion test rather than during a certification flight mission, and therefore does not trigger automatic disqualification clauses under the Phase 3 programme rules. The ruling provides a significant measure of stability for Blue Origin as it simultaneously manages LC-36 reconstruction, accelerates Blue Moon Mark 2 lander development for NASA's Artemis programme, and targets a New Glenn return-to-flight before the end of 2026.",
+        sourceUrl: "https://www.tradingkey.com/analysis/stocks/us-stocks/261947233-blue-origin-new-glenn-spacex-us-explosion-rocket-bezos-tradingkey",
+        timestamp: "2026-06-11T16:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-10": {
     date: "June 10, 2026",
     stories: [
