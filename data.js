@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-12": {
+    date: "June 12, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX Makes History as SPCX Begins Trading on Nasdaq at $135 Per Share — Elon Musk and Gwynne Shotwell Ring Opening Bell as $1.77 Trillion Valuation Makes It the Largest IPO in Market History, Surpassing Saudi Aramco and Instantly Becoming Seventh-Largest U.S. Company by Market Cap",
+        body: "SpaceX officially became a publicly traded company on Friday, June 12, as Gwynne Shotwell rang the Nasdaq opening bell while Elon Musk joined on screen, marking the first day of trading for ticker SPCX at the fixed IPO price of $135 per share — a valuation of $1.77 trillion that makes it the seventh-largest U.S. company by market capitalisation and the largest public offering in history. The Nasdaq opening cross for SPCX completed between 9:30 and 10:30 a.m. ET following the standard newly listed IPO auction process, with the company's $75 billion capital raise already confirmed oversubscribed 3.5 to 4 times over. Musk retains over 82 percent of combined voting control after the offering, meaning day-to-day strategic and operational direction of the company remains firmly in his hands despite the public listing. The debut comes just one day after Thursday's Falcon 9 Starlink launch and caps a multi-week roadshow that drew more than $250 billion in institutional and retail demand.",
+        sourceUrl: "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        timestamp: "2026-06-12T13:30:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Completes Historic 650th Flight With Starlink 10-54 Mission From Cape Canaveral on First Day as Public Company — Booster B1080 Lands on 'A Shortfall of Gravitas' for Its 27th Recovery in SpaceX's 623rd Successful First-Stage Landing",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 12:37 UTC on Friday, June 12, carrying 29 Starlink V2 Mini Optimized satellites for the Starlink 10-54 mission — a launch that simultaneously marked Falcon 9's 650th total flight and SpaceX's first orbital mission as a publicly traded company. Booster B1080 completed its 27th individual flight before executing a successful propulsive landing on drone ship 'A Shortfall of Gravitas' in the Atlantic Ocean, the drone ship's 155th booster recovery and SpaceX's 623rd successful first-stage landing overall. The 29-satellite batch pushed SpaceX's total active Starlink constellation past 10,500 satellites, extending the world's largest broadband network and underscoring the commercial revenue engine that underpinned the company's record-breaking stock market debut earlier in the day.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-06-12T12:37:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crewed",
+        headline: "Artemis III Crew Enters First Full Day of Formal Mission Training at Johnson Space Center — Bresnik, Parmitano, Rubio, and Douglas Begin Blue Moon Mark 2 Mockup and Orion Rendezvous Simulations Three Days After Official Designation in Preparation for 2027 Low Earth Orbit Docking Mission",
+        body: "The newly designated Artemis III crew — commander Randy Bresnik, ESA pilot Luca Parmitano, and NASA mission specialists Frank Rubio and Andre Douglas — completed their first full day of formal mission-specific training at Johnson Space Center in Houston on Friday, working through introductory scenarios in the recently installed Blue Moon Mark 2 full-scale training mockup and beginning Orion rendezvous and proximity operations procedure reviews. The crew faces an estimated 18 or more months of intensive training before the 2027 launch window, with curriculum weighted toward the complex docking sequences Parmitano will execute as Orion pilot during the low Earth orbit mission that will rehearse rendezvous with both the SpaceX Starship Human Landing System prototype and the Blue Moon Mark 2 lander. Mission specialists Rubio and Douglas are beginning EVA systems refreshers, while backup crew member Bob Hines participates in parallel training streams to ensure crew redundancy across all critical mission phases.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/",
+        timestamp: "2026-06-12T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 5 of Proximity Operations at Kamoʻoalewa With Altitude Reduction Proceeding Nominally — CNSA Confirms Science Instruments Continue Building Highest-Resolution Surface Portrait Ever Assembled of a Quasi-Satellite Ahead of July 4 Touch-and-Go Sample Collection",
+        body: "Five days after its June 7 orbit insertion at near-Earth quasi-satellite 469219 Kamoʻoalewa, China's Tianwen-2 spacecraft continues nominal proximity operations as mission controllers at the Beijing Aerospace Control Center execute the planned stepwise altitude reduction from an initial 20-kilometre orbit toward a 600-metre survey altitude. CNSA confirmed all 11 science instruments remain healthy, with the visible-infrared spectrometer, thermal radiation spectrometer, and subsurface detection radar progressively building the highest-resolution portrait of Kamoʻoalewa's surface composition and internal structure ever assembled by a spacecraft at close range. The mission is proceeding on schedule toward the July 4 touch-and-go sample collection manoeuvre, and first close-range navigation images of the asteroid's surface remain expected for imminent public release as international interest in the mission reaches a peak.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-06-12T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ILA Berlin Concludes Final Trade Day With ESA Announcing Euclid Quick Data Release 2 Scheduled for June 24 — Dark Energy Space Observatory to Deliver Expanded Deep-Field Survey Ahead of Full Data Release 1 in October as Ariane 6 Commercial Manifest Expansion Tops Ministerial Agenda",
+        body: "June 12 marks the closing of ILA Berlin's trade-visitor days, with ESA confirming during today's sessions that the Euclid dark universe space observatory is on track to deliver its second Quick Data Release on June 24, 2026 — featuring significantly expanded galactic survey data — followed by the full Euclid Data Release 1 scheduled for October 21. The ILA Berlin Space Pavilion, running through June 14 with public days on Saturday and Sunday, has drawn thousands of aerospace professionals across three trade days focused on Ariane 6's expanding commercial launch manifest, European contributions to Artemis through the Orion European Service Module, and ESA's upcoming ministerial council agenda. Director General Josef Aschbacher used the final trade-day sessions to build momentum for multi-year budget commitments to the Vigil space weather mission and HERA planetary defence programme, both expected to be decided when ESA's Council meets at Paris headquarters on June 16–17.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
+        timestamp: "2026-06-12T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Outreach",
+        headline: "ISRO Opens Registration for Bharatiya Antariksh Hackathon 2026 — Third Edition Challenges Students to Tackle AI Climate Twins, Chandrayaan-2 Lunar Ice Analysis, Aditya-L1 Solar Flare Forecasting, and Exoplanet Detection With July 1 Deadline and 30-Hour Grand Finale Set for August 6–7",
+        body: "ISRO officially opened registration for the third edition of the Bharatiya Antariksh Hackathon (BAH) 2026, a national competition inviting undergraduate, postgraduate, and PhD students at recognised Indian institutions to develop solutions across five challenge areas derived directly from active ISRO missions. Participants will tackle problems including building an AI-powered digital twin of India's climate system, analysing Chandrayaan-2 synthetic aperture radar data to characterise subsurface ice deposits in the lunar south polar region, forecasting solar flares using Aditya-L1 observatory data, identifying exoplanets from noisy photometric light curves, and applying generative AI to remove cloud cover from Earth observation satellite imagery. Teams of three to four members may register until July 1, with selected finalists receiving direct mentorship from ISRO scientists and a pathway to ISRO internship consideration before the live 30-hour grand finale at ISRO facilities on August 6–7, 2026.",
+        sourceUrl: "https://www.businesstoday.in/education/story/isro-bharatiya-antariksh-hackathon-2026-how-to-apply-eligibility-more-536547-2026-06-12",
+        timestamp: "2026-06-12T07:30:00Z"
+      }
+    ]
+  },
+
   "2026-06-11": {
     date: "June 11, 2026",
     stories: [
