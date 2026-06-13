@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-13": {
+    date: "June 13, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Katalyst LINK Spacecraft Fully Mated to Pegasus XL at Wallops Ahead of Imminent Air-Launch From Kwajalein Atoll — Robotic Servicing Mission Will Boost Neil Gehrels Swift Observatory's Rapidly Decaying Orbit as June 17 Media Briefing Previews Historic Commercial Satellite Rescue",
+        body: "Engineers completed installation of Katalyst Space's LINK robotic servicing spacecraft aboard a Northrop Grumman Pegasus XL rocket at NASA's Wallops Flight Facility on June 9, placing the mission on track for an imminent air-launched departure from Kwajalein Atoll in the Marshall Islands later this month. If successful, LINK will rendezvous with the 21-year-old Neil Gehrels Swift Observatory and execute a controlled propulsive boost to reverse the gamma-ray telescope's rapidly decaying orbit — a consequence of elevated solar activity accelerating atmospheric drag at the observatory's low Earth orbit altitude. NASA and Katalyst are hosting a joint media teleconference on June 17 to preview the mission, which would demonstrate the nascent field of commercial robotic satellite servicing as a model for extending the lives of science assets without replacement. A successful Swift boost would mark only the second time a robotic spacecraft has re-raised a science satellite's orbit.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/",
+        timestamp: "2026-06-13T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Vehicle",
+        headline: "Starship Super Heavy Booster 20 Begins Ground Test Campaign at Starbase While FAA Mishap Investigation Into Flight 12 Booster Anomaly Continues — Flight 13 Targets NET June 30 on Suborbital Profile With July Slip Possible as Raptor 3 Analysis Adds Complexity",
+        body: "Super Heavy Booster 20 completed its first cryogenic proof test at Starbase in Boca Chica on June 7, opening the ground qualification campaign for the vehicle intended to carry Starship Flight 13, while SpaceX engineers continue working through the FAA-mandated mishap investigation triggered by the Flight 12 booster anomaly on May 22. During Flight 12's return phase, Booster 19 failed to light all planned Raptor 3 engines during its boostback burn, ending the manoeuvre early and preventing the stage from reaching the planned recovery zone — prompting the FAA to require a full SpaceX-led investigation and regulatory approval before any further Starship launches can proceed. SpaceX has set a target NET date of June 30 for Flight 13 on a suborbital trajectory profile, though President Gwynne Shotwell acknowledged the launch could slip into July depending on investigation findings and any hardware changes required. The involvement of the newly debuted Raptor 3 engine design is expected to add complexity to the root-cause analysis compared with prior Starship mishap reviews.",
+        sourceUrl: "https://spaceflightnow.com/2026/05/27/faa-requires-spacex-led-mishap-investigation-before-resumption-of-starship-launches/",
+        timestamp: "2026-06-13T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "Tianwen-2 Marks Day 6 of Proximity Operations at Kamoʻoalewa With Altitude Reduction on Track and First Close-Range Surface Images Expected Imminently — All 11 Science Instruments Healthy as Asteroid's 28-Minute Rotation Period Shapes July 4 Sample Strategy",
+        body: "China's Tianwen-2 spacecraft entered its sixth day of proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 13, with mission controllers at the Beijing Aerospace Control Center confirming nominal continuation of the planned stepwise altitude reduction from the initial 20-kilometre orbit toward the 600-metre close-approach altitude needed for the July 4 touch-and-go sample collection manoeuvre. All 11 onboard science instruments remain healthy, with the visible-infrared spectrometer and thermal radiation imager progressively assembling the highest-resolution compositional portrait ever produced of the fast-rotating quasi-asteroid, which completes one full rotation every 28 minutes — a cadence that constrains sampling geometry and window timing. CNSA confirmed that the first high-resolution close-range surface navigation images are expected for public release imminently, drawing intense interest from the planetary science community following last week's Nature Communications paper confirming Kamoʻoalewa displays more advanced space weathering than either Itokawa or Ryugu. The sample return capsule carrying pristine material from Kamoʻoalewa is targeted to land in China in 2027.",
+        sourceUrl: "https://spacenews.com/chinas-tianwen-2-probe-operating-normally-on-approach-to-asteroid/",
+        timestamp: "2026-06-13T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Outreach",
+        headline: "ILA Berlin Airshow Opens to the Public on Day 4 With ESA Space Pavilion Showcasing Ariane 6, Euclid Dark Universe Data, and Artemis Hardware as Agency Counts Down to June 16–17 Ministerial Council in Paris Where Vigil and HERA Budgets Will Be Decided",
+        body: "The European Space Agency's 'Space4Future' pavilion at ILA Berlin transitioned from industry trade sessions to public opening on Saturday June 13, with tens of thousands of general visitors expected across the weekend at ExpoCenter Schönefeld as ESA makes one of its highest-profile public appearances of the year. Visitors can explore a full-scale Ariane 6 upper stage mockup, exhibits on the Euclid dark universe observatory's upcoming Quick Data Release 2 on June 24, and European contributions to NASA's Artemis programme through the Orion European Service Module — all under a Space Pavilion theme designed to communicate how space infrastructure underpins daily life on Earth. The public days coincide with ESA leadership's final preparation before the agency's Council convenes at Paris headquarters on June 16–17, where multi-year budget commitments for the Vigil space weather sentinel mission and the HERA planetary defence programme are expected to be the central agenda items. ESA Director General Josef Aschbacher has described the upcoming ministerial as the most consequential European space budget round since 2022.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
+        timestamp: "2026-06-13T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed",
+        headline: "ISRO Reaffirms Gaganyaan-1 Uncrewed Test With Vyommitra Humanoid Robot On Track for H2 2026 — Crewed Mission Targeting Q1 2027 as India Prepares to Become Fourth Nation to Independently Launch Citizens to Orbit",
+        body: "ISRO has confirmed that the Gaganyaan-1 uncrewed flight test — which will carry Vyommitra, a half-humanoid robot designed to simulate astronaut biological responses to the space environment — remains on schedule for the second half of 2026, marking a critical milestone in India's human spaceflight programme following multiple earlier delays. The mission will exercise the complete operational sequence from launch aboard the human-rated LVM3 rocket through orbital module operations, atmospheric re-entry at 8 kilometres per second, and crew module splashdown recovery, generating the data ISRO requires before committing its four Gaganyaatri astronaut-candidates to flight. A successful Gaganyaan-1 will make India only the fourth country — after the Soviet Union, the United States, and China — to demonstrate the full end-to-end capability to send humans to orbit and return them safely using domestically developed spacecraft and rockets. The first crewed Gaganyaan mission carrying three Indian astronauts to low Earth orbit is targeted for the first quarter of 2027.",
+        sourceUrl: "https://www.tribuneindia.com/news/india/gaganyaan-launch-slated-for-first-quarter-of-2027-isro-chief",
+        timestamp: "2026-06-13T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-12": {
     date: "June 12, 2026",
     stories: [
