@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-14": {
+    date: "June 14, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Space Weather Center Tracks G1 Geomagnetic Storm as Co-Rotating Interaction Region Compresses Solar Wind on June 14 — Twin CMEs Fired June 9 and 11 Forecast to Deliver Glancing Blows Through Monday With G2 Moderate Upgrade Possible, Prompting High-Latitude Aurora Watches Across Canada, Scandinavia, and New Zealand",
+        body: "A fast solar wind stream associated with a co-rotating interaction region (CIR) struck Earth's magnetosphere on Saturday, triggering a minor G1 geomagnetic storm as NOAA's Space Weather Prediction Center and NASA's Space Weather Center issued watches for two coronal mass ejections — launched toward Earth on June 9 and June 11 — that are expected to deliver glancing blows through Sunday and into Monday with potential to upgrade conditions to G2 moderate levels. G2 storms can induce power grid fluctuations at high latitudes, degrade HF radio communications, and push auroral visibility to mid-latitudes, with observers in northern Canada, Norway, and southern New Zealand already reporting sightings as the CIR's compressed plasma sheet energised the magnetosphere. The heightened solar activity continues a period of elevated geomagnetic disturbance that has been accelerating atmospheric drag on low-Earth-orbit satellites — including NASA's Neil Gehrels Swift Observatory, whose orbit decay prompted the Katalyst LINK robotic servicing mission currently in final ground preparations at Kwajalein Atoll. NASA's Solar Dynamics Observatory and DSCOVR solar wind monitors upstream at the L1 Lagrange point continue to track the incoming plasma clouds in real time.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-06-14T08:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SPCX Closes First Trading Week at $161 as SpaceX Enters First Full Weekend as a Public Company — SEC Filings Outline $75 Billion Capital Deployment Prioritising Raptor 3 Production Scaling and Starlink Gen 3 Build-Out While Wall Street Analysts Prepare Monday IPO Coverage Initiations",
+        body: "SpaceX closed its debut trading week with SPCX at $161.11, a 19.3 percent premium over the $135 IPO price set for history's largest public offering, as the company's initial SEC disclosures began circulating among institutional investors over the weekend outlining how the $75 billion raised will be deployed across Raptor 3 engine production scaling, Starlink Generation 3 satellite manufacturing, and emerging point-to-point hypersonic transport development. With U.S. markets closed for the weekend, analysts at major aerospace and technology research desks are finalising their inaugural SpaceX coverage initiations, expected to hit investor inboxes Monday morning with price targets widely anticipated between $170 and $210 based on roadshow briefing disclosures. Elon Musk retains over 82 percent combined voting control through a dual-class share structure, ensuring strategic direction remains unchanged from the private operating model that produced 69 Falcon family launches in 2026 to date. The Starship Flight 13 ground campaign with Booster 20 at Starbase continues in parallel, with SpaceX targeting a NET June 30 first flight attempt pending FAA closure of the Flight 12 mishap investigation.",
+        sourceUrl: "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        timestamp: "2026-06-14T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Vehicle",
+        headline: "Blue Origin Confirms Pad 36 Main Support Gantry Repairable In Place After May 28 New Glenn Static Fire Explosion — CEO Dave Limp Maintains Year-End 2026 Return-to-Flight Target as Root Cause Investigation Continues and Resources Partially Redirected to Blue Moon Mark 2 Human Lunar Landing System Development",
+        body: "Blue Origin CEO Dave Limp confirmed that a structural assessment of Launch Complex 36 at Cape Canaveral Space Force Station following the May 28 New Glenn hot-fire explosion has found the main support gantry, while substantially damaged by the blast, can be repaired in place rather than requiring demolition and full reconstruction — a determination that significantly improves the prospects of meeting the company's aggressive year-end 2026 return-to-flight target. Propellant storage tanks at Pad 36 and the adjacent New Glenn processing hangar survived the explosion intact, limiting the rebuilding scope, though engineering teams must still resolve the root cause of the anomaly that destroyed booster \"No, It's Necessary\" before the next flight article can be committed to a hot-fire test. The company acknowledged it is shifting a portion of New Glenn rocket engineering resources toward accelerating Blue Moon Mark 2 development to maintain NASA Artemis commitments, particularly as the newly announced Artemis III crew of Bresnik, Parmitano, Rubio, and Douglas will depend on the lander for their 2027 mission. The May 28 explosion was the most visible failure in Blue Origin's history, and the company faces scrutiny over whether pad repairs and root-cause analysis can be completed in time for a New Glenn return before January 2027.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/03/blue-origin-vows-to-resume-new-glenn-flights-by-years-end/",
+        timestamp: "2026-06-14T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Outreach",
+        headline: "ILA Berlin 2026 Closes After Five-Day Run as ESA Space4Future Pavilion Draws Record Public Weekend Attendance — Director General Aschbacher Departs for Paris Ministerial Council on June 16–17 Where Vigil Space Weather Sentinel and HERA Planetary Defence Budgets Will Shape European Space Strategy Through 2030",
+        body: "The Berlin International Airshow concluded its five-day run on Sunday June 14, closing the public doors of ESA's Space4Future pavilion at ExpoCenter Berlin Brandenburg Airport after tens of thousands of weekend visitors explored displays on Ariane 6, Euclid dark universe data, and European contributions to Artemis through the Orion European Service Module — capping the European space industry's most prominent annual showcase ahead of a pivotal week in European space governance. With ILA 2026 closed, ESA Director General Josef Aschbacher departs for Paris where the agency's Council convenes on June 16–17 in what Aschbacher has called the most consequential European space budget session since 2022, with member-state delegations expected to commit multi-year funding for the Vigil space weather sentinel and the HERA planetary defence mission that aims to build on the success of NASA's DART impact demonstration. Budget commitments at this week's Paris meeting will determine the pace of Ariane 6 commercial manifest ramp-up, ESA's contributions to NASA's Gateway lunar space station, and the agency's ability to sustain an independent broad-spectrum programme through the end of the decade. ESA also expects to confirm the Euclid observatory's Quick Data Release 2 timeline for June 24, which will expand the dark universe survey catalogue ahead of the full Data Release 1 planned for October.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_at_ILA_Berlin_International_Airshow_2026",
+        timestamp: "2026-06-14T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 7 of Proximity Operations at Kamoʻoalewa With Orbital Altitude Now Below 10 Kilometres as CNSA Prepares First High-Resolution Navigation Image Release — Nature Communications Study on Itokawa-Like Mineralogy and Advanced Space Weathering Reshapes Scientific Expectations Ahead of July 4 Sample Collection",
+        body: "China's Tianwen-2 spacecraft completed its seventh day of close proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on Sunday June 14, with CNSA confirming the orbital altitude has dropped below the 10-kilometre threshold as controllers at the Beijing Aerospace Control Center continue the stepwise approach toward the 600-metre close-survey altitude required before the July 4 touch-and-go sample collection manoeuvre. All 11 science instruments including the visible-infrared spectrometer, thermal radiation imager, and subsurface radar remain fully operational, progressively assembling the highest-resolution compositional portrait ever produced of a quasi-satellite at close range, with mission engineers preparing the first high-resolution close-approach navigation images for imminent public release. The anticipated imagery carries heightened scientific significance following a Nature Communications paper published this month arguing that Kamoʻoalewa's mineralogy closely resembles that of asteroid 25143 Itokawa — target of JAXA's Hayabusa mission — but with substantially more advanced space weathering, challenging earlier lunar-origin hypotheses proposed by University of Hawaii researchers in 2021. Sample return is planned for Earth landing in 2027, making Tianwen-2 only the third deep-space sample return mission after Hayabusa2 and OSIRIS-REx to retrieve pristine primitive material from a near-Earth object.",
+        sourceUrl: "https://www.nature.com/articles/s41467-026-73284-w",
+        timestamp: "2026-06-14T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-13": {
     date: "June 13, 2026",
     stories: [
