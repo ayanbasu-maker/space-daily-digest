@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-16": {
+    date: "June 16, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "SpaceX CRS-34 Cargo Dragon Undocks From ISS on June 16 Carrying Nearly 6,500 Pounds of Completed Science and Stem Cell Samples — C209 Capsule Targets Splashdown Off California Coast on June 17 After 32-Day Docked Stay With Expedition 74",
+        body: "SpaceX's 34th Commercial Resupply Services Dragon capsule, vehicle C209 on its sixth mission, undocked from the forward port of the ISS Harmony module on Tuesday, June 16, at 12:05 p.m. EDT following a command from SpaceX ground controllers, with NASA broadcasting the departure live on NASA+, Amazon Prime Video, and the agency's YouTube channel starting at 11:45 a.m. The Dragon is returning approximately 6,500 pounds of completed science experiments and hardware, including stem cell samples cultivated by the Expedition 74 crew during the spacecraft's 32-day docked stay that began after its May 15 launch and May 17 autonomous docking at the Harmony module. Splashdown is scheduled for Wednesday, June 17, at 8:08 p.m. EDT off the coast of California, where SpaceX recovery vessels will secure the capsule and transfer its science cargo to laboratories for time-critical analysis. C209's successful return extends SpaceX's unbroken CRS-2 delivery record to 14 consecutive successful resupply missions under the current NASA commercial cargo contract.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+        timestamp: "2026-06-16T17:05:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Monday June 16 Falcon 9 Launch of 26 Starlink Satellites From Cape Canaveral, Maintaining Aggressive 2026 Manifest Just Days After Landmark Nasdaq IPO Debut",
+        body: "SpaceX targeted a Falcon 9 launch from Cape Canaveral Space Force Station on Monday, June 16, carrying a batch of 26 Starlink satellites to low Earth orbit, sustaining the company's relentless constellation build-out cadence in the days immediately following its June 12 Nasdaq IPO under the ticker SPCX. The mission continues SpaceX's 2026 trajectory of more than one Falcon 9 launch per week, with the company having surpassed 69 Falcon family launches year-to-date as it scales Starlink Gen 2 capacity toward global broadband saturation. The Falcon 9 first stage was expected to execute an autonomous landing on a downrange drone ship in the Atlantic following stage separation, continuing SpaceX's routine booster reuse program that has dramatically reduced per-satellite deployment costs. SpaceX's commercial launch dominance underpins the investor thesis behind the $75 billion IPO, with SPCX shares having closed the debut trading week at $161.11 — a 19.3 percent premium over the $135 offer price.",
+        sourceUrl: "https://www.facebook.com/SpaceXFP/posts/spacex-is-targeting-monday-june-16-for-a-falcon-9-launch-of-26-starlink-satellit/753038897244169/",
+        timestamp: "2026-06-16T18:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Policy",
+        headline: "ESA's 347th Council Session Opens in Paris June 16–17 With Vigil Space Weather Sentinel, HERA Planetary Defence, and Ariane 6 Ramp-Up Topping Agenda — Director General Aschbacher to Brief Media June 17 at 15:30 CEST Following Member-State Budget Deliberations",
+        body: "The European Space Agency's 347th Council session convened at ESA headquarters in Paris on Monday, June 16, bringing delegations from all 22 member states together for a two-day session chaired by outgoing Council Chair at Delegate Level Renato Krpoun, with confirmed multi-year funding for the Vigil space weather monitor and the HERA planetary defence spacecraft among the highest-priority decisions facing the gathering. Vigil, designed to watch the Sun from the Earth-Sun L5 Lagrange point and deliver early warning of Earth-directed coronal mass ejections, has gained fresh political urgency following the G1 and G2 geomagnetic storms that disrupted European power grids and low-orbit satellite operations throughout early June. The session also addresses ESA's financial commitments to the Gateway lunar space station via the ESPRIT refuelling module, Ariane 6 commercial launch manifest ramp-up, and the agency's strategic response to competitive pressure from SpaceX and Blue Origin. ESA Director General Josef Aschbacher will hold a media teleconference on June 17 at 15:30 CEST — livestreamed on ESA Web TV Two — to present the outcomes of the two-day deliberations.",
+        sourceUrl: "https://spacepolicyonline.com/events/esa-media-telecon-following-347th-esa-council-session-june-17-2026-930-am-et-1530-cest/",
+        timestamp: "2026-06-16T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Ariane 6 Flight VA269 Set for June 17 Debut of Four Upgraded P160C Boosters, Launching 36 Amazon Project Kuiper Satellites From Kourou — New Motor Config Adds 14 Tonnes Propellant Per Booster, Raising Heavy-Lift Payload Ceiling by ~11 Percent",
+        body: "Arianespace has set a June 17 liftoff window of 08:53–09:22 local time (12:53–13:22 UTC) from Europe's Spaceport in Kourou, French Guiana, for Ariane 6 flight VA269, which will mark the rocket's debut operating with all four boosters based on the upgraded P160C solid rocket motor — each loaded with approximately 14 additional tonnes of propellant compared to the original P120C configuration, raising the Ariane 64 variant's GTO performance ceiling by roughly 11 percent. The mission will carry 36 satellites for Amazon's Project Kuiper broadband constellation in low Earth orbit, the third Ariane 6 deployment for the Kuiper programme and further evidence of the rocket's competitive position in the multi-satellite batch launch market. The P160C motor is one metre taller than the P120C yet maintains full mechanical compatibility with Ariane 6's core stage structure, with the upgrade having completed full qualification earlier this year before this first operational flight. VA269 represents one of the most significant technical milestones in Ariane 6's commercial ramp-up since its July 2024 debut, as ArianeGroup works to narrow the cost gap with Falcon 9 and recapture European market share in the post-Ariane 5 era.",
+        sourceUrl: "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Date_is_set_for_bigger_booster_more_powerful_Ariane_6",
+        timestamp: "2026-06-16T15:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Marks Day 9 of Proximity Operations at Kamoʻoalewa, Closing on 600-Metre Survey Altitude Ahead of July 4 Sample Collection — Itokawa-Like Mineralogy Data Reshapes Mission Science Picture as CNSA Confirms All 11 Instruments Nominal",
+        body: "China's Tianwen-2 spacecraft entered its ninth consecutive day of close proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 16, with CNSA mission controllers at the Beijing Aerospace Control Center continuing to reduce orbital altitude as the spacecraft spirals toward the 600-metre close-survey orbit needed before the planned July 4 touch-and-go sample collection manoeuvre. Science data streaming from Tianwen-2's visible-infrared spectrometer is reinforcing results published last week in Nature Communications suggesting Kamoʻoalewa's surface mineralogy closely resembles that of asteroid 25143 Itokawa — the target of JAXA's Hayabusa mission — rather than lunar ejecta, complicating hypotheses that the quasi-satellite originated from a large lunar impact and sharpening the scientific value of the retrieved samples. All 11 science instruments remain fully operational, with the subsurface radar producing first-ever depth profiles of Kamoʻoalewa's interior structure that mission scientists say are unlike any previously obtained for a near-Earth object in this size class. If the July 4 sampling manoeuvre succeeds, Tianwen-2 would become only the third deep-space mission after Hayabusa2 and OSIRIS-REx to return pristine asteroid material to Earth, with capsule landing in China targeted for 2027.",
+        sourceUrl: "https://www.china-in-space.com/p/tianwen-2-approaching-asteroid-kamooalewa",
+        timestamp: "2026-06-16T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Outreach",
+        headline: "ISRO Scientists and Directors Launch Intensive Space Technology and Research Program at Chandigarh University on June 16 — Expert Sessions on Satellite Systems, Remote Sensing, and Propulsion Aim to Build Pipeline From Indian Academia Into Space Sector Careers",
+        body: "Senior scientists, directors, and technical experts from ISRO, the Indian Institute of Space Science and Technology (IIST), NewSpace India Limited (NSIL), and the Indian Institute of Remote Sensing (IIRS) launched an intensive Space Technology and Research Program at Chandigarh University on June 16, engaging students and faculty through structured sessions covering satellite system design, remote sensing applications, propulsion technology, and Earth observation data processing. The programme, also supported by the Ministry of Earth Sciences, is designed to create formal pathways from undergraduate and postgraduate curricula into ISRO internships and collaborative research projects — a priority for the organisation as it accelerates hiring to support its ambitious 2026–2030 mission manifest including Gaganyaan crewed flights and Chandrayaan-4. The initiative aligns with ISRO's broader academic partnership drive under the IN-SPACe regulatory framework, which has rapidly expanded India's commercial space ecosystem and created new demand for trained engineers across satellite manufacturing, launch services, and ground segment operations. The programme concludes with a student research showcase on June 20, where teams will present prototype mission concepts for evaluation by ISRO and NSIL mentors.",
+        sourceUrl: "https://aninews.in/news/business/isro-scientists-launch-space-technology-amp-research-program-2026-at-chandigarh-university20260616125024/",
+        timestamp: "2026-06-16T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-15": {
     date: "June 15, 2026",
     stories: [
