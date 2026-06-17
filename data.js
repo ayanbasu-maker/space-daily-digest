@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-17": {
+    date: "June 17, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Three Giant BlueBird Block 2 Direct-to-Cell Satellites for AST SpaceMobile From Cape Canaveral at 2:39 a.m. EDT — Antennas Spanning 2,400 Square Feet Make Them the Largest Commercial Satellites Ever Deployed in Low Earth Orbit as Booster Completes 29th Successful Flight",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 2:39 a.m. EDT on June 17, carrying AST SpaceMobile's BlueBird 8, 9, and 10 satellites — three Block 2 next-generation direct-to-cell spacecraft whose unfurled phased-array antennas each span nearly 2,400 square feet (223 square meters), making them the largest commercial communications arrays ever placed in low Earth orbit. The mission extends AST SpaceMobile's growing constellation designed to deliver broadband voice, data, and video services directly to standard unmodified smartphones without requiring any specialised hardware, competing in the rapidly expanding space-based cellular market alongside SpaceX's own Starlink direct-to-cell programme. The Falcon 9 first stage completed its 29th successful launch and landing, touching down on the Atlantic Ocean drone ship 'A Shortfall of Gravitas' approximately 8.5 minutes after liftoff, continuing SpaceX's routine booster reuse cadence. The BlueBird 8-10 deployment is the latest in a series of rapid constellation build-out milestones for AST SpaceMobile, which is racing to achieve global coverage and underpin its recently approved commercial and government broadband contracts.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-bluebird-8-to-10-direct-to-cell-launch",
+        timestamp: "2026-06-17T06:39:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Ariane 6 Flight VA269 Lifts Off From Kourou With Four Upgraded P160C Boosters Carrying 36 Amazon Project Kuiper Satellites — First Operational Flight of New Motor Configuration Raises Heavy-Lift Payload Ceiling by ~11 Percent in Biggest Ariane 6 Technical Milestone Since July 2024 Debut",
+        body: "Ariane 6 flight VA269 lifted off from Europe's Spaceport in Kourou, French Guiana, on June 17, marking the orbital rocket's first operational mission equipped with all four boosters using the upgraded P160C solid rocket motor — each loaded with approximately 14 additional tonnes of propellant compared to the original P120C configuration, raising the Ariane 64 variant's payload performance ceiling by roughly 11 percent. The mission carried 36 satellites for Amazon's Project Kuiper broadband constellation in low Earth orbit, the third Ariane 6 deployment for the Kuiper programme and further evidence that ArianeGroup's upgraded rocket is competitive in the rapidly expanding multi-satellite batch launch market dominated by SpaceX's Falcon 9. The P160C motor stands one metre taller than the P120C but maintains full mechanical compatibility with Ariane 6's core stage, having completed qualification earlier in 2026 before its inaugural operational use on VA269. The successful flight represents a significant step in Ariane 6's commercial ramp-up as ArianeGroup works to narrow the cost gap with Falcon 9 and rebuild European launch market share following the retirement of Ariane 5.",
+        sourceUrl: "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Watch_live_bigger_booster_more_powerful_Ariane_6_launch",
+        timestamp: "2026-06-17T12:53:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Hosts Wallops Media Showcase and Teleconference on June 17 to Preview Katalyst LINK Robotic Mission to Boost Swift Observatory's Orbit — Pegasus XL Air-Launch Vehicle Departs for Kwajalein After Public Viewing as First-Ever Commercial Satellite Servicing of a NASA Science Observatory Prepares for Flight",
+        body: "NASA held a media showcase at Wallops Flight Facility in Virginia on June 17 — allowing journalists to view the Northrop Grumman Pegasus XL rocket carrying Katalyst Space's LINK robotic servicing spacecraft before its departure for Kwajalein Atoll in the Marshall Islands — followed by an audio-only teleconference at 11 a.m. EDT to preview what would be the first commercial robotic satellite servicing of a NASA science observatory. The LINK spacecraft is designed to rendezvous with NASA's 21-year-old Neil Gehrels Swift Observatory in low Earth orbit and execute a propulsive boost manoeuvre to counteract significant orbital decay caused by elevated solar-cycle atmospheric drag, an operation mission planners estimate could extend Swift's scientific life by up to a decade at a fraction of the cost of a replacement mission. Swift has revolutionised understanding of gamma-ray bursts, dark energy, and stellar flares since its 2004 launch, and elevated solar activity during the current solar maximum has accelerated its orbital decay to the point where intervention is required within months to prevent reentry. The Pegasus XL will be dropped from its L-1011 carrier aircraft at altitude over the Marshall Islands, after which LINK will separate and manoeuvre autonomously to rendezvous with Swift in what represents a landmark demonstration of the emerging commercial satellite life-extension industry.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
+        timestamp: "2026-06-17T15:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "SpaceX CRS-34 Cargo Dragon C209 Splashes Down Off California at 8:08 p.m. EDT on June 17 — Capsule Returns Nearly 6,500 Pounds of Completed Science Including Stem Cell Samples From Expedition 74 After 32-Day ISS Mission, Extending CRS-2 Perfect Delivery Record to 14 Consecutive Successes",
+        body: "The SpaceX CRS-34 Cargo Dragon capsule C209 splashed down off the coast of California at 8:08 p.m. EDT on June 17, completing a 32-day ISS mission that began with its May 15 launch and May 17 autonomous docking at the Harmony module's forward port, with SpaceX recovery vessels securing the capsule and transferring its cargo to laboratories for time-critical analysis. C209 returned approximately 6,500 pounds of completed science experiments and hardware curated by the Expedition 74 crew, including stem cell cultivation samples that researchers say will advance understanding of how microgravity conditions affect human tissue regeneration and potential future therapies. The successful recovery extends SpaceX's unbroken CRS-2 commercial cargo delivery record to 14 consecutive successful missions under the current NASA contract, with C209's sixth flight demonstrating the continued reliability of SpaceX's booster and capsule reuse programme for ISS logistics. NASA will host a post-splashdown media briefing to discuss the science returns and preview the CRS-35 mission currently in processing at Cape Canaveral.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+        timestamp: "2026-06-18T00:08:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 10 of Proximity Operations at Kamoʻoalewa as Ion Propulsion Fine-Tuning Burns Continue Approach Ahead of July 4 Sample Collection — Amateur Radio Tracking Reveals Additional Small Maneuvers Since June 11 as CNSA Maintains Strict Silence on Mission Status Updates",
+        body: "China's Tianwen-2 asteroid sample return spacecraft entered its tenth consecutive day of proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 17, with independent Doppler residual data collected by AMSAT-DL revealing a series of small propulsive burns using the spacecraft's ion electric propulsion system since June 11 — fine-tuning manoeuvres consistent with the planned altitude reduction from the initial 20-kilometre rendezvous orbit toward the 600-metre close-survey altitude required before the July 4 touch-and-go sample collection attempt. CNSA has maintained near-complete public silence on operational mission updates since the June 7 orbit insertion burn, leaving the international community to rely on amateur radio tracking networks for real-time insights into trajectory adjustments — a pattern consistent with China's characteristically opaque approach to communicating active deep-space mission status. The mission's July 4 sampling target would make Tianwen-2 only the third deep-space mission after JAXA's Hayabusa2 and NASA's OSIRIS-REx to retrieve pristine asteroid material from a near-Earth object and return it to Earth, with the sample capsule's China landing targeted for 2027. Science data already gathered by Tianwen-2's visible-infrared spectrometer continues to reshape understanding of Kamoʻoalewa's mineralogy, reinforcing recent findings that the quasi-satellite's surface more closely resembles asteroid 25143 Itokawa than any proposed lunar ejecta source.",
+        sourceUrl: "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+        timestamp: "2026-06-17T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-16": {
     date: "June 16, 2026",
     stories: [
