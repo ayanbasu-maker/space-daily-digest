@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-18": {
+    date: "June 18, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Briefing Reveals Katalyst LINK Spacecraft Completed Clean-Sheet-to-Flight Integration in Just Nine Months Ahead of June 27 Pegasus XL Launch — LINK Must Grapple 21-Year-Old Swift Observatory Without Purpose-Built Fixtures Before Orbit Falls Below 300 Kilometres in October",
+        body: "Following a June 17 media briefing at NASA's Wallops Flight Facility where the Pegasus XL carrying Katalyst Space's LINK spacecraft was displayed before its departure for Kwajalein, NASA astrophysics division director Shawn Domagal-Goldman confirmed that engineers progressed from a clean sheet to a fully integrated, rocket-mounted spacecraft in just nine months — an uncommonly compressed schedule for any orbital servicing mission. LINK is scheduled to launch June 27 on the Northrop Grumman Pegasus XL air-launched rocket and will autonomously rendezvous with NASA's Neil Gehrels Swift Observatory, a gamma-ray telescope whose orbit has decayed so severely due to solar-maximum atmospheric drag that reentry is projected as soon as October if no corrective action is taken. The mission's central challenge is that Swift was never designed to be serviced and lacks dedicated grappling fixtures, requiring LINK to improvise a capture strategy using the observatory's existing structural features — making this simultaneously the most ambitious and the most constrained commercial satellite servicing demonstration yet attempted. Success would extend Swift's scientific life by potentially a decade and validate the commercial life-extension industry for NASA's broader ageing science fleet.",
+        sourceUrl: "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
+        timestamp: "2026-06-18T15:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Preps Falcon 9 Booster B1090 for Its 12th Flight on NROL-179 National Reconnaissance Office Mission From Vandenberg — 35-Minute Window Opens 1:40 a.m. PT June 19 for 14th Proliferated-LEO NRO Constellation Launch, Third in 2026, With Booster Targeting Landing Zone 4 Return",
+        body: "SpaceX is targeting a 35-minute launch window opening at 1:40 a.m. PT (4:40 a.m. EDT / 0840 UTC) Thursday, June 19, for the NROL-179 mission from Space Launch Complex 4E at Vandenberg Space Force Base, carrying classified National Reconnaissance Office payloads believed to be Starshield satellites — the government-optimised variant of Starlink hardware — for the NRO's proliferated low Earth orbit intelligence architecture. This will mark the 14th overall Falcon 9 launch supporting the NRO proliferated constellation and the third such mission in 2026, underscoring the pace at which the U.S. intelligence community is expanding its on-orbit remote-sensing capacity through commercial satellite technology. Booster B1090, flying for a 12th time, will target a return landing at Landing Zone 4 on the California coast — one of only a handful of West Coast Falcon 9 missions where geography permits a return-to-launch-site booster recovery rather than a downrange drone ship. The NRO's proliferated satellite constellation represents the intelligence community's largest and most rapid orbital build-out in history, leveraging SpaceX's demonstrated launch cadence and low per-kilogram costs to achieve redundancy and revisit rates previously unattainable with traditional monolithic reconnaissance satellites.",
+        sourceUrl: "https://www.nro.gov/launches/launch-nrol-179/",
+        timestamp: "2026-06-18T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "FAA Root-Cause Ruling Finds Cryogenic Leak Froze Hydraulic Line in New Glenn's Catastrophic May 28 Static Fire Explosion — Blue Origin CEO Limp Cites Nine Corrective Actions and Year-End Return-to-Flight Target as Surviving Stages Move to Rocket Park for Inspection",
+        body: "The U.S. Federal Aviation Administration's investigation into the catastrophic May 28 explosion of Blue Origin's New Glenn rocket during a static fire test at Launch Complex 36 has identified the direct cause as a cryogenic propellant leak that froze a hydraulic line, triggering a thrust anomaly during the second-stage engine burn that cascaded into a fireball investigators characterised as among the largest in commercial launch vehicle history. Blue Origin CEO Dave Limp has stated the company identified nine specific corrective actions to prevent recurrence and has committed to flying New Glenn again before the end of 2026, with engineers reporting that the primary booster and three upper stages stored on-site appear structurally sound despite the blast's proximity. Blue Origin has begun transferring surviving New Glenn hardware from the damaged Launch Complex 36 to its Rocket Park inspection facility on Merritt Island, where technicians will conduct detailed assessments before any return-to-flight decision is formalised with the FAA. The incident has clouded near-term delivery timelines for New Glenn's 2026 manifest — which had included the first Blue Moon Pathfinder uncrewed lunar lander mission — though company officials have declined to specify which scheduled payloads will be rescheduled as a result.",
+        sourceUrl: "https://gizmodo.com/following-monstrous-new-glenn-explosion-blue-origin-sets-ambitious-timeline-for-next-launch-2000767039",
+        timestamp: "2026-06-18T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Policy",
+        headline: "ESA's 347th Council Concludes With Vigil Space Weather Sentinel Fully Funded for 2031 L5 Launch and EPIC Professional Astronaut Mission Cleared for Partner Negotiations — New Council Chair Juan Carlos Cortés Takes Helm 1 July as Greece Programme Receives 361 Million Euro Extension",
+        body: "ESA's 347th Council session concluded in Paris on June 17 after two days of deliberations by all 22 member states, producing a package of decisions that lock in full funding for the Vigil space weather monitor destined for the Earth-Sun L5 Lagrange point, authorise the EPIC professional astronaut flight mission to enter formal negotiations with potential providers, and extend Greece's national satellite programme support arrangement by 361 million euros through 2031. Vigil's funding clearance — arriving months after G1 and G2 geomagnetic storms disrupted European power grids and satellite operations in early June — removes the last major budgetary uncertainty from a mission that space weather scientists have described as essential to advancing solar storm warning times from 30 minutes to multiple days. The EPIC mission concept, envisioning a one-month professional astronaut flight with seats for ESA crew and international partners, was first endorsed in principle at the March Council session; the authorisation to negotiate with providers marks the first concrete procurement step and signals ESA's intent to maintain an independent human spaceflight pathway alongside its Artemis programme participation. Director General Josef Aschbacher concluded his final Council session in role, with newly appointed Council Chair Juan Carlos Cortés set to assume leadership on 1 July 2026.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases/Key_outcomes_of_the_347th_ESA_Council_meeting",
+        timestamp: "2026-06-18T13:30:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 11 of Proximity Operations at Kamoʻoalewa as New Nature Communications Study Challenges Lunar Origin Theory and Supports Flora-Family Derivation — Itokawa-Like Mineralogy Sharpens Science Case for July 4 Touch-and-Go Sample Collection Target",
+        body: "China's Tianwen-2 spacecraft entered its 11th day of proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 18, with CNSA mission controllers continuing precision trajectory management as the probe closes toward the 600-metre close-survey altitude required before the planned July 4 touch-and-go sample collection — while CNSA maintains near-complete public silence and the international community relies on amateur radio Doppler tracking to monitor fine-tuning ion propulsion burns underway since June 11. A study published this month in Nature Communications, leveraging Tianwen-2's onboard visible-infrared spectrometer data already relayed to Earth, has reignited scientific debate over Kamoʻoalewa's origin by finding its surface composition closely resembles asteroid 25143 Itokawa and supports derivation from the Flora asteroid family rather than from a lunar impact event as 2021 Earth-based spectral observations had proposed. The finding complicates an influential lunar-ejecta hypothesis and sharpens the scientific value of the retrieved samples: if Kamoʻoalewa is a Flora-family object, the returned specimens would constitute the first in-situ-collected samples from that large asteroid population, adding a uniquely new data point to understanding of the inner main belt. If the July 4 sampling manoeuvre succeeds, Tianwen-2 will become only the third deep-space mission after JAXA's Hayabusa2 and NASA's OSIRIS-REx to return pristine asteroid material to Earth.",
+        sourceUrl: "https://www.nature.com/articles/s41467-026-73284-w",
+        timestamp: "2026-06-18T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Mission",
+        headline: "Gaganyaan-1 Vyommitra Integration Advances Toward H2 2026 Launch as ISRO Logs 8,000-Plus Ground Tests and Second Integrated Air Drop Test Validates Parachute Recovery System at Sriharikota — Uncrewed Orbital Flight Will Certify Life-Support Systems Ahead of First Crewed Vyomnauts Mission",
+        body: "ISRO's Gaganyaan-1 uncrewed orbital test mission is advancing through its final integration phase with the humanoid robot Vyommitra's installation on the crew module progressing since April 28, placing the spacecraft on schedule for its planned H2 2026 launch window from Satish Dhawan Space Centre aboard a Human-rated LVM3 rocket that will carry the robot to validate life-support and environmental control systems ahead of crewed Gaganyaan flights. The organisation has now completed more than 8,000 ground tests across structural qualification, propulsion, and flight software domains, with a second integrated air drop test (IADT-02) recently conducted at Sriharikota successfully validating the parachute deceleration and crew module recovery systems required to safely return both Vyommitra on Gaganyaan-1 and human crew on subsequent missions. Vyommitra is designed to operate spacecraft systems, monitor cabin conditions, and interact with ground controllers during the orbital flight, providing data that ISRO engineers will use to certify the spacecraft's life support and human-machine interface before the first crewed Gaganyaan mission carrying the Vyomnauts. The successful IADT-02 completion removes one of the final open test items from the pre-flight checklist and sustains India's momentum in human spaceflight as the nation races to conduct its first crewed orbital mission by 2027.",
+        sourceUrl: "https://newsonair.gov.in/isro-successfully-conducts-2nd-integrated-air-drop-test-for-gaganyaan-mission/",
+        timestamp: "2026-06-18T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-17": {
     date: "June 17, 2026",
     stories: [
