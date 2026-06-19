@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-19": {
+    date: "June 19, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches NROL-179 Falcon 9 From Vandenberg at 1:50 a.m. PDT — Booster B1103 Completes Third Flight With Clean LZ-4 Landing as 71st Falcon 9 Mission of 2026 Delivers Classified Starshield Satellites to NRO Proliferated-LEO Intelligence Constellation",
+        body: "A Falcon 9 rocket lifted off from Space Launch Complex 4E at Vandenberg Space Force Base at 1:50:45 a.m. PDT on June 19, deploying a classified payload for the National Reconnaissance Office under the NROL-179 mission designation — widely believed to be Starshield satellites, the government-optimised derivative of SpaceX's Starlink hardware engineered for intelligence, surveillance, and reconnaissance roles. The mission marks SpaceX's 71st Falcon 9 flight of 2026 and the 14th dedicated to expanding the NRO's proliferated low Earth orbit surveillance constellation, sustaining an intelligence community orbital build-out unprecedented in pace and scale. Booster B1103, completing its third flight following two prior Starlink missions, executed a clean return-to-launch-site trajectory and stuck the landing at Landing Zone 4 on Vandenberg — one of the rare West Coast Falcon 9 missions where coastal geography permits a booster recovery at the launch site rather than downrange on a drone ship. The NRO's proliferated Starshield architecture delivers redundant high-revisit surveillance coverage achievable only through the economics and cadence of SpaceX's reusable Falcon 9 programme, displacing a generation of bespoke monolithic reconnaissance satellites.",
+        sourceUrl: "https://www.spacex.com/launches/nrol179",
+        timestamp: "2026-06-19T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Partners With Relativity Space to Build a Privately Funded Mars Orbiter Carrying the Aeolus Atmospheric Instrument Suite — 2028 Mission Will Deliver First Integrated Daily Global View of Martian Winds, Dust, and Temperatures to Underpin Human Exploration Planning",
+        body: "NASA announced a public-private partnership with Relativity Space this week to advance Mars atmospheric science, selecting the Eric Schmidt-led company to privately build, launch, and operate a Mars orbiter carrying the agency's Aeolus instrument suite — four complementary sensors designed to deliver the first integrated, daily global view of Martian winds, temperatures, dust loading, and cloud structures from orbit. Under the arrangement NASA provides the science payload at no cost to Relativity Space, while the company funds the spacecraft and launch aboard its Terran R reusable rocket targeting the 2028 Mars transfer window, with an unnamed philanthropic backer underwriting the commercial portion. Aeolus data will be used to characterise dust storm evolution, seasonal circulation patterns, and temperature inversions that govern aerobraking corridors and surface EVA windows for future crewed Mars missions — addressing a critical information gap identified by NASA's human Mars exploration architecture planners. NASA administrator Jared Isaacman announced the partnership at a Relativity Space facility, positioning the deal as a template for leveraging commercial investment to advance planetary science objectives without bearing full mission development costs on the agency's constrained budget.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-announces-public-private-partnership-to-advance-mars-science/",
+        timestamp: "2026-06-19T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 12 of Proximity Operations at Kamoʻoalewa as Ion Propulsion Burns Continue Descent Toward 600-Metre Survey Altitude Ahead of July 4 Touch-and-Go Sample Collection — New Spectroscopic Findings Deepen Scientific Debate Over Asteroid's Origins",
+        body: "China's Tianwen-2 spacecraft entered its 12th consecutive day of proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 19, with CNSA mission controllers continuing precision ion propulsion burns to reduce the probe's orbital altitude toward the 600-metre close-survey distance needed before the planned July 4 touch-and-go sample collection — the critical manoeuvre that will determine whether the mission achieves its primary objective of returning pristine near-Earth asteroid material to Earth. Amateur radio Doppler tracking networks in Germany and the Netherlands remain the primary public window into mission progress, as CNSA continues its characteristic operational silence, with observed burn sequences consistent with a gradual, methodical descent profile suggesting the mission is proceeding on schedule. The Nature Communications study published this week using early Tianwen-2 spectrometer data relayed to Earth has deepened scientific debate over Kamoʻoalewa's origin, identifying Itokawa-like mineralogy that supports derivation from the Flora asteroid family rather than the lunar-ejecta hypothesis that dominated following 2021 ground-based spectral observations — a finding that sharpens the scientific value of whatever material is eventually returned. If the July 4 sampling attempt succeeds, Tianwen-2 will become only the third deep-space mission after JAXA's Hayabusa2 and NASA's OSIRIS-REx to deliver in-situ-collected asteroid samples back to Earth, with the capsule targeting a 2027 landing in China.",
+        sourceUrl: "https://www.livescience.com/space/space-exploration/a-secretive-chinese-probe-has-just-arrived-at-one-of-earths-quasi-moons-and-will-soon-attempt-a-first-of-its-kind-landing",
+        timestamp: "2026-06-19T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA's MTG-I2 Meteosat Weather Satellite Arrives at Europe's Spaceport in Kourou Ahead of August 2026 Ariane 62 Launch — Second Meteosat Third Generation Imager Will Deliver Sub-500-Metre Resolution Weather Data and Double European Geostationary Coverage Capacity",
+        body: "ESA confirmed that the MTG-I2 satellite — formally designated Meteosat-14 — has arrived at Europe's Spaceport in Kourou, French Guiana following a sea voyage from Nice, France, with launch teams beginning pre-launch integration activities ahead of a planned August 2026 liftoff on an Ariane 62 rocket. MTG-I2 is the second of four planned Meteosat Third Generation imaging spacecraft and carries the Flexible Combined Imager, which delivers visible-channel imagery at 500-metre spatial resolution compared to the 3-kilometre resolution of the previous Meteosat-11 generation — a six-fold improvement that enables meteorologists to detect and track rapidly developing convective cells and mesoscale storm systems that were previously invisible to European geostationary monitoring. The first of the series, MTG-I1 (Meteosat-13), has been in operational service since late 2023 and demonstrated the system's advanced storm-detection capabilities during severe weather events across Europe and the Mediterranean; MTG-I2 will expand coverage capacity and provide operational redundancy critical to continuity of weather services relied upon by 32 national meteorological agencies. EUMETSAT's full MTG programme — spanning both imaging and sounding satellite pairs — represents the most significant overhaul of European geostationary weather observation infrastructure since the original Meteosat series and is designed to serve as the operational backbone of European meteorological services through the 2040s.",
+        sourceUrl: "https://www.esa.int/ESA_Multimedia/Images/2026/05/MTG-I2_embarks_on_journey_to_Europe_s_Spaceport",
+        timestamp: "2026-06-19T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Science",
+        headline: "ISRO and Indian Institute of Geomagnetism Conclude Two-Week Space Weather Summer School 2026 on June 19 — Programme Trains Next-Generation Indian Space Scientists as Aditya-L1 Solar Data Drives Operational Forecasting Capacity Ahead of Gaganyaan Crewed Missions",
+        body: "ISRO and the Indian Institute of Geomagnetism concluded the Space Weather Summer School 2026 on June 19, completing a two-week intensive programme inaugurated on June 8 at IIG's Mumbai campus where graduate students and early-career researchers from institutions across India received specialised training in solar physics, magnetospheric dynamics, ionospheric science, and the operational space weather forecasting methods essential to protecting satellite, communications, and power grid infrastructure. The summer school reflects ISRO's growing emphasis on building a domestic space weather scientific community to extract operational value from the Aditya-L1 solar observatory, which has been returning continuous L1 Lagrange point solar wind measurements and coronal imaging since early 2024 — giving India its first independent real-time solar monitoring capability. Elevated geomagnetic storm activity during the current solar maximum, including G1 and G2 class events in early June 2026 that caused satellite drag anomalies and ionospheric disruptions across low Earth orbit, has sharpened ISRO's focus on translating Aditya-L1 science into actionable space weather warnings for spacecraft operators and infrastructure managers. The programme is also directly relevant to Gaganyaan human spaceflight preparations, where solar storm situational awareness will inform crew safety protocols, EVA scheduling windows, and radiation exposure management for India's first astronauts.",
+        sourceUrl: "https://www.isro.gov.in/ISRO_IIG_Jointly_Launch_Space_Weather_Summer_School_2026.html",
+        timestamp: "2026-06-19T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "Blue Origin Begins LC-36 Launchpad Reconstruction After May 28 New Glenn Explosion — CEO Limp Confirms Propellant Farm Intact and Undamaged as Company Clears Debris and Targets Year-End Return to Flight With Revised Build Plan",
+        body: "Blue Origin CEO Dave Limp confirmed that physical reconstruction of Launch Complex 36 at Cape Canaveral Space Force Station has begun in the days following the catastrophic May 28 static fire explosion that destroyed a New Glenn rocket and heavily damaged pad infrastructure, stating that the debris clearance phase is complete and that structural work is now under way. Limp told reporters that the propellant farm, liquid oxygen, liquid hydrogen, and LNG storage tanks on-site all survived the blast without significant damage — removing what would have been the longest-lead replacement components from the critical path to return-to-flight and substantially improving the credibility of the company's end-of-2026 launch target. The nine corrective actions identified by the FAA root-cause investigation — which traced the catastrophic failure to a cryogenic leak that froze a hydraulic line and triggered a second-stage thrust anomaly — are being incorporated into both the rebuilt launch infrastructure and the next New Glenn vehicle currently in production, with Blue Origin engineers working in parallel streams to compress the recovery timeline. The reconstruction timeline carries significant commercial stakes: the delayed New Glenn manifest includes the Blue Moon Pathfinder uncrewed lunar lander and Amazon Project Kuiper satellite deployments, and further slippage risks straining both NASA Artemis programme dependencies and the company's standing commercial launch contracts.",
+        sourceUrl: "https://www.techrepublic.com/article/news-blue-origin-new-glenn-return/",
+        timestamp: "2026-06-19T15:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-18": {
     date: "June 18, 2026",
     stories: [
