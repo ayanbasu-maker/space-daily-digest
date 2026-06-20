@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-20": {
+    date: "June 20, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX (SPCX) Shares Pull Back to $185 After Hitting All-Time High of $225 on June 16 — Stock Remains 37 Percent Above $135 IPO Price as Retail Investors Absorb Largest Public Offering in Stock Market History Eight Days After Record Nasdaq Debut",
+        body: "SpaceX's publicly traded shares (SPCX) settled around $185 on June 20 — down from the $225.64 all-time high reached on June 16 — but still 37 percent above the $135 IPO price that opened trading on Nasdaq just eight days ago, as the market digests what was the largest initial public offering in history. SpaceX priced 556.6 million shares at $135 on June 11 to raise approximately $75 billion at a $1.75 trillion valuation, and first-day trading on June 12 closed at $160.95 — a 19.2 percent single-session gain that immediately made SPCX one of the most actively traded new listings of the decade. The company reserved roughly 30 percent of the public float for retail investors, a move that contributed to more than $150 billion in total order book demand against the $75 billion supply, and Elon Musk retains majority voting control through a supervoting share structure. Analysts note that the post-peak consolidation is consistent with large-cap debut patterns and that the company's Starlink subscriber base, Falcon 9 launch cadence, and Starship development pipeline give it a fundamentally different growth profile from prior aerospace public offerings.",
+        sourceUrl: "https://www.cnbc.com/2026/06/12/spacex-ipo-spcx-live-updates.html",
+        timestamp: "2026-06-20T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA's Artemis III Crew of Bresnik, Parmitano, Rubio, and Douglas Begins Mission Training at Johnson Space Center — 2027 Earth-Orbit Test Flight Will Demonstrate Commercial Lunar Lander Docking Before Artemis IV Carries Crew to Moon's South Pole in 2028",
+        body: "The four-person Artemis III crew — commander Randy Bresnik, pilot Luca Parmitano of ESA, and mission specialists Frank Rubio and Andre Douglas — has begun formal mission training at NASA's Johnson Space Center following NASA Administrator Jared Isaacman's June 9 public announcement, with the team commencing Orion spacecraft systems familiarisation, spacesuit qualification runs, and rendezvous-and-docking simulations tailored to the Earth-orbit test profile. Artemis III will not travel to the Moon: instead, SLS will boost Orion and its four crew into low Earth orbit in 2027 where the spacecraft will perform the first crewed rendezvous and docking demonstrations with test versions of one or both commercial lunar lander systems — either SpaceX's HLS Starship variant or Blue Origin's Blue Moon Pathfinder — in the orbital profile that Artemis IV will require for the actual south pole surface landing in 2028. Parmitano is the first European astronaut to serve in a primary role on an Artemis mission, fulfilling a longstanding ESA commitment to crew participation in exchange for the agency's contributions to the Orion European Service Module; Rubio, who holds the U.S. single-mission endurance record of 371 consecutive days on the ISS in 2022-23, brings deep spacecraft operations expertise as a mission specialist. The selection completes NASA's Artemis crew roster through the first south pole surface landing, allowing training pipelines, spacesuit sizing, and mission simulation schedules to proceed in parallel for both Artemis III and IV simultaneously.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/",
+        timestamp: "2026-06-20T13:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 13 of Proximity Operations at Kamoʻoalewa With July 4 Touch-and-Go Sample Collection Window Closing In — Three Sampling Methods on Standby as Spacecraft Descends Toward Final Pre-Contact Survey Altitude",
+        body: "China's Tianwen-2 spacecraft completed its 13th consecutive day of proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 20, with mission controllers at CNSA's Beijing Aerospace Control Center continuing precision manoeuvring burns as the probe closes toward the low-altitude survey position required ahead of the planned July 4 touch-and-go sample collection — the mission-defining event that will determine whether China joins JAXA and NASA as the only agencies to retrieve in-situ-collected asteroid material. CNSA has maintained near-total public silence on operational details, and the international planetary science community is tracking the mission through amateur Doppler radio receivers in Europe, whose signal analysis suggests the spacecraft's trajectory is proceeding on schedule with the July 4 window. Three distinct sampling methods are staged in the mission plan: hover sampling using a robotic arm while matching Kamoʻoalewa's rotation, a touch-and-go (TAG) approach using a rotating brush-head collector, and an anchored option using drill-equipped landing legs for deeper subsurface material — with mission controllers able to switch between methods based on real-time surface assessment. The sample return capsule is subsequently planned to re-enter Earth's atmosphere on November 29, 2027, delivering what scientists hope will be the first Flora asteroid family specimens available for laboratory analysis — material that could resolve longstanding questions about the compositional diversity of the inner main belt.",
+        sourceUrl: "https://www.scientificamerican.com/article/chinas-tianwen-2-spacecraft-arrives-at-one-of-earths-mysterious-quasi-moons/",
+        timestamp: "2026-06-20T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA's Euclid Space Telescope to Release Galactic Bulge Survey Data on June 24 — Quick Release 2 Delivers Billion-Object Photometric Catalogue of Milky Way's Dense Central Region Ahead of First Full Data Release in October 2026",
+        body: "ESA's Euclid space telescope is four days away from its second Quick Data Release, scheduled for June 24, 2026, which will make public a large photometric and astrometric catalogue of the Milky Way's galactic bulge — one of the densest stellar environments in the galaxy and a region where Euclid's sharp visible and near-infrared imaging enables measurements of stellar populations, microlensing events, and structural parameters inaccessible to earlier wide-field surveys. The Quick Release 2 (Q2) Galactic Bulge Survey is explicitly designed as a preview product, allowing the community to validate data processing pipelines, sharpen photometric calibration tools, and begin early science programmes before the far larger first full Data Release 1 (DR1), which is scheduled for October 21, 2026 and will contain Euclid's first epoch of its 15,000-square-degree extragalactic survey. The ESA Science Programme Committee convened at the Instituto Astrofísico de Canarias on June 10-11 to review Euclid's mission performance and the pipeline readiness for DR1, with the committee confirming data quality metrics are within specification for the October public release. Euclid's primary science goals — mapping the dark matter distribution and dark energy imprint across billions of galaxies over cosmic time — depend on the extragalactic survey that DR1 will first expose to the community, making the June 24 galactic release a final community calibration step before the dark-universe datasets arrive.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-06-20T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Mission",
+        headline: "ISRO Chief Confirms Gaganyaan-1 Uncrewed Test Flight Now Targeting December 2026 With Crewed Mission Shifted to Q1 2027 — Vyommitra Humanoid Integration Complete as Programme Navigates Extended LVM3 Human-Rating Qualification Timeline",
+        body: "ISRO chairman Dr. V. Narayanan has confirmed that the Gaganyaan-1 uncrewed orbital test mission — carrying the Vyommitra humanoid robot aboard a Human-rated LVM3 rocket from Satish Dhawan Space Centre — is now targeting December 2026 rather than the H2 2026 window previously cited, with the first crewed Gaganyaan flight consequently pushed to Q1 2027 as the agency works through an extended LVM3 human-rating qualification test sequence. The delay reflects ISRO's cautious incremental approach to certifying the rocket, crew module, service module, and life-support systems for human occupancy: more than 8,000 ground tests have been completed, but the additional LVM3 qualification data required by ISRO's safety review board has extended the pre-flight verification timeline beyond the original schedule. Vyommitra integration into the crew module was completed in late April 2026, with the humanoid designed to monitor cabin conditions, operate spacecraft systems, and interact with ground controllers during the orbital demonstration — providing data that will underpin the crew safety case for the first Vyomnauts flight. Despite the schedule adjustment, ISRO officials maintain that programme readiness is high and that the December 2026 target for Gaganyaan-1 remains achievable, with the crewed mission's Q1 2027 window still sufficient to meet the national objective of flying Indian astronauts before the end of the next fiscal year.",
+        sourceUrl: "https://www.tribuneindia.com/news/india/gaganyaan-launch-slated-for-first-quarter-of-2027-isro-chief",
+        timestamp: "2026-06-20T07:30:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "Blue Origin Advances LC-36 Structural Rebuild With Propellant Farm Confirmed Intact — Company Threads Needle Between NASA Dependency on New Glenn and FAA Return-to-Flight Requirements as End-of-2026 Target Hinges on Corrective Action Verification",
+        body: "Blue Origin's reconstruction of Launch Complex 36 at Cape Canaveral Space Force Station is advancing into structural rebuilding after the May 28 New Glenn explosion, with the company confirming that all propellant storage infrastructure — including the liquid oxygen, liquid hydrogen, and LNG tanks — survived the blast without significant damage, removing the longest-lead replacement items from the critical path to the end-of-2026 return-to-flight goal announced by CEO Dave Limp. The FAA-identified root cause — a cryogenic propellant leak that froze a hydraulic actuator and triggered a second-stage thrust anomaly — has generated nine specific corrective actions being implemented in parallel across the rebuilt launch infrastructure and the next New Glenn vehicle currently under production at Blue Origin's Kent, Washington facility, with both streams required to complete before the agency can authorise a return-to-flight attempt. NASA Administrator Jared Isaacman has separately cautioned that the LC-36 pad restoration timeline is more uncertain than Blue Origin's official position suggests, noting in a CNBC interview that full launchpad reconstitution "could take some serious time" — a statement that introduced ambiguity into the schedule underpinning the Blue Moon Pathfinder uncrewed lunar lander mission, which had been New Glenn's marquee 2026 cargo. The path forward hinges on FAA verification that all nine corrective actions have been implemented and tested, an independent safety review, and demonstration of the upgraded second-stage propellant management system before a crewed or high-value payload can fly.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/06/blue-lc-36-recovery-rtf-end-2026/",
+        timestamp: "2026-06-20T15:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-19": {
     date: "June 19, 2026",
     stories: [
