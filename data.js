@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-21": {
+    date: "June 21, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 24 Starlink V2 Mini Satellites From Vandenberg With Booster B1081 on Record 25th Flight — Falcon 9 Marks 72nd Mission of 2026 as Veteran Booster Completes Pacific Drone Ship Recovery After 7:48 p.m. PDT Liftoff",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4E at Vandenberg Space Force Base at 7:48 p.m. PDT on June 21, deploying 24 Starlink V2 Mini Optimized satellites into low Earth orbit and marking the company's 72nd Falcon 9 launch of 2026. First stage booster B1081, flying for its 25th time, executed an autonomous propulsive landing on the drone ship \"Of Course I Still Love You\" positioned in the Pacific Ocean roughly eight and a half minutes after liftoff, placing B1081 among the most-flown cores in SpaceX's fleet and reinforcing the long-term durability of Falcon 9's reusable first stage architecture. The mission had originally been scheduled for June 23-24 before SpaceX pulled the launch date forward to take advantage of favorable upper-level wind and sea-state conditions in the Pacific recovery zone. The 24 V2 Mini Optimized satellites will slot into the Gen2 Starlink shell, whose expanded bandwidth and inter-satellite laser links are enabling SpaceX to extend full-speed broadband coverage to higher latitudes and maritime routes underserved by earlier Starlink generations.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-06-21T03:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Katalyst LINK Spacecraft and Pegasus XL Reach Kwajalein Atoll for Imminent Air-Launch to Reboost Neil Gehrels Swift Observatory — First Commercial Orbital Servicing Mission to Rescue a NASA Astrophysics Telescope From Solar-Driven Orbital Decay",
+        body: "The Katalyst Space Technologies LINK robotic servicing spacecraft, encapsulated inside a Northrop Grumman Pegasus XL rocket and mated to the L-1011 Stargazer carrier aircraft, has arrived at the Reagan Test Range on Kwajalein Atoll in the Marshall Islands ahead of a late-June air-launch that will send LINK on a rendezvous trajectory to NASA's Neil Gehrels Swift Observatory. Swift has been returning gamma-ray burst and X-ray transient science for 21 years, but accelerated solar-cycle activity during the current maximum has sharply increased atmospheric drag at its low Earth orbit altitude, threatening an uncontrolled reentry within the next several years; LINK will rendezvous with Swift and fire its own propulsion system to raise the observatory's orbit by roughly 30 kilometres, extending its science life. The mission is the first time a commercial robotic spacecraft has been contracted to rescue an operational NASA astrophysics observatory from orbital decay, establishing a servicing template the agency hopes to replicate for other legacy satellites threatened by the intense drag environment of this solar maximum. Rocket integration was completed at Wallops Flight Facility on June 9, the Pegasus XL was attached to Stargazer on June 12, and all pre-launch milestones remain on schedule for the late-June launch window.",
+        sourceUrl: "https://science.nasa.gov/blogs/swift/2026/06/15/rocket-attached-to-aircraft-for-katalyst-nasa-swift-boost/",
+        timestamp: "2026-06-21T13:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 14 of Proximity Operations at Kamoʻoalewa With July Touch-and-Go Sample Collection Window Under Two Weeks Away — Amateur Doppler Networks Confirm Spacecraft Remains on Nominal Descent Profile",
+        body: "China's Tianwen-2 asteroid sample-return spacecraft completed its 14th consecutive day of close proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 21, continuing the precision ion-propulsion manoeuvres that are steadily lowering the probe toward the low-altitude survey position required before the planned July 2026 touch-and-go sampling attempt — the critical event that would make China the third space agency to return in-situ-collected asteroid material to Earth after JAXA and NASA. CNSA has maintained operational silence on mission specifics, leaving European amateur radio Doppler tracking stations in Germany and the Netherlands as the primary public window into the probe's trajectory, with observed burn cadence remaining consistent with the nominal pre-sampling descent timeline. Tianwen-2 arrived at Kamoʻoalewa on June 7 following its May 2025 launch and has spent the ensuing two weeks in systematic close-survey operations, characterising the asteroid's surface morphology, rotation state, and spectral composition at resolutions far exceeding what ground-based telescopes can achieve. Three sampling methods remain available to mission controllers — brush-head touch-and-go, hovering arm sampling, and anchored drilling — providing operational flexibility to respond to whatever surface conditions are ultimately revealed at the selected contact site.",
+        sourceUrl: "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+        timestamp: "2026-06-21T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Euclid Quick Data Release 2 Arrives in Three Days — June 24 Galactic Bulge Survey Will Open Space-Based Exoplanet Microlensing Science and Deliver Deepest High-Resolution View of Milky Way Inner Bulge Ever Taken From Orbit",
+        body: "ESA's Euclid space telescope Quick Data Release 2, scheduled for June 24, will publish the Euclid Galactic Bulge Survey — nine overlapping deep-field images spanning 4.8 square degrees of the Milky Way's inner bulge acquired during a continuous 24-hour observation campaign on March 23, 2025, and now processed into the highest-resolution, widest-field optical and near-infrared view of the galactic bulge ever produced from space. The primary science driver is gravitational microlensing: Euclid's 0.1-arcsecond angular resolution resolves lensed background stars that merged into single pixels for all prior ground-based bulge surveys, enabling characterisation of more than two decades of historical planetary microlensing events where foreground planetary systems have now migrated far enough from their background sources to be directly measured by Euclid's optics — opening a new space-based exoplanet detection channel. The Q2 release is the second public data product from Euclid, following the Q1 extragalactic early-release observations published in 2025, and serves as the community's calibration milestone before the telescope's landmark first full Data Release 1 — covering the opening epoch of the 15,000-square-degree dark-universe survey — arrives on October 21, 2026. ESA's Science Programme Committee confirmed at its June 10-11 meeting at the Instituto Astrofísico de Canarias that all DR1 pipeline quality metrics are within specification.",
+        sourceUrl: "https://www.euclid-ec.org/science/q2/",
+        timestamp: "2026-06-21T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Bharatiya Antariksh Hackathon 2026 Registration Open Until July 1 Covering AI, Geospatial, and Cybersecurity Challenges — National Expert Committee Separately Reviews PSLV Anomaly Ahead of Gaganyaan Qualification Timeline",
+        body: "ISRO launched the third edition of the Bharatiya Antariksh Hackathon 2026 on June 10, opening registration and idea submissions for undergraduate, postgraduate, and early-career students until July 1, with problem statements this year spanning Geospatial Domain applications, Space Science investigations, Image Processing pipelines, AI and machine learning solutions, and Cybersecurity challenges across India's expanding space infrastructure portfolio. Shortlisted teams will be announced on July 20, leading to a 30-hour live grand finale at an ISRO facility on August 6-7, with top performers receiving certificates, travel support, and internship placements within the agency and its network of affiliated national space laboratories. Separately, a national-level expert committee constituted by ISRO's directorate is actively reviewing the root cause of a recent PSLV vehicle anomaly, with findings expected to inform corrective actions before the next PSLV mission in the agency's 2026 launch manifest. The parallel tracks of public talent development and launch-vehicle safety review reflect ISRO's dual priority of expanding India's domestic space-science community while maintaining the rigorous vehicle certification standards underpinning Gaganyaan human spaceflight qualification.",
+        sourceUrl: "https://www.isro.gov.in/",
+        timestamp: "2026-06-21T07:30:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Mission",
+        headline: "Blue Moon Mark 2 Full-Scale Mockup Installed at Johnson Space Center as Artemis Crew Training Begins — Blue Origin Redirects Entire Organisation Toward Lunar Goals Following January New Shepard Pause",
+        body: "Blue Origin has installed a full-scale interior mockup of the Blue Moon Mark 2 human landing system at NASA's Johnson Space Center in Houston, with the structure ready for Artemis-programme astronauts to board and begin cabin familiarisation, ingress and egress drills, and habitability assessments — marking the transition of the programme from engineering development into active crew integration. The mockup milestone follows Blue Origin's January 30, 2026 announcement that New Shepard suborbital tourism flights would be paused for a minimum of two years, with those engineering and operations resources redirected into accelerating Blue Moon and New Glenn development, which CEO Dave Limp has characterised as the company's defining near-term commitments. Blue Origin holds a $3.4 billion NASA contract to deliver the Blue Moon lander as the second human landing system for Artemis 5 and subsequent south pole surface expeditions, complementing SpaceX's HLS Starship that is planned for the Artemis 4 crewed landing in 2028. The JSC mockup programme runs in parallel with ongoing Launch Complex 36 reconstruction at Cape Canaveral, where infrastructure damaged in the May 28 New Glenn explosion is being rebuilt toward a late-2026 return-to-flight target.",
+        sourceUrl: "https://www.blueorigin.com/news/new-shepard-to-pause-flights",
+        timestamp: "2026-06-21T15:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-20": {
     date: "June 20, 2026",
     stories: [
