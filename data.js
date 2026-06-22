@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-22": {
+    date: "June 22, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Nancy Grace Roman Space Telescope Arrives at Kennedy Space Center Aboard Pegasus Barge From Goddard — 18,000-Pound Observatory Enters Final Pre-Launch Processing at Payload Hazardous Servicing Facility Ahead of August 30 SpaceX Falcon Heavy Liftoff to Sun-Earth L2",
+        body: "NASA's Nancy Grace Roman Space Telescope arrived at Kennedy Space Center on June 22 after the Pegasus barge transported the nearly 18,000-pound spacecraft down the Atlantic coast from Baltimore, completing the final leg of its journey from Goddard Space Flight Center's integration and test facility in Maryland. Technicians are now installing the observatory in the Payload Hazardous Servicing Facility, where they will test six solar arrays, inspect thermal blankets and insulation, and load approximately 290 gallons of hydrazine propellant before encapsulation for launch. NASA is targeting liftoff no earlier than August 30, 2026 atop a SpaceX Falcon Heavy rocket from Launch Complex 39A at Kennedy — placing Roman eight months ahead of its originally planned schedule — and will send the telescope to its operating station at the Sun-Earth second Lagrange point 1.5 million kilometres from Earth. From L2, Roman's 2.4-metre primary mirror and wide-field instrument will survey the infrared sky across 300 times the area covered by Hubble in a single pointing, probing dark energy, dark matter, and exoplanet demographics across billions of light-years.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/22/nasas-nancy-grace-roman-space-telescope-arrives-in-florida/",
+        timestamp: "2026-06-22T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Booster B1067 Sets Reuse Record on Historic 35th Flight Deploying Starlink 10-35 Satellites From Cape Canaveral — Veteran Core Lands on Drone Ship A Shortfall of Gravitas After Surpassing Its Own Previous Record as Most-Flown Falcon 9 First Stage",
+        body: "SpaceX Falcon 9 booster B1067 completed its 35th flight on June 22, launching a batch of Starlink satellites from Cape Canaveral Space Force Station and landing on the Atlantic drone ship A Shortfall of Gravitas — setting a new record for the most flights ever achieved by a single Falcon 9 first stage in the history of the reusable launch vehicle programme. B1067's career began in December 2020 and spans a diverse manifest including Crew Dragon crewed rotation missions, GPS Block III navigation satellites, and dozens of Starlink broadband deployments, with SpaceX's iterative booster refurbishment process extending its operational life well beyond initial reuse targets. Each additional flight on a veteran booster reduces the per-launch material cost for SpaceX, and the milestone comes as the company surpasses 70 Falcon 9 missions in 2026 alone, demonstrating both the durability of the booster architecture and the scalability of SpaceX's launch operations at unprecedented cadence. The record underscores SpaceX's long-term goal of treating rocket stages as aircraft — reflyable assets accumulated through reliable recovery rather than discarded hardware — and sets a benchmark the company intends to eventually push past 100 flights per core.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-35-b1067-ccsfs-asog",
+        timestamp: "2026-06-22T18:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "Tianwen-2 Day 15 Proximity Operations at Kamoʻoalewa Coincide With New Nature Communications Paper Revealing Itokawa-Like Surface More Space-Weathered Than Any Known S-Type Asteroid — Phys.org Study Simultaneously Challenges Lunar-Origin Hypothesis as July Sampling Window Approaches",
+        body: "China's Tianwen-2 spacecraft entered its 15th consecutive day of close-range proximity operations around near-Earth quasi-satellite 469219 Kamoʻoalewa on June 22, continuing precision ion-propulsion burns to descend toward the low-altitude survey position required before the planned July touch-and-go sample collection, while a new Nature Communications paper published today provides the first detailed surface composition profile of the target — revealing an Itokawa-like S-type mineralogy subjected to more intense space weathering than any analogous near-Earth asteroid examined at close range. The study combines Earth-based spectral observations with preliminary data downlinked by Tianwen-2 during its June 7 arrival approach and suggests that Kamoʻoalewa's anomalously red spectral slope may reflect a distinctive regolith gardening environment shaped by the asteroid's quasi-satellite orbital dynamics and its periodic passages through Earth's magnetospheric tail. A separate analysis published simultaneously on phys.org challenges the dominant hypothesis that Kamoʻoalewa is a fragment of the Moon, presenting new dynamical simulations that instead favour an inner main-belt origin in the Flora asteroid family — the same source population linked to the Chicxulub impactor that ended the Cretaceous period. The isotope ratios and bulk mineralogy of the returned sample, expected back on Earth in November 2027, are expected to definitively settle the origin debate that no ground-based or orbital observation can conclusively resolve.",
+        sourceUrl: "https://www.nature.com/articles/s41467-026-73284-w",
+        timestamp: "2026-06-22T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Astronaut Reserve Class of 2022 Completes Full Training Programme — Nine Candidates Including Sara García Alonso, Meganne Christian, and Parastronaut Pathfinder John McFall Certified for Mission Assignment After Four-Year Journey From Selection to Graduation at European Astronaut Centre",
+        body: "ESA's nine-member astronaut reserve — Sara García Alonso (Spain), Meganne Christian (UK), John McFall (UK), Anthea Comellini (Italy), Andrea Patassa (Italy), Carmen Possnig (Austria), Arnaud Prost (France), Amelie Schoenenwald (Germany), and Aleš Svoboda (Czech Republic) — completed its full training programme in June 2026, formally qualifying all nine for assignment to mission-specific training for the International Space Station, commercial space stations, and future exploration beyond low Earth orbit. The class's third and final training block at the European Astronaut Centre in Cologne, which ran from March through June 2026, incorporated advanced Neutral Buoyancy Facility sessions, ISS systems and onboard procedures, virtual-reality Canadarm2 robotics, launch operations lifecycle familiarisation, and scientific Earth observation training to support in-orbit experiments. ESA introduced the reserve class structure alongside its 2022 core selection to build a deep bench capable of absorbing flight assignments from an Artemis programme, commercial LEO destination proliferation, and accelerated ISS utilisation schedule that collectively exceed the capacity of the four concurrently selected core astronauts. John McFall, who uses a below-knee prosthetic leg, completes the programme as ESA's first astronaut candidate with a physical impairment, serving as the Parastronaut Feasibility Project's pathfinder for future accessibility standards in human spaceflight medical certification.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_astronaut_reserve_completes_training_programme",
+        timestamp: "2026-06-22T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Astronaut Anil Menon Opens Media Availability for Upcoming ISS Expeditions 74/75 Assignment — Former SpaceX Flight Surgeon and 2021 Astronaut Class Member to Make Debut Orbital Flight as Station Enters Peak Utilisation Phase Before Commercial Handover",
+        body: "NASA astronaut Anil Menon began a limited pre-mission media availability on June 22 to discuss his upcoming International Space Station assignment with Expeditions 74 and 75, his first orbital spaceflight since joining NASA's 2021 astronaut class — the first cohort selected and trained entirely during the Artemis programme era. Menon previously served as SpaceX's inaugural flight surgeon, supporting Crew Dragon development and its first operational crew rotation missions before transitioning to the government astronaut corps, where his medical and commercial spaceflight expertise give him a background unique among the 2021 cohort. His ISS mission will integrate him into a multi-agency crew drawn from NASA, ESA, JAXA, and partner agencies during a station operations phase NASA describes as focused on maximising scientific output ahead of the commercial low-Earth-orbit destination transition planned for the latter part of the decade. The pre-launch media round is a standard communications milestone that signals the crew has entered its final mission-specific training phase at Johnson Space Center, with launch date and vehicle assignment details expected to follow in coming weeks.",
+        sourceUrl: "https://www.nasa.gov/2026-news-releases/",
+        timestamp: "2026-06-22T13:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-21": {
     date: "June 21, 2026",
     stories: [
