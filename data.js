@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-23": {
+    date: "June 23, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Debuts Starfall Reentry Capsule on Inaugural Demo Mission From Cape Canaveral With Booster B1078 on 29th Flight — Disk-Shaped 1,000-Kilogram-Capacity Cargo Return Vehicle Lifts Off at 6:52 a.m. EDT Targeting Pacific Splashdown as SpaceX Opens New Orbital Manufacturing Return-to-Earth Market",
+        body: "SpaceX launched the first flight of its Starfall reentry capsule from Space Launch Complex 40 at Cape Canaveral Space Force Station at 6:52 a.m. EDT on June 23, with Falcon 9 booster B1078 completing its 29th mission and landing on the Atlantic drone ship A Shortfall of Gravitas approximately nine minutes after liftoff — inaugurating a new segment of SpaceX's commercial portfolio dedicated to returning research payloads, orbital manufacturing products, and pharmaceuticals from low Earth orbit to Earth's surface. Starfall is a flat disk-shaped vehicle approximately 3.1 metres in diameter and 0.75 metres tall — structurally analogous to an enormous hockey puck — comprising a payload top plate and a carbon-fibre heat shield that separates after atmospheric reentry, with the empty vehicle weighing approximately 2,100 kilograms and capable of safely returning up to 1,000 kilograms of cargo in a temperature-controlled compartment. Unlike Dragon, Starfall is not designed for crew transportation and carries no pressurised cabin; it targets the rapidly expanding market for in-orbit biomanufacturing, protein crystallisation, and materials science payloads that require post-mission retrieval, a segment currently underserved by existing vehicles. SpaceX is targeting a Pacific Ocean splashdown approximately 700 nautical miles off the United States West Coast when the capsule's payload returns to Earth, establishing a coast-agnostic recovery corridor independent of Atlantic recovery assets.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/23/live-coverage-spacex-to-launch-reentry-capsule-demo-mission-called-starfall/",
+        timestamp: "2026-06-23T10:52:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "SpaceX Launches $20 Billion Investment-Grade Bond Sale to Refinance IPO Bridge Loan and Fund AI Infrastructure — All Three Major Ratings Agencies Assign Investment-Grade Status as SPCX Shares Tumble 16 Percent on Debt-Issuance Overhang and $6.3 Billion Google-Anthropic Computing Deal Confirmed",
+        body: "SpaceX formally kicked off its debut $20 billion investment-grade bond offering on June 23, pricing senior notes across maturities from five to thirty years to refinance the bridge loan the company secured in March 2026 as it prepared for its record $75 billion IPO — with proceeds also earmarked to fund AI data centre infrastructure underpinning a simultaneously disclosed $6.3 billion capacity-supply agreement with Google and Anthropic. All three major credit rating agencies assigned investment-grade ratings ahead of the offering: Moody's rated the notes Baa1, Fitch assigned BBB+, and S&P Global issued BBB — reflecting the company's approximately $100.8 billion cash position as of June 19 and its dominant share of the global commercial launch market. SPCX shares fell approximately 16 percent on the news, giving back most of the gains achieved since the June 12 Nasdaq debut at $135 per share, as investors absorbed the dilutive implications of a large debt issuance so soon after the IPO and recalibrated leverage expectations for the newly public company. The bond offering, the largest by a space company in history, signals that SpaceX intends to aggressively build out AI and computing infrastructure in parallel with its launch and Starlink operations — a strategic direction Elon Musk has positioned as the company's next growth frontier beyond satellite broadband.",
+        sourceUrl: "https://www.axios.com/2026/06/23/spacex-musk-bonds-stock",
+        timestamp: "2026-06-23T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Nancy Grace Roman Space Telescope Enters Active Pre-Launch Processing at Kennedy Space Center — Solar Array Testing, Thermal Blanket Inspections, and 290-Gallon Hydrazine Fuelling Underway as August 30 Falcon Heavy Launch to Sun-Earth L2 Draws Closer",
+        body: "NASA's Nancy Grace Roman Space Telescope is in active pre-launch processing at the Payload Hazardous Servicing Facility at Kennedy Space Center following its June 21 arrival via the Pegasus barge, with technicians on June 23 advancing through functional testing of all six solar arrays, detailed inspection of thermal blankets and multilayer insulation protecting the cryogenic optical bench, and loading approximately 290 gallons of hydrazine propellant into the spacecraft's propulsion system. Roman arrived at KSC eight months ahead of its originally planned schedule after NASA accelerated the programme, and the telescope is now targeting a no-earlier-than August 30, 2026 liftoff aboard a SpaceX Falcon Heavy from Launch Complex 39A — placing the observatory on trajectory to its operational station at the Sun-Earth second Lagrange point 1.5 million kilometres from Earth. From L2, Roman's 2.4-metre primary mirror and wide-field instrument will survey the infrared sky across 300 times the field of view of a single Hubble pointing, with a science programme spanning dark energy characterisation, dark matter mapping via weak gravitational lensing, exoplanet demographics through a dedicated microlensing survey, and general observer programmes across astrophysics and galactic science. The processing campaign at KSC is expected to run approximately eight weeks before the telescope is encapsulated inside the Falcon Heavy payload fairing for the final integration steps and rollout to the launch pad.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/06/21/nasas-next-generation-telescope-arrives-in-florida-ahead-of-launch/",
+        timestamp: "2026-06-23T13:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Tianwen-2 Enters Day 16 of Proximity Operations at Kamoʻoalewa as July Touch-and-Go Sample Collection Window Closes In — New Flora Family Origin Study Deepens Scientific Debate Over Asteroid's Nature While Controllers Complete Final Pre-Contact Altitude Descent",
+        body: "China's Tianwen-2 asteroid sample-return spacecraft completed its 16th consecutive day of close proximity operations at near-Earth quasi-satellite 469219 Kamoʻoalewa on June 23, continuing precision ion-propulsion burns toward the final low-altitude survey position required before the planned July touch-and-go sample collection that would make China the third space agency to retrieve in-situ-collected asteroid material after JAXA and NASA. CNSA continues its characteristic operational silence on mission specifics, leaving European amateur Doppler radio tracking networks in Germany and the Netherlands as the primary public window into the spacecraft's trajectory — with observed burn cadence remaining consistent with the nominal descent timeline. A peer-reviewed study published this week in Nature Communications, drawing on preliminary Tianwen-2 spectrometer data and ground-based spectral modelling, has challenged the long-dominant hypothesis that Kamoʻoalewa is a fragment of the Moon, instead identifying mineralogy consistent with the inner main-belt Flora asteroid family and presenting dynamical simulations showing a plausible transfer pathway to Kamoʻoalewa's current quasi-satellite orbit. Definitive resolution of the asteroid's origin awaits the isotope ratios and elemental abundances measurable only in the returned sample capsule, which is targeting a November 2027 landing near the Jiuquan Satellite Launch Center in China.",
+        sourceUrl: "https://www.nature.com/articles/s41467-026-73284-w",
+        timestamp: "2026-06-23T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Euclid Quick Data Release 2 Arrives Tomorrow June 24 — Galactic Bulge Survey to Deliver Billion-Object Stellar Catalogue and Unlock Space-Based Gravitational Microlensing Exoplanet Science One Day Before Landmark Release Ahead of October 2026 Full Dark-Universe Survey Data Drop",
+        body: "ESA's Euclid space telescope will publish Quick Data Release 2 on June 24, delivering the Galactic Bulge Survey — nine overlapping deep-field images spanning 4.8 square degrees of the Milky Way's dense central region acquired during a 24-hour continuous observation campaign and now processed into the highest-resolution, widest-field optical and near-infrared stellar catalogue ever produced from space, with billions of individually resolved stars measured at 0.1-arcsecond angular resolution. The primary science driver of Q2 is gravitational microlensing: Euclid's resolution separates lensed background stars that merged into single pixels for all previous ground-based surveys, enabling retrospective characterisation of decades of historical microlensing events and opening a new space-based exoplanet detection channel complementary to the Nancy Grace Roman Space Telescope's future dedicated survey. Q2 follows Euclid's Q1 extragalactic early-release observations and serves as the community's calibration milestone ahead of Data Release 1 on October 21, 2026, which will cover the first epoch of Euclid's 15,000-square-degree dark-universe survey and is expected to deliver the first statistically definitive Euclid weak-lensing dark matter maps across hundreds of millions of galaxies. ESA's Science Programme Committee confirmed at its June 10-11 meeting at the Instituto Astrofísico de Canarias that DR1 processing pipelines are meeting all quality benchmarks, placing the landmark release firmly on track.",
+        sourceUrl: "https://esawebb.org/announcements/ann2501/",
+        timestamp: "2026-06-23T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-22": {
     date: "June 22, 2026",
     stories: [
