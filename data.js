@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-25": {
+    date: "June 25, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Diplomacy",
+        headline: "Botswana Becomes 68th Nation to Sign Artemis Accords at NASA Headquarters Ceremony — Deputy Administrator Matt Anderson Hosts Minister David Tshere as African Signatory Count Grows",
+        body: "The Republic of Botswana signed the Artemis Accords at a ceremony held at 9:30 a.m. EDT on June 25 at NASA Headquarters in Washington, D.C., becoming the 68th nation to formally commit to the peaceful exploration and use of the Moon, Mars, and other celestial bodies under the framework established in 2020. NASA Deputy Administrator Matt Anderson hosted Botswana's Minister of Communications and Innovation David Tshere alongside U.S. Department of State Senior Advisor for Space Gregory Autry for the signing event. The Artemis Accords, originally co-signed by eight founding nations during the first Trump Administration, have expanded rapidly as countries across Africa, Asia, and Latin America seek to align with U.S.-led norms for civil space exploration. Botswana joins a growing list of African signatories, signalling the continent's deepening engagement with international space governance ahead of crewed lunar missions under the Artemis programme.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/",
+        timestamp: "2026-06-25T13:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "ISS",
+        headline: "NASA Schedules June 30 Spacewalk to Replace Canadarm2 Wrist Joint on International Space Station — EVA to Begin at 8:35 a.m. EDT, Restoring Full Range of Motion to Station's Robotic Arm",
+        body: "NASA has scheduled a spacewalk for Tuesday, June 30, to replace a degraded wrist joint on the International Space Station's Canadarm2 robotic arm, with extravehicular activity expected to begin at approximately 8:35 a.m. EDT. Two NASA astronauts will venture outside the station to remove the worn joint and install a spare unit delivered by a recent cargo resupply mission, restoring full range of motion to the robotic arm that is essential for berthing visiting vehicles and supporting external maintenance operations. Canadarm2 is used to capture and berth visiting cargo spacecraft including SpaceX Dragon, and its wrist joint experiences significant mechanical wear after years of continuous operation in the harsh thermal environment of low Earth orbit. The spacewalk is expected to last approximately six to seven hours.",
+        sourceUrl: "https://www.nasa.gov/news/",
+        timestamp: "2026-06-25T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 24 Starlink Satellites on Starlink 17-45 Mission From Vandenberg Space Force Base — Booster B1081 Completes 25th Flight With Pacific Drone Ship Landing",
+        body: "SpaceX launched 24 Starlink internet satellites to low Earth orbit from Space Launch Complex 4E at Vandenberg Space Force Base in California at 8:30 p.m. PDT, with Falcon 9 booster B1081 completing its 25th mission before landing on a drone ship in the Pacific Ocean. The Starlink Group 17-45 mission was the latest in a concentrated June West Coast launch campaign, with SpaceX on pace to conduct 40 missions from Vandenberg versus 37 from Cape Canaveral in the first half of 2026. The newly deployed satellites join the operational Starlink network providing broadband internet to customers across the Americas and Pacific region. SpaceX's reusability programme continues to set records, with the Vandenberg-based fleet of boosters averaging more than 20 flights each across the company's busiest launch schedule to date.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/24/live-coverage-west-coast-falcon-9-launch-to-continue-expansion-of-spacexs-starlink-network/",
+        timestamp: "2026-06-25T03:30:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA's Euclid Releases 60-Million-Star Mosaic of Milky Way's Galactic Bulge in Second Quick Data Release — Largest High-Resolution Wide-Field Image of Galaxy's Crowded Core Ever Captured",
+        body: "The European Space Agency's Euclid dark-universe mission released its second Quick Data Release (Q2) on June 24, unveiling an unprecedented high-resolution mosaic of the Milky Way's galactic bulge containing over 60 million individual stars across 4.8 square degrees captured with the spacecraft's visible-light camera. Euclid gathered the Galactic Bulge Survey data on March 23, 2025, over approximately 26 hours spanning nine telescope pointings, producing the sharpest and widest single image of the galaxy's densely packed central region ever obtained from space. The Q2 photometric catalogue, covering roughly 45 million sources per dither field down to AB magnitude 26, opens new possibilities for stellar population studies and anchors Euclid's gravitational microlensing exoplanet search programme targeting the bulge. The data release also previews the science expected from NASA's Nancy Grace Roman Space Telescope, which will conduct its own deep galactic bulge microlensing survey after its planned August 30 launch.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Euclid/ESA_s_Euclid_captures_the_Milky_Way_s_crowded_heart",
+        timestamp: "2026-06-24T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China's Tianwen-2 Prepares to Begin Sample Collection at Near-Earth Asteroid Kamoʻoalewa on July 4 — Spacecraft Completing Low-Altitude Reconnaissance After June 7 Orbit Insertion",
+        body: "China's Tianwen-2 asteroid sample-return spacecraft is conducting close-proximity reconnaissance of near-Earth asteroid 469219 Kamoʻoalewa following its orbit insertion on June 7, 2026, with sample collection activities scheduled to begin July 4 as the mission enters its most critical operational phase. The spacecraft is reducing its orbital altitude from 20 kilometres down to 600 metres while its suite of 11 science instruments — including a visible-infrared imaging spectrometer, thermal radiation spectrometer, multispectral camera, and subsurface detection radar — characterise the asteroid's composition and surface properties before contact. Kamoʻoalewa is a quasi-moon of Earth that orbits the Sun in a horseshoe pattern keeping it perpetually near our planet, and spectral data suggest it may be a fragment ejected from the lunar surface by an ancient impact, making it a scientifically unique sample-return target. After collecting surface material, Tianwen-2 is scheduled to depart Kamoʻoalewa in April 2027, with the sample capsule landing in China's Gobi Desert in late 2027.",
+        sourceUrl: "https://www.planetary.org/articles/chinas-tianwen-2-mission-has-probably-arrived-at-a-quasi-moon-of-earth",
+        timestamp: "2026-06-25T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-23": {
     date: "June 23, 2026",
     stories: [
