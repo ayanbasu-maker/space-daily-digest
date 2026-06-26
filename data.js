@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-26": {
+    date: "June 26, 2026",
+    stories: [
+      {
+        agency: "Blue Origin",
+        category: "Commercial",
+        headline: "Blue Origin Outlines New Glenn Return-to-Flight Timeline After April Launchpad Explosion at Cape Canaveral — LC-36 Rebuild Targets December 2026 for Next Mission as Company Evaluates Secondary Launch Site Options",
+        body: "Blue Origin has provided its clearest public update yet on the recovery timeline for New Glenn operations following the April 19, 2026 explosion at Launch Complex 36 at Cape Canaveral Space Force Station that heavily damaged the company's sole active launch facility during post-mission safing operations after New Glenn's third flight. The company confirmed on June 26 that aggressive reconstruction of LC-36's flame trench, mobile launcher, and ground support infrastructure is progressing, with engineers targeting a no-earlier-than December 2026 return to flight — though the company acknowledged the timeline carries significant uncertainty depending on the outcome of ongoing hardware inspections and regulatory reviews. Blue Origin is simultaneously evaluating contingency options that could include launching future missions from Launch Complex 11 at the nearby Cape Canaveral site or accelerating preparation of a secondary pad at Vandenberg Space Force Base in California to de-risk the company's growing manifest. New Glenn had previously completed three successful flights in 2025 and early 2026, anchoring Blue Origin's commercial launch portfolio ahead of an expanded 2026 launch cadence that the explosion has now placed entirely on hold.",
+        sourceUrl: "https://www.techrepublic.com/article/news-blue-origin-new-glenn-return/",
+        timestamp: "2026-06-26T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "Joint ESA-China SMILE Spacecraft Achieves Final Operational Science Orbit Around Earth to Begin Multi-Year Magnetosphere Campaign — First Dedicated Mission to Image Solar Wind-Magnetosphere Coupling in X-Ray and Ultraviolet Simultaneously",
+        body: "The Solar wind Magnetosphere Ionosphere Link Explorer, known as SMILE, successfully inserted into its final highly elliptical science orbit on June 20, 2026, completing the critical orbital evolution phase that began after the spacecraft's launch on May 19, 2026 from China's Xichang Satellite Launch Center aboard a Long March 3B rocket — marking the first dedicated mission designed to image the interaction between the solar wind and Earth's magnetosphere simultaneously in soft X-ray and ultraviolet wavelengths. SMILE will spend a minimum of three years observing how solar wind plasma and embedded magnetic field structures drive geomagnetic storms, auroral activity, and changes in Earth's protective magnetospheric bubble, filling a fundamental observational gap in space weather science that ground-based instruments and single-point in-situ spacecraft cannot address. The mission carries four instruments contributed by both ESA and the Chinese Academy of Sciences: a soft X-ray imager that can image the entire dayside magnetopause and cusps simultaneously, an ultraviolet aurora imager, a light ion analyser, and a fluxgate magnetometer for local field measurements. SMILE represents the first mission flown under the ESA-CAS partnership framework established in 2015, and its data will feed directly into the next generation of space weather forecasting models used to protect satellite operations, power grids, and communication infrastructure on Earth.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/SMILE",
+        timestamp: "2026-06-26T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Exploration",
+        headline: "ISRO Confirms Gaganyaan Crewed Mission Crew Module Production Complete as Human-Rated LVM3 Engine Acceptance Tests Clear Final Milestone — India on Track to Become Fourth Nation to Send Humans to Space With Independent Capability",
+        body: "The Indian Space Research Organisation confirmed on June 26 that the crew module for the Gaganyaan crewed orbital demonstration mission has completed structural production and is entering integrated avionics testing at ISRO's Human Space Flight Centre in Bengaluru, marking a critical milestone in India's programme to become the fourth nation in history — after Russia, the United States, and China — to independently send humans to space. All four human-rated cryogenic CE20 engines for the LVM3 launch vehicle have cleared acceptance test campaigns at the ISRO Propulsion Complex at Mahendragiri, and ISRO Chairman V. Narayanan reiterated this week that the uncrewed orbital demonstration flight, designated OM1, remains the immediate next step before astronauts board the vehicle. ISRO's four Gaganyaan-designated astronauts — Group Captain Prashanth Balakrishnan Nair, Group Captain Ajit Krishnan, Group Captain Angad Pratap, and Wing Commander Shubhanshu Shukla — have completed their primary training programme at the Cosmonauts Training Centre in Moscow and continue advanced mission-specific simulations in India. The crewed mission is currently targeting a 2027 launch window following the OM1 uncrewed orbital test flight, which will validate the crew module's life support systems, heat shield performance during reentry at 11 kilometres per second, and ocean recovery procedures off the Indian coast.",
+        sourceUrl: "https://www.isro.gov.in/FutureMissions.html",
+        timestamp: "2026-06-26T08:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Nancy Grace Roman Space Telescope Completes Hydrazine Propellant Loading and Solar Array Functional Tests at Kennedy Space Center — Observatory on Track for August 30 Falcon Heavy Launch to Sun-Earth L2 After All Critical Pre-Launch Milestones Met Ahead of Schedule",
+        body: "NASA's Nancy Grace Roman Space Telescope has completed the loading of approximately 290 gallons of hydrazine monopropellant into its on-board propulsion system and passed functional tests of all six deployable solar arrays at the Payload Hazardous Servicing Facility at Kennedy Space Center, clearing two of the most operationally critical milestones in its pre-launch processing campaign ahead of a targeted August 30 liftoff aboard a SpaceX Falcon Heavy rocket. The propellant load, completed under the supervision of NASA Kennedy's hazardous operations team, will power Roman's attitude control thrusters and momentum wheel unloading maneuvers during the six-month cruise to the Sun-Earth second Lagrange point and throughout the observatory's anticipated five-year primary science mission at L2. Encapsulation of the telescope inside the Falcon Heavy payload fairing is scheduled for mid-August, following final optical system verification and downlink antenna pattern measurements that will calibrate Roman's Ka-band high-rate data downlink to NASA's Deep Space Network. Roman's wide-field instrument, featuring a 288-megapixel detector array spanning 0.28 square degrees — 300 times the field of Hubble's wide-field camera — will begin its primary dark energy, dark matter, and exoplanet science surveys within approximately 60 days of launch after an in-orbit commissioning phase.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/06/21/nasas-next-generation-telescope-arrives-in-florida-ahead-of-launch/",
+        timestamp: "2026-06-26T16:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 23 Starlink V2 Mini Optimized Satellites on Starlink 6-82 Mission From Cape Canaveral — Veteran Booster B1073 Completes 22nd Flight With Atlantic Drone Ship Landing as Constellation Surpasses 7,200 Operational Satellites",
+        body: "SpaceX launched 23 Starlink V2 Mini Optimized broadband satellites to low Earth orbit on the morning of June 26 from Space Launch Complex 40 at Cape Canaveral Space Force Station, with Falcon 9 booster B1073 completing its 22nd mission and executing a successful landing aboard the drone ship A Shortfall of Gravitas in the Atlantic Ocean approximately eight minutes and thirty seconds after liftoff. The Starlink Group 6-82 mission brings the operational Starlink constellation past 7,200 active satellites across its various orbital shells, continuing the constellation's densification in mid-inclination orbital planes that improve coverage redundancy and latency for users across the continental United States, Europe, and Japan. SpaceX has now completed 47 Falcon 9 launches in 2026 from the Eastern Range, maintaining a blistering cadence that the company attributes to improvements in booster turnaround time and the maturation of its propellant loading automation systems at Cape Canaveral. The newly deployed V2 Mini Optimized satellites feature enhanced inter-satellite laser link terminals that increase network throughput capacity and reduce reliance on ground station infrastructure in regions with limited terrestrial coverage, a critical capability as SpaceX continues to expand Starlink into maritime and aviation market segments.",
+        sourceUrl: "https://www.spacex.com/launches/",
+        timestamp: "2026-06-26T09:15:00Z"
+      }
+    ]
+  },
+
   "2026-06-25": {
     date: "June 25, 2026",
     stories: [
