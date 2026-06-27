@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-27": {
+    date: "June 27, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Swift Boost Mission Poised for Final Countdown at Kwajalein Atoll as Pegasus XL and LINK Servicing Spacecraft Prepare for June 30 Drop — First Commercial On-Orbit Servicing Contract in NASA History Targets Decade-Long Science Life Extension for Swift Observatory",
+        body: "NASA's Swift Boost mission is in final pre-launch readiness at Kwajalein Atoll in the Republic of the Marshall Islands, with Northrop Grumman's Stargazer L-1011 carrier aircraft and its attached Pegasus XL rocket — hosting Katalyst Space Systems' LINK robotic servicing spacecraft — staged at the South Pacific atoll ahead of a no-earlier-than June 30 air-launch attempt targeting a window that opens at 6:23 a.m. EDT. The $30 million mission is the first time NASA has contracted a commercial provider to perform autonomous on-orbit servicing on one of its operational science spacecraft: LINK will chase down the Neil Gehrels Swift Observatory, grapple it using a docking interface compatible with Swift's existing structure, and fire its thrusters repeatedly over several months to raise the telescope's altitude by approximately 75 kilometres and prevent destructive reentry forecast for autumn 2026. Stargazer departed NASA's Wallops Flight Facility in Virginia on June 18 and completed the transoceanic delivery ferry flight to Kwajalein, where ground crews have been conducting final checkouts of the Pegasus XL solid rocket motor stages and verifying LINK's avionics, propulsion, and rendezvous sensor suite in preparation for the drop. Swift, launched in November 2004, has detected more than 1,500 gamma-ray bursts and remains the world's premier rapid-response observatory for high-energy transient astrophysical events, and NASA scientists estimate that a successful orbit boost will keep the telescope scientifically productive through at least 2031.",
+        sourceUrl: "https://science.nasa.gov/mission/swift/swift-boost-mission/",
+        timestamp: "2026-06-27T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 24 Starlink V2 Mini Optimized Satellites From Vandenberg Space Force Base — Booster B1100 Completes Seventh Flight With Pacific Drone Ship Landing as Constellation Continues Polar Shell Densification",
+        body: "SpaceX launched a Falcon 9 rocket carrying 24 Starlink V2 Mini Optimized broadband satellites to low Earth orbit from Space Launch Complex 4E at Vandenberg Space Force Base in California on June 27, with booster B1100 completing its seventh mission before executing a propulsive landing aboard the drone ship Of Course I Still Love You in the Pacific Ocean approximately eight and a half minutes after liftoff. The mission continues SpaceX's aggressive 2026 launch cadence from Vandenberg, where the company has maintained near-weekly Starlink launch operations to polar and high-inclination orbital shells that provide connectivity to customers in high-latitude regions including Alaska, northern Canada, Scandinavia, and Patagonia. The Starlink V2 Mini Optimized generation features upgraded phased-array antenna panels and enhanced inter-satellite laser link terminals compared to earlier generations, delivering roughly four times the per-satellite throughput of the original Starlink V1 hardware that anchored the constellation through 2023. SpaceX has now completed more than 50 Falcon 9 launches in 2026 across its Eastern and Western ranges, with the company's reusability programme contributing to some of the lowest launch costs in the commercial market as individual boosters routinely complete double-digit flights.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-06-27T15:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Planetary",
+        headline: "Kilometer-Wide Asteroid 1997 NC1 Makes Safe Earth Flyby at 2.4 Million Kilometres on June 27 — Goldstone Radar Campaign Captures High-Resolution Shape Model of Potentially Hazardous Near-Earth Object",
+        body: "Asteroid 1997 NC1, a near-Earth object estimated to be approximately one kilometre in diameter, made its predicted closest approach to Earth on June 27, passing at a distance of roughly 2.4 million kilometres — about six times the average Earth-Moon separation — with NASA's Jet Propulsion Laboratory Centre for Near Earth Object Studies confirming the flyby poses absolutely no impact risk to the planet under any computed orbital scenario. The asteroid was first catalogued in July 1997 and carries a Potentially Hazardous Asteroid designation based solely on its large size and orbital parameters that periodically bring it within Earth's vicinity, not because any impact trajectory has been identified. JPL's Goldstone Solar System Radar in California transmitted high-power microwave pulses at 1997 NC1 during the approach window, and the returning echoes are expected to yield a detailed shape model and refined rotation period that will help planetary scientists better characterise the object's surface texture and internal structure. Amateur astronomers equipped with modest aperture telescopes tracked 1997 NC1 as a fast-moving stellar point in the constellation Cetus in the days surrounding closest approach, with the asteroid brightening to roughly magnitude 12 near its peak — detectable in any backyard telescope under dark-sky conditions.",
+        sourceUrl: "https://earthsky.org/space/large-asteroid-visible-telescopes-pass-earth-june-27-2026/",
+        timestamp: "2026-06-27T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial",
+        headline: "Blue Origin Confirms Temporary Pause of New Shepard Suborbital Flights to Concentrate Resources on New Glenn LC-36 Recovery and Blue Moon Lunar Lander Programme Milestones",
+        body: "Blue Origin confirmed on June 27 that New Shepard suborbital human spaceflight operations are being temporarily suspended while the company concentrates engineering and operational staffing on two near-term priorities: accelerated reconstruction of Launch Complex 36 at Cape Canaveral Space Force Station following the April 19 explosion that grounded New Glenn, and meeting contractual delivery milestones for the Blue Moon Mark 1 lunar lander under NASA's Human Landing System contract for crewed lunar surface access. The company emphasised that the pause reflects a resource reallocation decision rather than any technical concern with New Shepard's BE-3PM engine, crew capsule, or escape system, all of which have operated nominally across the vehicle's mission history since commercial passenger flights began. New Shepard has carried paying customers and NASA-sponsored researchers on suborbital trajectories above the Kármán line, giving participants several minutes of microgravity and sweeping views of Earth's curvature before the capsule parachutes to landing in west Texas near Van Horn. Blue Origin said future passengers holding seat reservations will be notified with rescheduled flight dates once the company determines it can resume New Shepard operations without compromising its higher-priority New Glenn and Blue Moon programme commitments.",
+        sourceUrl: "https://www.blueorigin.com/news",
+        timestamp: "2026-06-27T18:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Exploration",
+        headline: "China's Tianwen-2 Descends to 600-Metre Station-Keeping Orbit Above Kamoʻoalewa as Sample Site Selection Finalised Ahead of July 4 Touch-and-Go Collection Attempt",
+        body: "China's Tianwen-2 spacecraft has completed the final stage of its altitude reduction campaign, lowering from a 20-kilometre reconnaissance orbit to a 600-metre proximity station-keeping position above the surface of near-Earth asteroid 469219 Kamoʻoalewa, with the China National Space Administration confirming that mission controllers at the Beijing Aerospace Control Centre have selected candidate sample collection sites based on imagery and spectral maps gathered by the spacecraft's visible-infrared imaging spectrometer and multispectral camera. At 600 metres, Tianwen-2's camera suite is resolving surface boulders as small as several centimetres across, giving geologists an unprecedented close-range view of the quasi-moon's regolith texture and allowing engineers to verify that the sampling horn can safely contact the surface without risking vehicle stability in Kamoʻoalewa's extremely weak gravitational field. CNSA reported that the spacecraft's health is nominal and all propellant margins remain within the mission plan, providing adequate reserves for multiple touch-and-go attempts at the primary and backup sample sites if the July 4 initial contact does not acquire sufficient material. Kamoʻoalewa's suspected lunar origin — inferred from spectral similarities to Apollo-era lunar samples — means the returned regolith could shed light on the intense bombardment phase that shaped the inner solar system roughly four billion years ago, offering a complementary perspective to materials already archived in NASA's and JAXA's asteroid sample collections.",
+        sourceUrl: "https://www.planetary.org/articles/chinas-tianwen-2-mission-has-probably-arrived-at-a-quasi-moon-of-earth",
+        timestamp: "2026-06-27T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-26": {
     date: "June 26, 2026",
     stories: [
