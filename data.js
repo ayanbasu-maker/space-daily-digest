@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-28": {
+    date: "June 28, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 24 Starlink V2 Mini Optimized Satellites and Five International CubeSats From Vandenberg Space Force Base — Booster B1088 Completes 17th Flight With Pacific Drone Ship Landing as Rideshare Passengers Include Universities From Germany, Slovenia, Norway, and Austria",
+        body: "SpaceX launched a Falcon 9 rocket carrying 24 Starlink V2 Mini Optimized broadband satellites and five international CubeSat rideshare passengers to low Earth orbit from Space Launch Complex 4E at Vandenberg Space Force Base in California on June 28, with the launch window opening at 7 a.m. PDT. Booster B1088 completed its 17th flight before executing a propulsive landing aboard the drone ship Of Course I Still Love You in the Pacific Ocean approximately eight minutes after liftoff. The CubeSat manifest includes CyBEEsat from Technische Universität Berlin, TriSat-S from the University of Maribor in Slovenia, Platform 6 from EnduroSat, FramSat-1 from the Norwegian University of Science and Technology, and SpaceTeamSat1 from TU Wien Space Team in Austria, alongside a deployable appendage technology demonstration called 'Let it Go' from Dcubed. The mission continues SpaceX's West Coast Starlink densification campaign while simultaneously expanding affordable orbital access for university-built nanosatellites across Europe under the company's rideshare programme.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-06-28T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 15,400-Pound SiriusXM SXM-11 Broadcast Satellite to Geostationary Transfer Orbit From Cape Canaveral — Booster B1085 Completes 17th Mission With Atlantic Drone Ship Landing as SiriusXM Expands High-Power Digital Audio Fleet",
+        body: "SpaceX launched the SiriusXM SXM-11 broadcast satellite — the 12th high-powered digital audio radio spacecraft built for SiriusXM's constellation — aboard a Falcon 9 rocket from Cape Canaveral Space Force Station in Florida on the evening of June 28, with the four-hour launch window opening at 10:25 p.m. EDT. The SXM-11 spacecraft, built by Lanteris Space (formerly Maxar Space Systems) and weighing approximately 15,400 pounds (7,000 kilograms) at launch, features a large mesh unfurlable reflector antenna nearly 10 metres in diameter that allows SiriusXM programming to reach automobile, home, and portable radios across North America from geostationary orbit. Booster B1085, making its 17th flight, completed a successful propulsive landing aboard the drone ship A Shortfall of Gravitas stationed in the Atlantic Ocean, extending SpaceX's streak of consecutive booster recoveries. Once deployed and operating from geostationary orbit, SXM-11 will augment the capacity and geographic redundancy of SiriusXM's existing high-power satellite fleet that provides around-the-clock digital audio programming to millions of subscribers.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-sirius-sxm-11-satellite-launch-falcon-9",
+        timestamp: "2026-06-29T02:25:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Chandra X-Ray Observatory and ESA's XMM-Newton Discover Possible Supernova Remnant Near Milky Way's Central Supermassive Black Hole in Sagittarius C Region — Expanding Shell Estimated at 1,700 Years Old and Racing Outward at Two Million Miles Per Hour",
+        body: "NASA's Chandra X-ray Observatory and ESA's XMM-Newton space telescope have jointly identified a candidate supernova remnant in the Sagittarius C star-forming region of the Milky Way's galactic centre, located approximately 26,000 light-years from Earth and positioned remarkably close to Sgr A*, the supermassive black hole anchoring our galaxy's core — making it potentially one of the most proximate supernova remnants to the galactic nucleus ever catalogued. The structure presents as an expanding shell of hot gas estimated to be approximately 1,700 years old, racing outward at roughly two million miles per hour, consistent with the blast wave produced by a massive stellar explosion in the crowded and turbulent stellar environment of the inner galaxy. Multi-wavelength observations combining Chandra and XMM-Newton X-ray data with radio imagery from the MeerKAT telescope in South Africa and optical data from Pan-STARRS telescopes in Hawaii reveal the remnant embedded within a bubble of ionized hydrogen — an H II region — surrounding a massive young star, providing a rich astrophysical laboratory for studying how stellar explosions interact with dense interstellar gas near the galactic centre. If confirmed, this remnant would offer astronomers a new window into the extreme stellar evolution and violent feedback processes that shape the turbulent heart of the Milky Way.",
+        sourceUrl: "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+        timestamp: "2026-06-28T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "Citizen Scientists Using European LOFAR Radio Telescope Array Discover RAD-BAARG, a Bow-and-Arrow-Shaped Radio Galaxy Stretching 1.8 Million Light-Years — Structure May Be Clearest Known Radio Signature of a Galaxy Plunging Supersonically Into a Galaxy Cluster",
+        body: "An international team anchored by the RAD@home Astronomy Collaboratory — an Indian citizen science network — has announced the discovery of RAD-BAARG, a strikingly asymmetric radio galaxy with a 1.8-million-light-year arc structure identified in ultra-sensitive imaging data from Europe's Low-Frequency Array (LOFAR), a distributed radio telescope spanning stations across the Netherlands and multiple partner nations. The galaxy's western radio jet is compressed into a broad sector-shaped arc approximately 560 kiloparsecs across, while the opposing eastern jet is distorted into an S-shape followed by a curved offset tail — a morphology astronomers attribute to the galaxy falling supersonically into the hot intracluster gas of a massive galaxy cluster, generating a colossal bow shock ahead of its motion analogous to the sonic boom produced by a supersonic aircraft. The discovery was first flagged by a student working remotely from the Himalayas while analysing LOFAR imagery as part of the RAD@home citizen science programme, and the subsequent peer-reviewed paper published in Monthly Notices of the Royal Astronomical Society: Letters describes RAD-BAARG as potentially the most clearly resolved radio bow-shock signature yet observed anywhere in the universe. ESA's XMM-Newton X-ray telescope contributed complementary multi-wavelength data to the analysis, linking the striking bow-and-arrow morphology to the hot thermal plasma environment of the surrounding galaxy cluster.",
+        sourceUrl: "https://ras.ac.uk/news-and-press/research-highlights/bow-and-arrow-shaped-radio-galaxy-discovered-citizen-scientist",
+        timestamp: "2026-06-28T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Mercury Reaches Stationary Point and Begins Retrograde Motion at 10 P.M. EDT — Innermost Planet Transitions From Eastward to Westward Travel Against Stellar Backdrop as June Skywatching Season Peaks",
+        body: "Mercury reaches its stationary point in the sky at 10 p.m. EDT on June 28, halting its eastward apparent motion against the background stars before reversing into retrograde motion toward the west — an effect produced by Mercury's faster orbital speed relative to Earth as the innermost planet rounds the far side of its orbit and begins pulling away from its greatest eastern elongation position. The stationary event marks the transition between Mercury's current apparition as a low evening twilight object and its gradual retreat back toward the sun over the coming weeks ahead of inferior conjunction. Observers with unobstructed western horizons can attempt to spot Mercury in the deepening twilight shortly after sunset, though the planet will remain low on the horizon and its altitude will diminish steadily as it falls back toward the sun's glare in the following days. NASA's June 2026 skywatching guide highlights this Mercury retrograde transition as one of the month's notable planetary events, alongside Saturn's rings returning to a more favourable tilt for northern hemisphere telescopic observers this summer.",
+        sourceUrl: "https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/",
+        timestamp: "2026-06-28T22:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-27": {
     date: "June 27, 2026",
     stories: [
