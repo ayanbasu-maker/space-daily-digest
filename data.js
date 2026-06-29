@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-29": {
+    date: "June 29, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Hosts Preview News Conference for US Spacewalk 95 as Flight Engineers Chris Williams and Jessica Meir Prepare to Replace Faulty Wrist Joint on Canadarm2 Robotic Arm — Six-and-a-Half-Hour EVA Scheduled to Begin at 8:35 a.m. EDT Tuesday June 30 With Live Coverage on NASA+, Amazon Prime, and Netflix",
+        body: "NASA held a preview news conference on June 29 for US Spacewalk 95, confirming that Expedition 73 flight engineers Chris Williams and Jessica Meir will venture outside the International Space Station on Tuesday, June 30 at approximately 8:35 a.m. EDT to replace a malfunctioning wrist joint on the station's Canadarm2 robotic arm that has been out of service since May 27. The wrist joint failed when Canadarm2 drew elevated motor current and did not respond as expected during normal operations, prompting NASA and the Canadian Space Agency to determine that a spacewalk using a pre-positioned spare joint already stored aboard the station was the required repair pathway. The approximately six-hour-and-forty-minute extravehicular activity will be the second spacewalk for Williams and the fifth for Meir, with CSA astronaut Jenny Gibbons supporting the pair from mission control in Houston. Live coverage will begin at 7 a.m. EDT on NASA+, Amazon Prime, Netflix, and NASA's YouTube channel, allowing the global public to watch one of the most complex Canadarm2 maintenance procedures conducted in the station's 25-year operational history.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
+        timestamp: "2026-06-29T13:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial",
+        headline: "NASA Administrator Jared Isaacman and SBA Administrator Kelly Loeffler Sign Memorandum of Agreement at NASA Headquarters — New Interagency Initiative Responds to President Trump's National Space Policy and Targets Expansion of American Space Economy Through Small Business Innovation Pipelines",
+        body: "NASA Administrator Jared Isaacman and U.S. Small Business Administration Administrator Kelly Loeffler signed a memorandum of agreement at a ceremony held at 1 p.m. EDT Monday at NASA Headquarters in Washington, creating a new interagency initiative directly responding to President Donald J. Trump's National Space Policy and formalising collaboration between NASA's Small Business Innovation Research and Small Business Technology Transfer programmes and the SBA's America's Seed Fund. The agreement is designed to streamline access for small businesses seeking to enter the space economy by creating clearer pathways through the SBA's nationwide entrepreneurship network to NASA's technology development and commercial partnership opportunities, building on the agency's track record of selecting more than 100 small business projects annually through SBIR and STTR solicitations. NASA and the SBA have identified shared goals in accelerating the commercialisation of breakthrough space technologies spanning propulsion, autonomous systems, life support, and in-space manufacturing that align private-sector innovation capacity with the agency's Artemis lunar programme and future Mars exploration objectives. The partnership is expected to broaden the base of American businesses contributing to the commercial space economy by making the innovation pipeline more accessible to companies outside the traditional aerospace industry hubs.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-us-small-business-administration-to-announce-partnership/",
+        timestamp: "2026-06-29T17:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial",
+        headline: "NASA Selects 41 Proposals From 37 American Companies to Advance Moon and Mars Technologies Under 2025 Announcement of Collaboration Opportunity — $30 Million in Agency Resources Leveraged Alongside $32 Million in Industry Contributions to Mature Space Transportation, Surface Systems, and Energy Technologies",
+        body: "NASA selected 41 proposals from 37 American companies under its 2025 Announcement of Collaboration Opportunity, establishing no-funds-exchanged public-private partnerships to mature critical technologies needed for sustained human presence on the Moon and eventual human exploration of Mars, with approximately $30 million in agency resources leveraged alongside $32 million in matching industry contributions. The selected technology focus areas span space transportation engine elements, guidance and navigation systems, planetary surface landing systems, in-space servicing assembly and manufacturing, and energy management technologies that will underpin the Artemis lunar programme's long-term infrastructure requirements. Among the selected projects, Lockheed Martin will mature a modular compact energy system designed to generate power through the lunar night in permanently shadowed polar regions, while small business Moonprint Solutions will develop flexible isolation covers to protect critical hardware and robotic joints from abrasive lunar regolith during long-duration surface operations. Each agreement will be negotiated with an expected performance period of 12 to 24 months, allowing companies ranging from major prime contractors to innovative startups to demonstrate technologies that could inform hardware designs for future Artemis landers and surface systems.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/",
+        timestamp: "2026-06-29T15:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Opens Clean Space Days 2026 at ESTEC in Noordwijk — Five-Day Forum Beginning June 29 Gathers Space Sector to Advance Eco-Design Standards, Zero-Debris Charter Implementation, and Commercial In-Orbit Servicing Capabilities Ahead of Agency's 2030 Mandatory Debris Mitigation Requirements",
+        body: "The European Space Agency opened its Clean Space Days 2026 at the European Space Research and Technology Centre in Noordwijk, the Netherlands, on June 29, launching a five-day forum running through July 3 that convenes industry partners, research institutions, and agency specialists to advance ESA's sustainability agenda across eco-design, space debris mitigation, and in-orbit servicing. The forum provides a central venue for assessing implementation progress under ESA's Zero Debris Charter — now signed by more than 100 space organisations — which commits signatories to design and operate spacecraft so as to leave no persistent debris in operational orbital regimes, a standard ESA intends to make mandatory for all missions it procures from 2030 onward. Working group sessions address active debris removal concepts, satellite passivation techniques, design-for-demise re-entry engineering, and the growing ecosystem of commercial in-orbit servicing demonstrations underway from European startups, with a Clean Space Networking Dinner scheduled for June 30 at ESTEC's restaurant. As constellation operators globally prepare to deploy tens of thousands of additional satellites in the coming decade, ESA views the annual Clean Space Days as a critical mechanism for aligning European space sector practices with long-term orbital sustainability commitments before congestion in key orbital regimes becomes unmanageable.",
+        sourceUrl: "https://indico.esa.int/event/644/",
+        timestamp: "2026-06-29T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Planetary",
+        headline: "China's Tianwen-3 Mars Sample Return Mission Advances to Flight Model Development Phase as Landing Site Candidates Narrowed to 19 From Initial Pool of 80-Plus — Three Finalist Sites to Be Selected by Year End Ahead of 2028 Launch Targeting Minimum 500 Grams of Martian Regolith",
+        body: "China's National Space Administration confirmed that the Tianwen-3 Mars sample return mission has advanced to the flight model development phase in 2026, marking a pivotal engineering milestone in China's most ambitious planetary science programme and keeping the mission on track toward a targeted launch window around 2028 with the goal of returning no fewer than 500 grams of Martian surface material to Earth by approximately 2031. Landing site selection has been progressively narrowed from an initial pool of more than 80 geological candidate locations to 19 active finalists, with the engineering and science team on course to identify three primary candidate sites by the end of 2026 based on criteria encompassing scientific sample value, terrain safety, and trajectory accessibility from the planned Mars orbit insertion. Key technology breakthroughs have been achieved in Mars surface sampling and hermetic sealing mechanisms, launch and ascent systems for departing the Martian surface, rendezvous and docking procedures in Mars orbit, and planetary protection protocols to prevent biological contamination in both directions. Five international scientific instruments were selected to fly on the mission's orbiter following CNSA's open call for cooperation proposals, including spectrometers designed to search for biosignatures and characterise Martian atmospheric escape processes, as China works to position Tianwen-3 as a globally collaborative flagship of the current generation of Mars exploration.",
+        sourceUrl: "https://spacenews.com/chinas-tianwen-3-mars-sample-return-mission-moves-into-spacecraft-construction-phase/",
+        timestamp: "2026-06-29T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-28": {
     date: "June 28, 2026",
     stories: [
