@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-06-30": {
+    date: "June 30, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Expedition 73 Astronauts Chris Williams and Jessica Meir Begin US Spacewalk 95 at 8:20 a.m. EDT to Replace Failed Wrist Joint on Canadarm2 Robotic Arm — 280th ISS Spacewalk Requires Removal of 408-Kilogram Latching End Effector Before Installing Pre-Positioned Spare Joint",
+        body: "NASA astronauts Chris Williams and Jessica Meir began US Spacewalk 95 at 8:20 a.m. EDT on June 30, venturing outside the International Space Station to replace a malfunctioning wrist joint on the Canadarm2 robotic arm that drew elevated motor current without producing movement during routine operations on May 27, prompting NASA and the Canadian Space Agency to conclude a physical replacement was required. The approximately six-and-a-half-hour extravehicular activity — the 280th spacewalk in support of ISS assembly, maintenance, and upgrades — requires Williams and Meir to first detach a 408-kilogram Latching End Effector grappling hand to access the failed 91-kilogram wrist joint beneath it, then unbolt the faulty unit, install the spare already pre-positioned aboard the station, and restore all electrical, data, and video connections before reattaching the Latching End Effector. Inside the station, SpaceX Crew-12 pilot Jack Hathaway and ESA astronaut Sophie Adenot are operating Canadarm2 itself to position the arm so the spacewalkers can reach the worksite, while CSA astronaut Jenny Gibbons provides real-time guidance from mission control in Houston. This is the second spacewalk for Williams and the fifth for Meir.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/06/30/astronauts-begin-spacewalk-to-repair-canadarm2-robotic-arm/",
+        timestamp: "2026-06-30T12:20:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar",
+        headline: "NASA Administrator Isaacman Hosts Virtual Moon Base Briefing at 2:30 p.m. EDT — New Lunar Lander Contracts and Infrastructure Awards Signal Agency's Pivot From One-Off Landings to Sustained Presence on Lunar Surface",
+        body: "NASA Administrator Jared Isaacman hosted a virtual conversation at 2:30 p.m. EDT on June 30 to share the latest updates to the agency's Moon Base programme, with Isaacman joined by Moon Base programme manager Carlos García-Galán to announce new awards for lunar lander missions and preview upcoming commercial partnership opportunities as NASA works toward building a sustained human presence on the lunar surface. The briefing represents a formal milestone in NASA's strategic shift away from treating Moon landings as individual exploration events toward constructing the transportation systems, surface habitats, power infrastructure, and scientific facilities needed to support astronauts on the Moon for extended periods. The new lander contract awards build on the 41 public-private technology collaboration agreements announced on June 29 and signal the agency's intention to accelerate development timelines toward a target of returning astronauts to the lunar surface by 2028 under President Trump's revised National Space Policy. The conversation, streamed on NASA's YouTube channel, underscores Isaacman's stated ambition to reorient the agency's human spaceflight architecture around the Moon Base concept as the next major programmatic commitment beyond the completed Artemis I and Artemis II crewed test flights.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-share-latest-moon-base-mission-progress/",
+        timestamp: "2026-06-30T18:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial",
+        headline: "Swift Boost Mission Launch Scrubbed June 30 Due to Unfavourable Weather at Kwajalein Atoll — Pegasus XL and LINK Robotic Servicing Spacecraft Targeting No-Earlier-Than July 1 at 5:43 a.m. EDT as Teams Await Improved Conditions Over Marshall Islands",
+        body: "Northrop Grumman's Stargazer L-1011 carrier aircraft did not release the Pegasus XL rocket carrying Katalyst Space Systems' LINK robotic servicing spacecraft on June 30, as unfavourable weather conditions over Kwajalein Atoll in the Republic of the Marshall Islands prevented the air-launch attempt, with teams now targeting a backup window no earlier than July 1 at 5:43 a.m. EDT. The Swift Boost mission — the first commercial contract in NASA history to service an operational science spacecraft — will see LINK approach the Neil Gehrels Swift Observatory, grapple the telescope using a suite of three robotic arms, and fire its ion thrusters over several months to raise Swift's orbit by approximately 75 kilometres, preventing an uncontrolled reentry forecast for autumn 2026. The 880-pound LINK spacecraft, standing approximately five feet tall and powered by nearly 20 feet of deployed solar panels, is designed to autonomously rendezvous and dock with Swift — a spacecraft not originally built to be serviced in space — representing a first-of-its-kind demonstration of commercial on-orbit servicing capability for a government science asset. If the July 1 attempt succeeds, a successful rendezvous and orbit boost would extend Swift's operational life through at least 2031, preserving the observatory's role as the world's premier rapid-response telescope for gamma-ray bursts and high-energy transient events.",
+        sourceUrl: "https://science.nasa.gov/blogs/swift/2026/06/30/launch-of-mission-to-boost-nasas-swift-scrubs-due-to-weather/",
+        timestamp: "2026-06-30T10:17:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Recovery",
+        headline: "Blue Origin Launch Pad Reconstruction Progresses at Cape Canaveral Following May 28 New Glenn Ground Test Explosion — 400-Machine Construction Crew Working at Launch Complex 36 as Company Targets New Glenn Return-to-Flight Before End of 2026",
+        body: "Blue Origin is advancing reconstruction of its Launch Complex 36 facilities at Cape Canaveral Space Force Station in Florida, with a 400-machine heavy equipment crew working to replace the destroyed transporter-erector and repair the collapsed lightning tower that were casualties of the May 28 New Glenn ground test explosion, as the company targets a return to flight before the end of 2026. CEO Dave Limp disclosed reconstruction progress at the VivaTech conference in Paris on June 17, noting that key long-lead infrastructure including the pad's propellant tank farm and a New Glenn booster previously flown on the first two missions had survived the blast, reducing the scope of the rebuild compared to initial damage assessments. The explosion occurred during a hot-fire test of a New Glenn rocket engine that caused the loss of both the vehicle on the test stand and significant portions of the launch pad surface infrastructure, dealing a significant setback to Blue Origin's ambitions for 12 or more New Glenn launches in 2026 following a successful NG-2 mission earlier in the year. Blue Origin is working in parallel to conduct root cause analysis of the ground test anomaly, which it is required to complete and submit to the FAA before resuming launch activities at the pad.",
+        sourceUrl: "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
+        timestamp: "2026-06-30T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Achieves Major Propulsion Milestone With Successful Semi-Cryogenic Engine Power Head Hot-Fire Test at 175-Tonne Thrust — Test at ISRO Propulsion Complex in Tamil Nadu Validates Core Technology for Next-Generation Heavy-Lift Launch Vehicle",
+        body: "India's ISRO successfully conducted a hot-fire test of its semi-cryogenic engine power head at the ISRO Propulsion Complex in Mahendragiri, Tamil Nadu, demonstrating stable engine operation at a target thrust level of 175 tonnes, a major milestone in the development of the propulsion system intended to power the agency's next-generation heavy-lift launch vehicle. The semi-cryogenic engine uses liquid oxygen as its oxidiser combined with refined kerosene as fuel — a more energetically dense propellant combination than the existing PSLV and GSLV engines — which will allow significantly larger payloads to be placed in low Earth and geostationary transfer orbits while maintaining lower operational costs compared to fully cryogenic systems. This engine variant is a core element of ISRO's plans to develop a launcher competitive with commercial heavy-lift rockets and capable of supporting India's ambitions for crewed missions beyond the initial Gaganyaan low-Earth-orbit flights, including future lunar and deep space programmes. The successful power head test confirms that the engine's turbopump assembly, combustion chamber ignition systems, and propellant feed architecture all performed within design parameters, clearing the path toward full-duration engine qualification tests later in the development schedule.",
+        sourceUrl: "https://www.bloomberg.com/news/articles/2026-06-27/india-s-isro-fires-up-next-gen-rocket-engine",
+        timestamp: "2026-06-30T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Planetary",
+        headline: "China's Tianwen-2 Spacecraft Closes in on Asteroid Kamoʻoalewa as Sample Collection Approach Phase Begins — Probe Entered Orbit Around Earth's Quasi-Moon June 7 and Now Manoeuvring Toward Surface Touchdown Targeting 100-Gram Regolith Sample Return in 2027",
+        body: "China's Tianwen-2 spacecraft, launched in May 2025 on a dual-target mission to a near-Earth asteroid and a main-belt comet, is now actively approaching asteroid 469219 Kamoʻoalewa — a quasi-satellite of Earth — after successfully entering orbit around the body on June 7, 2026, and is expected to reach its final pre-landing orbit around July 4 as it prepares for the most complex phase of the mission. Kamoʻoalewa occupies an unusual quasi-satellite orbit that keeps it in a loose gravitational dance with Earth, and it is hypothesised by some scientists to be a fragment of the Moon ejected during an ancient impact rather than a conventional near-Earth asteroid — a hypothesis that makes Tianwen-2's targeted 100-gram surface sample an extraordinary potential scientific prize that could illuminate the early history of the Earth-Moon system. The spacecraft carries 11 scientific instruments including spectrometers and cameras for remote sensing characterisation of the asteroid's surface composition, topography, and rotational dynamics before touchdown, with Chinese mission teams conducting orbit-lowering manoeuvres incrementally to reach the surface proximity required for a safe landing and sample collection. Following sample return to Earth in 2027, Tianwen-2's extended mission will redirect the spacecraft toward main-belt comet 311P/PanSTARRS for a rendezvous planned for January 2035, making it one of the most ambitious multi-target planetary exploration missions ever attempted.",
+        sourceUrl: "https://www.planetary.org/articles/chinas-tianwen-2-mission-has-probably-arrived-at-a-quasi-moon-of-earth",
+        timestamp: "2026-06-30T04:00:00Z"
+      }
+    ]
+  },
+
   "2026-06-29": {
     date: "June 29, 2026",
     stories: [
