@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-08": {
+    date: "July 8, 2026",
+    stories: [
+      {
+        agency: "Blue Origin",
+        category: "Finance",
+        headline: "Blue Origin Closes $10 Billion Outside Funding Round at $130 Billion Pre-Money Valuation in First-Ever External Capital Raise — Coatue Management Anchors With $4 Billion Commitment, Jeff Bezos Contributes $2 Billion Personally, and Oversubscribed Institutional Tranche Fills Remaining $4 Billion as New Glenn Return-to-Flight and Blue Moon HLS Anchor the Growth Case",
+        body: "Blue Origin has secured $10 billion in its inaugural outside funding round at a $130 billion pre-money valuation, marking the first time Jeff Bezos's rocket company has accepted external capital in its 26-year history and placing it among the highest-valued private aerospace companies in the world. The round is anchored by Coatue Management, which has committed approximately $4 billion, with Bezos personally contributing $2 billion and the remaining $4 billion drawn from large institutional investors; multiple sources familiar with the deal describe the tranche as oversubscribed. CEO Dave Limp has framed the capital raise as a catalyst to accelerate New Glenn's return to flight following the May 28 Launch Complex 36 explosion, expand BE-4 engine production for both New Glenn and Vulcan Centaur, and fund ongoing development of the Blue Moon Human Landing System awarded under NASA's Artemis V contract. The $130 billion valuation reflects investor confidence in Blue Origin's deepening role across commercial, national-security, and NASA-funded launch markets as the company rebuilds momentum toward its goal of returning New Glenn to flight before the end of 2026.",
+        sourceUrl: "https://www.cnbc.com/2026/07/08/blue-origin-bezos-fundraising.html",
+        timestamp: "2026-07-08T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA New Horizons Confirmed Healthy After Record 321-Day Kuiper Belt Hibernation as Probe Resumes Downlink of Stored Heliospheric Data From 5.9 Billion Miles — Flight Controllers Reestablish Contact June 23, Continuous Plasma and Dust Measurements Archived Throughout Dormancy Now Queued for Deep Space Network Transmission While Team Evaluates Next Kuiper Belt Object Flyby Target",
+        body: "NASA's New Horizons spacecraft has returned to full operations after its longest-ever hibernation of 321 days, with flight controllers at the Johns Hopkins Applied Physics Laboratory confirming on June 23 that the probe awakened on stored commands and immediately began downlinking the heliospheric plasma and dust measurements it silently recorded throughout the dormancy. Now approximately 5.9 billion miles (9.5 billion kilometres) from Earth — making it the most distant operational spacecraft in human history — New Horizons is cruising through the outer Kuiper Belt at roughly 36,000 miles per hour, returning the only in-situ measurements of solar wind composition and charged-particle flux at this extreme range. Science data archived during hibernation from the SWAP plasma instrument, PEPSSI energetic-particle spectrometer, and the Venetia Burney Student Dust Counter will take months to fully downlink over NASA's Deep Space Network given the spacecraft's current transmission rate across the 8.7-hour one-way light travel time. Mission scientists at APL and Southwest Research Institute are continuing their search for candidate Kuiper Belt Objects reachable by the spacecraft's remaining fuel margin, with any future flyby target requiring a NASA Planetary Science Division funding decision to extend the mission beyond its current authorization.",
+        sourceUrl: "https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/",
+        timestamp: "2026-07-08T08:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Completes Starship Super Heavy Booster Static Fire at Starbase Ahead of Flight 13 Targeting July 31 Launch Window — Third Version 3 Raptor 3-Equipped Integrated Test Flight From Orbital Launch Pad 2 to Attempt Repeat Mechazilla Booster Catch While Ship Targets Controlled Indian Ocean Splashdown en Route to Proving Reusability Architecture for NASA HLS Demonstration",
+        body: "SpaceX completed a short-duration Super Heavy booster static fire at Starbase in South Texas this week, the standard full-engine qualification step that has preceded each Starship integrated test, with the 60-second firing serving as the final major propulsion checkpoint before the Flight 13 launch window opens on July 31 from Orbital Launch Pad 2. Flight 13 will be the third launch of the Version 3 Starship stack — powered by 33 Raptor 3 engines on the Super Heavy booster and six Raptor 3 Vacuum engines on the Ship stage — following the milestone Flight 12 on May 22, 2026, which was the first full-stack test of the V3 configuration and validated improved engine performance and heat-shield upgrades. The primary objective for Flight 13 is to repeat the mechanical arm catch of the descending Super Heavy booster at the Mechazilla launch mount, a capability first demonstrated on Flight 8 in November 2024 and now a baseline architecture requirement for SpaceX's fully reusable Starship system. Successful completion of Flight 13 will advance the testing cadence NASA and the FAA require before authorizing the uncrewed Starship Human Landing System demonstration Moon landing currently targeted for mid-2027 under the Artemis program.",
+        sourceUrl: "https://nextspaceflight.com/starship/",
+        timestamp: "2026-07-08T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Earth Science",
+        headline: "ESA Convenes User Consultation Meeting in Tallinn July 7–8 to Score Four Future Earth Explorer Mission Concepts as EarthCARE Satellite Completes First Full-Cycle Aerosol and Cloud Vertical Profile Dataset — Combined Lidar, Radar, Imager, and Radiometer Observations Begin Assimilation at ECMWF to Constrain Marine Stratocumulus Parameterisations Driving Largest Remaining Climate Sensitivity Uncertainty",
+        body: "ESA hosted a User Consultation Meeting in Tallinn, Estonia on July 7 and 8, bringing together the European Earth science community to formally evaluate and prioritise four candidate Earth Explorer mission concepts competing for the next slot in the agency's research programme, with a Phase A study selection expected later in 2026. In parallel, the EarthCARE satellite — launched in May 2024 — has now completed its first full four-season operational cycle, releasing an initial consolidated level-2 atmospheric dataset that combines global aerosol vertical profiles from its high-spectral-resolution lidar, cloud structure from its cloud profiling radar, wide-scene context from its multispectral imager, and top-of-atmosphere energy fluxes from its broadband radiometer. EarthCARE's co-located four-instrument payload is the first of its kind in orbit, resolving longstanding ambiguities in the relative contributions of aerosol loading and cloud microphysics to Earth's radiative budget that single-instrument predecessors such as CALIPSO and CloudSat could not disentangle. Meteorologists at the European Centre for Medium-Range Weather Forecasts have begun assimilating early EarthCARE retrievals to improve parameterisations of marine boundary-layer stratocumulus, the low cloud type responsible for approximately 30 percent of Earth's albedo and the largest remaining source of spread in global climate sensitivity estimates.",
+        sourceUrl: "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/EarthCARE/Introducing_the_EarthCARE_mission",
+        timestamp: "2026-07-08T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Confirms GISAT-1A (EOS-05) Geo-Imaging Satellite on Track for July 31 GSLV Mk II Launch From Sriharikota — Second GISAT-Series Geostationary Earth Observation Platform Will Deliver Sub-Hourly Disaster-Response Imagery Over Indian Subcontinent in Multiple Spectral Bands, Complementing Low-Earth-Orbit RISAT and Cartosat Rapid-Response Architecture",
+        body: "The Indian Space Research Organisation has confirmed that GISAT-1A, also designated Earth Observation Satellite-05, remains on schedule for a July 31 launch aboard a GSLV Mk II rocket from the second launch pad at Satish Dhawan Space Centre in Sriharikota, targeting a geostationary transfer orbit from which the satellite will circularise to 36,000 kilometres for continuous coverage of the Indian subcontinent. GISAT-1A is the second satellite in ISRO's Geostationary Imaging Satellite series, carrying imaging payloads in the visible, near-infrared, shortwave-infrared, thermal-infrared, and mid-infrared spectral bands to enable sub-hourly characterisation of floods, cyclones, agricultural stress, and industrial disaster events — capabilities that significantly reduce the revisit gaps inherent to the low-Earth-orbit Cartosat and RISAT constellations. The GSLV Mk II, flying its twelfth mission with the indigenous cryogenic upper stage, will inject the approximately 2,268-kilogram satellite into a geosynchronous transfer orbit, extending India's independent operational Earth-observation capability while ISRO simultaneously manages Gaganyaan certification and the Aditya-L1 solar observatory. A successful July 31 launch would make GISAT-1A ISRO's fourth orbital mission of 2026 and mark another step in the agency's push toward a 12-launch annual cadence as it advances toward the first Gaganyaan crewed mission now targeted for 2028.",
+        sourceUrl: "https://www.spacelaunchschedule.com/launch/gslv-mk-ii-gisat-1a-eos-05/",
+        timestamp: "2026-07-08T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-07": {
     date: "July 7, 2026",
     stories: [
