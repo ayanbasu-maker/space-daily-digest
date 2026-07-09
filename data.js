@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-09": {
+    date: "July 9, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Sets New Falcon 9 Booster Reuse Record as B1067 Completes 36th Flight on Starlink 10-42 Mission Deploying 29 Satellites to Low Earth Orbit — Veteran Booster That Previously Flew Crew-3 and Crew-4 Human Spaceflight Missions Lands on Drone Ship for 160th Time on That Vessel While SpaceX Tallies Its 635th Total Booster Recovery Since First Landing in December 2015",
+        body: "SpaceX set a new single-booster reuse record Thursday morning when Falcon 9 booster B1067 lifted off for its 36th flight in support of the Starlink 10-42 mission, adding 29 broadband satellites to the company's low Earth orbit megaconstellation and extending the reuse demonstration program to a milestone no orbital-class rocket booster in history has matched. The veteran booster, which entered service in June 2021 and flew human crews on the Crew-3 and Crew-4 International Space Station missions before transitioning exclusively to the commercial Starlink cadence, returned to land on SpaceX's autonomous drone ship approximately eight minutes after liftoff — the 160th recovery for that particular vessel and the 635th Falcon 9 booster landing overall since SpaceX achieved its first successful return in December 2015. Starlink 10-42 continues SpaceX's relentless launch cadence through the second half of 2026, with the constellation now serving tens of millions of subscribers across more than 100 countries. B1067's 36 flights collectively represent cost savings equivalent to building and discarding more than three dozen expendable first stages, a compelling real-world demonstration of the reusability economics underpinning SpaceX's launch-market dominance.",
+        sourceUrl: "https://spaceflightnow.com/2026/07/09/live-coverage-spacex-to-launch-falcon-9-rocket-on-record-breaking-36th-flight/",
+        timestamp: "2026-07-09T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Large Solar Filament Eruption in Northeast Solar Hemisphere Produces High-Speed Coronal Hole Wind Stream Forecast to Arrive at Earth July 9 — NOAA Space Weather Prediction Center Issues Minor G1 Geomagnetic Storm Watch as Solar Cycle 25 Tracks Above Average Activity, With Aurora Viewing Possible Tonight Across Northern United States, Southern Canada, and Northern Europe Under Dark Skies",
+        body: "A prominent filament eruption in the northeastern solar hemisphere observed by NASA's Solar Dynamics Observatory has produced a high-speed solar wind stream associated with a nearby equatorial coronal hole, now forecast by NOAA's Space Weather Prediction Center to arrive at Earth on July 9, 2026, raising the prospect of minor G1-class geomagnetic storming and mid-latitude aurora visible from the northern United States, southern Canada, and northern Europe under dark, clear skies. The erupting filament — a dense, magnetically suspended channel of cool plasma in the solar corona — released material that has been tracked across the approximately 150-million-kilometre interplanetary journey to Earth, with arrival timing carrying an uncertainty window of several hours on either side of the nominal forecast. Solar Cycle 25 has continued to track above the official NOAA-NASA prediction panel forecast for this phase of the cycle, with the sustained solar maximum period keeping auroral activity and geomagnetic disturbance probabilities elevated well above the solar-minimum baseline. Observers along the shores of Hudson Bay, across Scotland and Scandinavia, and in the northern continental United States are advised to monitor NOAA real-time Kp index updates and to seek dark sites facing north in the hours after local midnight.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-07-09T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA July 2026 Skywatching Guide Highlights Venus Pairing With Regulus Tonight July 9 Before Brilliant Planet Meets Crescent Moon on July 17 — Morning Sky Features Jupiter and Mars Converging in Taurus While Saturn Rises Earlier Each Evening in Aquarius Ahead of Perseid Meteor Shower Peak Forecast to Exceed 100 Meteors Per Hour on August 11-12",
+        body: "NASA's July 2026 skywatching guide identifies tonight, July 9, as the best opportunity to observe Venus — blazing at approximately magnitude -4.5 in the western evening twilight — positioned alongside Regulus, the blue-white heart of Leo, in a striking naked-eye celestial pairing visible well above the western horizon after sunset across the Northern Hemisphere. The planetary lineup continues on July 17 when a slender crescent Moon joins Venus and Regulus in close proximity, creating a three-way grouping well-suited to wide-angle astrophotography from both hemispheres. July's morning sky rewards early risers with Jupiter and Mars gradually converging in Taurus over the coming weeks ahead of a closer conjunction later in the summer, while Saturn rises progressively earlier each evening in Aquarius and will be accessible for extended viewing by late evening in Northern Hemisphere locations. With the Perseid meteor shower peak approaching on the nights of August 11-12, NASA's monthly guide encourages observers to begin familiarising themselves with the Perseus radiant this month as Earth edges into the denser portions of comet 109P/Swift-Tuttle's debris trail.",
+        sourceUrl: "https://science.nasa.gov/solar-system/whats-up-july-2026-skywatching-tips-from-nasa/",
+        timestamp: "2026-07-09T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin CEO Dave Limp Reaffirms New Glenn Return-to-Flight Target Before End of 2026 as Pad Repairs Progress Following May 28 Launch Complex 36 Explosion — $10 Billion External Funding Round Closed This Week at $130 Billion Valuation Provides Capital to Accelerate Booster Reconstruction, Restore Commercial and National Security Manifest, and Maintain Blue Moon HLS Development Pace",
+        body: "Blue Origin CEO Dave Limp has publicly reaffirmed the company's commitment to returning New Glenn to flight before the close of 2026, stating that investigation teams have completed their analysis of the May 28 explosion at Launch Complex 36 at Cape Canaveral Space Force Station and that pad infrastructure repairs are advancing on a schedule compatible with a late-year launch attempt. The completion of the mishap investigation is a prerequisite for resuming hazardous operations and for the Federal Aviation Administration to amend New Glenn's launch license, with the company required to submit corrective-action documentation before return-to-flight authorisation can be granted. Blue Origin's freshly closed $10 billion external funding round — anchored by Coatue Management at a $130 billion pre-money valuation and including a $2 billion personal contribution from founder Jeff Bezos — provides the capital to fund pad reconstruction, sustain BE-4 engine production for both New Glenn and United Launch Alliance's Vulcan Centaur, and maintain simultaneous development of the Blue Moon Human Landing System under the NASA Artemis V contract. A successful New Glenn return to flight in 2026 would allow Blue Origin to begin addressing its commercial and national security manifest backlog and demonstrate the rapid-reuse turnaround operations required to reach the 12-plus annual launches the company has targeted for 2027.",
+        sourceUrl: "https://www.blueorigin.com/news",
+        timestamp: "2026-07-09T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary",
+        headline: "ESA-JAXA BepiColombo Mercury Mission Enters Final Approach Phase Targeting December 2026 Orbital Insertion as Spacecraft Prepares for Separation Into Mercury Planetary Orbiter and Mercury Magnetospheric Orbiter — Eight-Year Interplanetary Journey Nears Completion as Mission Control Begins Critical Burn Sequencing That Will Lock Two Probes Into Complementary Science Orbits Around Innermost Planet",
+        body: "ESA and JAXA's BepiColombo spacecraft — the joint European-Japanese Mercury explorer launched in October 2018 — is now in the final approach phase of its eight-year interplanetary journey, with mission controllers at ESA's European Space Operations Centre in Darmstadt preparing for Mercury Orbit Insertion manoeuvres scheduled for December 2026 that will transition the stack from its gravity-assist transfer trajectory into stable science orbits around the solar system's innermost planet. Once captured by Mercury's gravity, the spacecraft will separate into its two science components — ESA's Mercury Planetary Orbiter and JAXA's Mercury Magnetospheric Orbiter — which will be placed into different elliptical orbits optimised to simultaneously characterise Mercury's surface composition and geological history from one platform while probing its surprisingly active magnetosphere from the other. BepiColombo represents the most comprehensive Mercury investigation since NASA's MESSENGER spacecraft orbited the planet from 2011 to 2015, with its instrument complement designed to resolve outstanding questions about Mercury's anomalously large iron core, exospheric dynamics, and the ice deposits confirmed by MESSENGER in permanently shadowed polar craters. European and Japanese scientists expect the dual-orbiter architecture to return transformative datasets on the origin and evolution of rocky planets in the inner solar system over a nominal science mission of one Earth year, with an extended mission phase subject to ESA and JAXA programmatic approval.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo",
+        timestamp: "2026-07-09T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-08": {
     date: "July 8, 2026",
     stories: [
