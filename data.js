@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-18": {
+    date: "July 18, 2026",
+    stories: [
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "Skyroot Aerospace's Vikram-1 Reaches Orbit on Debut Mission Aagaman — India Becomes Third Nation With Private Orbital Launch Capability After 35-Minute Delay and Successful Upper Stage Burn Delivers CubeSat Rideshare to 450-Kilometre Low Earth Orbit From Satish Dhawan Space Centre",
+        body: "Skyroot Aerospace's Vikram-1 rocket successfully placed its payload stack into a 450-kilometre low Earth orbit on July 18, 2026, completing a debut flight that makes India the third country — after the United States and China — to achieve privately developed orbital launch capability, in a milestone widely described as the beginning of India's commercial small-launch industry. The 24-metre, three-stage solid-fuelled vehicle with a liquid orbital adjustment module lifted off from the First Launch Complex at Satish Dhawan Space Centre after a 35-minute hold caused by a technical anomaly detected at the T-minus 5-minute mark; the issue was resolved and the vehicle lifted off, with Skyroot declaring upper-stage orbit insertion approximately 15 minutes after liftoff. Payloads aboard the Mission Aagaman rideshare included Skyroot's own SCOPE telemetry and performance characterisation satellite, CubeSats from Grahaa Space, Cosmoserve, and DCubed, and two symbolic payloads — an 18-karat gold rocket by artist Ajay Kumar Mattewada and Cosmic Bloom, a piece of lab-grown diamond jewelry designed by Cosmos Diamonds. The success is expected to accelerate IN-SPACe licensing for the broader cohort of Indian commercial launch developers — including Agnikul Cosmos and Bellatrix Aerospace — that have been watching Skyroot's progress as a proof-of-concept for the entire sector.",
+        sourceUrl: "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
+        timestamp: "2026-07-18T06:35:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Sets July 20 NET for Starship Flight 13 After Two-Engine Raptor Replacement at Starbase — Navigation Warnings Filed for Monday Indian Ocean Splashdown Zone as Vehicle Remains on Pad 2 With 20 Operational Starlink V3 Satellites Still Aboard Ship 40 Following Wednesday's Zero-Second Abort",
+        body: "SpaceX has published maritime navigation warnings for the Indian Ocean splashdown zone indicating a No Earlier Than date of July 20, 2026, for a new Starship Flight 13 launch attempt, after ground crews at Starbase completed the swap of two Raptor engines on the Super Heavy booster that were identified as root causes of Wednesday's zero-second abort. CEO Elon Musk confirmed via X that the failed ignition of four Raptor engines during the July 16 startup sequence was traced to two specific engines that required physical replacement rather than software correction, and that the remaining two engines that failed to start did so as a cascade effect of the primary pair's ignition failure. Ship 40, carrying 20 first-operational Starlink V3 satellites and configured with onboard cameras to image heat shield tile performance during Indian Ocean reentry, remains on Pad 2 in a flight-ready configuration awaiting the repaired booster's readiness to stack and close out pre-launch operations. The July 20 window would preserve most of the remaining active launch window, and SpaceX has indicated that all mission objectives — including stage-separation, booster splashdown, in-space Raptor vacuum engine relight, and satellite deployment — remain unchanged from the original flight plan.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-17-2026",
+        timestamp: "2026-07-18T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "China's Tianwen-2 Begins Close-Proximity Survey Operations at Asteroid Kamoʻoalewa Two Weeks After Arrival — Spacecraft Now at 20-Kilometre Station-Keeping Orbit Mapping Surface Terrain and Regolith Properties Ahead of Touch-and-Go Sample Collection Attempts as New Spectral Data Challenges Prevailing Lunar-Fragment Origin Theory",
+        body: "China's Tianwen-2 asteroid sample-return spacecraft is conducting close-proximity survey operations at a distance of 20 kilometres from near-Earth asteroid 469219 Kamoʻoalewa, having arrived at its quasi-satellite target on July 4 following a 400-day journey covering approximately one billion kilometres from Earth since its May 2025 launch. The China National Space Administration released the first close-up images of the asteroid on July 6, revealing Kamoʻoalewa to be a small, irregularly elongated rocky body, and ground teams have spent the intervening days building a detailed surface map to identify candidate sites for the mission's three-technique sample collection suite: hovering sampling, touch-and-go contact, and anchoring-attachment sampling contingent on surface regolith characteristics. New reflectance spectroscopy data returned this week has complicated the leading theory that Kamoʻoalewa is a fragment ejected from the lunar surface — the spectral signatures show properties inconsistent with any known lunar rock type in the sample collection, raising questions about whether the quasi-satellite's anomalous Earth-like orbit can be explained by a capture event rather than a lunar-impact ejection as previously modelled. Tianwen-2 is expected to complete its survey phase, execute sample collection over the coming months, and depart Kamoʻoalewa in April 2027 for a reentry capsule delivery of asteroid material to Earth in late November 2027 — where it will be followed by a second extended mission leg to the main-belt comet 311P/PANSTARRS.",
+        sourceUrl: "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
+        timestamp: "2026-07-18T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Long-Anticipated Sunspot Region AR4491 Emerges From Solar Limb and Immediately Produces Near-M-Class C5.3 Flare at 21:35 UTC on July 16 — Space Weather Forecasters Raise M-Flare Probability to 25 Percent as Region Rotates Into Full Earth-View and Perseid Meteor Shower Begins Month-Long Active Period",
+        body: "The sunspot region designated AR4491 — which had been producing flares from behind the Sun's southeastern limb for several days and was tracked by STEREO and Solar Orbiter imagery before rotating into Earth view — emerged into direct observation on July 17, 2026, and immediately demonstrated its activity potential by producing a C5.3 solar flare that peaked at 21:35 UTC on July 16 while still partially occulted, an intensity that forecasters noted qualifies as nearly M-class given the limb geometry that attenuates the apparent flux. NOAA Space Weather Prediction Center analysts have raised the probability of an M-class flare to 25 percent as AR4491 rotates to a position where its full magnetic complexity can be assessed, and the region's assigned alpha classification is considered provisional given that foreshortening near the limb can cause a region's true scale and polarity structure to appear smaller and simpler than it is. The emergence of AR4491 coincides with the opening of the annual Perseid meteor shower on July 17, which alongside two minor concurrent showers raises the baseline rate of visible meteors across the Northern Hemisphere through mid-August as Earth traverses the debris trail of Comet 109P/Swift-Tuttle. NASA's Heliophysics Division noted that the convergence of active solar conditions and the Perseid shower peak — expected around August 11-13 — creates an unusually rich period for public aurora and meteor observation should AR4491 produce Earth-directed coronal mass ejections over the coming weeks.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-07-18T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Operations",
+        headline: "Blue Origin LC-36 Rebuild Advances Into Phase 3 Structural Repairs With Hybrid Horizontal-Vertical Integration Architecture Confirmed — New Glenn Stages Escape Explosion Intact While Company Targets At Least One Launch Before Year-End Using Crane-Erect Pad Operations as $10 Billion Fundraise Funds Accelerated Recovery",
+        body: "Blue Origin's reconstruction of Launch Complex 36 at Cape Canaveral Space Force Station has entered Phase 3 — focused on concept of operations design and major structural repairs — following the completion of Phase 2 debris removal nine days after the May 28 explosion that destroyed the pad's transporter-erector, lightning protection tower, and hydraulic systems during a New Glenn integrated vehicle hotfire test. The company confirmed its new operational architecture: New Glenn vehicles will be horizontally mated in the adjacent Integration Facility, transported to the launch site in the integrated configuration, and then raised vertical using a crane that attaches the customer payload once the vehicle is erect — a departure from the previous vertical-stack approach and one that eliminates the destroyed transporter-erector from the critical path entirely. All four New Glenn stages present at the pad during the explosion — three Glenn Stage 2 upper stages and the first-stage booster named Never Tell Me The Odds — survived without damage, meaning Blue Origin retains flight-ready hardware for the return-to-flight campaign CEO Dave Limp continues to target before the end of 2026 despite widespread industry scepticism that the compressed schedule is achievable. The recovery effort is being bankrolled in part by the $10 billion external fundraise closed earlier this month at a $130 billion company valuation, which gives Blue Origin capital independent of founder Jeff Bezos for the first time and the financial runway to execute an accelerated rebuild at a pace its self-funded history would not have allowed.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/",
+        timestamp: "2026-07-18T14:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-17": {
     date: "July 17, 2026",
     stories: [
