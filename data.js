@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-20": {
+    date: "July 20, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 24 Starlink V2 Mini Satellites on 85th Falcon 9 Mission of 2026 From Vandenberg — Booster B1082 Lands on Droneship 'Of Course I Still Love You' After 23rd Flight as Constellation Surpasses 10,800 Active Spacecraft in Orbit",
+        body: "SpaceX launched a Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space Force Base on July 20, 2026, deploying 24 Starlink V2 Mini broadband satellites to low Earth orbit in the company's 85th Falcon 9 mission of the year and its 67th dedicated Starlink flight in 2026. First-stage booster B1082, flying for its 23rd time after a mission history spanning NROL-145, USSF-62, and OneWeb Launch 20, executed a successful return and landing on the droneship Of Course I Still Love You stationed in the Pacific Ocean downrange from the California spaceport. The 24 satellites will manoeuvre to their operational altitude shells over the following days, joining a constellation that has now surpassed 10,800 active spacecraft — a figure that accounts for more than half of all active satellites in orbit globally. SpaceX's sustained Falcon 9 launch cadence of roughly one mission every four days continues to dominate the global commercial launch market as the company simultaneously prepares Starship for its next test flight.",
+        sourceUrl: "https://spaceflightnow.com/2026/07/20/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-11/",
+        timestamp: "2026-07-20T14:49:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Confirms Starship Flight 13 Will Target July 23 at 10:45 PM UTC After Engine Replacement Programme Concludes — Two Swapped Raptors Clear Ground Checkouts as Company Publishes Updated Maritime Warnings for Gulf of Mexico Booster Splashdown Zone and Indian Ocean Reentry Corridor",
+        body: "SpaceX confirmed on July 20, 2026, that Starship Flight 13 will target no earlier than July 23 at 10:45 PM UTC following the successful completion of the two Raptor engine replacements on the Super Heavy booster that were identified as the root cause of the zero-second abort on July 16. Both replacement engines have cleared ground checkout procedures, and SpaceX has updated maritime navigation warnings for the Gulf of Mexico booster splashdown corridor and the Indian Ocean reentry zone to reflect the new date, the standard regulatory step that precedes countdown operations. Ship 40, carrying 20 first-operational Starlink V3 satellites and an array of cameras designed to image heat shield tile behaviour during reentry, remains in a flight-ready configuration at Pad 2 in Boca Chica awaiting restacking with the repaired booster. The July 23 window is the last practical opportunity within the current FAA-approved launch licence period, making the upcoming attempt the final chance before SpaceX would need to seek a new licence authorisation that could extend the stand-down by weeks.",
+        sourceUrl: "https://www.teslaoracle.com/2026/07/20/spacex-confirms-the-new-date-for-the-starship-flight-13-launch-test-ift-13/",
+        timestamp: "2026-07-20T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Astronomers Solve Decades-Old Solar Mystery With New Atmospheric Model Showing the Sun Contains 55 Percent More Silver Than Previously Calculated — Revised Turbulent-Convection Physics Finally Reconciles Stellar Spectroscopy With Meteorite Abundances That Have Disagreed for 30 Years",
+        body: "A new study published in July 2026 has resolved a long-standing discrepancy in solar physics by showing that the Sun actually contains 55 percent more silver than previously calculated, finally bringing stellar spectroscopic measurements into agreement with the silver abundances measured in primitive meteorites — which formed from the same gas-and-dust cloud as the Sun 4.6 billion years ago and have served as a trusted chemical benchmark. The breakthrough came not from new observations but from a more physically realistic model of the Sun's turbulent outer atmosphere: lead researcher Sema Caliskan, who conducted the work during her Ph.D. studies at Uppsala University, incorporated the genuinely dynamic, convective nature of the solar photosphere along with updated atomic physics describing how silver atoms interact with photons in that environment, replacing a simplified static model that had underpinned abundance calculations for three decades. The previous discrepancy had been a persistent embarrassment for stellar physics because the Sun is astronomy's primary chemical reference point — an element as seemingly minor as silver being off by more than half implied that either the solar model or the meteorite measurements were fundamentally flawed, with ramifications for how abundances are inferred in thousands of other stars. The corrected solar silver abundance is expected to cascade through calculations of stellar interiors, galactic chemical evolution models, and exoplanet atmospheric composition estimates that all use solar elemental ratios as their baseline.",
+        sourceUrl: "https://phys.org/news/2026-07-sun-silver-reveals.html",
+        timestamp: "2026-07-20T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Clears Three Critical Gaganyaan G1 Qualification Tests — Crew Module Uprighting System, Module Separation, and Apex Cover Structural Integrity All Validated Ahead of Uncrewed G1 Mission Carrying Vyommitra Robot, Now Targeted for Q3 2026",
+        body: "The Indian Space Research Organisation announced successful completion of three crucial qualification tests for the Gaganyaan crew module ahead of the uncrewed G1 demonstration flight, now targeted for the third quarter of 2026, with results confirming readiness of the Crew Module Uprighting System, the module-to-service-module separation mechanism, and the apex cover that protects the parachute system during launch and reentry. The Crew Module Uprighting System — designed to right a capsule that lands inverted in the ocean — was validated using stored cold gas released through control valves to inflate buoyancy bags that rotate the capsule upright, a recovery-critical function that astronaut safety depends on entirely once the capsule splashes down. Module separation testing confirmed that the crew module and service module disconnect cleanly and the structural integrity of both segments remains intact through the separation event, while the apex cover test verified that the protective cap maintains its seal against launch aerodynamic loads before jettisoning at precisely the correct moment to release the parachutes. The G1 uncrewed mission will carry Vyommitra — ISRO's half-humanoid robot — in the crew seat to exercise and verify all life-support systems, atmospheric management, and safety systems in orbit before human astronauts fly aboard the crewed Gaganyaan mission currently expected in 2027.",
+        sourceUrl: "https://www.theweek.in/news/sci-tech/2026/07/14/gaganyaan-mission-isro-tests-completed-launch-soon.html",
+        timestamp: "2026-07-20T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Industry",
+        headline: "ESA Opens Week-Long Farnborough International Airshow Campaign Showcasing Ariane 6, MetOp SG-B1 Preparations, and Upcoming Hera Asteroid Mission Milestones — Agency Uses World's Premier Aerospace Event to Brief Ministers and Industry on Path to Independent European Launch Cadence and 2026 Science Mission Deliverables",
+        body: "The European Space Agency opened its presence at the 2026 Farnborough International Airshow on July 20, beginning a five-day campaign at the United Kingdom's flagship aerospace exhibition that runs through July 24 and serves as a key diplomatic and industry engagement platform for ESA leadership to brief ministers, commercial partners, and the public on the agency's programme portfolio and strategic priorities. ESA's pavilion is anchoring its messaging around three near-term milestones: the restored independent European launch access provided by Ariane 6, the cleanroom preparations underway in Toulouse for the MetOp Second Generation B1 meteorological satellite targeting a Q4 2026 launch, and the BepiColombo mission's expected Mercury orbit insertion in late 2026 after the joint ESA-JAXA spacecraft completes its final planetary flyby. The Hera planetary defence mission — which is tracking toward a rendezvous with the Didymos double-asteroid system in November 2026 to characterise the impact crater left by NASA's DART spacecraft — will also feature prominently as an example of ESA's scientific leadership and its role in the international planetary defence architecture. The final day of the airshow, July 24, will be open to the general public under the title Pioneers of Tomorrow, with ESA education and outreach activities targeting the next generation of European space scientists and engineers.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-07-20T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-19": {
     date: "July 19, 2026",
     stories: [
