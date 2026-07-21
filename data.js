@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-21": {
+    date: "July 21, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches World's First Private Robotic GEO Servicing Spacecraft as Falcon 9 Booster B1069 Completes 32nd and Final Flight Carrying Northrop Grumman's Mission Robotic Vehicle and Three Mission Extension Pods From Cape Canaveral — MRV-1 Will Spend a Decade Extending Lives of Client Geosynchronous Satellites Using DARPA-Developed Twin Robotic Arms",
+        body: "SpaceX launched a Falcon 9 rocket from Cape Canaveral Space Force Station on July 21, 2026, deploying Northrop Grumman's Mission Robotic Vehicle (MRV-1) alongside three Mission Extension Pods during an evening launch window that opened at 5:15 p.m. EDT — a mission Northrop Grumman describes as the world's first private robotic in-space servicing spacecraft for operational satellites in geosynchronous orbit. MRV-1 is equipped with two robotic arms developed by the U.S. Naval Research Laboratory and provided by DARPA, enabling it to perform inspection, maintenance, hardware installation, repairs, and upgrades on client satellites — capabilities that extend well beyond the propulsion-only life extension offered by Northrop Grumman's earlier Mission Extension Vehicle. The spacecraft will spend up to a decade in GEO installing Mission Extension Pod jetpacks onto client satellites to restore their propulsion margins and extend operational lifetimes, potentially saving operators billions of dollars in replacement satellite costs. Falcon 9 booster B1069, completing its 32nd and final mission, executed a return-to-launch-site landing, capping an extensive career that has helped validate the reusability economics underpinning the commercial launch industry.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-northrop-grumman-mrv-mep-satellite-servicing-mission",
+        timestamp: "2026-07-21T21:15:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Booster B1082 Suffers Second Consecutive Last-Second Engine Startup Abort at Vandenberg in 24 Hours as Starlink 17-39 Mission Remains Grounded on Pad 4E — SpaceX Investigating Mystery Anomaly After Three Back-to-Back Auto-Aborts Across Two Vehicles in One Week Including Starship Flight 13 on July 16",
+        body: "SpaceX experienced an unprecedented second consecutive last-second abort of Falcon 9 booster B1082 at Space Launch Complex 4 East at Vandenberg Space Force Base on July 21, 2026, when all nine Merlin engines briefly ignited before the flight computer commanded an automatic shutdown during the engine startup sequence — repeating the identical abort sequence that halted the Starlink 17-39 mission a day earlier on July 20. The back-to-back scrubs represent a rare rough patch for the vehicle, coming just days after Starship Flight 13 also aborted at Starbase on July 16, meaning SpaceX suffered three last-second aborts across two vehicles within one week — an anomaly cluster with no modern precedent for the company. The root cause of both Vandenberg shutdowns has not been publicly disclosed, though the auto-abort system functioned correctly in both instances by detecting the anomaly and safing the vehicle before it could leave the pad; B1082 was attempting its 23rd flight. SpaceX confirmed it is reviewing data from both attempts before setting a new launch date for the 24 Starlink V2 Mini satellites stranded on the pad.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-abort-falcon-9-starlink-satellites-vandenberg",
+        timestamp: "2026-07-21T14:43:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Fast Solar Wind From Large Coronal Hole Arrives at Earth Late July 21 at Nearly 700 km/s as NOAA Forecasts G1 to G2 Geomagnetic Storm Conditions — Aurora Visible From 10 Northern US States Overnight Tuesday as Solar Activity Coincides With Perseid Meteor Shower's Early Active Period and First-Quarter Moon",
+        body: "A large coronal hole that recently crossed the center of the Sun's Earth-facing disk began delivering a high-speed solar wind stream to Earth's magnetosphere late on July 21, 2026, with measured velocities approaching 700 km/s — more than twice the typical baseline solar wind speed — producing geomagnetic conditions that NOAA's Space Weather Prediction Center forecast could escalate from G1 (minor) to G2 (moderate) storm levels by early July 22. The arriving stream, tracked for several days as the coronal hole rotated into an Earth-directed position following the earlier emergence of active sunspot region AR4491, is generating sufficient magnetic disturbance to push auroral ovals to latitudes corresponding to the northern United States, with observers in Washington, Montana, Michigan, and at least seven other northern border states having clear-sky opportunities to observe the northern lights overnight Tuesday into Wednesday. NASA's Heliophysics Division noted that the solar wind event coincides with the early-activity period of the Perseid meteor shower — which began July 17 and peaks around August 11-13 — creating an unusually rich observing window for sky-watchers willing to stay up late. Even G2-level geomagnetic conditions can produce voltage fluctuations in high-latitude power grids and alter atmospheric drag on satellites in low Earth orbit, keeping network operators on alert.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-07-21T18:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Industry",
+        headline: "Farnborough Airshow Day 2 Sees UK Government Unveil £62 Million Space Technology Funding Package as ESA Space Zone Showcases MetOp-SG, Hera Planetary Defence, and BepiColombo Mercury Milestones — Space, Defence, and AI Define 2026 Edition as Record Industry Orders Confirm Sector Confidence Despite Economic Headwinds",
+        body: "The second day of the Farnborough International Airshow 2026 on July 21 saw the UK government announce a £62 million funding package to support homegrown space technologies — the most significant British space investment declaration in several years — coinciding with ESA's active Space Zone presence in Hall 3 where agency leadership briefed ministers and commercial partners on the near-term programme portfolio. ESA is using the Farnborough platform to highlight three imminent milestones: cleanroom preparations in Toulouse for the MetOp Second Generation B1 meteorological satellite targeting a Q4 2026 launch, the Hera planetary defence mission tracking toward its November 2026 rendezvous with the Didymos double-asteroid system to characterise the DART impact crater, and BepiColombo's expected Mercury orbit insertion in late 2026 after seven years and multiple planetary flybys. The 2026 edition is being defined as much by investments in space, defence, and artificial intelligence as by commercial aviation orders, with analysts noting that growing strategic importance of satellite infrastructure for communications, navigation, and Earth observation is reshaping the entire sector's investment calculus. Record industry orders on the show's first two days confirmed strong market confidence, with space-related contracts accounting for a larger share of announced deals than at any previous Farnborough edition.",
+        sourceUrl: "https://www.newelectronics.co.uk/content/blogs/farnborough-2026-space-defence-and-ai-set-the-tone-at-this-year-s-show",
+        timestamp: "2026-07-21T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "Tianwen-2 Close-Proximity Survey Reveals Kamoʻoalewa Is Only 20 Metres Long — Half of Pre-Arrival Ground Radar Estimates — as New Spectral Data Further Undermines Lunar-Fragment Origin Theory and Mission Prepares for First Touch-and-Go Sample Collection Attempt From the Smallest Asteroid Ever Targeted for Sample Return",
+        body: "China's Tianwen-2 asteroid sample-return spacecraft has refined asteroid Kamoʻoalewa's dimensions to just 20 metres in length — approximately half the size that ground-based radar and optical telescopes had estimated before close-proximity imaging from a 20-kilometre station-keeping orbit — while updated reflectance spectroscopy data released this week continues to challenge the dominant theory that the quasi-satellite is a fragment ejected from the lunar surface in an ancient impact event. The China National Space Administration noted that Kamoʻoalewa's surface composition does not match any lunar rock type in the global sample collection, a finding that complicates models explaining the asteroid's unusual Earth-quasi-satellite orbit via a lunar-ejection mechanism and may alternatively point to a gravitational capture origin, a distinction that the returned sample could help resolve definitively. Mission controllers at the Beijing Aerospace Control Centre are currently evaluating the best candidate touchdown sites for the spacecraft's three-mode sample collection suite — hovering sampling, touch-and-go contact, and anchoring attachment — with site selection expected to conclude before the first collection attempt in the coming months. Tianwen-2 must complete its sample collection no later than April 2027 before departing for an Earth return trajectory, with a capsule delivering between 100 and 1,000 grams of asteroid material in November 2027 before the spacecraft continues toward main-belt comet 311P/PANSTARRS.",
+        sourceUrl: "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
+        timestamp: "2026-07-21T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-20": {
     date: "July 20, 2026",
     stories: [
