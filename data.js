@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-22": {
+    date: "July 22, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "Orienspace Gravity-1 Solid-Propellant Rocket Lifts Off From Yellow Sea Barge Deploying Approximately 30 Commercial Satellites in Vehicle's Third Career Flight and First Fully Commercial Mission — China's Private Launch Sector Demonstrates Growing Operational Tempo as World's Most Capable All-Solid Orbital Vehicle Expands Domestic Constellation Capacity Beyond State-Owned Competitors",
+        body: "Chinese commercial launch provider Orienspace successfully launched its Gravity-1 solid-propellant rocket from a maritime barge platform in the Yellow Sea in the early hours of July 22, 2026 UTC, deploying approximately 30 commercial communications and remote sensing satellites into low Earth orbit — the third career flight of the vehicle and its first fully commercial revenue-generating mission. Gravity-1 is the world's most capable all-solid orbital launch vehicle, rated to carry 6.5 tonnes to low Earth orbit or 4.2 tonnes to sun-synchronous orbit, and its maritime launch approach allows flexible orbital inclinations unavailable from China's inland land-based sites. The mission cements Orienspace's position among a growing cohort of Chinese commercial launch providers operating alongside state entities CASC and CASIC, following the company's two earlier developmental flights in 2024 and 2025. Gravity-1's expendable architecture — all seven solid motors are consumed on each flight — contrasts sharply with the reusable Long March 10B that debuted just twelve days earlier on July 10, illustrating the diverse and rapidly maturing strategies China's commercial launch industry is simultaneously pursuing.",
+        sourceUrl: "https://www.techtimes.com/articles/321010/20260720/gravity-1-sets-wednesday-liftoff-solid-rockets-first-commercial-constellation-run.htm",
+        timestamp: "2026-07-22T02:50:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Completes All Final Pre-Launch Checks for Starship Flight 13 as Stacked 122-Metre Vehicle Stands Ready at Starbase Pad 2 for Tomorrow's July 23 Window at 10:45 PM UTC — FAA Licence Confirmed, 33 Raptors Nominal, and Ship 40 Carrying 20 First-Ever Operational Starlink V3 Satellites Awaits Last Countdown Opportunity Before Licence Expiry Would Force Multi-Week Stand-Down",
+        body: "SpaceX confirmed on July 22, 2026, that all final pre-launch checkouts for Starship Flight 13 are complete and the fully stacked vehicle is cleared for a launch attempt targeting a 90-minute window opening at 10:45 PM UTC on July 23 — the last viable opportunity under the current FAA-approved launch licence before a new authorisation would be required, potentially extending the stand-down by several weeks. Both Raptor engines replaced on the Super Heavy booster following the July 16 zero-second abort have passed all ground checkout procedures, and all 33 Raptor engines report nominal readiness ahead of what is shaping up to be the most consequential Starship test to date. Ship 40 carries 20 operational Starlink V3 broadband satellites — the first commercial payload ever flown on Starship — along with an array of cameras positioned to document heat shield tile performance during the hypersonic reentry phase over the Indian Ocean, imagery critical for validating the tile upgrades introduced on this vehicle generation. Success on Flight 13 is a direct prerequisite for both SpaceX's plan to routinely deploy Starlink V3 constellations and NASA's Artemis lunar surface missions, which depend on a flight-proven Starship Human Landing System.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-20-2026",
+        timestamp: "2026-07-22T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Technology",
+        headline: "Blue Origin Details Novel Hybrid Assembly-and-Transport Architecture for New Glenn Return to Flight Targeting December 2026 — Company Abandons Destroyed Launch Complex 36 Fixed-Erector Approach in Favour of Mobile Crane Lift After Catastrophic May 28 Third-Booster Static Fire Explosion That Levelled Pad and Triggered Full Structural Inspection of Remaining Vehicle Fleet",
+        body: "Blue Origin released detailed plans on its path to returning New Glenn to flight by December 2026 using a redesigned hybrid launch architecture that replaces the fixed-erector system at the now-destroyed Launch Complex 36, following the catastrophic static fire explosion on May 28 that destroyed the company's third first-stage booster and severely damaged the pad's flame trench and launch mount beyond near-term repair. Under the new approach, New Glenn will be assembled horizontally in the vehicle processing facility, transported fully assembled to the pad, lifted vertical using a large mobile crane, and mated to its payload at the pad — a workflow that eliminates the need to rebuild the complex fixed erector before launches can resume. The May 28 anomaly, believed to involve a propellant system failure during the BE-4 engine static fire test, rendered the blast hole in the pad too deep for rapid repair, prompting the company to develop a launch scheme that can operate over a temporary pad surface while full reconstruction proceeds in parallel. Blue Origin says two additional New Glenn vehicles in various stages of production were not present at LC-36 during the explosion and remain undamaged, with the first of those expected to fly the return-to-flight mission before year's end.",
+        sourceUrl: "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/",
+        timestamp: "2026-07-22T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "James Webb Space Telescope Records a Supermassive Black Hole Actively Feeding on Infalling Gas in Real-Time Multi-Wavelength Observation — MIRI and NIRSpec Instruments Capture Accretion Disk Brightening Event at Cosmological Distance, Yielding Unprecedented Temporal Resolution of AGN Variability That Will Calibrate Models of How Black Holes Co-Evolved With Their Host Galaxies",
+        body: "NASA's James Webb Space Telescope released imagery and spectroscopic data this week documenting a supermassive black hole in the act of actively accreting surrounding gas and dust, capturing the brightening of an active galactic nucleus accretion disk in real time with temporal resolution no prior space telescope could achieve at equivalent distances. The observations, obtained using Webb's Mid-Infrared Instrument (MIRI) and Near-Infrared Spectrograph (NIRSpec) simultaneously, allowed scientists to constrain the physical size of the emitting region and the instantaneous accretion rate — key quantities underpinning theoretical models of AGN feedback, the process by which supermassive black holes regulate star formation in their host galaxies by injecting energy into surrounding gas. Prior direct temporal measurements of individual AGN variability events were limited by the sensitivity and infrared wavelength coverage of older facilities like Hubble and Spitzer, making Webb's real-time accretion observations a qualitative step forward for the field. The dataset is expected to calibrate a new generation of cosmological simulations tracking how supermassive black holes and their host galaxies co-evolved across the 13.8-billion-year history of the universe.",
+        sourceUrl: "https://science.nasa.gov/mission/webb/latestnews/",
+        timestamp: "2026-07-22T16:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Industry",
+        headline: "Farnborough International Airshow Day 3 Features Hera Planetary Defence Mission Rendezvous Briefings and New Ariane 6 Commercial Manifest Announcements as ESA Space Zone Draws Record Trade Day Crowds — Agency Confirms November 2026 Didymos Asteroid Arrival on Schedule as UK Space Agency Unveils Follow-On Funding Tranche Building on £62 Million Package",
+        body: "The third trade day of the Farnborough International Airshow 2026 on July 22 kept the European Space Agency in the spotlight, with ESA leadership conducting public briefings confirming that the Hera planetary defence mission remains on track for its November 2026 rendezvous with the Didymos–Dimorphos asteroid system, where it will characterise the impact crater and ejecta field created by NASA's DART spacecraft in September 2022. ESA's Space Zone in Hall 3 drew its largest single-day attendance of the show, with government ministers, commercial partners, and media briefed on the Ariane 6 commercial manifest through mid-2027 and on BepiColombo's expected Mercury orbit insertion in late 2026 after its joint ESA–JAXA spacecraft completes its seven-year interplanetary journey. The UK Space Agency announced a follow-on funding tranche building on the £62 million space technology package unveiled on Day 2, with additional commitments directed toward in-orbit servicing demonstration programmes and secure satellite communications systems identified as priorities under the UK's National Space Strategy. Record commercial order volumes across the first three trade days of the show — with space-related contracts representing an unprecedented share of announced deals — continued to underscore the sector's investment momentum despite broader macroeconomic uncertainty affecting other aerospace segments.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-07-22T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-21": {
     date: "July 21, 2026",
     stories: [
