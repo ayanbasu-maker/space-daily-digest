@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-24": {
+    date: "July 24, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Tropical Storm Bertha Forces Third Starship Flight 13 Launch Scrub at Starbase as SpaceX Stands Down From July 24 Window and Awaits Gulf Coast Storm Clearance — Vehicle Safed With 20 Starlink V3 Satellites Still Aboard and No New Date Announced as Repeated Engine Anomalies, Weather Delays, and Potential FAA Licence Reset Combine to Push World's First Operational Starship Payload Mission Into August at Earliest",
+        body: "SpaceX scrubbed its third launch attempt for Starship Flight 13 on July 24, 2026, standing the vehicle down from a 90-minute window that opened at 10:45 PM UTC when deteriorating weather conditions tied to Tropical Storm Bertha tracking toward the Texas Gulf Coast made the attempt untenable — preventing the clear ground-based visual documentation of Starship's upgraded heat shield tiles during ascent that SpaceX identified as a key objective requiring unobstructed sky conditions. The weather scrub came after SpaceX had set July 24 as the new target following the second engine-startup abort at T-0 on July 23, with engineers conducting a further review of the ignition sequence on Super Heavy Booster 20's Raptor engines in the intervening hours before tropical storm conditions foreclosed the window. Both Booster 20 and Ship 40 — still carrying their unprecedented cargo of 20 operational Starlink V3 broadband satellites, the first commercial payload ever manifested on a Starship vehicle — were returned to safe configuration at Starbase as meteorologists tracked Bertha's projected landfall along the Texas coast. SpaceX has not announced a revised launch date, and with the FAA launch licence that was already stressed by the previous delays now requiring re-evaluation alongside the tropical storm stand-down, a fourth attempt is unlikely before early August at the earliest.",
+        sourceUrl: "https://www.newser.com/story/393397/bertha-thwarts-spacexs-do-over-of-starship-flight-13.html",
+        timestamp: "2026-07-24T22:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA Announces Departure Coverage as Soyuz MS-28 Crew Completes Final Science Activities Ahead of Sunday July 26 Undocking — Astronaut Chris Williams and Cosmonauts Kud-Sverchkov and Mikaev Set to Return After 241-Day Expedition 74 Mission as Jessica Meir Prepares to Assume Command and Begin Expedition 75 Aboard the International Space Station",
+        body: "NASA announced media and public coverage for the return of Expedition 74 crew members on July 24, 2026, as NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev wrapped up their final science experiments and spacesuit maintenance activities aboard the International Space Station ahead of their scheduled departure on Sunday, July 26. The Soyuz MS-28 spacecraft carrying the trio is set to undock from the station's Rassvet module at 3:03 a.m. EDT on July 26, with parachute-assisted touchdown on the Kazakh steppe southeast of Dzhezkazgan targeted for 6:25 a.m. EDT — concluding a 241-day mission that represents the first flight for both Williams and Mikaev, and the second for Kud-Sverchkov. At the moment of undocking, Roscosmos cosmonaut Kud-Sverchkov will formally transfer command of the orbital complex to NASA astronaut Jessica Meir, initiating Expedition 75 and marking a leadership transition that will carry the station through the remainder of 2026. The returning crew spent their final full day aboard conducting handover briefings with oncoming crew members and completing the standard pre-departure medical assessments required before re-entry.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-chris-williams-crewmates-return/",
+        timestamp: "2026-07-24T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "China's Tianwen-1 Mars Orbiter Releases Unprecedented Close-Range Images of Interstellar Comet 3I/ATLAS — Spacecraft's High-Resolution Camera Captures Coma and Tail Structure of Only Third Confirmed Interstellar Visitor From Approximately 30 Million Kilometres, Providing Humanity's First Spacecraft-Based View of a Comet Racing Through the Inner Solar System From Beyond Our Star's Domain",
+        body: "China's Tianwen-1 Mars orbiter captured and released a remarkable sequence of images showing the interstellar comet 3I/ATLAS from approximately 30 million kilometres as the object raced past Mars — making these among the closest spacecraft-obtained images ever taken of an interstellar visitor and providing scientists with a view of a coma and nascent tail composed of material that originated in another planetary system entirely. Discovered on July 1, 2025, by the NASA-funded ATLAS survey telescope in Chile and confirmed as only the third interstellar object ever detected — following 1I/'Oumuamua in 2017 and 2I/Borisov in 2019 — 3I/ATLAS has been tracked by observatories worldwide as it travels through the inner solar system on a hyperbolic trajectory that ensures it will never return. Tianwen-1, which completed its primary Mars science mission and has been operating in an extended mission phase, was uniquely positioned in Mars orbit to image the comet as it passed through the planet's neighbourhood, giving Chinese scientists a rare opportunity to exploit the spacecraft as a deep-space observatory beyond its original mandate. The imagery published by CNSA will help constrain the comet's composition and activity rate as it approaches perihelion, contributing to global efforts to characterise the physical properties of material exported from another stellar system into our own.",
+        sourceUrl: "https://www.space.com/astronomy/comets/chinas-tianwen-1-mars-probe-captures-images-of-interstellar-comet-3i-atlas",
+        timestamp: "2026-07-24T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Clears Three Critical Gaganyaan Crew Module Qualification Tests Covering Uprighting System, Service Module Umbilical Separation, and Apex Cover Structural Loads — Successful Validations Remove Key Technical Risks From India's Human Spaceflight Programme and Maintain Schedule Momentum Toward G1 Uncrewed Orbital Test Flight Targeting Late 2026 With Humanoid Robot Vyommitra Aboard",
+        body: "The Indian Space Research Organisation confirmed successful completion of three critical Gaganyaan crew module qualification tests in the weeks preceding today's announcement — validating the Crew Module Up-righting System (CMUS) that uses stored cold gas to ensure the capsule orients correctly after ocean splashdown, the Crew Module Service Module Connect Disconnect System (CSCDS) that governs the separation of the umbilical link between the crew and service modules during descent, and the crew module structure's ability to withstand loads generated during apex cover jettison. Each of the three tests addresses a distinct phase of the crew recovery sequence that astronauts will depend on during actual Gaganyaan missions: a failure in any one system could leave a capsule inverted at sea, unable to separate its modules cleanly, or structurally compromised during the critical period before parachute deployment. The qualification milestones clear the path for ISRO to proceed toward the G1 uncrewed orbital test flight targeted for late 2026, which will carry the half-humanoid robot Vyommitra in the astronaut's seat to verify life support, crew safety, and re-entry systems before any Indian cosmonaut — or Gaganauta — flies aboard. India aims with Gaganyaan to become only the fourth nation after the United States, Russia, and China to independently send humans to space and return them safely to Earth.",
+        sourceUrl: "https://www.business-standard.com/technology/tech-news/isro-successfully-carries-out-tests-of-gaganyaan-crew-module-systems-126071200596_1.html",
+        timestamp: "2026-07-24T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-23": {
     date: "July 23, 2026",
     stories: [
