@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-25": {
+    date: "July 25, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 13 Achieves Historic First as 'Lucky 13' Mission Successfully Launches 20 Operational Starlink V3 Satellites Into Orbit After Three Previous Scrubs — Super Heavy Booster Executes Nominal Boostback and Offshore Landing as Ship Completes Indian Ocean Splashdown, With SpaceX Confirming Contact With All 20 V3 Payloads That Deliver 10× Downlink and 22× Uplink Capacity Gains Over Prior Generation",
+        body: "SpaceX's Starship Flight 13 launched successfully on the evening of July 24, 2026, at 6:51 p.m. EDT from Starbase's Pad 2, overcoming three prior scrub attempts — including repeated ignition aborts and weather delays tied to Tropical Storm Bertha — to deliver 20 operational Starlink V3 broadband satellites to orbit for the first time in history. The Super Heavy booster executed a nominal ascent, stage separation, boostback burn, and offshore landing in the Gulf of Mexico, while Ship 40 deployed its unprecedented payload before completing a controlled re-entry and splashdown in the Indian Ocean — the vehicle's most complete end-to-end demonstration to date. SpaceX confirmed communication with all 20 V3 satellites shortly after deployment; the next-generation spacecraft represent a dramatic capacity leap, with each supporting up to 1 Tbps of downlink — ten times the throughput of the V2 Mini generation — and 160 Gbps of uplink, a 22-fold increase that will materially expand Starlink's broadband capacity per orbital shell. With the first operational Starship payload mission now complete, SpaceX is positioned to begin routine V3 constellation deployment cadence and has cleared a critical prerequisite for NASA's Artemis crewed lunar landing programme, which depends on a flight-proven Starship Human Landing System.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-13-launch-updates-july-24-2026",
+        timestamp: "2026-07-25T00:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Jessica Meir Assumes Command of International Space Station as Expedition 74 Ends in Live NASA+ Ceremony — Sergey Kud-Sverchkov Passes the Reins at 9:40 AM EDT on July 25 and Expedition 75 Begins, With Soyuz MS-28 Crew of Williams, Kud-Sverchkov, and Mikaev Scheduled to Undock and Return to Earth Early Sunday July 26 After 241-Day Mission",
+        body: "NASA astronaut Jessica Meir formally assumed command of the International Space Station in a ceremony broadcast live on NASA+ at 9:40 a.m. EDT on July 25, 2026, as outgoing Expedition 74 commander Roscosmos cosmonaut Sergey Kud-Sverchkov transferred the ceremonial station key and signed over operational authority in the traditional handover that marks the boundary between expeditions. The ceremony took place as Soyuz MS-28 departure preparations entered their terminal phase, with Kud-Sverchkov, cosmonaut Sergei Mikaev, and NASA astronaut Chris Williams set to undock at 3:03 a.m. EDT on July 26 for a parachute-assisted landing in Kazakhstan, concluding a 241-day mission that is the first spaceflight for both Williams and Mikaev. With the command transfer complete, Meir now holds authority over the station's remaining crew and serves simultaneously as commander of the Crew Dragon Freedom spacecraft berthed at the complex — a dual-command role she will hold through late summer 2026. The transition sets the stage for an active Expedition 75 science programme centred on cancer therapy research, microgravity chip fabrication, and continued Artemis-era biomedical studies.",
+        sourceUrl: "https://spacepolicyonline.com/events/iss-change-of-command-ceremony-july-25-2026-earth-orbit-940-am-et/",
+        timestamp: "2026-07-25T13:40:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Launches 24 Starlink V2 Mini Satellites to Sun-Synchronous Orbit From Vandenberg in Saturday Morning Mission — Rocket Lifts Off at 7:00 AM PDT From SLC-4E and Booster Recovers Successfully on OCISLY Droneship in the Pacific as SpaceX Sustains Multi-Launch-Per-Week Cadence Even on the Day After Starship Flight 13's Historic Success",
+        body: "SpaceX launched a Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space Force Base at 7:00 a.m. PDT on July 25, 2026, carrying 24 Starlink V2 Mini satellites on a southward trajectory to sun-synchronous orbit, less than 12 hours after Starship Flight 13's successful overnight deployment of the first Starlink V3 batch. The first stage executed its entry burn and landing on the Of Course I Still Love You autonomous droneship stationed in the Pacific Ocean, while the second stage delivered the satellite stack to its target orbital shell for staged deployment and manoeuvring to operational altitude. The mission continues SpaceX's relentless Starlink replenishment cadence, which has seen the company maintain multiple Falcon 9 flights per week throughout 2026 — a tempo that runs in parallel with the Starship programme's larger headline milestones. The 24 newly deployed V2 Mini spacecraft will be raised to their operational planes over the following days and begin contributing to Starlink's global broadband coverage ahead of the next V3-generation batch expected on Starship's next flight.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-07-25T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA SunRISE Heliophysics SmallSat Constellation Reassigned From Vulcan Centaur to SpaceX Falcon Heavy After Second ULA Schedule Displacement — Six-Satellite Virtual Radio Telescope Targeting Slightly-Above-GEO Orbit Will Track Solar Radio Bursts Tied to Energetic Particle Events That Threaten Satellites and Astronauts, Launching as USSF Space Systems Command Rideshare",
+        body: "NASA's Sun Radio Interferometer Space Experiment (SunRISE) mission was assigned to a SpaceX Falcon Heavy launch vehicle in mid-July 2026, replacing a United Launch Alliance Vulcan Centaur slot that had previously been allocated to the mission — the second time a Vulcan Centaur booking has been displaced from a NASA heliophysics mission as ULA works to mature the rocket's launch rate. SunRISE consists of six toaster-oven-sized SmallSats that will fly in coordinated formation slightly above geosynchronous orbit at approximately 22,000 miles altitude, operating in concert as a single virtual radio telescope to image and track the radio bursts generated by energetic solar particle events that can disable satellite hardware and elevate radiation exposure for astronauts aboard the ISS and future Artemis lunar missions. The spacecraft will fly as a rideshare under the United States Space Force's Space Systems Command sponsorship, with NASA to announce updated launch timing once the payload has been integrated into the Falcon Heavy's manifest schedule. SunRISE fills a critical observational gap in the sun-Earth space weather architecture by providing radio burst imaging at angular resolutions that no single spacecraft could achieve, directly serving the agency's need to characterise the hazard environment for its expanding crewed spaceflight programme.",
+        sourceUrl: "https://science.nasa.gov/blogs/sunrise/2026/07/13/nasas-sunrise-mission-changes-launch-vehicle-to-spacex-falcon-heavy/",
+        timestamp: "2026-07-25T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "Plato Exoplanet-Hunting Spacecraft Clears Final Major Pre-Launch Qualification Hurdle as All 26 Cameras and Subsystems Pass Electromagnetic Compatibility Testing Simultaneously Inside Maxwell Chamber at ESTEC — Hardware Certified Fit for Space and Mission Stays on Track for March 2027 Arianespace Launch to L2 for Decade-Long Hunt for Earth-Twin Planets Around Sun-Like Stars",
+        body: "Engineers at ESA's technical centre ESTEC in Noordwijk, the Netherlands, sealed the completed Plato spacecraft inside the Maxwell electromagnetic compatibility test chamber and ran all 26 of its ultrasensitive cameras and electronic subsystems simultaneously in July 2026 — verifying that the instrument's own internal electronics generate no interference sufficient to corrupt the photometric measurements required to detect the minute stellar brightness dips caused by transiting exoplanets. The test represents the final major qualification milestone before shipment to the launch site, following Plato's earlier thermal vacuum campaign in the Large Space Simulator that began in February 2026, and its successful completion means the spacecraft is now certified hardware-ready for launch. Plato's science mission calls for it to monitor tens of thousands of nearby bright stars from the Sun-Earth L2 Lagrange point for at least four years, searching for Earth-sized planets in the habitable zones of Sun-like stars — targets significantly harder to detect than the hot Jupiters and sub-Neptunes found by earlier missions like CoRoT and Kepler. The 26-camera design provides the photometric precision and redundancy needed to characterise both the planets and their host stars through asteroseismology, making Plato's terrestrial exoplanet candidates the best-characterised accessible for atmospheric follow-up with the James Webb Space Telescope after its planned March 2027 launch on an Arianespace vehicle.",
+        sourceUrl: "https://www.esa.int/ESA_Multimedia/Images/2026/07/Plato_s_electronics_ready_for_space",
+        timestamp: "2026-07-25T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-24": {
     date: "July 24, 2026",
     stories: [
