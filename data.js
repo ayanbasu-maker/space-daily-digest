@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-26": {
+    date: "July 26, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Expedition 74 Trio Touches Down in Kazakhstan as Soyuz MS-28 Completes Parachute-Assisted Landing at 6:26 a.m. EDT — NASA Astronaut Chris Williams and Cosmonauts Kud-Sverchkov and Mikaev Return After 241-Day Mission Spanning 3,856 Earth Orbits and 102 Million Miles as Expedition 75 Formally Begins Under Commander Jessica Meir Aboard the International Space Station",
+        body: "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev safely returned to Earth on July 26, 2026, as their Soyuz MS-28 spacecraft executed a parachute-assisted touchdown on the Kazakh steppe southeast of Dzhezkazgan at approximately 6:26 a.m. EDT, closing out a 241-day mission that took the crew through 3,856 orbits and 102 million miles of travel — representing the first spaceflight for Williams and Mikaev, and the second expedition for Kud-Sverchkov. Recovery teams helicopter-lifted the crew from the landing site to Karaganda for routine post-flight medical checks following the predawn undocking from the station's Rassvet module at 3:03 a.m. EDT. With Soyuz MS-28's departure, Expedition 74 formally concluded and Expedition 75 began under the command of NASA astronaut Jessica Meir, who assumes authority over the six remaining crew members aboard the station — including Soyuz MS-29 arrivals Anil Menon, Pyotr Dubrov, and Anna Kikina, who docked on July 14 — and will lead the expedition's science programme focused on bioprinting, AI-augmented health monitoring, and in-space manufacturing through late 2026. Crew Dragon Freedom, to which Meir also serves as spacecraft commander, will remain berthed at the complex pending the arrival of the SpaceX Crew-13 mission expected in late summer.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/07/26/expedition-74-trio-returns-to-earth-inside-soyuz/",
+        timestamp: "2026-07-26T10:26:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Astronomers Confirm First Atmosphere on a Rocky Planet in the Habitable Zone — Helium Detected Escaping From Super-Earth LHS 1140 b Using Magellan Clay Telescope Reveals Persistent Envelope Surviving More Than Three Billion Years, Marking a Historic Milestone in the Search for Potentially Life-Hosting Worlds 48 Light-Years From Earth",
+        body: "A Harvard-led team published findings in the journal Science on July 17, 2026, confirming the detection of escaping helium from LHS 1140 b — a super-Earth 48 light-years away orbiting a red dwarf star well within its habitable zone — making it the first rocky habitable-zone planet for which an atmosphere has been unambiguously confirmed, a landmark in the search for potentially inhabited worlds beyond the solar system. The researchers observed the 1.73-Earth-radius, 5.6-Earth-mass planet during two separate transits in 2024 and 2025 using the Magellan Clay telescope at Las Campanas Observatory in Chile, detecting the characteristic helium absorption signature at 10,830 ångströms produced only by an extended atmospheric envelope actively losing material to space. The persistence of this escape — indicating an atmosphere that has survived more than three billion years of irradiation from an active red dwarf — is consistent with a volatile-rich composition potentially including water vapour or nitrogen-dominated air, making LHS 1140 b the most compelling habitable-zone rocky target yet identified for atmospheric follow-up with the James Webb Space Telescope. The discovery confirms that rocky planets can retain atmospheres in the habitable zones of red dwarf stars — the galaxy's most common stellar type — dramatically expanding the population of potentially habitable worlds accessible to future observatories.",
+        sourceUrl: "https://www.space.com/astronomy/exoplanets/astronomers-discover-1st-atmosphere-around-a-rocky-earth-like-planet-in-the-habitable-zone",
+        timestamp: "2026-07-26T09:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Technology",
+        headline: "Blue Origin Accelerates New Glenn Return-to-Flight With Hybrid Crane-Based Launch Architecture That Bypasses Destroyed Transporter-Erector at LC-36 — Rocket Will Be Hoisted Vertical by Mobile Harbour Crane and Payload Installed After Erection, With CEO Dave Limp Reiterating December 2026 Target Despite Widespread Predictions of 12-to-18-Month Stand-Down Following May 28 Explosion",
+        body: "Blue Origin has unveiled a hybrid horizontal-vertical integration approach for returning New Glenn to flight at Cape Canaveral's Launch Complex 36, using a towering mobile harbour crane to hoist the 57.5-metre first stage from its horizontal transport position into vertical alignment on a refurbished launch table — eliminating the need to rebuild the destroyed transporter-erector and allowing pad recovery to proceed while launch preparation advances in parallel. Under the revised process, New Glenn is assembled horizontally, rolled to the pad, and then crane-lifted and mated to the hold-down ring before the payload is separately hoisted and installed atop the integrated vehicle, with the crane clearing the pad ahead of propellant loading and countdown. CEO Dave Limp reiterated at the company's investor briefing that Blue Origin targets a return-to-flight by December 2026 — a pace widely considered faster than expected given the severity of the May 28 static-fire explosion that destroyed the transporter-erector, damaged the launch table, and required relocation of three GS2 second-stage vehicles and the Never Tell Me the Odds booster during debris clearance. The hybrid approach also supports Blue Origin's seven-vehicle Blue Moon lunar lander production programme and its NASA Artemis contract obligations, for which flight demonstration milestones depend on restoring New Glenn's launch cadence before end of year.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/07/blue-origin-lc-36-recovery-hybrid-plan/",
+        timestamp: "2026-07-26T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Industry",
+        headline: "GAO Flags Starship Human Landing System Schedule More Than a Year Behind Original Milestones — Propellant Transfer Demonstration and Uncrewed Lunar Landing Remain Uncompleted as Artemis 3 Crewed Return Recedes Toward Late 2027 at Earliest, Even as Starship Flight 13's Operational Payload Success Provides the Programme's First Concrete End-to-End Demonstration",
+        body: "The U.S. Government Accountability Office's latest assessment of NASA's Human Landing System programme found Starship more than a year behind its original schedule for key milestones including the critical design review and an uncrewed lunar landing demonstration, with the orbital propellant transfer technology essential to reaching the Moon assessed as having seen 'limited progress' — a finding that places Artemis 3 no earlier than late 2027 and potentially further out given the unprecedented technical complexity of depot-mode refuelling in space. The watchdog's report notes SpaceX has made limited headway in maturing the cryogenic propellant transfer systems that Starship must demonstrate before any lunar mission architecture can be validated, as the depot tanker concept requires dozens of flights to pre-position propellant in orbit ahead of each HLS mission. Analysts note that Starship Flight 13's successful deployment of 20 operational Starlink V3 satellites on July 24-25 — the vehicle's first real commercial payload flown end-to-end — removes a significant programme-level uncertainty by proving the Raptor 3 engine suite performs nominally in flight, but does not address the HLS-specific propellant transfer, docking, and lunar descent hurdles that remain the programme's pacing constraints. SpaceX is expected to deliver a revised integrated HLS milestone schedule to NASA in August following a joint programme review requested by the agency's Human Exploration and Operations Mission Directorate.",
+        sourceUrl: "https://news.yahoo.com/nasas-artemis-3-astronaut-moon-210000358.html",
+        timestamp: "2026-07-26T16:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-25": {
     date: "July 25, 2026",
     stories: [
