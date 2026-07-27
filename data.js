@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-27": {
+    date: "July 27, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon 9 Returns to Flight After 15-Day Stand-Down With Predawn Starlink Launch From Kennedy Space Center's LC-39A — 23 Starlink V2 Mini Satellites Deploy Successfully as Booster Lands at LZ-1 at 1:45 a.m. EDT July 27, Restoring SpaceX's Multi-Launch-Per-Week Cadence After Upper Stage Anomaly Grounded the Fleet on July 12 and Required Full Propulsion System Review Before FAA Clearance to Resume Operations",
+        body: "SpaceX successfully launched a Falcon 9 rocket from Launch Complex 39A at Kennedy Space Center at 1:45 a.m. EDT on July 27, 2026, carrying 23 Starlink V2 Mini satellites to low Earth orbit and returning the vehicle to flight 15 days after an upper stage anomaly detected on July 12 prompted a fleet-wide stand-down and full propulsion system audit. The first stage booster landed at Landing Zone 1 at Cape Canaveral Space Force Station roughly nine minutes after liftoff, while the second stage delivered all 23 satellites to their target orbital shell approximately 65 minutes into the mission, with SpaceX confirming contact with all spacecraft shortly after deployment. The return to flight clears the way for a busy late-July and August manifest that includes the classified NROL-95 national security mission for the National Reconnaissance Office scheduled for July 30, additional Starlink launches from both coasts on July 28, and ongoing Starship Flight 14 preparations at Starbase. The smooth resumption of operations ends the most significant Falcon 9 disruption of 2026 — a 15-day grounding that was only the second anomaly-driven fleet-wide stand-down in the vehicle's nine-year operational history.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-07-27T05:45:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Infrastructure",
+        headline: "Initial Damage Assessment Confirms NASA Madrid Deep Space Communications Complex Antennas and Buildings Survived July 24 Wildfire Intact — All Six Dishes at Robledo de Chavela Spared as Fire Damage Limited to Pavement and Vegetation; Operations Running Seamlessly From Goldstone While Personnel Return Planning Begins After One of Europe's Worst Modern Wildfire Emergencies",
+        body: "NASA confirmed on July 27 that its Madrid Deep Space Communications Complex in Robledo de Chavela, Spain — one of only three global nodes in the Deep Space Network that maintain humanity's contact with spacecraft across the solar system — survived the July 24 wildfire that forced the evacuation of all 90 site personnel with its antennas and support buildings structurally intact, after an initial damage assessment team found destruction confined to pavement surfaces and surrounding vegetation. The facility's six dishes — including the 70-metre DSS-63 antenna and five 34-metre antennas that collectively track missions from the Voyager spacecraft to the Mars Science Laboratory — appear undamaged, though a full engineering verification of cabling, electronics, and precision mechanical systems must await clearance from local Spanish civil authorities before personnel can fully re-enter the site. NASA's Space Communications and Navigation programme transferred all spacecraft tracking loads to the Goldstone Deep Space Communications Complex in California on July 24 without service interruption, maintaining contact continuity for active missions including Europa Clipper, New Horizons, and the Voyager probes despite the loss of Madrid's longitudinal coverage window. The agency said it is coordinating with Spanish authorities to plan a phased personnel return to the site, which plays an outsized role in the growing 2026-27 deep-space communications schedule ahead of additional Artemis programme contacts and increasing planetary science mission demands.",
+        sourceUrl: "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
+        timestamp: "2026-07-27T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NOAA Issues G3 (Strong) Geomagnetic Storm Watch for July 29–31 as Earth-Directed Coronal Mass Ejection Launched July 27 Heads Toward Earth — Third Major CME of the Month Arrives Amid 2026 Solar Maximum; ISS Expedition 75 Crew Briefed on Elevated Radiation Environment as G1 Precursor Activity Expected as Early as Late July 27",
+        body: "NOAA's Space Weather Prediction Center issued a geomagnetic storm watch reaching G3 (Strong) levels for July 29 through 31, 2026, after a coronal mass ejection launched from an active region on the solar disk early July 27 was modelled with a substantial Earth-directed component expected to arrive at Earth's magnetosphere by the afternoon of July 29 — with a smaller precursor disturbance possibly initiating G1 (Minor) activity as early as the evening of July 27. NASA's Johnson Space Center flight surgeons briefed the Expedition 75 crew aboard the International Space Station on the elevated space weather outlook, noting that astronauts can relocate to more heavily shielded modules during the peak storm window on July 30-31 when the main CME interaction is expected to produce the highest energetic particle flux. The incoming event is the third significant Earth-directed ejection of July 2026, a month that has tracked elevated solar activity consistent with the current solar cycle's maximum, which heliophysicists predict will peak in the fourth quarter of 2026 — bringing increasing frequency of major CME events that are prompting NOAA to accelerate upgrades to its real-time solar wind monitoring infrastructure. Power grid operators in northern latitudes from Scandinavia to Canada and commercial geostationary satellite operators were notified by NOAA to enter high-readiness operations modes ahead of the projected G3 storm peak on July 30.",
+        sourceUrl: "https://www.spaceweather.gov/news/geomagnetic-storm-watches-effect-29-31-july-g3-strong",
+        timestamp: "2026-07-27T14:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Industry",
+        headline: "Skyroot Aerospace Nine-Day Post-Launch Report Confirms All Four Vikram-1 Payloads Healthy in 450-Kilometre Orbit After India's Historic First Private Orbital Launch on July 18 — Startup Announces Vikram-II Cryogenic Upper Stage Timeline Targeting 2027 Commercial Debut as Former ISRO Chairman Somanath Joins as Honorary Chief Technical Advisor",
+        body: "Indian space startup Skyroot Aerospace released its nine-day post-launch mission assessment on July 27, 2026, confirming that all four technology-demonstration customer payloads deployed from the Vikram-1 vehicle on July 18 — the first privately developed Indian rocket to achieve orbit from Sriharikota, making India the third country after the United States and China where a private company has reached orbit independently — are operating nominally and maintaining regular contact with ground stations. Former ISRO Chairman S. Somanath, who led the agency through the Chandrayaan-3 lunar landing before retiring in early 2024, joined Skyroot as Honorary Chief Technical Advisor, lending the startup significant institutional credibility as it competes for commercial launch contracts from domestic and international customers. Skyroot confirmed the development schedule for Vikram-II, which will feature a cryogenic upper stage fed by liquid oxygen and liquid hydrogen with a payload capacity of approximately 900 kilograms to low Earth orbit — triple Vikram-1's capability — targeting a first demonstration flight in the second half of 2027 before full commercial operations. The historic July 18 orbital success followed a $60 million Series C funding round earlier in 2026 that valued Skyroot at $1.1 billion, making it India's first space-technology unicorn and underscoring how India's post-2020 space liberalisation reforms have catalysed a rapidly growing commercial launch sector alongside ISRO's government programme.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+        timestamp: "2026-07-27T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "ESA Opens Media Accreditation for Vega-C VV30 September Campaign as FLEX Fluorescence Explorer and Copernicus Sentinel-3C Complete Final Integration Milestones at Guiana Space Centre — Dual-Payload Mission Will Deploy World's First Plant Photosynthesis Mapper Alongside New Copernicus Polar-Orbit Ocean and Land Monitoring Satellite",
+        body: "The European Space Agency opened media accreditation on July 27, 2026, for the Vega-C VV30 launch campaign at the Guiana Space Centre in Kourou, French Guiana, as the FLEX (Fluorescence Explorer) Earth Explorer mission and the Copernicus Sentinel-3C satellite completed their final mechanical integration milestones and entered the pre-launch campaign phase targeting a September 2026 liftoff. FLEX will be the world's first satellite specifically designed to measure chlorophyll fluorescence from orbit — detecting the faint red glow emitted by photosynthesising vegetation as it absorbs sunlight and fixes CO₂, a direct observation of plant productivity and carbon uptake that climate models have previously been forced to estimate indirectly from reflectance measurements alone. Flying in coordinated tandem with Sentinel-3C — which will deliver continuous sea surface temperature, ocean colour, and land surface reflectance data under the EU's operational Copernicus Earth observation programme — the pairing enables the first simultaneous spaceborne measurement of how terrestrial vegetation and ocean ecosystems respond to climate variability. The VV30 mission will mark the third successful Vega-C launch in the rocket's current operational run following its return to service in 2024, continuing the restoration of Europe's sovereign access to orbit for small and medium payloads after the December 2022 launch failure and subsequent two-year grounding.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases",
+        timestamp: "2026-07-27T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-26": {
     date: "July 26, 2026",
     stories: [
