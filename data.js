@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-28": {
+    date: "July 28, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Confirms Roman Space Telescope August 30 Launch on SpaceX Falcon Heavy, Sets July 29 Media Briefing — Next-Generation Observatory Will Survey Universe With Field of View 100 Times Larger Than Hubble From L2 Lagrange Point, Enabling Deepest-Ever Cosmological Survey and First Demonstration of Direct Exoplanet Imaging Technology",
+        body: "NASA confirmed on July 28, 2026, that the Nancy Grace Roman Space Telescope will launch aboard a SpaceX Falcon Heavy rocket on August 30 from Launch Complex 39A at Kennedy Space Center at 7:20 a.m. EDT, and announced a virtual media news conference for July 29 at 2 p.m. EDT to preview a mission that represents the most transformative wide-field orbital observatory since Hubble. The telescope's 2.4-metre primary mirror feeds a 288-megapixel Wide Field Instrument that images an area 100 times larger than Hubble's in a single pointing, enabling surveys that would have taken Hubble thousands of years to complete — including a deep cosmological survey designed to constrain the nature of dark energy and dark matter, and a microlensing survey of the Milky Way that will reveal thousands of exoplanets. Roman will also fly the Coronagraph Instrument, the most sophisticated direct-imaging system ever launched, which will attempt to photograph planets around nearby stars by suppressing stellar light to one ten-billionth of its unblocked brightness — a technology demonstration that paves the road toward future missions capable of characterising Earth-like exoplanet atmospheres. The telescope will operate at the Sun-Earth L2 Lagrange point 1.5 million kilometres from Earth, where it will carry out a six-year primary mission anticipated to generate more raw image data in its first year than all previous NASA telescopes combined.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+        timestamp: "2026-07-28T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "G1 Geomagnetic Storm Conditions Begin July 28 as Early CME Precursor Arrives on Schedule — NOAA Confirms Active-to-Minor Storm Disturbances Under Way, Maintaining G3 Watch for July 29-31 Peak as Expedition 75 Crew Relocates to Shielded Station Modules and Power Grid Operators Across Northern Latitudes Enter Heightened Readiness",
+        body: "NOAA's Space Weather Prediction Center confirmed on July 28 that initial G1 (Minor) geomagnetic storm conditions are now under way, as early effects of the coronal mass ejection launched from the sun on July 27 reached Earth's magnetosphere on schedule, producing weak aurora displays visible from high-latitude regions of Alaska, Canada, Scandinavia, and northern Russia — the first observable surface-level effects of what the agency forecasts will escalate into a G3 (Strong) storm peaking July 29-30. The arrival of precursor activity exactly as modelled increases confidence in the forecast G3 peak, which NOAA expects when the main CME ejecta compresses Earth's magnetosphere most intensely on July 29-30, with storm conditions possible through July 31. NASA's Expedition 75 crew of six aboard the International Space Station has relocated to the station's more heavily shielded modules — particularly the Russian Zvezda service module and U.S. Node modules with thicker aluminium walls — as a precautionary measure consistent with agency protocols triggered at G1 onset when a subsequent G3 or higher peak is forecast within 48 hours. The July 28 precursor arrival marks the third significant geomagnetic disturbance of the month at 2026 solar maximum, which heliophysicists expect to sustain elevated CME frequencies through late 2026.",
+        sourceUrl: "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+        timestamp: "2026-07-28T18:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Second Falcon 9 East Coast Mission in 24 Hours With 23 Starlink V2 Mini Satellites From Cape Canaveral — Rapid Backlog Recovery Continues as Booster Lands at LZ-1, With NROL-95 Classified National Reconnaissance Office Mission Now Scheduled No Earlier Than July 30 From LC-40",
+        body: "SpaceX launched a second Florida Falcon 9 mission within 24 hours of its July 27 return-to-flight, sending 23 Starlink V2 Mini broadband satellites to low Earth orbit from Launch Complex 40 at Cape Canaveral Space Force Station on July 28, with the first stage booster recovering at Landing Zone 1 minutes after liftoff in what the company said was part of an accelerated Starlink replenishment campaign to recover capacity lost during the 15-day fleet-wide stand-down that followed the July 12 upper stage anomaly. SpaceX confirmed all 23 satellites deployed and established contact with ground stations, adding to the more than 7,500 active Starlink satellites now in orbit providing broadband service to over 4 million subscribers worldwide. The back-to-back Eastern Range missions also clear the manifest and pad schedule at LC-40 for the classified NROL-95 national security payload, which the National Reconnaissance Office and SpaceX are targeting no earlier than July 30 in a mission the NRO has described only as a signals-intelligence satellite deploying to a high-inclination orbit. The July 28 launch marks SpaceX's 45th Falcon 9 mission of 2026, maintaining a pace that exceeds last year's record of 96 annual launches with five months still remaining.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-07-28T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Certifies Final Three Gaganyaan Crew Module Safety Systems Ahead of G1 Uncrewed Mission Targeting Late 2026 — Parachute Deployment, Service Module Separation, and Splashdown Structural Integrity Now Cleared as Vyommitra Humanoid Robot Enters Interface Testing With Crew Module for G2 Flight",
+        body: "The Indian Space Research Organisation announced on July 28 that it has certified the final three critical safety systems required for the Gaganyaan G1 uncrewed orbital test flight — parachute recovery deployment at re-entry velocities, crew module and service module separation sequencing, and structural integrity of the crew module under maximum parachute loading — completing the qualification programme that is a mandatory gateway before the vehicle is cleared for a crew aboard any future mission. The certifications follow a SOLVE (System Operability Validation Experiment) ground test on July 3 and comprehensive crew module systems validation on July 12, and place the G1 mission on a trajectory for launch from Sriharikota on an LVM3 vehicle in the fourth quarter of 2026, though ISRO Chairman Dr. V. Narayanan acknowledged at a July 27 briefing that the schedule remains dependent on remaining technical milestones and mandatory safety review board clearances. In parallel, the Vyommitra humanoid robot that will occupy the crew seat during the G2 mission — simulating astronaut interactions with life support systems, monitoring cabin conditions, and demonstrating the human-machine interfaces aboard the spacecraft — has now completed physical integration with the crew module and entered interface compatibility testing with onboard systems. The successful completion of the G1 and G2 uncrewed flights will clear the path for India's first crewed Gaganyaan orbital mission, carrying Indian astronauts to orbit for the first time and fulfilling the programme's original mandate declared by Prime Minister Modi in 2018.",
+        sourceUrl: "https://zendaruniverse.com/updates/gaganyaan-2026-update-g1-launch-date-vyommitra-status/",
+        timestamp: "2026-07-28T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Lunar Exploration",
+        headline: "China Rolls Chang'e 7 Mission Stack to Launch Pad at Wenchang as August 2026 Window Opens — Most Complex Chinese Lunar Mission Ever Assembled Features Relay Satellite, Orbiter, Lander, Rover, and Mini Flying Probe With Ice-Detection Instruments to Survey South Pole Resources Ahead of Crewed ILRS Programme",
+        body: "China's National Space Administration confirmed on July 28 that the Chang'e 7 lunar exploration stack has completed spacecraft integration at the Wenchang Space Launch Site on Hainan Island and the Long March 5 launch vehicle has rolled to its seaside launch pad, entering the terminal pre-launch campaign phase with an August 2026 launch window opening in the coming days. Chang'e 7 is the most complex single lunar mission ever assembled by China, comprising five distinct spacecraft elements flying in coordinated formation: a relay satellite to establish communications around the lunar south polar region where direct line-of-sight to Earth is intermittent, a mapping orbiter, a lander, a rover with a surface instrument suite, and a novel miniature flying probe equipped with ice-detection mass spectrometers capable of hopping between permanently shadowed craters in search of water ice deposits. The mission directly builds on the Chang'e 6 sample-return success from the lunar far side in June 2024 and is designed to scout south pole landing sites and map subsurface resource distributions to guide both the Chang'e 8 mission and China's long-term ILRS (International Lunar Research Station) programme, which targets a permanently crewed lunar outpost in the 2030s. A successful Chang'e 7 landing would make China the second nation to operate a surface mission at the lunar south pole, following India's Chandrayaan-3 Vikram landing in 2023, while its relay satellite infrastructure could provide communications support to future international missions flying under the ILRS framework.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Chang%27e_7",
+        timestamp: "2026-07-28T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-27": {
     date: "July 27, 2026",
     stories: [
