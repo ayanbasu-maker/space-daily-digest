@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-29": {
+    date: "July 29, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Holds Roman Space Telescope Mission Preview Briefing on July 29 as Observatory Completes Fueling at Kennedy Space Center — 290 Gallons of Hydrazine Loaded July 25 as Telescope Enters Encapsulation Phase Ahead of August 30 Falcon Heavy Launch From LC-39A; Wide-Field Infrared Observatory Will Survey Cosmos With Field 100 Times Larger Than Hubble From L2 Lagrange Point",
+        body: "NASA held a virtual media news conference at 2 p.m. EDT on July 29, 2026, to preview the Nancy Grace Roman Space Telescope mission, with Astrophysics Division director Shawn Domagal-Goldman and project manager Jackie Townsend confirming the observatory is on track for its Aug. 30 liftoff on a SpaceX Falcon Heavy from Launch Complex 39A — a timeline that arrives eight months ahead of original schedule. The briefing came two days after NASA completed fueling the spacecraft at the Payload Hazardous Servicing Facility at Kennedy Space Center, loading 290 gallons of hydrazine propellant that Roman will use after separation from the rocket to maneuver to the Sun-Earth L2 Lagrange point approximately one million miles from Earth. Technicians are now encapsulating the observatory within the Falcon Heavy's protective payload fairing ahead of integration with the launch vehicle, with liftoff set no earlier than 7:26 a.m. EDT on August 30. Roman's 2.4-metre primary mirror and 288-megapixel Wide Field Instrument will image 100 times the sky area of Hubble in a single pointing, enabling cosmological dark energy surveys, thousands of exoplanet detections via gravitational microlensing, and first-ever direct coronagraph imaging of planets around nearby stars.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+        timestamp: "2026-07-29T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "G3 Geomagnetic Storm Peak Arrives July 29 as Forecasted CME Strikes Earth's Magnetosphere — NOAA Confirms Strong Storm Conditions With Aurora Visible Across Entire Northern United States and Parts of American Southwest; Expedition 75 Crew Shelters in Shielded ISS Modules During Peak Energetic Particle Flux at 2026 Solar Maximum",
+        body: "NOAA's Space Weather Prediction Center confirmed on July 29, 2026, that the main body of the coronal mass ejection launched from the sun on July 27 has struck Earth's magnetosphere as forecast, producing G3 (Strong) geomagnetic storm conditions and driving aurora displays visible as far south as Oregon, Colorado, Kansas, and Missouri — with isolated sightings reported from northern Texas and Georgia in the hours following initial CME impact. The storm follows a G1 precursor that began July 28 and marks the strongest geomagnetic event of a July 2026 that has already logged three significant Earth-directed CME events during the ongoing solar maximum, which heliophysicists expect to sustain at elevated activity through late 2026. NASA's Expedition 75 crew of seven aboard the International Space Station relocated to the station's most heavily shielded modules as a precautionary measure consistent with agency protocols triggered during G3 conditions, minimising radiation exposure during the interval of highest energetic particle flux. NOAA cautioned that G3 conditions create meaningful risk of power grid voltage irregularities at high latitudes, satellite surface charging and increased orbital drag in low Earth orbit, and high-frequency radio outages on the sunlit side of Earth — hazards that grid operators across Scandinavia, Canada, and Alaska were notified to prepare for in advance.",
+        sourceUrl: "https://www.spaceweather.gov/news/geomagnetic-storm-watches-effect-29-31-july-g3-strong",
+        timestamp: "2026-07-29T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Starlink 10-29 Mission From Cape Canaveral at 11:37 p.m. EDT — Third Eastern Range Falcon 9 Mission in Three Days Continues Rapid Backlog Recovery After July 12 Stand-Down; Booster Lands at LZ-1 as Fleet Surpasses 7,500 Active Starlink Satellites With 46th Falcon 9 of 2026",
+        body: "SpaceX launched its Starlink 10-29 mission at 11:37 p.m. EDT on July 29, 2026, carrying 23 Starlink V2 Mini broadband satellites to low Earth orbit from Launch Complex 40 at Cape Canaveral Space Force Station, with the Falcon 9 first stage booster landing at Landing Zone 1 several minutes after liftoff. All 23 satellites deployed from the second stage approximately one hour after liftoff and established contact with ground stations, continuing an accelerated Starlink replenishment campaign SpaceX initiated following its return to flight on July 27 after a 15-day stand-down caused by a July 12 upper stage anomaly. The July 29 launch is the third Eastern Range Falcon 9 mission in three days and SpaceX's 46th Falcon 9 launch of 2026, sustaining a pace that exceeds the company's 2025 annual launch record with five months still remaining. The Starlink constellation now operates more than 7,500 active satellites in low Earth orbit, providing broadband internet service to over 4 million residential, maritime, and aviation subscribers across more than 100 countries.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-07-29T23:37:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Confirms Starship Flight 14 Will Attempt First-Ever Tower Catch of Starship Upper Stage Using Mechazilla Arms — Booster 21 and Ship 41 Designated Following Flight 13's Successful Ocean Splashdown July 24; Orbital Trajectory Also Under Consideration for First Full Starship Circumnavigation Demonstration",
+        body: "SpaceX CEO Elon Musk announced on July 25, 2026, that the upcoming Starship Flight 14 mission will attempt the first-ever launch tower catch of the Starship upper stage using the Mechazilla mechanical arm system at Starbase in Boca Chica, Texas, following the historic successful ocean splashdown of the Ship upper stage demonstrated during Flight 13 on July 24. Flight 13 marked the first time the Starship upper stage successfully survived re-entry and executed a controlled water landing after deploying a batch of Starlink V3 prototype satellites in a suborbital trajectory, giving the engineering team sufficient data confidence to attempt booster-style tower recovery of Ship hardware on the next mission. Booster 21 and Ship 41 have been designated as Flight 14 hardware, and SpaceX president Gwynne Shotwell indicated the flight could also mark Starship's first attempt at a full orbital trajectory and circumnavigation — a possibility that Flight 13's performance has left open. A successful tower catch of the Starship upper stage would complete the Mechazilla recovery architecture for both stages of the world's most powerful rocket, representing the final milestone before SpaceX can begin rapid full-stack reuse and commercial payload operations at scale.",
+        sourceUrl: "https://satnews.com/2026/07/25/spacex-targets-first-starship-upper-stage-tower-catch-for-flight-14/",
+        timestamp: "2026-07-29T06:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin Advances New Glenn Return to Flight With Hybrid Horizontal-Vertical Assembly Approach — Crane-Assisted Erection Plan Eliminates Tower Rebuild at Launch Complex 36 After May 28 Explosion; NASA Administrator Calls Recovery Progress 'Almost Beyond Impressive' as Year-End Launch Target Holds",
+        body: "Blue Origin confirmed in late July 2026 that reconstruction of Launch Complex 36 at Cape Canaveral Space Force Station is actively under way following the May 28 explosion that destroyed a New Glenn first stage during a static fire test, with the company outlining a revised operational approach that will use a wheeled transporter to carry the horizontally assembled rocket to the pad before a crane erects it vertically — eliminating the need to rebuild the more heavily damaged launch tower components. The new horizontal-to-vertical hybrid integration concept allows Blue Origin to perform the majority of vehicle stacking operations inside the integration facility and drive the assembled stack to the pad on a wheeled vehicle, reducing the critical-path reconstruction work required before the first return-to-flight launch. NASA Administrator Jared Isaacman, whose agency is a New Glenn customer for the ESCAPADE Mars mission, told reporters that Blue Origin's recovery since the May 28 accident had been 'almost beyond impressive,' expressing confidence the company's year-end return-to-flight target remains achievable. Key infrastructure elements including the propellant farm and oxygen, liquid hydrogen, and LNG storage tanks survived the explosion intact and do not require replacement, a critical factor Blue Origin says has enabled the faster-than-expected recovery schedule.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/30/blue-origin-outlines-return-to-flight-logistics-for-its-new-glenn-rockets/",
+        timestamp: "2026-07-29T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-28": {
     date: "July 28, 2026",
     stories: [
