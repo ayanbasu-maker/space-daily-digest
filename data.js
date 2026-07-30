@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-30": {
+    date: "July 30, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Classified NROL-95 Spy Satellite for National Reconnaissance Office at 3:10 a.m. EDT From Cape Canaveral — Fourth NRO Falcon 9 Mission of 2026 Places Signals-Intelligence Payload in High-Inclination Orbit as Booster Lands at LZ-1; First Eastern Range NRO Launch After Three Vandenberg Missions This Year",
+        body: "SpaceX launched the classified NROL-95 national security payload for the National Reconnaissance Office at 3:10 a.m. EDT on July 30, 2026, from Space Launch Complex 40 at Cape Canaveral Space Force Station, with the Falcon 9 first stage booster completing a landing at Landing Zone 1 shortly after liftoff. The NRO has described NROL-95 only as a signals-intelligence satellite deploying to a high-inclination orbit, consistent with reconnaissance mission profiles that require near-polar coverage of the Earth's surface. The mission is the fourth NRO Falcon 9 launch of 2026 — following NROL-105 in January, NROL-172 in May, and NROL-179 in June from Vandenberg Space Force Base — and represents SpaceX's 47th Falcon 9 launch of the year, just one day after the company's Starlink 10-29 mission and the same week as the NROL-95 launch window first appeared on the manifest following the return-to-flight after the July 12 anomaly stand-down.",
+        sourceUrl: "https://spaceflightnow.com/2026/07/29/live-coverage-spacex-to-launch-classified-payload-for-national-reconnaissance-office/",
+        timestamp: "2026-07-30T03:10:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Industry",
+        headline: "SpaceX Wins $1.6 Billion U.S. Space Force Order for 18 Falcon 9 Launches to Carry Golden Dome Missile Defense Satellites — Pentagon Awards Task Orders Under National Security Space Launch Phase 2 Program as SpaceX Accumulates at Least $7 Billion in Defense Contracts in 2026 Supporting Space-Based Sensing and Targeting Portfolio Through 2027",
+        body: "The U.S. Space Force awarded SpaceX a $1.6 billion task order on July 29-30, 2026, for 18 Falcon 9 launches from Vandenberg Space Force Base through the end of 2027 under the National Security Space Launch Phase 2 program, carrying satellites for the Space Based Sensing and Targeting portfolio — a constellation designed to detect, track, and relay information about airborne threats to support the Trump administration's Golden Dome missile defense architecture. The missions represent the latest tranche in a broader defense-launch expansion that has seen SpaceX accumulate at least $7 billion in Pentagon contracts in 2026 as the administration accelerates the Golden Dome program, which envisions a network of low-Earth-orbit satellites providing global coverage for intercepting ballistic and hypersonic missiles. The two task orders follow SpaceX, ULA, and Blue Origin's earlier $13.5 billion multi-year NSSL Phase 3 award and further entrench Falcon 9 as the workhorse of U.S. national security launch at a tempo the only other certified provider, ULA's Vulcan Centaur, cannot currently match. The award also underscores SpaceX's commercial dominance: the company has now launched more national security missions in the first seven months of 2026 than any single provider did in any full year prior to 2022.",
+        sourceUrl: "https://www.usnews.com/news/top-news/articles/2026-07-29/spacex-gets-1-6-billion-us-space-force-order-for-18-falcon-9-launches",
+        timestamp: "2026-07-30T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Science",
+        headline: "ISRO Launches NISAR — the Most Expensive Earth-Observing Satellite Ever Built — on GSLV Mk II at 5:40 p.m. IST on July 30, Completing a Decade-Long NASA-ISRO Partnership That Produced a Dual-Radar Observatory Capable of Scanning Nearly All Earth's Land and Ice Surfaces Every 12 Days at Sub-10-Metre Resolution",
+        body: "The Indian Space Research Organisation successfully launched the NASA-ISRO Synthetic Aperture Radar satellite — NISAR — on a Geosynchronous Satellite Launch Vehicle Mk II from the Satish Dhawan Space Centre at Sriharikota at 5:40 p.m. IST (8:10 a.m. EDT) on July 30, 2026, marking the first hardware collaboration between NASA and ISRO on an Earth science mission and deploying what scientists describe as the most capable Earth-observing radar satellite ever built. The $1.5 billion observatory carries two synthetic aperture radar systems — an L-band instrument provided by NASA's Jet Propulsion Laboratory and an S-band instrument from ISRO — that will work together to image nearly the entirety of Earth's land and ice surfaces every 12 days at resolutions better than 10 metres, providing a continuous global record of ground deformation, ice sheet dynamics, ecosystem disturbance, and crop health at a scale and frequency previously impossible. Mission controllers confirmed successful solar array and radar antenna deployment in the hours following launch, with NISAR entering a Sun-synchronous orbit at approximately 747 kilometres altitude from which it will begin science commissioning operations before delivering open-access data to researchers worldwide in late 2026. The launch closes a development partnership spanning more than a decade and involving thousands of scientists and engineers across the United States and India, with the resulting dataset expected to transform climate modelling, natural disaster response, agricultural monitoring, and infrastructure risk assessment globally.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/india-poised-to-launch-powerful-nisar-earth-observing-joint-nasa-mission",
+        timestamp: "2026-07-30T12:10:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA Holds ISS Spacewalk Preview Briefing July 30, Confirming Three August EVAs to Install Seventh Roll-Out Solar Array, Replace Communications Antenna, and Connect Power Cables — Commander Jessica Meir and Anil Menon Lead U.S. Spacewalk 95 on August 6 in Six-and-a-Half-Hour Session as Station Continues Final Power Upgrade Phase",
+        body: "NASA convened a media news conference at 2 p.m. EDT on July 30 at Johnson Space Center to preview three upcoming U.S. spacewalks from the International Space Station scheduled for August 6, August 13, and August 25 — the 281st, 282nd, and 283rd spacewalks dedicated to ISS assembly, maintenance, and upgrades. Spacewalk flight directors Bill Spetch, Chris Dobbins, and Chloe Mehring confirmed that Expedition 75 Commander Jessica Meir and flight engineer Anil Menon will conduct the first EVA on August 6, spending approximately six and a half hours outside the station to prepare the orbital outpost for installation of its seventh and final roll-out solar array, which will complete a multi-year power augmentation programme that has increased the station's electrical output by roughly 30 percent since 2021. The August 13 and August 25 EVAs will follow to replace a communications antenna that has degraded beyond nominal performance thresholds and to connect power and data cables in support of ongoing station infrastructure operations, according to NASA officials. The three-spacewalk sequence comes shortly after the July 28 spacesuit inspection by Meir and Menon — during which both crew members certified their suits fit and all life support consumables were within margins — and represents the most concentrated American EVA campaign since the ISS solar array upgrade sequence of 2021-22.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+        timestamp: "2026-07-30T18:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Signs NASA Stennis Space Act Agreement to Test New Glenn Second Stage at Historic B-2 Test Stand — Deal Separates Upper Stage Hotfire Testing From Rebuilt Launch Complex 36 to Accelerate Year-End Return-to-Flight Following May 28 Static Fire Explosion That Destroyed First Stage During Ground Test at Cape Canaveral",
+        body: "Blue Origin and NASA formalized a reimbursable Space Act Agreement in late July 2026 giving the company access to the B-2 test stand within the Thad Cochran Test Stand B-Complex at NASA's Stennis Space Center in Mississippi, providing a dedicated facility to hotfire New Glenn second stages without tying up the reconstructed launch pad infrastructure at Launch Complex 36 at Cape Canaveral Space Force Station — a key operational separation Blue Origin says will enable higher testing cadence and deconflict launch operations once recovery from the May 28 explosion is complete. The May 28 static fire explosion destroyed a New Glenn first stage at LC-36 and heavily damaged the launch tower, but left propellant storage and other critical ground systems intact, enabling a faster-than-anticipated reconstruction timeline that Blue Origin has estimated on a year-end return-to-flight schedule. By moving second stage qualification testing to Stennis — whose B-2 stand previously supported Space Shuttle Main Engine and SLS core stage testing — Blue Origin avoids scheduling conflicts that would arise from performing both pad reconstruction and vehicle certification hotfires at the same Cape Canaveral facility. NASA Administrator Jared Isaacman, whose agency's ESCAPADE dual-spacecraft Mars mission requires a New Glenn launch, called Blue Origin's recovery progress since the May explosion 'almost beyond impressive,' and expressed continued confidence in the year-end return-to-flight target.",
+        sourceUrl: "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
+        timestamp: "2026-07-30T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-29": {
     date: "July 29, 2026",
     stories: [
