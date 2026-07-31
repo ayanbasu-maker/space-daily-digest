@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-07-31": {
+    date: "July 31, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Starlink 17-52 Mission From Vandenberg on July 31 — 24 Starlink V2 Mini Satellites Lift Off at 10 p.m. EDT as Falcon 9 Booster Completes 15th Flight; Constellation Now Totals 10,860 Operational Satellites Following Rapid Replenishment Campaign Since July 27 Return to Flight",
+        body: "SpaceX launched its Starlink 17-52 mission from Space Launch Complex 4E at Vandenberg Space Force Base on July 31, 2026, with the Falcon 9 rocket lifting off at 10 p.m. EDT (7 p.m. PDT / 0200 UTC August 1) carrying 24 Starlink V2 Mini broadband satellites to low Earth orbit. The flight booster completed its 15th mission, landing successfully on the droneship Of Course I Still Love You positioned in the Pacific Ocean, continuing SpaceX's streak of consecutive successful booster recoveries. All 24 satellites deployed from the second stage approximately one hour after liftoff, bringing the total operational Starlink constellation to 10,860 satellites providing broadband internet to more than 4 million subscribers worldwide. The mission is SpaceX's 49th Falcon 9 launch of 2026 and the third West Coast Starlink mission in six days as the company accelerates its replenishment cadence following the late July return to flight.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-07-31T22:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "FAA Publishes Proposed Rule in Federal Register on July 30 to Waive 13 Environmental Laws for Commercial Space Launches — NEPA, Endangered Species Act, and Clean Water Act Among Laws Subject to Waiver as Transportation Secretary Duffy Calls Rule Essential to Keeping Pace With Commercial Space Industry Growth; 30-Day Public Comment Period Runs Through August 31",
+        body: "The Federal Aviation Administration published a proposed rulemaking in the Federal Register on July 30, 2026, that would allow the Transportation Secretary to waive requirements tied to 13 federal environmental and natural resources laws — including the National Environmental Policy Act, the Endangered Species Act, the Clean Water Act, and the National Historic Preservation Act — for individual commercial space launch and reentry license applications, provided the Secretary determines a given law is not needed to protect public health, safety, property, national security, or U.S. foreign policy. Transportation Secretary Sean Duffy described the proposed rule as an effort to eliminate delays that have hampered the commercial space licensing process, arguing that environmental reviews that take years to complete are inconsistent with an industry where companies such as SpaceX and Blue Origin launch dozens of times annually. Environmental groups and conservation organizations immediately voiced opposition, warning that waiving the Endangered Species Act and Clean Water Act for launch activities could harm sensitive ecosystems near launch sites such as Cape Canaveral and Vandenberg Space Force Base, where protected sea turtle nesting grounds and wetland habitats adjoin the launch infrastructure. The FAA will accept public comments on the proposal through August 31, 2026, before preparing a final rule.",
+        sourceUrl: "https://www.federalregister.gov/documents/2026/07/30/2026-15415/waiver-of-specified-statutory-requirements-for-commercial-space-launch-and-reentry-actions",
+        timestamp: "2026-07-31T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Science",
+        headline: "NISAR Completes Successful First Day in Orbit — Radar Antennas, Solar Arrays Deployed and All Systems Nominal as NASA-ISRO Joint Observatory Begins Commissioning From 747-Kilometre Sun-Synchronous Orbit One Day After Historic July 30 Launch on GSLV Mk II From Sriharikota",
+        body: "The NASA-ISRO Synthetic Aperture Radar satellite successfully completed its first 24 hours in orbit on July 31, 2026, with ground controllers at ISRO's Master Control Facility in Hassan and NASA's Jet Propulsion Laboratory in Pasadena confirming deployment of both the L-band radar antenna provided by JPL and the S-band radar antenna from ISRO's Space Applications Centre, along with the solar arrays that power the $1.5 billion observatory. All spacecraft health parameters were reported nominal throughout the first day of operations, and NISAR's attitude control and propulsion systems performed as expected as the satellite settled into its 747-kilometre Sun-synchronous orbit from which it will begin a multi-month commissioning campaign before delivering science data. ISRO Chairman V. Narayanan called the successful first-day operations a moment of immense pride for Indian and American scientists and engineers who spent more than a decade designing and building the most sophisticated dual-frequency synthetic aperture radar ever flown. NISAR is expected to begin routine science data acquisition in late 2026 after completing calibration and validation of its L-band and S-band radar systems against known ground targets.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/india-poised-to-launch-powerful-nisar-earth-observing-joint-nasa-mission",
+        timestamp: "2026-07-31T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Technology",
+        headline: "China Confirms Long March 10B Recovered Booster Will Fly Again Before Year-End — CASC Announces Reflight of Sea-Captured Stage From July 10 Debut Mission as China Moves to Operationalize Reusable Orbital Launch Capability and Narrow Gap With SpaceX on Launch Cost and Cadence",
+        body: "China Aerospace Science and Technology Corporation announced in late July 2026 that the Long March 10B first stage recovered during the rocket's inaugural flight on July 10 — the first Chinese orbital booster ever successfully recovered using a sea-platform net capture system — will be refurbished and relaunched before the end of 2026, marking the next milestone in China's accelerating push toward rapid reusable orbital launch operations. Engineers at the Hainan launch base have been conducting post-flight inspection and structural analysis of the returned booster since it arrived by barge at the Wenchang commercial space port, and initial assessments confirm the stage suffered only minor thermal protection system wear consistent with a single flight, validating the design choices CASC made for the net-capture recovery architecture. The planned reflight schedule represents a dramatically compressed turnaround compared to the years-long gap between early SpaceX Falcon 9 booster reflights, signalling CASC's intent to establish reuse-at-scale operations rather than treat the recovered booster as a museum piece. If successful, the reflight would make China only the second country to refly an orbital-class booster, placing the Long March 10B program in direct technological competition with SpaceX's Falcon 9 reusability program that has now flown individual boosters up to 24 times.",
+        sourceUrl: "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+        timestamp: "2026-07-31T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Roman Space Telescope Reaches T-30 Days to Launch Milestone — Observatory Now Fully Encapsulated in SpaceX Falcon Heavy Fairing at Kennedy Space Center as Science Teams Finalize Observation Programs and Operations Plans Ahead of August 30 Liftoff From LC-39A",
+        body: "NASA's Nancy Grace Roman Space Telescope crossed the 30-day countdown milestone on July 31, 2026, with the observatory now fully encapsulated within the SpaceX Falcon Heavy payload fairing at Kennedy Space Center following the completion of propellant loading and final pre-launch inspections during the last week of July. Mission teams at NASA's Goddard Space Flight Center and the Space Telescope Science Institute have simultaneously been finalising the first-year observing program — a set of core science surveys covering dark energy cosmology, gravitational microlensing exoplanet detection, and coronagraph technology demonstration — that Roman's international science community has refined over the past five years in preparation for the observatory's commissioning. The telescope's 2.4-metre mirror and 288-megapixel Wide Field Instrument, which images 100 times the sky area of Hubble in a single exposure, are now sealed for flight alongside the Coronagraph Instrument, the most advanced direct-exoplanet-imaging system ever launched. Roman is set to lift off atop the Falcon Heavy no earlier than 7:26 a.m. EDT on August 30 from Launch Complex 39A, bound for the Sun-Earth L2 Lagrange point approximately 1.5 million kilometres from Earth where it will begin a six-year primary mission.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/07/09/nasas-roman-launch-preparations-proceed/",
+        timestamp: "2026-07-31T14:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-30": {
     date: "July 30, 2026",
     stories: [
