@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-01": {
+    date: "August 1, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Starlink 12-9 From Vandenberg at 10:03 a.m. EDT August 1 — Falcon 9 Booster Makes 18th Flight Delivering 23 V2 Mini Satellites as Constellation Surpasses 10,880 Operational Satellites; 50th Falcon 9 of 2026 Reached Before Summer Ends as Second West Coast Mission in 24 Hours Continues August Cadence",
+        body: "SpaceX launched the Starlink 12-9 mission from Space Launch Complex 4E at Vandenberg Space Force Base at 7:03 a.m. PDT (10:03 a.m. EDT / 1403 UTC) on August 1, 2026, deploying 23 Starlink V2 Mini broadband satellites to low Earth orbit as the company pressed forward with its accelerated August launch campaign. The Falcon 9 first stage, flying for its 18th mission, executed a propulsive landing on the droneship Of Course I Still Love You stationed in the Pacific Ocean, extending SpaceX's consecutive booster recovery streak to more than 300 landings. All 23 satellites achieved orbital insertion and established contact with SpaceX's ground network approximately one hour after liftoff, bringing the total operational Starlink constellation to more than 10,880 satellites serving over 4 million subscribers worldwide. The August 1 launch is SpaceX's 50th Falcon 9 mission of 2026 — a milestone previously reached only in the final months of the year — and the second West Coast Starlink mission in under 24 hours, following the Starlink 17-52 launch late on July 31.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-08-01T14:03:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Falcon Heavy Integration Begins at LC-39A as Countdown Hits T-29 Days — Side Boosters Mated to Center Core August 1 While Observatory Awaits Transfer From Payload Facility; All Telescope Subsystems Nominal Inside Fairing Ahead of August 30 Liftoff",
+        body: "NASA's Nancy Grace Roman Space Telescope crossed the T-29 day countdown milestone on August 1, 2026, with SpaceX technicians beginning integration of the Falcon Heavy at Launch Complex 39A at Kennedy Space Center, mating the two flight-proven side-mounted booster cores to the center core in the first major vehicle stacking operation ahead of the scheduled August 30 liftoff. Roman Space Telescope project manager Jackie Townsend confirmed in a mission blog update that all telescope subsystems remain nominal inside the sealed Falcon Heavy payload fairing, with thermal monitoring data showing the observatory within expected temperature ranges during the multi-day vehicle integration period. The observatory — carrying a 2.4-metre primary mirror and 288-megapixel Wide Field Instrument capable of imaging 100 times the sky area of Hubble in a single exposure — will be transferred from its processing facility to the launch vehicle once fairing attachment operations are complete, setting up a full launch vehicle rollout planned for mid-August. Roman will launch to the Sun-Earth L2 Lagrange point approximately 1.5 million kilometres from Earth, where it will begin a six-year primary mission covering dark energy surveys, gravitational microlensing exoplanet detection, and coronagraphic direct imaging of planets around nearby stars.",
+        sourceUrl: "https://science.nasa.gov/mission/roman-space-telescope/roman-launch-countdown/",
+        timestamp: "2026-08-01T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Expedition 75 Crew Completes Final Spacesuit Verification August 1 — Meir and Menon Certified for EVA 96 Beginning 8:35 a.m. EDT Thursday August 6 to Route iROSA Power Cables; Mission Control Confirms All Pre-Spacewalk Milestones Cleared for Six-and-a-Half-Hour Sortie",
+        body: "NASA's International Space Station program office confirmed on August 1, 2026, that all pre-spacewalk milestones have been cleared for U.S. Spacewalk 96, scheduled to begin at 8:35 a.m. EDT on Thursday August 6, as Expedition 75 Commander Jessica Meir and flight engineer Anil Menon completed final suit fit checks and verified life support consumable margins in their Extravehicular Mobility Units during Saturday's preparation activities. The six-and-a-half-hour spacewalk will be the 281st EVA dedicated to ISS assembly, maintenance, and upgrades, with Meir and Menon tasked with routing power and data cables on the station's P4 truss segment to prepare for installation of the seventh and final iROSA roll-out solar array — the last piece of a multi-year power augmentation programme that has increased the station's electrical output by approximately 30 percent since 2021. Two additional spacewalks follow on August 13 and August 25, focused respectively on replacing a degraded S-band communications antenna and completing remaining iROSA pre-installation work, making August the most EVA-intensive month at the station since the 2022 solar array campaign. Meir reported in Saturday's crew log that her suit fit is excellent and the pair are fully ready to head outside on Thursday.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/07/30/spacewalk-preps-bioprinting-and-exercise-research-top-station-schedule/",
+        timestamp: "2026-08-01T16:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "China Completes Long March 5 Stacking for Chang'e 7 at Wenchang — Lunar South Pole Mission Now Vertical on Pad With Orbiter, Lander, Rover, and First-Ever Hopping Mini-Probe in Final Integration Targeting Late August Launch to Hunt for Water Ice at Lunar South Pole",
+        body: "China's Chang'e 7 lunar mission reached a critical pre-launch milestone on August 1, 2026, as engineers at the Wenchang Space Launch Center on Hainan Island completed stacking of the Long March 5 heavy-lift rocket with the spacecraft's five-element payload — consisting of a relay satellite, orbiter, lander, rover, and an unprecedented mini-hopping probe — and transferred the fully assembled rocket to the launch pad to begin final pre-launch checks targeting a late August liftoff window. The China National Space Administration confirmed the mission's primary science objective is reaching the lunar south pole region, where the mini-hopping probe will make a series of short hops into permanently shadowed craters to directly measure hydrogen concentrations and search for water ice deposits that scientists believe are preserved from ancient cometary and asteroid impacts billions of years ago. Chang'e 7 is the most complex robotic lunar mission China has ever attempted, requiring five distinct spacecraft elements to operate cooperatively in the lunar environment and building directly on lessons from Chang'e 4's historic far-side landing and Chang'e 6's sample return from the Von Kármán crater. A successful landing near the lunar south pole would place China and NASA's Artemis program in direct competition to characterise the water ice resources that future crewed missions hope to exploit for propellant production and life support.",
+        sourceUrl: "https://www.china-in-space.com/p/change-7-moon-mission-arrives-in",
+        timestamp: "2026-08-01T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Arianespace Confirms VA270 Ariane 6 Launch August 27 From Kourou With MTG-I2 Weather Satellite — First Ariane 6 Mission to Geostationary Transfer Orbit Will Mark Landmark in European Launch Autonomy as Next-Generation Meteosat Imager Targets 2045 Service Life for European Storm Forecasting",
+        body: "Arianespace officially confirmed on August 1, 2026, that the VA270 mission carrying the Meteosat Third Generation Imager-2 (MTG-I2) weather satellite is scheduled for launch no earlier than August 27 from Europe's Spaceport in Kourou, French Guiana, aboard an Ariane 62 rocket — marking a landmark achievement for Ariane 6, which will make its first-ever flight to geostationary transfer orbit on this mission after two years of operational service from a low Earth orbit baseline. MTG-I2, built by Thales Alenia Space for EUMETSAT, will join its twin MTG-I1 to form the operational core of Europe's next-generation geostationary meteorological satellite network, providing high-resolution visible and infrared imagery of Europe, Africa, and surrounding oceans at unprecedented cadence for early detection of rapidly intensifying convective storms and improving 24-to-72-hour forecast accuracy across the continent. The mission restores Europe's independent geostationary launch capability following the retirement of Ariane 5 in 2023 and represents Ariane 6's emergence as the continent's primary vehicle for both government and commercial GTO payloads that had intermittently relied on non-European services during the launcher transition. EUMETSAT Director-General Phil Evans called the confirmation a decisive moment for European operational meteorology, noting that MTG-I2 will deliver improved storm products to European national weather services continuously until at least 2045.",
+        sourceUrl: "https://newsroom.arianespace.com/arianespace-to-launch-weather-satellite-mtg-i2-on-ariane-6s-first-mission-to-geostationary-orbit-on-august-27-2026/",
+        timestamp: "2026-08-01T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Science",
+        headline: "NISAR L-Band and S-Band Radars Powered On for First Time in Orbit on Day 3 of Commissioning — JPL and ISRO Teams Confirm Both Instruments Active in Safe Mode as 12-Metre Boom Extension Proceeds; First Ground-Track Calibration Passes Over Reference Sites Planned for Mid-August",
+        body: "The joint NASA-ISRO NISAR mission team confirmed on August 1, 2026, that engineers at NASA's Jet Propulsion Laboratory in Pasadena and ISRO's Space Applications Centre in Ahmedabad successfully powered on both the L-band and S-band synthetic aperture radar instruments for the first time in orbit, initiating the instrument checkout phase of the multi-month commissioning campaign that began following the observatory's launch from Sriharikota on July 30. The 12-metre mesh reflector boom — the structure that positions both radar antenna feeds at the correct geometry for dual-frequency radar imaging — continued its planned deployment sequence, with JPL confirming the extension is proceeding on schedule and both instruments are operating in a safe configuration mode while engineers characterise the spacecraft's attitude and radio frequency environment at 747 kilometres altitude. Mission controllers at the two countries' control facilities reported all spacecraft health parameters are within expected ranges, with attitude control, power generation from deployed solar arrays, and telecommunications with ground stations all nominal. The first calibration passes — in which NISAR's radars will observe precisely known ground reference targets in North America, Europe, and India to verify absolute radiometric and geometric accuracy — are planned for mid-August once the reflector boom has fully extended and the full instrument configuration has been verified.",
+        sourceUrl: "https://science.nasa.gov/blogs/nisar/",
+        timestamp: "2026-08-01T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-07-31": {
     date: "July 31, 2026",
     stories: [
