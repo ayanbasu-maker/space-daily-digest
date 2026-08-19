@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-19": {
+    date: "August 19, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Reaches 100 Orbital Missions in 2026 on Starlink Group 17-50 From Vandenberg — Booster B1097 Makes 12th Pacific Drone Ship Landing as Active Constellation Surpasses 11,000 Satellites; Full-Year Pace on Track to Eclipse 2025 Record of 134 Missions Before October",
+        body: "SpaceX achieved its 100th orbital mission of 2026 in the early hours of Wednesday, August 19, when a Falcon 9 carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base at 9:01 p.m. PDT Tuesday — the 97th Falcon 9 launch of the year and the 100th including Starship and Falcon Heavy missions — with the payload joining the Starlink network and pushing the active constellation past 11,000 simultaneously operating satellites, a fleet density unprecedented in the history of commercial communications. First stage booster B1097, making its 12th flight, executed a clean propulsive descent to the drone ship 'Of Course I Still Love You' in the Pacific Ocean approximately 8.5 minutes after liftoff, extending SpaceX's streak of consecutive successful first-stage recoveries as the booster reuse programme continues to mature toward ten or more flights per booster as a standard operational norm. Of SpaceX's 100 missions in 2026, the company noted that 74 have been dedicated to expanding the Starlink constellation, with the remaining 26 carrying government payloads, commercial satellites, and cargo to the International Space Station — a pace that, if sustained through December, could surpass 2025's record of 134 full-year launches before mid-October.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-100-launches-2026-starlink-group-17-50-launch",
+        timestamp: "2026-08-19T04:01:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "LandSpace ZhuQue-3 Sticks First Private Chinese Booster Landing After Orbital Mission — Stainless-Steel First Stage Recovered 390 km Downrange at Minqin County, Gansu, While Second Stage Deploys Honghu 03 Demo Satellite; China Becomes Second Country in History to Recover an Orbital Rocket Booster",
+        body: "Chinese commercial launch company LandSpace achieved a historic milestone when its ZhuQue-3 methane-fueled rocket completed its second flight, launching from the Jiuquan Satellite Launch Center at 23:35 UTC August 18 and recovering the first stage via powered vertical landing approximately 8 minutes later at a pad in Minqin County, Gansu Province — 390 kilometres downrange from the launch site — making ZhuQue-3 the first stainless-steel orbital-class rocket booster ever recovered, and making China only the second country after the United States to recover a rocket first stage following an orbital-class launch. The second stage proceeded to deliver the Honghu 03 technology demonstration satellite to orbit, with LandSpace confirming mission success in a post-launch statement describing the recovery as validation of all guidance, navigation, control, and propulsion systems required for the company's planned high-cadence reusable commercial operations. The successful landing comes as China's commercial launch sector accelerates rapidly — with Space Pioneer and Deep Blue Aerospace having both reached orbit in recent years — but LandSpace's achievement of first-stage recovery marks a structurally different and economically transformative milestone that opens a path toward the cost-reduction model underpinning SpaceX's market dominance for over a decade.",
+        sourceUrl: "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+        timestamp: "2026-08-18T23:43:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "U.S. Spacewalk 97 Concludes After 6 Hours 23 Minutes as Adenot and Menon Remove Failed ISS Antenna but Run Out of Time for Replacement Installation — Third EVA Now Required to Complete Z1 Truss Swap; Sophie Adenot Confirmed as First French Woman in History to Walk in Space After 2:52 p.m. EDT Hatch Closure",
+        body: "ESA astronaut Sophie Adenot and NASA astronaut Anil Menon completed U.S. Spacewalk 97 at 2:52 p.m. EDT on August 18, logging 6 hours and 23 minutes of extravehicular activity after successfully removing the failed Space-to-Ground Antenna from the International Space Station's Z1 truss and tying it down on the station structure — but running out of time to install the replacement unit, pushing the antenna installation to a yet-unscheduled third EVA that mission planners expect to conduct within the coming weeks. The primary removal objective was accomplished after Adenot and Menon disconnected the antenna's electrical cables and loosened the securing bolts, though the process required more time than the allocated pre-EVA timeline, consuming the margin that would have permitted the crew to begin installing the spare antenna retrieved from station logistics stores. Adenot's completion of the excursion confirmed her historic status as the first French woman and only the second European woman after Italy's Samantha Cristoforetti to have performed a spacewalk, a milestone ESA described as symbolising the agency's commitment to crew diversity and Europe's expanding role in human spaceflight ahead of planned Lunar Gateway and future deep-space missions.",
+        sourceUrl: "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
+        timestamp: "2026-08-18T18:52:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Nancy Grace Roman Space Telescope Completes Fairing Encapsulation at Kennedy Space Center, Enters 11-Day Final Countdown to August 30 Falcon Heavy Launch — Observatory Sealed Following July Hydrazine Fueling; SpaceNews Confirms No Technical Holds Threatening 07:26 EDT Window as Schedule Remains Eight Months Ahead of Original Commitment",
+        body: "NASA's Nancy Grace Roman Space Telescope completed fairing encapsulation at Kennedy Space Center's Payload Hazardous Servicing Facility, sealing the observatory inside the Falcon Heavy's protective fairing in the final major ground operation before the telescope is transported to Launch Complex 39A for integration with the three-core rocket ahead of the August 30, 07:26 a.m. EDT liftoff toward the Sun-Earth L2 Lagrange point 1.5 million kilometres from Earth. The encapsulated observatory, now 11 days from launch, carries a 2.4-metre primary mirror identical in aperture to Hubble but equipped with a wide-field instrument delivering a field of view 100 times larger — enabling surveys of two billion galaxies for dark energy signatures, statistical exoplanet census via gravitational microlensing in dense Milky Way star fields, and a deep infrared all-sky survey expected to anchor astrophysics research across virtually every subdiscipline for decades. SpaceNews confirmed on August 19 that no technical issues or Atlantic weather concerns currently threaten the 07:26 EDT launch window, with the August 30 date remaining firm — representing an approximately eight-month acceleration from Roman's prior 'no later than May 2027' schedule commitment, achieved through streamlined integration processes and early hardware delivery from prime contractor L3Harris Technologies.",
+        sourceUrl: "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+        timestamp: "2026-08-19T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Mission",
+        headline: "Starship Flight 14 Enters 9-Day Decision Window Targeting August 28 — FAA License Confirmed for First Orbital Starlink V3 Deployment and Pioneering Ship Tower Catch at Starbase; Successful Dual-Stage Recovery Would Definitively Validate Fully-Reusable Heavy-Lift Architecture Ahead of Artemis 3",
+        body: "SpaceX entered the 9-day go/no-go decision window for Starship Flight 14 on August 19, with teams at Boca Chica advancing integration of the Super Heavy booster and Ship upper stage toward an August 28 launch attempt targeting three simultaneous programme milestones: first stable Earth-orbital insertion by the integrated Starship stack, first operational deployment of approximately 20 Starlink V3 next-generation broadband satellites from the Ship payload bay, and the first-ever catch of the Ship upper stage by the Starbase launch tower's Mechazilla arm infrastructure, which has previously recovered only the Super Heavy booster stage across Flights 5 through 13. The Starlink V3 satellites represent a generational leap over the current V2 Mini hardware deployed by Falcon 9, with each V3 unit reportedly capable of delivering one terabit per second of downlink bandwidth — making each Starship deployment equivalent in added constellation throughput to dozens of Falcon 9 missions and unlocking the economics of rapid Starlink network expansion. An FAA license has been confirmed covering the Flight 14 mission parameters according to regulatory tracking sources monitoring Boca Chica airspace notices, with SpaceX's daily hardware activity cadence at Starbase and the absence of any public technical hold making August 28 the working target — ahead of a successful demonstration that would position Starship for NASA's Artemis 3 crewed lunar landing mission in 2027.",
+        sourceUrl: "https://mlq.ai/news/spacex-targets-late-august-starship-flight-for-first-orbital-starlink-deployment/",
+        timestamp: "2026-08-19T15:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-18": {
     date: "August 18, 2026",
     stories: [
