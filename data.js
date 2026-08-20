@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-20": {
+    date: "August 20, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 75th Starlink Mission of 2026 on Falcon 9 From Cape Canaveral as Booster B1078 Achieves Milestone 30th Flight — 29 Satellites Join Constellation on Starlink 10-39 Including the 2,000th Starlink Lofted in 2026; B1078 Sticks Landing on Drone Ship 'A Shortfall of Gravitas' Despite 50 Percent Weather Odds at Window Open",
+        body: "SpaceX successfully launched its 75th Starlink mission of 2026 when a Falcon 9 carrying 29 broadband satellites lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 11:36 a.m. EDT on August 20 — a launch that proceeded despite the 45th Weather Squadron forecasting only a 50 percent probability of acceptable conditions, with cumulus cloud, anvil cloud, and surface electric field rules flagged as the primary concerns entering the window. The mission's payload included the 2,000th individual Starlink satellite launched in 2026, a milestone reflecting the programme's extraordinary annual pace and underscoring SpaceX's continued drive to expand and upgrade its broadband constellation even as engineering resources simultaneously concentrate on Starship Flight 14 preparations underway at Boca Chica. First-stage booster B1078 completed its milestone 30th successful flight, separating cleanly after main engine cutoff and executing a precision propulsive descent to the drone ship 'A Shortfall of Gravitas' stationed downrange in the Atlantic Ocean — extending the booster's remarkable record and reinforcing rapid reuse as the economic backbone of SpaceX's commercial launch dominance heading toward a full-year total poised to surpass the company's own 2025 record of 134 orbital missions.",
+        sourceUrl: "https://spaceflightnow.com/2026/08/20/live-coverage-spacex-to-launch-75th-starlink-mission-of-2026/",
+        timestamp: "2026-08-20T15:36:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Enters 10-Day Final Countdown to August 30 Falcon Heavy Launch as Observatory Begins Integration With Rocket Hardware at Kennedy Space Center — No Technical Holds Threaten 07:26 EDT Window as Encapsulated Wide-Field Infrared Observatory Prepares for Transport to LC-39A; Mission Remains Eight Months Ahead of Original Schedule Commitment",
+        body: "NASA's Nancy Grace Roman Space Telescope entered its 10-day final countdown on August 20 following the completion of fairing encapsulation at the Payload Hazardous Servicing Facility at Kennedy Space Center, with technicians beginning the transport and integration sequence that will see the sealed observatory mated to the SpaceX Falcon Heavy at Launch Complex 39A ahead of the August 30 liftoff at 07:26 a.m. EDT toward the Sun-Earth L2 Lagrange point 1.5 million kilometres from Earth. SpaceNews confirmed no technical issues or Atlantic basin weather concerns currently threaten the 07:26 EDT window, with the August 30 date representing an approximately eight-month acceleration from Roman's prior 'no later than May 2027' schedule commitment — a compression achieved through streamlined integration processes and early hardware delivery from prime contractor L3Harris Technologies. Once deployed at L2, Roman's 2.4-metre primary mirror and wide-field instrument — delivering a field of view 100 times larger than Hubble's — will survey two billion galaxies for dark energy signatures, conduct a statistical exoplanet census via gravitational microlensing in dense Milky Way star fields, and complete a deep infrared all-sky survey expected to anchor astrophysics research across virtually every subdiscipline for decades.",
+        sourceUrl: "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+        timestamp: "2026-08-20T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Schedules U.S. Spacewalk 98 for August 25 to Complete ISS Z1 Truss Antenna Installation After EVA 97 Ran Out of Time — Third EVA Now Required for Single Antenna Swap After Adenot and Menon Spent Full 6 Hours 23 Minutes on Removal Alone August 18; Replacement Unit Pre-Positioned on Station Structure Ahead of Next Excursion",
+        body: "NASA confirmed on August 20 that U.S. Spacewalk 98 is scheduled for August 25 to complete installation of the replacement Space-to-Ground Antenna on the International Space Station's Z1 truss — a task that became necessary after U.S. EVA 97 on August 18 consumed its full 6 hours and 23 minutes removing the failed antenna unit and tying it down on station structure, leaving no time to begin installing the spare retrieved from logistics stores. The scheduling of a third EVA for a single antenna swap reflects the complexity of extracting hardware that had been integrated into the truss for years, with mission planners noting that connector accessibility and cable management challenges encountered by ESA astronaut Sophie Adenot and NASA astronaut Anil Menon during the removal process ran longer than the pre-EVA timeline modeled. With the failed unit secured and the replacement antenna pre-positioned on the station exterior, flight controllers expect the August 25 excursion to be comparatively straightforward, allowing the crew to complete the antenna swap and restore the Space-to-Ground link that provides critical voice and high-rate data relay between the ISS crew and mission controllers in Houston.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/08/18/nasa-esa-astronauts-wrap-up-station-spacewalk/",
+        timestamp: "2026-08-20T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Mission",
+        headline: "Shenzhou 23 Crew Surpasses 90 Days Aboard Tiangong While Executing International Science Manifest Covering 17 Experiments From 23 UNOOSA Partner Nations — Taikonauts Reach Mission Midpoint as French, German, Japanese, and Kenyan Payloads Run Concurrently in Wentian and Mengtian Lab Modules; Shenzhou 24 Crew Training Enters Final Phase",
+        body: "The three-person Shenzhou 23 crew reached the 90-day mark of their planned 180-day mission aboard China's Tiangong space station on August 20, arriving at the mission midpoint during a stay that has included execution of 17 science experiments selected by the United Nations Office for Outer Space Affairs from proposals submitted by institutions across 23 nations — the most internationally diverse science manifest in the station's history. Experiments from France, Germany, Spain, Italy, Kenya, India, Japan, and Peru are running concurrently in Tiangong's Wentian and Mengtian laboratory modules, spanning domains from protein crystallography and flame behaviour in microgravity to atmospheric aerosol monitoring and pharmaceutical compound synthesis under weightlessness. The China Manned Space Engineering Office confirmed that Shenzhou 24 crew training has entered its final phase at the Astronaut Centre of China, with launch targeting late November to maintain the continuous six-month rotation cycle that Tiangong has sustained without interruption since the station's completion in 2022.",
+        sourceUrl: "https://en.cmse.gov.cn/",
+        timestamp: "2026-08-20T08:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "Starship Flight 14 Integration Advances at Boca Chica With Eight Days to August 28 Target — Fully Stacked Vehicle on Orbital Launch Mount as Teams Press Toward First Orbital Starlink V3 Deployment and Pioneering Ship Tower Catch by Mechazilla Arm; Successful Dual-Stage Recovery Would Confirm Full Reusability Ahead of Roman Telescope Falcon Heavy Launch August 30",
+        body: "SpaceX teams at Boca Chica continued round-the-clock integration work on August 20 as Starship Flight 14 pressed toward its August 28 launch target, with the fully stacked 121-metre vehicle on the Orbital Launch Mount and no public technical holds indicating schedule slippage in the nine-day countdown window that opened August 19. Flight 14 is targeting three simultaneous programme milestones: first stable orbital insertion by the integrated Starship and Super Heavy stack, first operational deployment of approximately 20 next-generation Starlink V3 satellites from the Ship's payload bay — each V3 unit reportedly capable of one terabit per second downlink, making a single Starship deployment equivalent in added throughput to dozens of Falcon 9 missions — and the first-ever catch of the Ship upper stage by the Starbase launch tower's Mechazilla arm, which has previously recovered only the Super Heavy booster across Flights 5 through 13. A successful Ship catch on August 28 would confirm full simultaneous reusability of both stages and, back-to-back with Roman's Falcon Heavy launch on August 30, would make the closing days of August 2026 arguably the most consequential week for space exploration since the Artemis II crewed lunar flyby in April.",
+        sourceUrl: "https://mlq.ai/news/spacex-targets-late-august-starship-flight-for-first-orbital-starlink-deployment/",
+        timestamp: "2026-08-20T18:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-19": {
     date: "August 19, 2026",
     stories: [
