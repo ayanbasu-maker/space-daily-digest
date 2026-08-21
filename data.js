@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-21": {
+    date: "August 21, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Starlink 10-39 on Retry After Rare T-28 Second Abort Scrubbed August 20 Attempt — Booster B1078 Completes Milestone 30th Flight and Lands on Drone Ship as 80 Percent Weather Odds Favor 10:47 a.m. EDT Window at Cape Canaveral; 29 Broadband Satellites Join Constellation Including 2,000th Starlink Lofted in 2026",
+        body: "SpaceX successfully launched 29 Starlink satellites on its Starlink 10-39 mission from Space Launch Complex 40 at Cape Canaveral Space Force Station on August 21 at 10:47 a.m. EDT, completing a mission that had been halted the previous day when an automated system detected an out-of-limits condition at T-28 seconds and triggered a last-minute abort — one of the rarer abrupt countermand events in the Falcon 9's otherwise extraordinarily reliable operational history. The 45th Weather Squadron forecast 80 percent probability of favorable conditions at window open on August 21, a significant improvement from the 50 percent odds that had already complicated the August 20 attempt, and the rocket and payload were confirmed healthy throughout the scrub and turnaround process. First-stage booster B1078 completed its milestone 30th successful flight and executed a precision propulsive landing on the drone ship 'A Shortfall of Gravitas,' with the mission also lofting the 2,000th individual Starlink satellite of 2026 — a benchmark reflecting the programme's extraordinary annual cadence as SpaceX presses toward a full-year total positioned to challenge the company's own 2025 record of 134 orbital missions.",
+        sourceUrl: "https://www.fox35orlando.com/news/spacex-starlink-launch-from-cape-canaveral",
+        timestamp: "2026-08-21T14:47:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "Starship Flight 14 Timeline Slips as Ship 41 Departs for Massey Static Fire Testing While Booster 21 Awaits in Mega Bay — August 28 Target Yields to Slip Past September as Both Stages Require Individual Static Fire Clearance Before Stack Integration and FAA Window Can Open at Orbital Launch Pad 2",
+        body: "Starship Flight 14's August 28 launch target has given way to a later date after Ship 41 departed Starbase's production facilities for the Massey test site on August 19 to conduct its full-duration static fire qualification — a step that must be cleared before the ship moves to Orbital Launch Pad 2 for stacking with Booster 21, which itself awaits a static fire from the pad before the integrated vehicle can be counted down. Current tracking from launch schedule aggregators places the Flight 14 attempt no earlier than late September 2026, reflecting the sequential nature of SpaceX's hardware qualification cadence at Boca Chica and the additional verification steps introduced following the post-ignition anomaly that aborted Starship Flight 13 in July. Flight 14 remains the programme's most ambitious milestone yet — targeting first stable orbital insertion, first operational deployment of approximately 20 next-generation Starlink V3 satellites, and the first-ever catch of the Ship upper stage by the Starbase tower's Mechazilla arm — objectives that SpaceX and NASA, which depends on Starship for the Artemis 3 crewed lunar landing in 2027, are watching with intense focus.",
+        sourceUrl: "https://nextspaceflight.com/launches/details/8346/",
+        timestamp: "2026-08-21T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA Confirms U.S. Spacewalk 98 for August 25 to Finish ISS Antenna Swap — Menon and Adenot to Complete Z1 Truss Space-to-Ground Antenna Installation in 283rd ISS EVA With Get-Ahead Task to Replace Harmony Module Retroreflector If Time Permits; NASA+ Live Coverage Begins 7 a.m. EDT",
+        body: "NASA confirmed on August 21 that U.S. Spacewalk 98 is scheduled to begin at approximately 8:35 a.m. EDT on August 25, when NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will exit the Quest airlock to complete installation of the replacement Space-to-Ground Antenna on the International Space Station's Z1 truss — the task left unfinished after EVA 97 on August 18 consumed its full 6 hours and 23 minutes just removing the failed antenna unit. The 283rd spacewalk in ISS history will also include a get-ahead task if the primary antenna work finishes with margin: the pair will attempt to replace a retroreflector on the forward port of the station's Harmony module, which provides navigation reference data for visiting spacecraft approaching for docking. NASA's live coverage of the excursion begins at 7 a.m. EDT on NASA+, YouTube, Amazon Prime Video, and Discovery+, with the agency's commentary team expected to provide continuous crew communications and helmet camera feeds throughout what could be a six-and-a-half hour EVA.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+        timestamp: "2026-08-21T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Highlights Upcoming 96-Percent Deep Partial Lunar Eclipse on August 27-28 Visible Across Americas, Europe, and Africa — Moon to Display Copper-Red Tint as Earth's Umbra Covers 93 Percent of Lunar Disk at Maximum; Safe Naked-Eye Viewing From 9:23 p.m. EDT August 27 Through 3:01 a.m. EDT August 28",
+        body: "NASA's August 2026 skywatching guide is directing public attention to the deep partial lunar eclipse on the night of August 27-28, when the Full Moon will pass through Earth's dark central shadow — the umbra — in an alignment that will cover approximately 93 percent of the lunar disk at maximum eclipse, producing a striking coppery-red tint along the shadowed limb that is expected to be among the most visually dramatic astronomical events accessible to naked-eye observers this year. The eclipse begins for viewers in the Eastern United States at 9:23 p.m. EDT on August 27 and reaches maximum depth in the early morning hours of August 28 before concluding at 3:01 a.m. EDT, with the event visible across virtually all of North and South America along with portions of Europe and western Africa — a wide geographic footprint that will allow hundreds of millions of observers to experience the darkening without any special equipment. Unlike a solar eclipse, lunar eclipses are completely safe to watch without filters or eye protection, and NASA notes that binoculars or a small backyard telescope will significantly enhance the view of Earth's curved shadow advancing and retreating across the cratered lunar surface during the roughly five-and-a-half-hour event.",
+        sourceUrl: "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+        timestamp: "2026-08-21T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-20": {
     date: "August 20, 2026",
     stories: [
