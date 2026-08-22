@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-22": {
+    date: "August 22, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches 27 Starlink Satellites From Vandenberg at 12:30 a.m. PDT Saturday — Falcon 9 First Stage Booster Completes 9th Flight and Lands on Pacific Drone Ship as Mission Pads Full-Year Total Past 77 Dedicated Starlink Launches in 2026; Constellation Expansion Continues Ahead of Starship V3 Era",
+        body: "A SpaceX Falcon 9 carrying 27 Starlink satellites lifted off from Vandenberg Space Force Base in the early hours of Saturday, August 22, with the launch window opening at approximately 12:30 a.m. PDT as the company continued its relentless cadence of constellation-expansion missions from both California and Florida launch sites. The first-stage booster supporting the mission was on its ninth flight, continuing SpaceX's rapid turnaround and reuse program that has made double-digit flight counts routine across the active booster fleet — the vehicle executed a smooth propulsive descent and landed on the drone ship 'Of Course I Still Love You' in the Pacific Ocean approximately eight and a half minutes after liftoff. The mission brought SpaceX's dedicated Starlink launch total for 2026 to 77, further extending the constellation's operational reach and density as the company continues to press toward a full-year orbital launch count on track to surpass the 2025 record of 134 missions.",
+        sourceUrl: "https://www.ksby.com/lompoc-valley/spacex-launch-scheduled-for-early-saturday-morning",
+        timestamp: "2026-08-22T07:30:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "Starship Flight 14 Target Shifts to NET September 15 as COMPASS Slides Reflect Ship 41 Static Fire Dependency at Massey and Booster 21 Pad Qualification Still Pending — August 28 FCC Window Effectively Closed as Sequential Hardware Qualification Cadence Pushes FAA Authorization Timeline Into Next Month; Mission Remains Unchanged in Scope",
+        body: "Starship Flight 14's launch timeline continued to firm toward mid-September on August 22, with SpaceX's internal COMPASS planning slides reflecting a No Earlier Than date of September 15, 2026 — effectively closing the August 28 window identified in an earlier FCC filing as Ship 41's full-duration static fire at the Massey test facility has not yet been completed, a prerequisite that must be cleared before the upper stage moves to Orbital Launch Pad 2 for stacking with Booster 21, which itself still requires a pad-level static fire before integration can proceed. The sequential qualification cadence — each stage must individually demonstrate propulsion health before the two vehicles are mated and the FAA can open its authorization window for the orbital attempt — has no remaining schedule margin to recover an August launch, mission trackers confirmed, though SpaceX has not issued a formal schedule update through official channels. Flight 14's three headline objectives remain unchanged: first stable orbital insertion by the full Starship stack, first operational deployment of next-generation Starlink V3 satellites, and the pioneering catch of the Ship upper stage by the Starbase tower's Mechazilla arm following reentry.",
+        sourceUrl: "https://starship-spacex.fandom.com/wiki/Starship_Flight_Test_14",
+        timestamp: "2026-08-22T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Nancy Grace Roman Space Telescope Enters 8-Day Final Countdown to August 30 Falcon Heavy Launch as Observatory Confirmed Fueled and Ready at Kennedy Space Center — No Technical Holds or Weather Concerns Threaten 07:26 EDT Window; Mission Remains Eight Months Ahead of Original Schedule Commitment With Billion-Galaxy Survey Set to Begin at L2",
+        body: "NASA's Nancy Grace Roman Space Telescope stood eight days from its August 30 launch on a SpaceX Falcon Heavy from Launch Complex 39A at Kennedy Space Center on August 22, with the agency confirming the observatory has been fully fueled and integrated with the launch vehicle following completion of fairing encapsulation, and no technical issues or weather concerns currently threatening the 07:26 a.m. EDT window toward the Sun-Earth L2 Lagrange point 1.5 million kilometres from Earth. The August 30 date represents approximately eight months of schedule compression from Roman's prior 'no later than May 2027' commitment — an acceleration achieved through streamlined integration processes and early hardware delivery from prime contractor L3Harris Technologies that has generated significant enthusiasm within the astrophysics community eager to begin the observatory's primary science programme. Once deployed at L2, Roman's 2.4-metre primary mirror and wide-field instrument — offering a field of view 100 times larger than Hubble's — will survey two billion galaxies for dark energy signatures, conduct a statistical exoplanet census via gravitational microlensing, and complete a deep infrared all-sky survey expected to anchor astrophysics research for decades.",
+        sourceUrl: "https://aerospaceamerica.aiaa.org/roman-telescope-fueled-in-preparation-for-aug-30-launch-nasa-says/",
+        timestamp: "2026-08-22T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "ISS Expedition 75 Crew Spends August 22 in Final Spacewalk Preparations for U.S. EVA 98 on Monday August 25 — Menon and Adenot to Exit Quest Airlock at 8:35 a.m. EDT to Install Replacement Space-to-Ground Antenna on Z1 Truss; NASA+ Live Coverage Begins 7 a.m. EDT With Get-Ahead Harmony Retroreflector Replacement If Schedule Permits",
+        body: "The six-person Expedition 75 crew aboard the International Space Station devoted Saturday, August 22, to spacesuit checks, airlock operations review, and choreography rehearsal for Monday's U.S. Spacewalk 98, in which NASA astronaut Anil Menon and ESA astronaut Sophie Adenot will exit the Quest airlock at approximately 8:35 a.m. EDT to install the replacement Space-to-Ground Antenna on the station's Z1 truss — a task left unfinished when EVA 97 on August 18 consumed its full 6 hours and 23 minutes just removing the failed original unit. Flight controllers confirmed the replacement antenna is already pre-positioned on the station exterior and in good condition following the removal EVA, with the Monday excursion expected to be comparatively efficient and possibly conclude with a get-ahead task to replace a retroreflector on the Harmony module's forward port if the primary antenna installation finishes with schedule margin. NASA's live coverage begins at 7 a.m. EDT on NASA+, YouTube, and Discovery+, with this EVA also marking Adenot's second spacewalk following her historic first outing on August 18 that confirmed her status as the first French woman to walk in space.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/08/20/spacewalk-preps-continue-to-finish-antenna-installation-job-next-week/",
+        timestamp: "2026-08-22T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin Advances LC-36B Pad Construction as New Glenn Return-to-Flight Planning Targets End of 2026 Following May 28 Static Fire Explosion That Destroyed Vehicle and Damaged Only Operational Launch Complex — Second Pad Would Restore Surge Capacity and Reduce Single-Point-of-Failure Risk for New Glenn Commercial Manifest",
+        body: "Blue Origin continued construction work on Launch Complex 36B at Cape Canaveral Space Force Station on August 22, pressing forward on plans to establish a second New Glenn launch pad as the company works toward a return-to-flight campaign targeting the end of 2026 following the May 28 integrated launch vehicle hotfire anomaly that destroyed a New Glenn vehicle and severely damaged Launch Complex 36A — its only operational New Glenn launch site at the time. The accident, which the company attributed to a propulsion system anomaly during the high-pressure engine test, effectively halted New Glenn's commercial manifest that had been ramping through its third mission and first booster reuse flight earlier in the spring, with Blue Origin leadership confirming that investigations, pad repair, and fleet assessment have been ongoing in parallel with the LC-36B construction effort. Having a second pad operational would significantly reduce the single-point-of-failure risk that the May explosion exposed, giving New Glenn the infrastructure resilience to sustain its planned 12-plus annual launch cadence and meet commitments to commercial and government customers including Amazon's Project Kuiper broadband constellation.",
+        sourceUrl: "https://www.blueorigin.com/news/returning-launch-complex-36-to-two-pads",
+        timestamp: "2026-08-22T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-21": {
     date: "August 21, 2026",
     stories: [
