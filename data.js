@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-23": {
+    date: "August 23, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China's Chang'e-7 Lunar South Pole Mission Set for Sunday Liftoff on Long March 5 From Wenchang — Orbiter, Lander, Rover, and Hopping Mini-Probe Target Shackleton Crater Rim in Search of Water Ice; 21 Payloads Including 6 International Instruments Make This the Most Ambitious Chinese Lunar Mission to Date; Landing Attempt Expected Late 2026",
+        body: "China's Chang'e-7 lunar exploration spacecraft is set for liftoff Sunday, August 24, from the Wenchang Space Launch Center atop a Long March 5 Y14 rocket, carrying the nation's most sophisticated lunar science package ever assembled — an orbiter, lander, rover, and a miniaturized hopping probe designed to leap into the permanently shadowed regions of the Moon's south polar area to directly search for water ice deposits. The mission's primary landing target is the illuminated rim of Shackleton crater near the lunar south pole, a region of intense scientific and strategic interest as NASA, ISRO, and the international community race to characterize and eventually access lunar water ice for use as propellant and life support resources at future crewed outposts. Chang'e-7's science payload manifest encompasses 21 instruments, including six contributed by international partners, reflecting China's push to internationalize its lunar program as it works toward establishing the International Lunar Research Station by the mid-2030s. The spacecraft will spend several months in lunar orbit before the landing vehicle attempts touchdown on the south polar terrain late in 2026.",
+        sourceUrl: "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/",
+        timestamp: "2026-08-23T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Nancy Grace Roman Space Telescope Stands T-7 Days From August 30 Falcon Heavy Launch at Kennedy Space Center — Observatory Fully Integrated and Fueled With No Technical Holds or Weather Concerns; Countdown Milestone Confirms Mission Remains Eight Months Ahead of Original Schedule Commitment as Billion-Galaxy Dark Energy Survey Approaches",
+        body: "NASA's Nancy Grace Roman Space Telescope reached the T-7 day mark in its launch countdown on August 23, standing fully integrated with the SpaceX Falcon Heavy rocket at Launch Complex 39A at Kennedy Space Center ahead of its August 30, 07:26 a.m. EDT liftoff toward the Sun-Earth L2 Lagrange point 1.5 million kilometers from Earth — with the agency confirming no technical issues, weather concerns, or range conflicts currently threatening the window. The milestone arrives after Roman completed fairing encapsulation and mating with the Falcon Heavy's upper stage last week, with the observatory now configured for final prelaunch systems checks as engineers from NASA, L3Harris Technologies, and SpaceX work through the remaining countdown milestones. Roman's 2.4-meter primary mirror and wide-field instrument, offering a field of view 100 times larger than the Hubble Space Telescope, will survey two billion galaxies for dark energy signatures, conduct a statistical exoplanet census via gravitational microlensing, and deliver a deep infrared sky map expected to anchor astrophysics research for decades. The August 30 launch date represents approximately eight months of schedule acceleration from Roman's prior May 2027 commitment, an acceleration achieved through streamlined integration processes and early hardware delivery from prime contractor L3Harris Technologies.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/08/10/nasas-roman-telescope-team-begins-integrated-operations-for-launch/",
+        timestamp: "2026-08-23T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "ISS Expedition 75 Crew Completes Final Pre-EVA Preparations for Monday's U.S. Spacewalk 98 — Menon and Adenot Set to Exit Quest Airlock at 8:35 a.m. EDT August 25 to Install Replacement Space-to-Ground Antenna on Z1 Truss; NASA+ Live Coverage Begins 7 a.m. EDT as Crew Reviews Choreography for Six-and-a-Half-Hour Excursion",
+        body: "The six-person Expedition 75 crew aboard the International Space Station devoted Saturday to final preparation activities for Monday's U.S. Spacewalk 98, during which NASA astronaut Anil Menon and ESA astronaut Sophie Adenot are scheduled to exit the Quest airlock at approximately 8:35 a.m. EDT on August 25 to complete installation of the replacement Space-to-Ground Antenna on the station's Z1 truss — a task left unfinished after EVA 97 on August 18 consumed all 6 hours and 23 minutes just removing the failed unit. Mission planners expect Monday's excursion to be comparatively efficient since the replacement antenna has already been pre-positioned on the station exterior following the removal EVA, with the primary installation expected to proceed in roughly three to four hours and potentially leaving margin for a get-ahead task to replace a retroreflector on the Harmony module's forward docking port. Adenot will make her second spacewalk in eight days, an unusually rapid back-to-back cadence driven by the failure of the station's SGANT-2 antenna in November 2025 and the need to restore full high-rate communication redundancy before additional EVA maintenance activities scheduled for September. NASA's live commentary begins at 7 a.m. EDT on NASA+, YouTube, and Discovery+.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/08/20/spacewalk-preps-continue-to-finish-antenna-installation-job-next-week/",
+        timestamp: "2026-08-23T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Development",
+        headline: "SpaceX Scales Back Starship Flight 14 as Ship 41 Completes Single-Engine Static Fire at Massey and Upper Stage Tower Catch Attempt Postponed to Future Mission — NET September 15 Target Holds as Full-Duration Static Fire and Booster 21 Pad Qualification Must Clear Before FAA Authorization Window Opens at Orbital Launch Pad 2; Mission Still Targets First Orbital Insertion and Starlink V3 Deployment",
+        body: "SpaceX confirmed on August 23 that Starship Flight 14 will not attempt a tower catch of the Ship upper stage following reentry, scaling back from the triple-milestone plan outlined after Flight 13's controlled ocean splashdown on July 24, with CEO Elon Musk indicating the Mechazilla arm Ship catch will be attempted on a subsequent mission 'in a few months.' Ship 41 has completed a single-engine static fire test at the Massey test site, marking progress toward the full-duration multi-engine qualification burn required before the upper stage transfers to Orbital Launch Pad 2 at Starbase for stacking with Booster 21 — which itself requires a separate pad-level static fire before the integrated vehicle can be cleared for a countdown. The remaining sequential qualification cadence keeps Flight 14's No Earlier Than date at September 15, as confirmed to airspace managers in an August 20 briefing, with both stages still requiring their respective hardware sign-offs before the FAA can open an authorization window. Flight 14 still targets first stable Starship orbital insertion and first operational deployment of next-generation Starlink V3 satellites, while the Ship catch objective moves to a future flight.",
+        sourceUrl: "https://spacenews.com/spacex-scales-back-plans-for-next-starship-launch/",
+        timestamp: "2026-08-23T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin LC-36B Construction Advances as Company Targets Late-2026 New Glenn Return to Flight — Second Cape Canaveral Pad Would Restore Surge Capacity Lost in May 28 Hotfire Explosion That Destroyed New Glenn Vehicle and Damaged Only Operational Launch Complex; BE-4 Engine Qualification Testing Continues in Parallel at West Texas Propulsion Facility",
+        body: "Blue Origin continued advancing construction of Launch Complex 36B at Cape Canaveral Space Force Station, pressing toward a dual-pad configuration that would give New Glenn the infrastructure resilience the company lacked when a May 28 integrated launch vehicle hotfire anomaly destroyed a vehicle and severely damaged LC-36A — leaving the company with no operational New Glenn launch site and prompting a comprehensive investigation, pad repair effort, and fleet reassessment. The company is targeting a return-to-flight in late 2026, with LC-36B intended to be operational in time to support the resumption of commercial launches that had been building toward a 12-plus annual cadence before the May accident halted Blue Origin's manifest including commitments to Amazon's Project Kuiper broadband constellation. BE-4 engine testing continues in parallel at the West Texas propulsion facility to certify replacement engines meeting updated qualification criteria that emerged from the anomaly investigation, with the dual qualification and infrastructure campaign adding complexity but also offering a path toward greater long-term reliability. Blue Origin has not publicly specified an exact launch date or target mission for the first New Glenn flight following the accident.",
+        sourceUrl: "https://www.blueorigin.com/news/returning-launch-complex-36-to-two-pads",
+        timestamp: "2026-08-23T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Mission",
+        headline: "ISRO Completes Critical Gaganyaan Hardware Qualification Milestones as G1 Uncrewed Launch Targets Late 2026 — HLVM3 Propulsion, Crew Module, and Escape System Testing Cleared; Second Launch Pad at Sriharikota Outfitted With Crew Access Arm and Emergency Systems as Agency Narrows Window for First Indian Crewed Spaceflight Programme Test Flight",
+        body: "The Indian Space Research Organisation confirmed that all propulsion stages and structural components of the Human Rated Launch Vehicle Mark 3 have completed development and ground qualification testing, with the Crew Module and Crew Escape System also having cleared their final hardware acceptance milestones — bringing Gaganyaan's G1 uncrewed test mission to the threshold of an active launch campaign targeting a late 2026 liftoff. ISRO Chairman Dr. V. Narayanan stated the agency is striving for the G1 launch before year-end, carrying the Vyommitra semi-humanoid robot, though program analysts note that a slip to Q3 2027 remains plausible given the sequential flight readiness reviews still required across the mission's safety certification documentation. The Satish Dhawan Space Centre's Second Launch Pad has been upgraded with a Crew Access Arm, bubble lift, zip-line emergency escape system, and enhanced checkout facilities specifically for crewed operations — all infrastructure necessary before the pad can support Gaganyaan missions carrying astronauts in future phases. India's human spaceflight programme aims to fly its first crewed mission after two successful uncrewed precursor flights validate the vehicle, systems, and ground infrastructure at Sriharikota.",
+        sourceUrl: "https://ddindia.co.in/2026/07/gaganyaan-mission-advances-as-isro-completes-key-systems-prepares-for-first-uncrewed-flight/",
+        timestamp: "2026-08-23T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-22": {
     date: "August 22, 2026",
     stories: [
