@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-24": {
+    date: "August 24, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "Chang'e-7 Lunar South Pole Mission Abruptly Postponed as Tropical Depression Narra Threatens Wenchang — China's CMSA Rules Out Any 2026 Launch Window After 'Conditions Not Met' Statement on August 23; New Date Unannounced as Ice-Hunting Spacecraft With Orbiter, Lander, Rover, and Hopping Probe Stands Down on Hainan Island Indefinitely; Mission Could Slip to 2027",
+        body: "China's ambitious Chang'e-7 lunar south pole mission was abruptly postponed on August 23 after the China Manned Space Agency determined the spacecraft could not meet its planned launch conditions, attributing the stand-down to the development of Tropical Depression Narra in the Gulf of Tonkin threatening the Wenchang Space Launch Center on Hainan Island — just 24 hours before the Long March 5 Y14 rocket stack was set for liftoff. CMSA announced that the launch 'cannot take place during the planned window this year,' effectively ruling out the Sunday August 24 liftoff that had been widely confirmed and ending China's most ambitious lunar mission attempt of the decade before it left the pad. No new launch date has been announced, with some industry analysts projecting a possible September opportunity if the tropical weather system dissipates quickly, while others are citing internal schedule pressure and a need for 'absolute success' as factors that could push the next attempt into 2027. The delay is a significant setback for China's lunar program timeline, as Chang'e-7's five-element spacecraft was expected to arrive at the lunar south pole in late 2026 ahead of Chang'e-8 and the International Lunar Research Station construction campaign.",
+        sourceUrl: "https://spacenews.com/china-delays-change-7-lunar-south-pole-landing-mission-launch/",
+        timestamp: "2026-08-24T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "President Trump to Award Congressional Space Medal of Honor to All Four Artemis II Crew Members at Johnson Space Center Ceremony August 28 — Wiseman, Glover, Koch, and Hansen Join 30-Member Honor Roll Including Armstrong and Glenn for First Human Lunar Journey in 53 Years; Highest U.S. Space Award Will Be Presented at 11 a.m. EDT",
+        body: "President Donald Trump will personally present the Congressional Space Medal of Honor to NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch and Canadian Space Agency astronaut Jeremy Hansen at an 11 a.m. EDT ceremony at NASA's Johnson Space Center in Houston on Friday, August 28, recognizing the Artemis II crew's historic April mission that sent humans beyond the Moon for the first time since Apollo 17 in 1972. The Congressional Space Medal of Honor is among the highest distinctions in American spaceflight, awarded to recognize astronauts whose achievements represent an exceptional contribution to the nation's exploration program — and the four-member Artemis II crew will join an exclusive 30-person honor roll that includes Neil Armstrong, John Glenn, and Buzz Aldrin. The 10-day Artemis II mission launched April 1, 2026 aboard NASA's Space Launch System and Orion capsule, executing a free-return trajectory that took the crew approximately 370,000 kilometers from Earth before returning safely to Pacific splashdown on April 10. The ceremony at Johnson Space Center will be attended by NASA's Administrator, senior agency leadership, and members of Congress who championed the Artemis program's funding.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+        timestamp: "2026-08-24T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Passes 100 Orbital Launches in 2026 for Third Consecutive Year — Falcon 9 Booster B1100 Lands Safely After 9th Flight Delivering Starlink From Vandenberg; 74 of First 100 Missions Were Dedicated Starlink Flights as Company Operates at Fastest Launch Cadence in History of Spaceflight",
+        body: "SpaceX crossed the 100 orbital launches milestone for 2026 this week, achieving that benchmark for the third consecutive year and extending its position as the world's most prolific launch operator by an enormous margin, with a Falcon 9 lifting off from Space Launch Complex 4 East at Vandenberg Space Force Base in the early hours of August 24 as the latest in an unbroken cadence of Starlink constellation-expansion missions. Booster B1100, completing its ninth flight, executed a standard propulsive return and landed aboard the droneship 'Of Course I Still Love You' in the Pacific Ocean approximately eight and a half minutes after liftoff, continuing SpaceX's routine of rapid booster reuse that has made double-digit flight counts standard across its active fleet. Of the first 100 launches of 2026, 74 have been dedicated Starlink missions with the remaining 26 carrying commercial, government, and experimental payloads — the overall mission mix reflecting the dual mandate of Starlink revenue generation and third-party launch services that funds SpaceX's broader development programs. SpaceX set successive records of 134 launches in 2024 and 170 in 2025; the current pace puts 2026 on a trajectory that may approach or challenge the 2025 record.",
+        sourceUrl: "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
+        timestamp: "2026-08-24T11:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Nancy Grace Roman Space Telescope Countdown Reaches T-6 Days as Terminal Phase Begins Ahead of August 30 Falcon Heavy Launch — Observatory Passes Final Integrated Systems Review With No Technical or Weather Concerns; 2.4-Meter Mirror and 300-Megapixel Camera Will Survey Two Billion Galaxies for Dark Energy Evidence",
+        body: "NASA's Nancy Grace Roman Space Telescope entered the terminal countdown phase on August 24 with six days remaining before its planned 7:26 a.m. EDT liftoff atop a SpaceX Falcon Heavy rocket from Launch Complex 39A at Kennedy Space Center, with engineers confirming no technical issues or weather concerns after completing final integrated systems reviews of the observatory now encapsulated in its fairing and mated to the Falcon Heavy upper stage. The terminal countdown phase involves final configuration checks of Roman's scientific instruments — the Wide Field Instrument, the Coronagraph Instrument, and the 300-megapixel focal plane array — along with verification of spacecraft autonomy, communications, and power systems before NASA's launch director reviews commit criteria approximately 24 hours before liftoff. Roman's 2.4-meter primary mirror and wide-field observing capability — covering 100 times the sky area of Hubble at comparable depth — will power multi-year surveys of two billion galaxies to characterize dark energy, a gravitational microlensing census of cold exoplanets across the galactic disk, and a deep infrared sky atlas expected to serve as a community reference for decades. The August 30 target represents an eight-month schedule acceleration from Roman's prior May 2027 commitment, a compression achieved through streamlined integration by prime contractor L3Harris Technologies.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/08/10/nasas-roman-telescope-team-begins-integrated-operations-for-launch/",
+        timestamp: "2026-08-24T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "ISS Expedition 75 Astronauts Menon and Adenot Complete Final Suit Checks and Choreography Review for Tuesday's Spacewalk 98 — EVA-98 Targets 8:35 a.m. EDT August 25 Exit From Quest Airlock to Mate Pre-Positioned Replacement Space-to-Ground Antenna on Z1 Truss; Adenot Making Second EVA in Eight Days in Compressed Schedule to Restore Communication Redundancy",
+        body: "NASA astronaut Anil Menon and ESA astronaut Sophie Adenot completed spacesuit checkout and final procedural review aboard the International Space Station on Sunday in preparation for U.S. Spacewalk 98 scheduled for 8:35 a.m. EDT Tuesday, August 25, during which the pair will complete installation of the replacement Space-to-Ground Antenna on the Z1 truss — a job left unfinished after EVA-97 consumed its entire 6 hours and 23 minutes just removing the failed unit on August 18. With the replacement antenna already pre-positioned on the station exterior during EVA-97, engineers expect the installation work on EVA-98 to proceed substantially faster, projecting the primary antenna mating completed within three to four hours and potentially leaving margin for a get-ahead task replacing a retroreflector on the Harmony module's forward docking port. Adenot will be making her second spacewalk in eight days, an unusually compressed back-to-back cadence driven by the urgency of restoring the station's full high-rate downlink redundancy after the SGANT-2 antenna failure in November 2025. NASA+ live commentary begins at 7 a.m. EDT Tuesday, with the excursion also available on YouTube and Discovery+.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/08/20/spacewalk-preps-continue-to-finish-antenna-installation-job-next-week/",
+        timestamp: "2026-08-24T14:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-23": {
     date: "August 23, 2026",
     stories: [
