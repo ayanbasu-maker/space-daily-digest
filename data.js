@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-25": {
+    date: "August 25, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mission",
+        headline: "NASA, ESA Astronauts Complete EVA-98 — Menon and Adenot Install Replacement Space-to-Ground Antenna on ISS Z1 Truss, Restoring Full High-Rate Downlink Redundancy After Nine-Month Outage Since SGANT-2 Failure; Adenot Completes Second Spacewalk in Eight Days in Compressed Back-to-Back Schedule",
+        body: "NASA astronaut Anil Menon and ESA astronaut Sophie Adenot successfully completed U.S. Spacewalk 98 on August 25, exiting the Quest airlock at 8:27 a.m. EDT and finishing installation of the replacement Space-to-Ground Antenna on the station's Z1 truss segment above the Unity module, restoring the International Space Station's full high-rate communication redundancy that had been degraded since the SGANT-2 antenna failed in November 2025. Menon rode the Canadarm2 robotic arm to retrieve the spare antenna that Adenot released from an external storage platform, after which the pair made precise electrical and data connections to activate the replacement for high-speed transmissions with NASA's Mission Control Center in Houston. The EVA followed the pair's first excursion on August 18 — EVA-97 — which consumed its full 6 hours and 23 minutes just removing the failed unit and pre-positioning the replacement, necessitating the back-to-back spacewalk cadence that made Adenot's second EVA in eight days one of the most compressed in recent ISS history. With the antenna work complete, the Expedition 75 crew can now turn its attention to the next round of external maintenance activities scheduled for September.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/08/25/nasa-esa-astronauts-suiting-up-for-antenna-installation-spacewalk/",
+        timestamp: "2026-08-25T08:27:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Countdown Reaches T-5 Days as Observatory Sits Encapsulated Inside Falcon Heavy Fairing at LC-39A — August 24 Encapsulation Milestone Clears Final Integration Step; Flight Readiness Review Signed Off; August 30 Liftoff Remains On Track for L2 Journey to Survey Two Billion Galaxies",
+        body: "NASA's Nancy Grace Roman Space Telescope crossed the T-5 day countdown mark on August 25 after completing encapsulation inside the SpaceX Falcon Heavy rocket's payload fairing on August 24 at Kennedy Space Center's Payload Hazardous Servicing Facility — a milestone that ends ground access to the spacecraft and configures it for launch at 7:26 a.m. EDT on August 30 from Launch Complex 39A. Mission teams from NASA, prime contractor L3Harris Technologies, and SpaceX signed off on the Flight Readiness Review last week with no outstanding technical or range conflicts, leaving weather evaluation as the primary remaining variable before launch day. Roman's 2.4-meter mirror and 300-megapixel Wide Field Instrument will survey two billion galaxies from the Sun-Earth L2 Lagrange point 1.5 million kilometers from Earth, delivering data on dark energy's role in accelerating cosmic expansion, a statistical census of cold exoplanets via gravitational microlensing, and an infrared sky atlas expected to serve astrophysics research for decades. The August 30 launch represents approximately eight months of schedule acceleration from the telescope's prior May 2027 commitment.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/08/24/nasas-roman-telescope-enclosed-in-spacex-falcon-heavy-rocket-fairing/",
+        timestamp: "2026-08-25T09:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Sets Rocket Reuse Record as Booster B1067 Completes Record 37th Flight Delivering 29 Starlink V2 Mini Satellites From Cape Canaveral — B1067 Lands on Droneship 'A Shortfall of Gravitas'; Record-Setting Booster Has Flown Every Major Falcon 9 Customer Profile Since First Launch in 2021",
+        body: "SpaceX booster B1067 set a new Falcon 9 reuse record in the early hours of August 25, lifting off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 5:33 a.m. EDT carrying 29 Starlink V2 Mini satellites on what was the booster's 37th orbital mission — surpassing the previous record and extending SpaceX's lead in rapid rocket reusability by a margin unmatched in spaceflight history. B1067 executed a clean propulsive return and landed aboard the droneship 'A Shortfall of Gravitas' in the Atlantic Ocean approximately eight and a half minutes after liftoff, completing another textbook recovery that will allow the rocket to be refurbished for an additional flight. First launched in April 2021, B1067 has flown a diverse cross-section of customers over its career including NASA crew and cargo missions, commercial satellite deployments, and dozens of Starlink constellation-expansion flights — demonstrating that a single Falcon 9 booster can serve the full range of the company's mission portfolio across multi-year operational lifespans. The 29 newly deployed satellites joined SpaceX's growing Starlink network, which continues to expand global broadband service coverage ahead of the next-generation Starlink V3 era planned for Starship.",
+        sourceUrl: "https://spacecoastdaily.com/2026/08/spacex-falcon-9-set-to-launch-29-starlink-satellites-august-25-from-cape-canaveral/",
+        timestamp: "2026-08-25T05:33:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Ariane 6 Prepares for Historic First Geostationary Transfer Orbit Mission August 27 With MTG-I2 Weather Satellite — VA270 Will Be Ariane 62's Fourth Flight of 2026 and Demonstrate Rocket's Full Commercial Capability; MTG-I2 Carries Flexible Combined Imager and Lightning Imager for 2.5-Minute Rapid Scan Service Over Europe",
+        body: "Arianespace and ESA are counting down to the August 27 launch of the Meteosat Third Generation Imager 2 satellite (MTG-I2) aboard an Ariane 62 rocket from the Guiana Space Centre in Kourou, French Guiana — the mission designated VA270 that will mark Ariane 6's first flight to geostationary transfer orbit and validate the vehicle's full commercial heavy-lift capability after earlier missions demonstrated lower-orbit operations. MTG-I2 carries the Flexible Combined Imager providing Europe with rapid-scan imagery refreshed every 2.5 minutes over the continent, and a Lightning Imager for real-time detection of lightning activity — capabilities that will work in concert with the already-operational Meteosat-12 (MTG-I1) to form the world's most powerful geostationary weather constellation. The satellite will complete Europe's first-generation MTG constellation, operated by EUMETSAT, enabling early detection of fast-developing severe thunderstorms and significantly improving weather forecasting accuracy across Europe, Africa, and the Atlantic Ocean basin. This mission represents a critical commercial milestone for Ariane 6, which has been steadily rebuilding European independent launch access since its inaugural flight, with the GTO demonstration crucial to unlocking the full commercial satellite launch market.",
+        sourceUrl: "https://newsroom.arianespace.com/arianespace-to-launch-weather-satellite-mtg-i2-on-ariane-6s-first-mission-to-geostationary-orbit-on-august-27-2026/?lang=eng",
+        timestamp: "2026-08-25T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-24": {
     date: "August 24, 2026",
     stories: [
