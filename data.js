@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-26": {
+    date: "August 26, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Mated to Falcon Heavy Inside LC-39A Hangar With T-4 Days to August 30 Launch — Overnight Convoy Delivered Fairing-Encapsulated Observatory to SpaceX's Pad 39A Facility on August 25; Teams Completing Combined Systems Checks Before Launch Readiness Review Friday; Window Opens 7:26 a.m. EDT for L2 Journey to Survey Two Billion Galaxies",
+        body: "Engineers from NASA and SpaceX completed mating of the Nancy Grace Roman Space Telescope — encapsulated inside the Falcon Heavy's payload fairing — to the rocket's upper stage inside the SpaceX hangar at Launch Complex 39A at Kennedy Space Center on August 26, completing the final major integration milestone with four days remaining before the observatory's planned liftoff at 7:26 a.m. EDT on Sunday, August 30. The overnight convoy that transported Roman from the Payload Hazardous Servicing Facility to the LC-39A hangar on August 25 arrived safely with all vehicle health parameters nominal, allowing teams to begin mating operations in the predawn hours of August 26 and conclude with final mechanical and electrical interface checks before midday. With mating complete, the Falcon Heavy stack will roll to the launch pad in the coming days ahead of a Launch Readiness Review on Friday, August 28, at which NASA and SpaceX launch directors will conduct a final go/no-go poll covering trajectory, weather, and all technical commit criteria. Roman's 2.4-meter mirror and 300-megapixel Wide Field Instrument will survey two billion galaxies from the Sun-Earth L2 Lagrange point to characterize dark energy and conduct a gravitational microlensing census of cold exoplanets — the largest space telescope ever launched dedicated to wide-field infrared astronomy.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/08/25/nasas-nancy-grace-roman-space-telescope-arrives-at-hangar/",
+        timestamp: "2026-08-26T09:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Reaches 101 Orbital Launches for 2026 With Predawn Falcon 9 Starlink 15-22 From Vandenberg — Booster B1082 Completes 24th Mission and Lands on 'Of Course I Still Love You' After 2:35 a.m. PDT Liftoff Carrying 27 Starlink Satellites; Company Extends Most Prolific Annual Launch Cadence in History Just Three Days After Crossing the 100-Mission Mark",
+        body: "SpaceX extended its record 2026 launch pace to 101 orbital missions on Wednesday with a predawn liftoff of its Starlink 15-22 mission from Space Launch Complex 4 East at Vandenberg Space Force Base in California, deploying 27 Starlink broadband satellites to low Earth orbit just three days after crossing the 100-flight milestone for the year with another Vandenberg Starlink mission. Booster B1082, flying on its 24th mission, lifted off at 2:35 a.m. PDT (5:35 a.m. EDT / 0935 UTC) and executed a smooth propulsive landing on the droneship 'Of Course I Still Love You' stationed in the Pacific Ocean approximately eight and a half minutes after liftoff, keeping the fleet's near-perfect booster recovery rate intact. B1082's mission history encompasses the NROL-145, USSF-62, and OneWeb Launch 20 national security and commercial flights alongside 20 previous Starlink batches, making it one of the most mission-diverse boosters in SpaceX's active fleet. The 27 newly deployed satellites join SpaceX's Starlink megaconstellation as the company simultaneously advances Starship development and preparations for Starlink V3 deployment that will eventually require the larger vehicle's payload capacity.",
+        sourceUrl: "https://spaceflightnow.com/2026/08/25/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-2/",
+        timestamp: "2026-08-26T05:35:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Arianespace Clears VA270 for Liftoff as Ariane 62 and MTG-I2 Stand Ready at Kourou for Thursday's Inaugural Geostationary Transfer Orbit Mission — Launch Window Opens 21:10 UTC August 27; ESA and EUMETSAT Teams Arrive for Countdown as First Ariane 6 GTO Flight Completes All Pre-Launch Technical Reviews",
+        body: "Arianespace and ESA completed final pre-launch technical and range-safety reviews for the VA270 mission at the Guiana Space Centre in Kourou, French Guiana on August 26, clearing an Ariane 62 rocket and the Meteosat Third Generation Imager 2 satellite for a launch window opening at 21:10 UTC (17:10 local time) on Thursday, August 27 — a mission that will mark Ariane 6's inaugural flight to geostationary transfer orbit and validate the vehicle's full commercial heavy-lift capability. MTG-I2 carries the Flexible Combined Imager and Lightning Imager instruments that will join the already-operational Meteosat-12 to provide Europe with rapid-scan weather imagery refreshed every 2.5 minutes over the continent and real-time lightning detection capability for early warning of fast-developing severe thunderstorms across Europe, Africa, and the Atlantic basin. The VA270 mission is Ariane 6's fourth flight of 2026 and a critical commercial milestone for the program, with a successful GTO delivery unlocking full access to the geostationary satellite launch market that forms the backbone of Arianespace's business model. EUMETSAT will take operational control of MTG-I2 following a commissioning period of approximately six months, completing Europe's most capable meteorological satellite constellation to date.",
+        sourceUrl: "https://newsroom.arianespace.com/arianespace-to-launch-weather-satellite-mtg-i2-on-ariane-6s-first-mission-to-geostationary-orbit-on-august-27-2026/?lang=eng",
+        timestamp: "2026-08-26T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin Confirms New Glenn Return-to-Flight on Track for Q4 2026 as First Three Quartz Broadband Ground Stations Complete Operational Testing — Anomaly Investigation Fully Concluded Following CEO Dave Limp's August 5 Explanation of May 28 Hotfire Explosion; LC-36A Repairs and LC-36B Secondary Pad Construction Advance in Parallel at Cape Canaveral",
+        body: "Blue Origin confirmed this week that its New Glenn orbital launch vehicle return-to-flight campaign remains on a fourth-quarter 2026 trajectory, with CEO Dave Limp declaring the anomaly investigation fully concluded following his August 5 briefing attributing the May 28 pad explosion to a cascading propulsion system failure in the upper stage BE-3U engine cluster — and expressing confidence that corrective design and process changes have been incorporated into the return-to-flight vehicle now in assembly. The company also announced that the first three of nine planned Quartz ground station sites have completed installation and initial operational testing, advancing the proprietary satellite broadband network infrastructure at a milestone that demonstrates parallel program execution across New Glenn launch vehicle recovery and constellation infrastructure campaigns. Pad repair work at Launch Complex 36A continues alongside construction of the new LC-36B secondary pad at Cape Canaveral Space Force Station, restoring the dual-pad configuration that would give New Glenn the infrastructure resilience and surge capacity needed to support an accelerated 2027 launch cadence under manifest commitments to Amazon's Project Kuiper and commercial satellite customers. Blue Origin has not publicly named the customer or mission for the first return launch, targeting before year-end to allow full qualification of updated vehicle hardware before pressing toward the planned 12-plus annual mission cadence.",
+        sourceUrl: "https://spaceflightnow.com/2026/06/30/blue-origin-outlines-return-to-flight-logistics-for-its-new-glenn-rockets/",
+        timestamp: "2026-08-26T12:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-25": {
     date: "August 25, 2026",
     stories: [
