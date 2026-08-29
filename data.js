@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-29": {
+    date: "August 29, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Science Team Briefs Media at Kennedy Space Center With T-1 Day to August 30 Liftoff — Representatives From NASA HQ, Goddard, JPL, STScI, and Caltech/IPAC Outline Mission Goals at 9 a.m. EDT Session; Wide Field Instrument to Map Two Billion Galaxies and Probe Dark Energy From Sun-Earth L2; Coronagraph Instrument to Directly Image Giant Exoplanets as Technology Demonstration",
+        body: "NASA convened a Roman Space Telescope Mission Science Briefing at the Kennedy Space Center Press Site auditorium on Saturday morning, August 29, with scientists and mission representatives from NASA Headquarters, Goddard Space Flight Center, the Jet Propulsion Laboratory, the Space Telescope Science Institute, and Caltech/IPAC presenting the observatory's primary science objectives to media one day before its planned Falcon Heavy launch to the Sun-Earth L2 Lagrange point 1.5 million kilometers from Earth. The briefing detailed how Roman's 2.4-meter primary mirror and 300-megapixel Wide Field Instrument will survey more than two billion galaxies in its projected five-year prime mission, generating a dataset expected to revolutionize understanding of dark energy and large-scale cosmic structure while simultaneously enabling a gravitational microlensing survey for cold exoplanets beyond the snow line — a population of worlds Hubble and James Webb cannot efficiently survey at scale. A dedicated Roman Microlensing Survey will also search for free-floating planets and primordial black holes, while the Coronagraph Instrument — flying as a technology demonstration — is expected to directly image reflected light from giant exoplanets for the first time, validating hardware designs needed for future flagship missions targeting Earth-twin characterization. With the Falcon Heavy standing at Launch Complex 39A in full expendable configuration, the 45th Weather Squadron was maintaining a 90 percent favorable forecast for Sunday's 7:26 a.m. EDT primary window following Friday's successful Launch Readiness Review.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/2026/08/29/nasa-roman-arrives-at-launch-pad-mission-briefings-scheduled/",
+        timestamp: "2026-08-29T09:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Falcon Heavy T-1 Day Countdown Underway at LC-39A With Roman Space Telescope Encapsulated — Vehicle Health Checks Nominal Following Friday Launch Readiness Review; Expendable Side Boosters Configured for High-Energy L2 Trajectory; Primary 7:26 a.m. EDT August 30 Window Supported by 90% Favorable Forecast; August 31 Backup Window Available at 7:22 a.m. EDT",
+        body: "SpaceX entered the T-1 day phase of the Falcon Heavy countdown on Saturday, August 29, with launch teams at Kennedy Space Center performing final health checks on propellant systems, flight termination hardware, and the vehicle's three cores ahead of a planned 7:26 a.m. EDT liftoff on Sunday with NASA's Nancy Grace Roman Space Telescope. The Falcon Heavy is flying in full expendable configuration for the Roman mission — both side boosters will be expended to sea after separation rather than returned to landing zones, a performance trade that provides the additional margin needed to send Roman's approximately 4,200-kilogram observatory on the precise high-energy trajectory required to reach the Sun-Earth L2 Lagrange point. SpaceX's launch director will poll all launch teams at T-2 hours to verify final go status before the terminal count begins, with propellant loading on the Falcon Heavy's three cores expected to begin in the pre-dawn hours of Sunday morning. A backup launch opportunity is reserved for August 31 at 7:22 a.m. EDT in the event of a Sunday scrub, and weather conditions along the Eastern Range are expected to remain favorable through the backup window.",
+        sourceUrl: "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-29-2026",
+        timestamp: "2026-08-29T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Operations",
+        headline: "NASA Announces Preview News Conference for Three Upcoming US Spacewalks by Expedition 75 Crew Aboard International Space Station — Back-to-Back EVAs Target External Maintenance Including Truss Radiator Work and Alpha Magnetic Spectrometer Thermal Control Repairs; First EVA Targeting Early September; All Three Spacewalks to Air Live on NASA TV and NASA+",
+        body: "NASA announced a preview news conference for a series of three upcoming US spacewalks by the Expedition 75 crew aboard the International Space Station, with the extravehicular activities targeting external maintenance tasks including thermal radiator servicing on the station's truss structure and continued repair work on the Alpha Magnetic Spectrometer's thermal control system — a multi-EVA effort to restore full science capability to the cosmic ray detector that has been collecting data on dark matter candidates and antimatter since its 2011 installation. The Expedition 75 crew has spent recent weeks performing biomedical research and orbital outpost maintenance while preparing the tools, hardware, and translation paths in the Quest airlock needed for the upcoming EVA series, including spacesuit checkout and fit verification sessions. ISS program managers indicated the back-to-back spacewalks are among the highest priorities for station operations in the remainder of 2026 before the crew complement schedule transitions ahead of planned Commercial Crew Program manifest changes in early 2027. NASA will provide live coverage of all three spacewalks on NASA Television and the NASA+ streaming service, with the first EVA targeted for the first week of September pending final crew readiness confirmation.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
+        timestamp: "2026-08-29T15:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Neil Gehrels Swift Observatory Resumes Two of Three Science Instruments After Commercial Orbital Boost Mission Is Scaled Back — Burst Alert Telescope and X-Ray Telescope Return to Full Operations; UV/Optical Telescope Status Under Review; Swift's 22-Year Gamma-Ray Burst Detection Legacy Continues on Current Orbital Profile as Teams Evaluate Extended Mission Options",
+        body: "NASA's Neil Gehrels Swift Observatory has resumed operations of two of its three primary science instruments — the Burst Alert Telescope and the X-ray Telescope — following a period of reduced science activity associated with the evaluation and subsequent scaling back of a proposed commercial rideshare mission that would have boosted Swift to a higher orbital altitude to extend the spacecraft's operational lifetime beyond its current projected natural decay timeline. The commercial boost option had been under active evaluation as a cost-effective alternative to a dedicated NASA-funded propulsion solution for altitude maintenance, but was ultimately found to be infeasible within the available mass budget and scheduling constraints of candidate rideshare vehicles, requiring the Swift mission team to revert to planning around the observatory's existing orbital altitude and decay profile. Swift's Burst Alert Telescope continues to serve as an irreplaceable rapid gamma-ray burst detection asset for the global astronomical community, with its automated alert pipeline routinely triggering follow-up observations from dozens of ground and space observatories within minutes of each burst detection — a capability that has made Swift one of NASA's most scientifically productive astrophysics missions and enabled multi-messenger astronomy campaigns connecting gravitational wave detections to electromagnetic counterparts. Mission teams are currently conducting a comprehensive assessment of the UV/Optical Telescope's health status to determine the feasibility of restoring full three-instrument science operations, with preliminary results expected within the coming weeks.",
+        sourceUrl: "https://www.nasa.gov/2026-news-releases/",
+        timestamp: "2026-08-29T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-28": {
     date: "August 28, 2026",
     stories: [
