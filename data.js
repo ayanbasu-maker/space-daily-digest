@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-08-31": {
+    date: "August 31, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Diplomacy",
+        headline: "Turkey Signs Artemis Accords at NASA Headquarters, Becoming 71st Nation to Commit to Peaceful and Transparent Principles for Civil Space Exploration — Administrator Isaacman Hosts Turkish Minister of Industry and Technology Kacır at 2:30 p.m. EDT Ceremony; Signing Reinforces Expanding International Consensus Around Artemis Framework as Crewed Lunar Return Approaches",
+        body: "Turkey formally signed the Artemis Accords on Monday, August 31, 2026, at a 2:30 p.m. EDT ceremony at NASA Headquarters in Washington, D.C., becoming the 71st nation to endorse the bilateral framework for peaceful, transparent, and interoperable civil space exploration activities. NASA Administrator Jared Isaacman hosted Turkish Minister of Industry and Technology Mehmet Fatih Kacır for the signing alongside U.S. Department of State officials, marking Turkey's deepest institutional alignment with NASA's international space cooperation architecture to date. The Artemis Accords, first introduced in 2020 alongside the Artemis program's crewed lunar return initiative, commit signatory nations to principles including transparency of operations, release of scientific data, avoiding harmful interference, and the registration of space objects — establishing norms designed to reduce conflict and promote collaboration as commercial and government actors expand activity in cislunar space. Turkey's signing follows a period of growing engagement between the Turkish Space Agency and NASA, and positions the country among the expanding coalition of nations whose scientific and commercial space sectors are expected to contribute to and benefit from Artemis-era cooperation around the lunar south pole.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
+        timestamp: "2026-08-31T18:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Enters Day-Two Commissioning Phase With All Systems Nominal — Mid-Course Correction Burn Planned This Week as Observatory Cruises Toward Sun-Earth L2; NASA Selects Roman Launch as Astronomy Picture of the Day; 30-Day Journey to Halo Orbit Underway as Team Verifies Wide Field Instrument and Coronagraph Health",
+        body: "NASA's Nancy Grace Roman Space Telescope entered its second day of post-launch commissioning on Monday in full health, with mission controllers at Goddard Space Flight Center reporting all spacecraft systems nominal and the observatory tracking precisely on the trajectory required to reach its operational halo orbit around the Sun-Earth L2 Lagrange point approximately one million miles from Earth. A mid-course correction burn, one of two planned trajectory adjustment maneuvers during Roman's 30-day cruise to L2, is scheduled for later this week to refine the observatory's path before instrument checkout activities begin in earnest. NASA separately selected a composite image of Saturday's Falcon Heavy launch and Roman's solar array deployment as the Astronomy Picture of the Day for August 31, marking the observatory's public debut in the iconic daily feature that has spotlighted astronomical discoveries since 1995. The commissioning team will spend the coming weeks powering on and calibrating Roman's 300-megapixel Wide Field Instrument and its Coronagraph Instrument before the observatory arrives at L2 in late September and begins the months-long calibration campaign leading to first science images targeted for early 2027.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-august-31-launch-of-the-roman-space-telescope/",
+        timestamp: "2026-08-31T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Launches 27 Starlink V2 Mini Satellites From Vandenberg Space Force Base — Booster B1063 Completes Record-Tying 35th Flight and Lands on Droneship 'Of Course I Still Love You'; Mission Continues 2026 Starlink Constellation Expansion as SpaceX Surpasses 120 Orbital Launches for the Year",
+        body: "A SpaceX Falcon 9 rocket lifted off from Space Launch Complex 4E at Vandenberg Space Force Base in California early Monday morning, August 31, lofting 27 Starlink V2 Mini broadband satellites to low Earth orbit in another mission expanding the company's commercial internet constellation. Booster B1063, flying for its 35th mission, executed a flawless entry burn and landing on the autonomous spaceport drone ship Of Course I Still Love You stationed in the Pacific Ocean, continuing SpaceX's unbroken streak of successful booster recoveries. The mission, delayed one day from an earlier August 30 attempt, adds to SpaceX's rapidly accumulating 2026 launch cadence; the company surpassed 120 orbital missions for the year earlier in August following its record-breaking 100th mission on August 21. SpaceX's Starlink constellation continues to grow past 9,000 active satellites in orbit, with the V2 Mini design offering significantly higher throughput per satellite than earlier Starlink generations and supporting the company's expanding direct-to-cell and maritime service tiers.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-08-31T11:13:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Confirms GSLV-Mk II Launch of Earth Observation Satellite EOS-05 for September 4 From Sriharikota — Replacement Mission for GISAT-1 Lost in 2021 Sub-GTO Anomaly; First Imaging Satellite to Operate From Sub-Geosynchronous Transfer Orbit; Launch Comes as Agency Rebuilds Momentum After Two Successive PSLV Failures in 2025 and Early 2026",
+        body: "The Indian Space Research Organisation officially confirmed Monday that its GSLV-Mk II rocket will lift off from the Second Launch Pad at Satish Dhawan Space Centre in Sriharikota on September 4, 2026, carrying the Earth Observation Satellite EOS-05 — also designated GISAT-1A — in a mission that replaces the GISAT-1 spacecraft lost to a sub-Geosynchronous Transfer Orbit anomaly in August 2021. EOS-05 will become India's first imaging satellite designed to operate from the sub-GTO regime, a distinctive orbit that allows the spacecraft to observe the Indian subcontinent multiple times daily with rapid revisit capability that conventional geostationary imaging satellites cannot provide. The mission carries heightened significance for ISRO as the agency works to rebuild launch credibility and institutional confidence following two successive PSLV mission failures in late 2025 and early 2026 that temporarily disrupted India's commercial launch schedule. ISRO's upcoming launch manifest also includes the Gaganyaan G1 uncrewed orbital test flight and a PSLV-C63 commercial mission in the coming quarter as the agency accelerates toward its human spaceflight milestone.",
+        sourceUrl: "https://newstodaynet.com/2026/08/31/isro-set-to-launch-another-satellite-on-4-sept/",
+        timestamp: "2026-08-31T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Lunar Exploration",
+        headline: "China Postpones Chang'e-7 Lunar South Pole Mission to 2027 After Typhoon Narra Threatens Wenchang Launch Site — Long March 5 and Integrated Spacecraft Stack Secured; Delay Allows Additional Pre-Launch Verification; Mission to Search for Water Ice at Shackleton Crater Rim Carries International Instruments From Egypt, Italy, Russia, Switzerland, Thailand, and Bahrain",
+        body: "China's National Space Administration has formally postponed the launch of the Chang'e-7 lunar south pole exploration mission from its planned 2026 window to 2027, with officials citing the approach of Typhoon Narra toward the Wenchang Satellite Launch Center on Hainan Island as the proximate cause of the delay that also allows time for additional pre-launch verification activities on the mission's five-element stack. The Chang'e-7 mission — the most ambitious Chinese lunar exploration effort to date — comprises an orbiter, relay satellite, lander, rover, and a small hopping probe designed to fly into permanently shadowed craters near the rim of Shackleton Crater and directly sample suspected water ice deposits that could support future crewed outposts. The mission carries a diverse international payload suite contributed by Egypt, Bahrain, Italy, Russia, Switzerland, and Thailand, as well as an instrument from the International Lunar Observatory Association, reflecting China's growing multilateral approach to lunar science. The delay is not expected to affect the broader timeline of China's International Lunar Research Station program, which envisions a robotic base at the lunar south pole by 2035 and a crewed presence by the early 2040s in cooperation with Russia and other partner nations.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/08/launch-preview-081726/",
+        timestamp: "2026-08-31T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-30": {
     date: "August 30, 2026",
     stories: [
