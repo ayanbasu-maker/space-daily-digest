@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-01": {
+    date: "September 1, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Operations",
+        headline: "NASA and ESA Astronauts Conduct Sixth All-Female Spacewalk in History Outside the International Space Station — Jessica Meir and Sophie Adenot Exit Quest Airlock at 8:40 a.m. EDT for U.S. Spacewalk 99; Crew Replaces Harmony Retroreflector, Installs AMS Radiator Jumper Cables, and Swaps High-Definition Camera During Six-and-a-Half-Hour Extravehicular Activity",
+        body: "NASA astronaut Jessica Meir and ESA astronaut Sophie Adenot of France exited the International Space Station's Quest airlock at 8:40 a.m. EDT on Tuesday, September 1, 2026, beginning U.S. Spacewalk 99 — the sixth all-female extravehicular activity in history and the first since May 2025 — in a six-and-a-half-hour session focused on navigation and science maintenance tasks outside the orbital outpost. The pair replaced a retroreflector on the forward port of the station's Harmony module used for rendezvous and proximity operations by visiting spacecraft, installed jumper cables for the station's data-relay systems, and replaced a high-definition camera on the truss structure to restore full external monitoring coverage. Meir and Adenot also prepared the Alpha Magnetic Spectrometer's thermal radiator for upcoming dedicated AMS maintenance spacewalks, routing hardware that will enable the future EVA campaign to service the cosmic-ray detector's cooling system without interrupting its dark matter and antimatter science operations. The spacewalk marked Meir's seventh career EVA and Adenot's third, the 284th conducted at the International Space Station since 1998, with Adenot serving as crew member 1 in the suit with red stripes while Meir served as crew member 2.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/01/esa-nasa-astronauts-begin-spacewalk-for-navigation-science-maintenance/",
+        timestamp: "2026-09-01T08:40:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Completes First Mid-Course Correction Burn at 12:02 p.m. EDT — Approximately Three-Minute Maneuver Refines Trajectory Toward Sun-Earth L2 Lagrange Point; Observatory Remains in Full Health One Day After Launch; Second Correction Burn Planned Later in 30-Day Transit to Halo Orbit",
+        body: "NASA's Nancy Grace Roman Space Telescope executed its first mid-course correction burn at 12:02 p.m. EDT on Tuesday, September 1, 2026, approximately one day after its Falcon Heavy launch from Kennedy Space Center, with mission controllers at Goddard Space Flight Center confirming the approximately three-minute maneuver completed nominally and refined Roman's trajectory toward its operational halo orbit around the Sun-Earth L2 Lagrange point roughly one million miles from Earth. The burn, one of two planned trajectory adjustment maneuvers during Roman's 30-day cruise to L2, used the observatory's onboard thrusters to make a small but precise velocity change ensuring the spacecraft arrives at L2 with the geometry needed to enter its planned orbit without requiring additional corrective burns later in the mission. Mission teams confirmed that all spacecraft systems, including the six-panel Solar Array Sun Shield deployed within 30 minutes of separation on August 30, continue to operate nominally with positive power margins and thermal control performing as designed. Roman is expected to arrive at the Sun-Earth L2 Lagrange point in late September and will then begin a months-long instrument checkout and calibration campaign before the first science images are released to the public in early 2027.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/",
+        timestamp: "2026-09-01T12:02:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Operations",
+        headline: "SpaceX Crew-13 Launch to International Space Station Delayed From September 12 Target After Oxidizer Leak Detected on Dragon Spacecraft — New Launch Date Not Yet Announced; Crew-12 Mission Remains Aboard Station While Teams Investigate; Dragon Crew Vehicle Returned to Processing for Inspection and Repair",
+        body: "SpaceX and NASA announced on Tuesday that the Crew-13 commercial crew mission to the International Space Station has been delayed from its September 12 target launch date after engineers detected an oxidizer leak on the Dragon spacecraft during pre-launch processing at Kennedy Space Center, with no new launch date announced while teams investigate the source of the anomaly and determine a repair plan. The delay keeps the current Expedition 75 crew complement aboard the station while SpaceX's mission team returns the Crew Dragon vehicle to its processing facility for inspection, joining a pattern of pre-launch processing holds that have accompanied several recent Commercial Crew Program missions as the agency and SpaceX maintain rigorous leak-check standards for crew transportation vehicles. Crew-12, which launched to the station in March 2026, will remain docked at the forward port of the Harmony module while the Crew-13 investigation proceeds, extending the mission for its four crew members beyond the original six-month rotation timeline. NASA stated that the station has sufficient consumables to support the extended crew complement and that no operations aboard the orbital outpost will be affected by the delay.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-09-01T16:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Breaks Ground on $80 Million Payload Processing Facility at Cape Canaveral Space Force Station — 120,000-Square-Foot Building to Include Four Large Processing Bays and Two Encapsulation Bays; Facility Designed to Support Up to 16 New Glenn Missions Per Year; Completion Expected in Late 2027 Ahead of Target 2028 Opening",
+        body: "Blue Origin officially broke ground Tuesday on a new $80 million Payload Processing Facility at Cape Canaveral Space Force Station, a 120,000-square-foot building designed to dramatically expand the company's ground infrastructure capacity and support a New Glenn launch cadence of up to 16 missions per year for commercial, national security, and NASA customers. The facility will include four large payload processing bays, two encapsulation bays, and four additional multi-manifest processing bays capable of accommodating payloads for both the two-engine New Glenn 7×2 and the larger four-engine New Glenn 9×4 vehicle variants, making it one of the most capable dedicated commercial rocket processing facilities on the Eastern Range. Construction is expected to be completed by late 2027, with the facility targeting an operational opening in early 2028 that will coincide with Blue Origin's anticipated return to full launch cadence following the company's recovery from the May 28, 2026 pad anomaly at Launch Complex 36A. The investment reflects Blue Origin's long-term confidence in New Glenn's commercial competitiveness and signals the company's preparation for a sustained high-cadence manifest that could include support for Amazon's Project Kuiper broadband constellation and ongoing National Security Space Launch Phase 3 missions.",
+        sourceUrl: "https://hoodline.com/2026/09/blue-origin-breaks-ground-on-80m-cape-canaveral-payload-facility-for-16-missions-a-year/",
+        timestamp: "2026-09-01T14:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Confirms September 4 GSLV-Mk II Launch of EOS-05 Earth Observation Satellite From Sriharikota as Launch Rehearsal Completes — Mission Replaces GISAT-1 Lost in 2021; Gaganyaan G1 Uncrewed Test Flight Preparation Advancing in Parallel as India Eyes Historic First Human Spaceflight Campaign",
+        body: "The Indian Space Research Organisation confirmed Tuesday that its GSLV-Mk II rocket remains on schedule for a September 4, 2026 liftoff from the Second Launch Pad at Satish Dhawan Space Centre in Sriharikota, with the agency's launch rehearsal exercise for the EOS-05 Earth observation satellite completing successfully and all countdown milestones tracking to schedule for the planned morning launch window. EOS-05, the replacement for the GISAT-1 spacecraft lost to a sub-geosynchronous transfer orbit anomaly in August 2021, will operate in a sub-GTO regime that provides multiple daily revisit coverage of the Indian subcontinent, giving disaster management authorities and strategic users near-real-time imaging access unavailable from conventional geostationary imaging satellites. ISRO chairman V. Narayanan separately confirmed that preparations for the Gaganyaan G1 uncrewed orbital test flight are advancing in parallel, with the crew module and service module in final integration at the agency's facilities and a launch window under evaluation for the fourth quarter of 2026 — India's most consequential milestone in its human spaceflight program since the Gaganyaan initiative was announced. The back-to-back mission schedule reflects ISRO's effort to rebuild launch credibility and restore institutional momentum following two successive PSLV mission failures in late 2025 and early 2026.",
+        sourceUrl: "https://newstodaynet.com/2026/08/31/isro-set-to-launch-another-satellite-on-4-sept/",
+        timestamp: "2026-09-01T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "CNSA Confirms Long March 10B Recovered First Stage on Track for Refly Before Year-End as Maiden Booster Completes Post-Recovery Inspection — July 10 Net-Capture Recovery Made China Only Second Nation to Recover Orbital-Class Rocket; Reflight Would Validate Full Reusability Loop Ahead of Crewed Lunar Mission Applications",
+        body: "China's National Space Administration confirmed Tuesday that the first stage of the Long March 10B rocket, successfully recovered on July 10 via a sea-based cable-and-net capture system in the South China Sea, has completed its initial post-recovery structural and propulsion inspection campaign and remains on track for a planned refly mission before the end of 2026, a milestone that would make China the first country to refliy an orbitally recovered booster using a net-capture rather than propulsive landing approach. The Long March 10B's July maiden flight made China only the second nation after SpaceX to recover an orbital-class rocket booster intact, with the net-capture method representing a technically distinct approach from SpaceX's propulsive Falcon 9 booster landings that CASC engineers believe can be scaled to heavier and larger future vehicles without the mass penalty of retractable landing legs. A successful refly of the recovered stage would validate the full reusability loop for the Long March 10B architecture and provide critical operational experience for the reusable upper stage and crewed variants of the rocket that China's human lunar exploration program will depend on for its planned crewed lunar landings in the early 2030s. CNSA also noted that the Shenzhou-23 crew aboard the Tiangong space station continues its science program as the mission approaches its five-week mark, with crew rotation planning for Shenzhou-24 underway.",
+        sourceUrl: "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+        timestamp: "2026-09-01T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-08-31": {
     date: "August 31, 2026",
     stories: [
