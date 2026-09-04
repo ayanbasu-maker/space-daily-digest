@@ -68,6 +68,61 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+
+  "2026-09-04": {
+    date: "September 4, 2026",
+    stories: [
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Successfully Launches GSLV-F17 Carrying EOS-05 From Sriharikota in Pre-Dawn Mission — India's First Geosynchronous Earth Imaging Satellite Placed Into Sub-Geosynchronous Transfer Orbit 19 Minutes After Liftoff at 2:55 a.m. IST; CE-20 Cryogenic Upper Stage Performs Nominally; Mission Marks 16th GSLV Flight and Restores ISRO Momentum After 2025–26 PSLV Setbacks",
+        body: "The Indian Space Research Organisation successfully launched its GSLV-F17 rocket carrying the EOS-05 Earth observation satellite at 2:55 a.m. IST on Friday, September 4, 2026, from the Second Launch Pad at Satish Dhawan Space Centre in Sriharikota, with ISRO chairman V. Narayanan and mission control teams confirming all critical events nominal and the satellite separated cleanly into its designated sub-geosynchronous transfer orbit approximately 19 minutes after liftoff. EOS-05, also known as GISAT-1A, is India's first geosynchronous imaging satellite, weighing 2,367 kilograms and designed to provide persistent observation of the Indian subcontinent and surrounding oceanic regions from geosynchronous orbit at roughly 36,000 kilometers altitude — fulfilling a mission that has been in development since the original GISAT-1 failed to reach its intended orbit in August 2021. The CE-20 cryogenic upper stage engine, fully indigenously developed by ISRO's Liquid Propulsion Systems Centre, performed its extended burn sequence without anomaly in what officials described as a critical confidence-restoration mission following two successive PSLV failures in late 2025 and early 2026. The successful 97th orbital launch by ISRO sets the stage for the agency's next major milestone — the Gaganyaan G1 uncrewed orbital test flight targeting the fourth quarter of 2026.",
+        sourceUrl: "https://www.indiatvnews.com/science/isro-gslv-f17-mission-successful-eos-05-satellite-launch-marks-major-milestone-for-india-2026-09-04-1053250",
+        timestamp: "2026-09-04T03:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "Roman Space Telescope Completes Day Five of L2 Transit With Coronagraph Instrument Pre-Activation Health Check Confirmed — Wide Field Instrument Detector Verification Advances as Observatory Passes One-Point-Five-Million-Kilometer Mark From Earth; Public Awareness Growing With Dedicated Media Coverage; First Science Images Anticipated by Early 2027 After L2 Arrival",
+        body: "NASA's Nancy Grace Roman Space Telescope completed its fifth day of transit toward the Sun-Earth L2 Lagrange point on Friday in continued nominal health, with Goddard Space Flight Center mission controllers confirming successful completion of a pre-activation health verification sequence for the mission's Coronagraph Instrument — a key milestone ahead of formal instrument commissioning activities planned after L2 arrival in late September 2026. The Coronagraph Instrument, which will block host-star light to directly image exoplanets and circumstellar dust disks around nearby stars, represents a major technology demonstration for future planet-finding missions, and its health-check completion marks the second Roman instrument subsystem cleared for commissioning following the Wide Field Instrument detector electronics verification sequence begun earlier this week. Houston Public Media's Houston Matters radio program dedicated its Friday broadcast to Roman's science objectives and capabilities, reflecting growing mainstream awareness of the mission as a successor to Hubble and Webb among the general public. Roman's first science images are anticipated by early 2027 following an approximately three-month commissioning period that will begin once the observatory reaches its halo orbit around L2.",
+        sourceUrl: "https://science.nasa.gov/blogs/roman/",
+        timestamp: "2026-09-04T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "FCC Filing Locks In September 15 as Starship Flight Test 14 Target Date — First Orbital Trajectory Attempt With Block 3 Hardware Confirmed; Booster 21 Clears Full-Duration 33-Engine Static Fire; Ship 41 Deorbit Burn Simulation Complete; Starbase Pad B Integration Advancing; Crew-13 Dragon Oxidizer Valve Repair Progressing in Parallel at Kennedy Space Center",
+        body: "SpaceX is targeting September 15, 2026 for Starship Flight Test 14, with an FCC filing confirming the planned launch date and mission profile calling for the first Starship attempt to reach orbital trajectory using Block 3 hardware — comprising Super Heavy Booster 21 and Ship 41 — carrying a payload of high-capacity Starlink satellites for deployment, marking what would be the first operational spacecraft delivered by the Starship system. Booster 21 completed a full-duration 33-engine static fire on August 28 and Ship 41 has completed both a single-engine deorbit burn simulation and a six-engine static fire, with integration and pad teams at Starbase, Texas now focused on final pre-flight checkouts at Launch Pad B ahead of a flight readiness review in the coming days. Achieving orbital trajectory would represent a landmark milestone for Starship's development program and a critical step toward the vehicle's role as NASA's Human Landing System for Artemis crewed lunar missions, with both the Super Heavy booster and the Ship targeted to return to the launch site under current planning, though an upper-stage catch attempt has been deferred to a future flight. Separately at Kennedy Space Center, the Crew-13 Dragon oxidizer valve repair is progressing toward a September 30 launch target for the four-person ISS crew rotation mission.",
+        sourceUrl: "https://www.teslaoracle.com/2026/09/02/fcc-filing-reveals-starship-flight-14-launch-on-september-15-spacex-conducts-33-engine-static-fire-on-booster-21/",
+        timestamp: "2026-09-04T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Industry",
+        headline: "Blue Origin Wins $700 Million NASA Firm-Fixed-Price Contract to Build Mars Telecommunications Network Orbiter Using Blue Ring Platform — Spacecraft Delivery Required by December 2028, Operational Mars Relay Capability by 2030; New Glenn to Serve as Launch Vehicle; Contract Represents Largest Single NASA Award to Blue Origin to Date",
+        body: "NASA announced that it has selected Blue Origin to design, build, launch, and operate the Mars Telecommunications Network — a dedicated communications relay orbiter that will provide sustained broadband connectivity between Earth and robotic and eventually crewed missions operating on and around Mars — under a firm-fixed-price contract valued at $700 million. Blue Origin's proposal leverages the company's Blue Ring multi-mission space vehicle platform as the spacecraft bus, with the company required to deliver the completed Mars Telecommunications Orbiter to NASA no later than December 31, 2028, and demonstrate operational relay capability at Mars by 2030. The MTN orbiter will provide science data relay, navigation support, and mission-critical communications for Mars surface assets including existing rovers and future planned landers, substantially increasing data throughput compared to current relay services provided by aging Mars Reconnaissance Orbiter and MAVEN assets. The contract — announced by NASA as providing the agency with a dedicated communications infrastructure asset rather than splitting resources across science spacecraft — also provides Blue Origin's New Glenn launch vehicle with a firm manifest commitment, supporting the rocket's commercial ramp-up following its return-to-flight following the May 2026 Launch Complex 36A anomaly.",
+        sourceUrl: "https://www.geekwire.com/2026/blue-origin-wins-700m-nasa-mars-telecommunications-orbiter/",
+        timestamp: "2026-09-04T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Operations",
+        headline: "Shenzhou-23 Crew Reaches Day 103 of 180-Day Extended Mission Aboard Tiangong — Tang Hongbo, Tang Shengjie, and Jiang Xinlin Maintain Materials Science Campaign in Mengtian Module; Seventeen International Experiments From 23 Countries Active Aboard Station; Shenzhou-24 Crew Training in Final Phase Ahead of October 2026 Launch Window",
+        body: "The three-member Shenzhou-23 crew of Tang Hongbo, Tang Shengjie, and Jiang Xinlin reached day 103 of their planned 180-day extended mission aboard China's Tiangong space station on Friday, with the Chinese Manned Space Agency reporting all crew health parameters nominal and ongoing materials science experiments in the Mengtian laboratory module's high-gradient furnace facility continuing on schedule. The Tiangong station is currently hosting 17 international experiment payloads selected jointly by the United Nations Office for Outer Space Affairs and CNSA from proposals submitted by research institutions in 23 countries — including France, Germany, Spain, Italy, Kenya, India, Japan, and Peru — representing the most internationally inclusive research program conducted aboard a Chinese space facility. Ground teams at the Beijing Aerospace Control Center have entered the final phase of Shenzhou-24 crew training, with the next three-person crew expected to launch in October 2026 and conduct an on-orbit handover with the Shenzhou-23 crew before Tang Hongbo and his colleagues return to Earth in November. The Tiangong complex, having been continuously occupied for nearly five years and now hosting a five-component integrated stack with combined mass exceeding 100 metric tons, continues to demonstrate the operational maturity underpinning China's plans to expand the station and deepen international partnership engagements.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/n6465652/index.html",
+        timestamp: "2026-09-04T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "ESA-Backed Isar Aerospace Conducts Second Spectrum Test Flight From Andøya Carrying Five CubeSats Under Boost! Commercial Services Initiative — German Small Launch Vehicle Targets Low Earth Orbit With Rideshare Payload in Second Qualification Flight; Spectrum Aims to Anchor European Small Launcher Segment; Vega-C SMILE Multi-Payload Launch on Track for September 14",
+        body: "German launch startup Isar Aerospace conducted the second flight of its Spectrum small orbital launch vehicle from Andøya Space Port in Norway on September 4, 2026, carrying five CubeSat rideshare payloads and one non-separable experimental payload in a mission partly funded through the European Space Agency's 'Boost!' commercial space transportation services program — ESA's initiative to develop commercially contracted European launch competition. The two-stage, liquid oxygen and liquid methane Spectrum vehicle, capable of lifting up to 1,000 kilograms to low Earth orbit, builds on lessons learned from its inaugural test flight, with the second mission incorporating propellant feed system improvements and enhanced avionics targeting improved orbital insertion accuracy. Isar Aerospace's progress represents a cornerstone of ESA's strategy to cultivate a self-sustaining European small launcher market, complementing Ariane 6's heavy commercial ramp-up with a new-space provider capable of serving the cubesat and small satellite segment with dedicated and rideshare options from European soil. Separately, ESA confirmed that final pre-launch preparations for the September 14 Vega-C mission carrying the SMILE solar-wind mission, FLEX vegetation fluorescence observer, and Sentinel-3C ocean color monitor remain on track at the Guiana Space Centre.",
+        sourceUrl: "https://www.esa.int/Enabling_Support/Space_Transportation/Commercial_Space_Transportation",
+        timestamp: "2026-09-04T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-03": {
     date: "September 3, 2026",
     stories: [
