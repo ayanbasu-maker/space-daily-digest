@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-19": {
+    date: "September 19, 2026",
+    stories: [
+      {
+        agency: "Roscosmos",
+        category: "Resupply",
+        headline: "Progress 96 Cargo Spacecraft Docks to International Space Station, Delivering Three Tons of Food, Fuel, and Supplies to Expedition 75 Crew After Three-Day Fast-Rendezvous Transit from Baikonur",
+        body: "Russia's uncrewed Progress 96 cargo spacecraft successfully docked to the space-facing port of the International Space Station's Poisk module at 9:44 a.m. EDT on Saturday, September 19, completing a three-day automated rendezvous from the Baikonur Cosmodrome in Kazakhstan where it had launched atop a Soyuz rocket on September 16. The spacecraft is carrying approximately three tons of food, fuel, water, and equipment to sustain the station's Expedition 75 crew, which is currently awaiting the delayed arrival of the SpaceX Crew-13 mission originally planned for mid-September but pushed to early October due to a Dragon spacecraft oxidizer leak. Progress 96 will remain berthed at the station for approximately five months before undocking for a planned destructive reentry over the Pacific Ocean, disposing of accumulated station waste.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/19/progress-96-cargo-spacecraft-docks-to-station-to-resupply-crew/",
+        timestamp: "2026-09-19T09:44:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crew",
+        headline: "NASA and SpaceX Delay Crew-13 Dragon Mission to Early October After Oxidizer Leak Discovered During Pre-Launch Processing; Crew-12 Return Also Pushed Back as Expedition 75 Handover Slips",
+        body: "NASA and SpaceX have rescheduled the Crew-13 commercial crew rotation mission from its originally planned September 12 date to early October 2026, after engineers detected an oxidizer leak on the Dragon spacecraft during pre-launch processing at Kennedy Space Center. The delay also extends the mission of the four-person Crew-12 team — NASA astronauts Jessica Meir and Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev — who have been aboard the station since their February 13, 2026 launch and were scheduled to undock in September. Mission managers confirmed this week that both crews have sufficient consumables, medical supplies, and life-support margins to safely extend the stay until Crew-13 arrives and completes the standard overlap handover period.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/16/cargo-mission-and-crew-13-updates-station-research-maintenance-continue/",
+        timestamp: "2026-09-19T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Outreach",
+        headline: "ESA Opens Paris Headquarters to Public for Second Annual Open Days on September 19–20, Highlighting 2026 Milestones Including Ariane 6's First Geostationary Mission and MTG-I2 Weather Satellite Now Operational",
+        body: "The European Space Agency opened the doors of its Paris headquarters on Saturday, September 19, for the second edition of ESA Open Days, a two-day public event held as part of European Heritage Days that invites citizens to engage with Europe's space program through talks by industry specialists, a simulated ESA Council session, and the chance to meet an ESA astronaut in person. The event showcases a strong year for ESA that includes the August 27 launch of the Meteosat Third Generation Imager-2 (MTG-I2) weather satellite aboard Ariane 6 flight VA270 — the rocket's ninth flight and its first mission to geostationary transfer orbit — which is now providing European forecasters with unprecedented lightning and severe-storm imagery from 36,000 kilometers altitude. MTG-I2 completes the first family of MTG satellites and, together with the Lightning Imager and Flexible Combined Imager instruments it carries, will deliver real-time data over Europe and northern Africa with detail and cadence not previously available to national meteorological services.",
+        sourceUrl: "https://www.esa.int/About_Us/ESA_Open_Days/ESA_Open_Days_2026/ESA_Open_Days_2026_are_coming_mark_your_calendar",
+        timestamp: "2026-09-19T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Satellite",
+        headline: "ISRO's EOS-05 Earth Observation Satellite Enters Commissioning Phase After Completing Final Orbit-Raising Maneuver to Geostationary Altitude — Heaviest Payload Ever Launched on GSLV at Over 2,300 Kilograms",
+        body: "India's EOS-05 satellite — the country's first imaging satellite to operate from geostationary orbit — successfully completed its third and final orbit-raising maneuver on September 7, raising its perigee to the intended 36,000-kilometer geosynchronous altitude following its landmark September 3 launch aboard a GSLV rocket from Sriharikota. The spacecraft, also designated GISAT-1A, weighed over 2,300 kilograms at launch, making it the heaviest payload ever placed into orbit by a GSLV vehicle, and carries high-resolution electro-optical instruments designed to provide near-real-time imagery of the Indian subcontinent for agricultural monitoring, disaster response, and national security applications. ISRO engineers are now conducting in-orbit instrument checkout and subsystem verification as the satellite transitions into its operational commissioning phase ahead of handover to user agencies.",
+        sourceUrl: "https://www.isro.gov.in/",
+        timestamp: "2026-09-19T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Exploration",
+        headline: "China's Chang'e 7 Lunar South Pole Mission Slips Out of 2026 Launch Window Due to Timing Constraints; Tianwen-2 Continues Asteroid Science Campaign at Near-Earth Quasi-Satellite Kamoʻoalewa",
+        body: "China's Chang'e 7 mission to the lunar south pole has been delayed out of its planned 2026 launch window after unfavorable launch-site weather and unusually restrictive lighting constraints made it impossible to meet the mission's narrow arrival requirements — the solar-powered lander and rover must reach the lunar south pole during a period of prolonged sunlight to maintain power — with a new launch opportunity expected no earlier than 2027. The mission will deploy a five-element architecture comprising an orbiter, relay satellite, lander, rover, and a small flying probe designed to sample permanently shadowed craters suspected of harboring water ice at the lunar south pole, a capability central to China's long-term crewed lunar ambitions. Separately, the Tianwen-2 spacecraft that arrived at near-Earth quasi-satellite asteroid 469219 Kamoʻoalewa on July 4, 2026, continues its close-proximity science campaign, gathering compositional and morphological data at the asteroid before eventually departing for the main asteroid belt.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/china-roundup-202609/",
+        timestamp: "2026-09-19T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-18": {
     date: "September 18, 2026",
     stories: [
