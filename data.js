@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-20": {
+    date: "September 20, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Stack Clears Final Pre-Launch Checks at Starbase as Two-Day Countdown to NET September 22 Orbital Attempt Begins — Booster 21 and Ship 41 to Splashdown in Gulf of Mexico and Indian Ocean; 26 Starlink V3 Satellites Aboard Ship 41 Mark First Orbital Payload Deployment by Starship; FAA Regulatory Clearance Pending Ahead of 12:15 UTC Window Open",
+        body: "SpaceX completed final propellant system conditioning on Booster 21 and Ship 41 at Starbase's Orbital Launch Pad B this weekend, leaving the Starship Flight 14 stack on track for its no-earlier-than September 22 launch window opening at 12:15 UTC — the first attempt to fly the fully integrated Starship system into a genuine orbital trajectory. Flight 14 will not include a Mechazilla chopstick catch; both Super Heavy Booster 21 and Ship 41 are set for controlled ocean splashdowns, with Booster 21 targeting the Gulf of Mexico and Ship 41 aiming for the Indian Ocean following a partial orbit, preserving Mechazilla catch margin for Flight 15 with Ship 42. Ship 41's payload bay carries 26 Starlink V3 broadband satellites, making this the first orbital payload deployment ever attempted by Starship and a milestone SpaceX has described as the beginning of Starship's commercial operational phase. FAA regulatory approval, confirmed pending for the September 22 window, is the final remaining clearance before propellant loading can proceed.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
+        timestamp: "2026-09-20T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Crew",
+        headline: "SpaceX Crew-13 Astronauts Enter Medical Quarantine at Johnson Space Center Ahead of Early-October ISS Launch — Jessica Watkins, Luke Delaney, Joshua Kutryk, and Sergey Teteryatnikov Isolated After Dragon Grace Oxidizer Valve Replacement Clears Vehicle for Flight; Crew-12 Now Past Seven Months on Station Awaiting Relief",
+        body: "The four-person SpaceX Crew-13 team — NASA commander Jessica Watkins, NASA pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — entered medical quarantine at Johnson Space Center in Houston this weekend as the mission moves into its final pre-launch isolation phase, with NASA and SpaceX targeting early October for the Falcon 9 and Crew Dragon Grace launch from Space Launch Complex 40 at Cape Canaveral. Engineers successfully replaced a leaking oxidizer valve in Dragon Grace's propulsion system earlier this month, clearing the spacecraft for flight after the discovery forced the mission's delay from its original September launch date. Crew-12 — commander Jessica Meir, NASA mission specialist Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev — has now exceeded seven months aboard the ISS and will remain through the Crew-13 handover overlap period. The mission will mark Joshua Kutryk's first spaceflight and the first Canadian to reach the ISS under the Commercial Crew Program.",
+        sourceUrl: "https://www.spokesman.com/stories/2026/sep/18/nasa-spacex-target-early-october-launch-as-crew-13/",
+        timestamp: "2026-09-20T13:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Details Dual-Track Cape Canaveral Expansion as LC-36A Rebuild Adopts Hybrid Integration Architecture After May Explosion and New LC-36B Construction Begins for Larger New Glenn 9×4 Variant; CEO Reaffirms New Glenn Return-to-Flight Target Before End of 2026",
+        body: "Blue Origin published a construction progress update this weekend detailing simultaneous work on two Cape Canaveral launch facilities: the redesigned Launch Complex 36A is being rebuilt after the May 28, 2026 New Glenn static fire explosion using a horizontal-to-vertical hybrid integration approach, mating rocket stages inside the integration facility before crane-assisted vertical erection at the pad — a process eliminating the need to fully restore the damaged erector system. In parallel, Blue Origin has broken ground on Launch Complex 36B, a second pad engineered from the outset for the New Glenn 9×4 variant featuring nine Stage 1 and four Stage 2 BE-4 engines, requiring approximately 2,500 tons of steel and a 213-meter launch tower. Blue Origin CEO Dave Limp reaffirmed that New Glenn will return to flight before the end of 2026, with the rebuilt LC-36A as the target facility for the recovery launch. The expanded complex is intended to support 12 or more annual New Glenn launches through 2027, covering NASA Launch Services II contracts and commercial geostationary satellite deployment missions.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
+        timestamp: "2026-09-20T11:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "FLEX Earth Explorer and Sentinel-3C Begin On-Orbit Commissioning Five Days After September 15 Vega-C Launch — World's First Plant-Fluorescence Mapping Satellite and Third Copernicus Ocean-Land Monitor Undergo Instrument Checkout; Full Operational Status Expected Within 60–90 Days",
+        body: "ESA's FLEX Earth Explorer satellite and Copernicus Sentinel-3C spacecraft, which launched together aboard a Vega-C rocket (flight VV30) from Europe's Spaceport in Kourou, French Guiana on September 15 at 03:21 UTC, are undergoing systematic on-orbit commissioning this weekend as engineers verify instrument deployments, subsystem health, and downlink telemetry from both spacecraft. FLEX — the world's first satellite designed to detect the faint red-wavelength fluorescence emitted by vegetation during photosynthesis — will allow scientists to map the health and carbon-uptake productivity of Earth's ecosystems at global scale, a measurement previously achievable only at small scales from airborne campaigns. Sentinel-3C, the third unit in the Copernicus sea and land surface constellation, will complement Sentinel-3A and 3B data for long-term ocean color, sea-surface temperature, and land-cover change monitoring for European Copernicus services. ESA expects both satellites to reach full operational status and begin delivering science and service data within 60 to 90 days of launch.",
+        sourceUrl: "https://www.esa.int/Applications/Observing_the_Earth/FLEX_and_Sentinel-3C_ready_for_liftoff_on_Vega-C",
+        timestamp: "2026-09-20T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crew",
+        headline: "ISRO Chief Confirms Gaganyaan-1 Uncrewed Test Mission on Track for Q4 2026 Launch After 8,000 System Tests Completed — Vyommitra Half-Humanoid Robot to Occupy Astronaut Seat During Flight; Three Uncrewed Flights Precede First Crewed Mission Targeted for 2027",
+        body: "ISRO Chairman Dr. V. Narayanan reaffirmed this weekend that the agency's first Gaganyaan uncrewed orbital test mission is on track for launch in the fourth quarter of 2026, after the program surpassed 8,000 individual system and subsystem tests across ISRO's facilities in Bangalore, Thiruvananthapuram, and Sriharikota. The mission will carry Vyommitra, a half-humanoid robot that occupies the crew seat and autonomously exercises life-support systems, environmental controls, and emergency crew escape sequences while recording cabin pressure, temperature, humidity, vibration, and radiation data that will directly shape crew-rated mission design for subsequent flights. ISRO has planned three uncrewed test missions before the first crewed Gaganyaan flight, expected in 2027, which would make India the fourth country to independently launch humans to orbit after the United States, Soviet Union, and China. The Gaganyaan crew module is launched atop the LVM3 rocket — flight-proven on OneWeb and Chandrayaan-3 missions — which has been cleared for human rating following a comprehensive structural and propulsion qualification review.",
+        sourceUrl: "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/",
+        timestamp: "2026-09-20T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crew",
+        headline: "Long March 2F/Y24 Rocket for Shenzhou-24 Passes Final Integrated Checks at Jiuquan Ahead of Launch Complex 921 Rollout This Week — Commander Tang Shengjie, Chen Dong, and Pakistan's Muhammad Zeeshan Ali Set for October Liftoff to Tiangong; Shenzhou-23 Crew at Day 118 Entering Final Handover Phase",
+        body: "China Manned Space Agency engineers at the Jiuquan Satellite Launch Center completed final integrated systems verification this weekend on the Long March 2F/Y24 rocket stack for the Shenzhou-24 crewed mission, with rollout to Launch Complex 921 scheduled to begin this week ahead of an October 2026 liftoff targeting the Tiangong space station. The crew of three — commander Tang Shengjie, veteran mission specialist Chen Dong making his second long-duration Tiangong stay, and Pakistan SUPARCO payload specialist Muhammad Zeeshan Ali, who will become the first non-Chinese national to board Tiangong — cleared their final medical fitness examinations last week with no mission-constraining findings. Aboard Tiangong, the Shenzhou-23 crew commanded by Zhu Yangzhu entered Day 118 of their mission and are compiling handover documentation for crystal growth and fluid physics experiments in the Mengtian module to ensure continuity across the crew transition. Shenzhou-24 is planned for a 180-day mission duration, with Muhammad Zeeshan Ali returning as a short-duration guest aboard the Shenzhou-23 descent vehicle upon Tang Shengjie's crew assuming station command.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-20T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-19": {
     date: "September 19, 2026",
     stories: [
