@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-21": {
+    date: "September 21, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Diplomacy",
+        headline: "Albania Signs Artemis Accords at NASA Headquarters Becoming 73rd Country Signatory — Minister Ferit Hoxha and Ambassador Ervin Bushati Sign with NASA Deputy Administrator Matt Anderson at Noon EDT Ceremony; U.S. Department of State Officials Present as Balkan Nation Joins International Space Exploration Framework",
+        body: "The Republic of Albania became the 73rd signatory to the Artemis Accords on Monday, September 21, during a noon EDT ceremony at NASA Headquarters in Washington, with NASA Deputy Administrator Matt Anderson hosting Albanian Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador of the Republic of Albania to the United States Ervin Bushati alongside U.S. Department of State officials. The Artemis Accords, first established in October 2020 by the United States and seven founding partners, define a common framework for civilian space exploration covering peaceful use, transparency, registration of space objects, sharing of scientific data, protection of heritage sites, and mitigation of orbital debris on the Moon, Mars, and beyond. Albania's signing reflects growing European participation in the U.S.-led lunar exploration architecture, with the country citing potential industrial partnerships, scientific research collaboration, and alignment with its broader Euro-Atlantic integration goals as motivations for joining. The accords have now gained 73 national signatories in six years, representing one of the broadest international consensuses on responsible norms for space exploration ever assembled.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/",
+        timestamp: "2026-09-21T16:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "FAA Issues Final Launch License for Starship Flight 14 Clearing September 22 Orbital Attempt at 12:15–14:14 UTC From Starbase — Booster 21 and Ship 41 Enter Final Countdown Preparations as SpaceX Targets Historic First Orbital Starship Mission Deploying 26 Starlink V3 Satellites; September 23 Backup Window Reserved",
+        body: "The U.S. Federal Aviation Administration issued final launch license approval for SpaceX's Starship Flight 14 mission on Sunday, clearing the fully stacked Booster 21 and Ship 41 vehicle at Orbital Launch Pad B in Boca Chica, Texas, for a launch attempt in the 12:15–14:14 UTC window on Monday, September 22, with a backup window available on September 23 if a technical or weather hold forces a stand-down. The FAA clearance, the last outstanding regulatory approval for the mission, follows the agency's earlier Finding of No Significant Impact and Record of Decision completing the environmental review process, and removes the final administrative hurdle that had delayed the attempt from its original September 18 window. Flight 14 is designed to fly Ship 41 to approximately 275 kilometers altitude for a near-full orbit before a deorbit burn and Pacific Ocean splashdown west of Chile, while Super Heavy Booster 21 performs a boostback burn targeting a controlled splashdown in the Gulf of Mexico — neither stage will attempt a Mechazilla chopstick catch on this flight, preserving the catch infrastructure for Flight 15. The 26 Starlink V3 broadband satellites in Ship 41's payload bay will mark the first commercial orbital payload deployment by a Starship vehicle, a milestone SpaceX has described as the start of Starship's transition from development program to revenue-generating operational launcher.",
+        sourceUrl: "https://aviationweek.com/space/launch-vehicles-propulsion/faa-clears-starship-sept-22-flight-test",
+        timestamp: "2026-09-21T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Infrastructure",
+        headline: "Ariane 6 Turbopump Anomaly Discovered in August Ground Evaluations Restricts 2026 Launch Manifest to Six Total Missions — Affected Hardware Under Assessment for In-Situ Repair or Factory Replacement at Kourou; Only One or Two Additional Flights Now Possible Before Year End Instead of Three or Four Previously Planned",
+        body: "Arianespace and ArianeGroup confirmed over the weekend that a turbopump anomaly discovered during ground evaluations in August will reduce Ariane 6's 2026 launch cadence, capping total flights for the year at six missions and leaving only one or two additional launches feasible before the December year-end — a significant reduction from the three or four additional missions the program had been targeting as it ramped toward full operational service. Reports first surfaced in French business outlet La Tribune on September 17, with Peter de Selding's Space Intel Report subsequently identifying the affected component as an engine turbopump requiring additional qualification testing before cleared flight hardware can be assembled into a launch-ready configuration. Engineers at Europe's Spaceport in Kourou, French Guiana, are assessing whether the turbopump can be repaired on-site or must be replaced with a new unit from European component suppliers, a determination that will dictate how many missions can realistically be completed in the remaining 2026 calendar. The anomaly arrives as Ariane 6 had been building momentum following its ninth flight on August 27, VA270, which successfully delivered the Meteosat Third Generation Imager-2 weather satellite to geostationary transfer orbit — the rocket's first GTO mission and a landmark for European independent heavy-lift access.",
+        sourceUrl: "https://satnews.com/2026/09/20/ariane-6-turbopump-anomaly-delays-launch-cadence-capping-2026-flight-operations-at-six-missions/",
+        timestamp: "2026-09-21T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin Advances Blue Ring In-Space Transport Vehicle Toward National Security Launch with AI-Powered Space Surveillance Sensor Payloads — Scout Space Owl and Optimum Technologies Sensor Integrated for First GEO Commercial Space Domain Awareness Mission; Tory Bruno's National Security Group Eyes Golden Dome Architecture Role",
+        body: "Blue Origin's Blue Ring in-space propulsion and logistics spacecraft is advancing through final integration ahead of its first mission, which will carry two space domain awareness payloads — Scout Space's Owl optical sensor and Optimum Technologies' AI-powered surveillance sensor — to geostationary orbit, marking the first fully commercial space domain awareness mission ever operated in the GEO belt. Blue Ring, a modular multi-destination satellite bus capable of carrying up to 4,000 kilograms of mission cargo and maneuvering between multiple orbital destinations on a single mission, is planned to launch aboard a New Glenn rocket once the vehicle completes its return-to-flight campaign following the May 28 static-fire anomaly at Launch Complex 36A. Tory Bruno, who joined Blue Origin after leading United Launch Alliance, heads the company's National Security Group and has positioned Blue Ring as a critical component of the U.S. government's Golden Dome layered missile defense initiative, providing a maneuverable sensing layer in geostationary orbit that is inherently less vulnerable to counter-space actions than traditional fixed-orbit satellites. The mission also advances Blue Origin's ongoing four-flight national security certification sequence, with the company now approaching the midpoint of the qualification campaign required before New Glenn can carry classified military payloads under Pentagon launch contracts.",
+        sourceUrl: "https://spacenews.com/blue-origin-advances-blue-ring-spacecraft-toward-2026-national-security-mission/",
+        timestamp: "2026-09-21T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crew",
+        headline: "Long March 2F/Y24 Rocket for Shenzhou-24 Rolls Out to Launch Complex 921 at Jiuquan Satellite Launch Center — Stack Erected on Pad Ahead of October Liftoff Carrying Commander Tang Shengjie, Chen Dong, and Pakistan's Muhammad Zeeshan Ali to Tiangong; Traditional Rollout Ceremony Marks Final Pre-Launch Milestone",
+        body: "China Manned Space Agency engineers rolled the Long March 2F/Y24 rocket stack for the Shenzhou-24 crewed mission to Launch Complex 921 at the Jiuquan Satellite Launch Center on Monday, completing the final major ground operations milestone before its October 2026 launch targeting the Tiangong space station. The traditional rollout ceremony, which moves the vehicle from its integration facility to the pad via rail transporter and erects it vertically in the launch gantry, marks the beginning of the final pre-launch phase for the three-person crew of commander Tang Shengjie, veteran mission specialist Chen Dong, and Pakistani SUPARCO payload specialist Muhammad Zeeshan Ali — who will become the first non-Chinese national to board the Tiangong station. The pad campaign will include full launch day rehearsals, propellant system checkouts, and a crew ingress rehearsal before the actual launch, with the Shenzhou-23 crew aboard Tiangong now in Day 119 of their mission and entering the final phase of experiment handover documentation for the arriving crew. Shenzhou-24 is planned for a 180-day mission, with Muhammad Zeeshan Ali scheduled to return aboard the otherwise-empty Shenzhou-23 descent vehicle as a short-duration guest while Tang Shengjie's crew assumes permanent station command.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-21T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-20": {
     date: "September 20, 2026",
     stories: [
