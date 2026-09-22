@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-22": {
+    date: "September 22, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Scrubs Starship Flight 14 September 22 Launch Attempt Over Unspecified Ship Issue — First Orbital Starship Mission Now Targeting No-Earlier-Than September 28 Window; Booster 21 and Ship 41 Remain on Pad as Engineers Investigate Anomaly",
+        body: "SpaceX stood down from the September 22 launch window for Starship Flight 14 — the rocket's first orbital mission — after engineers identified an unspecified issue with Ship 41 that prevented propellant loading from proceeding during the countdown at Starbase in Boca Chica, Texas. The company announced a new target of no-earlier-than September 28 with no detailed technical explanation, representing the third schedule adjustment in less than three weeks since the flight slipped from its original September 18 window following FAA regulatory clearance. Ship 41 and Booster 21 remain on Orbital Launch Pad B as teams work to resolve the anomaly; SpaceX has not indicated whether hardware replacement or inspection work is required before the next attempt. The mission targets a 275-kilometer orbit for deployment of 26 Starlink V3 satellites, marking Starship's first true orbital flight and the beginning of its commercial payload delivery phase.",
+        sourceUrl: "https://www.yahoo.com/news/spacex-scrubs-starship-test-flight-000237389.html",
+        timestamp: "2026-09-22T14:30:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "BepiColombo Mercury Arrival Phase Advances as ESA/JAXA Orbiters Complete Three Weeks of Independent Flight — Mercury Planetary Orbiter and Mio on Track for November-December Orbit Insertion After Mercury Transfer Module Separation September 5",
+        body: "The ESA/JAXA BepiColombo mission is three weeks into its Mercury Arrival Phase, with the Mercury Planetary Orbiter (MPO) and JAXA's Mercury Magnetospheric Orbiter (Mio) flying as a composite since the Mercury Transfer Module separated on September 5 after completing its role guiding the spacecraft through an eight-year, 9-billion-kilometer journey from Earth. The two science orbiters are performing a complex series of capture maneuvers designed to bleed off approach speed relative to Mercury's weak gravity field — culminating in MPO entering its elliptical polar science orbit in November and Mio separating to its own magnetospheric orbit in December 2026. BepiColombo's arrival marks only the second spacecraft to orbit Mercury after NASA's MESSENGER mission, which operated from 2011 to 2015, and the first to simultaneously deploy two orbiters for complementary surface-geochemistry and magnetospheric science. ESA ground controllers at ESOC in Darmstadt, Germany, are conducting daily telemetry sessions with all subsystems nominal on both spacecraft.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-22T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Development",
+        headline: "NASA Artemis III SLS Core Stage RS-25 Engine Installation Continues at Kennedy Space Center VAB — Four Aerojet Rocketdyne Engines Being Mated in High Bay 2 as Solid Rocket Booster Stacking Advances; Artemis III Crew Training at Johnson Space Center for Late-2027 Crewed Lunar Landing",
+        body: "Technicians inside the Vehicle Assembly Building at NASA's Kennedy Space Center continue the multi-week installation of four RS-25 engines onto the Artemis III Space Launch System core stage in High Bay 2, with the mating work forming a critical path milestone for the mission targeting humanity's first crewed lunar landing since Apollo 17 in 1972. All four RS-25 engines, built by Aerojet Rocketdyne under the RS-25 restart production contract, were delivered to the VAB in July and transferred to work stands in late August for installation alongside propulsion system checkouts and avionics work. Simultaneously, engineers are stacking the first solid rocket booster segments — the twin SRBs that provide 75 percent of SLS's first-stage thrust — in preparation for eventual mating with the core stage. The Artemis III crew continues full mission-profile training at Johnson Space Center targeting a late-2027 crewed lunar surface landing.",
+        sourceUrl: "https://www.nasa.gov/blogs/missions/2026/08/27/nasa-starts-artemis-iii-engine-install-boosters-crew-training-advance/",
+        timestamp: "2026-09-22T13:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Lunar",
+        headline: "China's Chang'e 7 Lunar South Pole Mission Confirmed Slipped to 2027 After Typhoon Narra Forces August Scrub — Long March 5 Stack Remains at Wenchang; Mission to Search for Water Ice at Shackleton Crater; Chang'e 8 to Follow in 2028",
+        body: "China's Chang'e 7 lunar south pole mission has been officially postponed to 2027 after Typhoon Narra struck Hainan Province in late August and created conditions at the Wenchang Spacecraft Launch Site and the mission's polar landing windows that the China National Space Administration determined were incompatible with absolute safety requirements. The four-element spacecraft stack — comprising an orbiter, a relay satellite, a 1,400-kilogram lander, a rover, and a miniaturized flying probe designed to enter permanently shadowed craters near the lunar south pole — remains in storage at Wenchang pending identification of a 2027 launch window aligned with favorable polar sunlight geometry at the target Shackleton Crater landing zone. Chang'e 7's primary scientific objective is to confirm the presence, form, and volume of water ice deposits at the lunar south pole, data that will directly inform site selection for a permanent Chinese-Russian International Lunar Research Station planned for the 2030s. The delay pushes Chang'e 7 closer in schedule to its planned follow-on mission, Chang'e 8, targeted for 2028 to demonstrate in-situ resource utilization of lunar regolith.",
+        sourceUrl: "https://thediplomat.com/2026/09/china-postponed-its-change-7-lunar-mission-what-does-that-mean-for-its-space-program",
+        timestamp: "2026-09-22T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Development",
+        headline: "Blue Origin Completes First Integrated Horizontal Assembly Trial of New Glenn Under Revised Hybrid CONOPS — LC-36A Rebuild 62 Percent Complete as Architecture Eliminates Damaged Transporter-Erector; Company Confirms Return-to-Flight Before December 31",
+        body: "Blue Origin engineers at Cape Canaveral Space Force Station conducted the first full-scale horizontal-to-vertical integration rehearsal of a New Glenn booster under the company's revised Composite Operations approach, which bypasses the damaged transporter-erector system destroyed in the May 28 static-fire explosion at Launch Complex 36A. The hybrid integration architecture mates New Glenn's first and second stages horizontally inside the integration facility, then transfers the complete stack to the pad for crane-assisted vertical erection — a sequence the company accelerated for the return-to-flight campaign after the anomaly investigation confirmed a BE-4 engine failure as the root cause. Physical reconstruction of LC-36A is now 62 percent complete with crews working around the clock toward a pre-December 31 launch target, while groundbreaking on the new LC-36B pad for the larger New Glenn 9×4 variant is also underway. Blue Origin CEO Dave Limp reiterated on Monday that the company remains on track for the first New Glenn flight of the rebuilt campaign before year-end, enabling resumption of NASA Launch Services II contracts and a backlog of commercial geostationary satellite missions.",
+        sourceUrl: "https://www.blueorigin.com/news/new-glenn-return-to-flight",
+        timestamp: "2026-09-22T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-21": {
     date: "September 21, 2026",
     stories: [
