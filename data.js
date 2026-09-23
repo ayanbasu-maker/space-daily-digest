@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-23": {
+    date: "September 23, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA and SpaceX Enter Final Prelaunch Preparations for Crew-13 Mission Targeting October 1 Liftoff — Four-Person Crew to Dock at ISS Harmony Module Nine Hours After Launch from Cape Canaveral; Mission to Last 180 Days Through March 2027",
+        body: "NASA and SpaceX have moved into final prelaunch preparations for the Crew-13 Commercial Crew mission, with liftoff targeted for 11:10 a.m. EDT on Thursday, October 1, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The four-person crew — NASA Commander Jessica Watkins, Pilot Luke Delaney, CSA astronaut Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov, all first-time spacefliers — will dock to the forward port of the Harmony module less than nine hours after launch for a planned 180-day stay. The mission was originally scheduled for September 12 but was delayed following detection of an oxidizer leak on the Dragon spacecraft's propulsion system during standard prelaunch processing; teams replaced the affected hardware and verified the fix before clearing the vehicle for flight. A backup launch opportunity is available October 2 at 10:47 a.m. EDT if weather or technical issues delay the primary attempt.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/22/nasa-spacex-move-to-final-crew-13-prelaunch-prep-for-oct-1-liftoff/",
+        timestamp: "2026-09-23T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Targeting NET September 28 After September 22 Scrub — Ship 41 and Booster 21 Remain at Starbase Pad as Engineers Investigate Anomaly That Halted Countdown; First Orbital Starship Mission Will Deploy 26 Starlink V3 Satellites",
+        body: "SpaceX is targeting no-earlier-than September 28 for the next Starship Flight 14 launch attempt after the September 22 effort was scrubbed when engineers found an unspecified issue with Ship 41 that prevented propellant loading from proceeding during the countdown at Starbase in Boca Chica, Texas. The Super Heavy Booster 21 and Ship 41 remain at Orbital Launch Pad B as teams work through the anomaly; SpaceX has not publicly identified whether the issue requires hardware replacement or can be resolved through inspection and software changes. Flight 14 is Starship's first orbital mission, targeting a 275-kilometer orbit and deploying 26 Starlink V3 satellites — marking the beginning of Starship's commercial payload delivery phase after prior test flights focused on vehicle performance and booster catch demonstrations. The September 28 date is subject to FAA regulatory clearance and resolution of the Ship 41 issue; this is the third schedule slip in three weeks since the flight was originally targeted for September 18.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/21/spacexs-super-heavy-booster-arrives-at-pad-ahead-of-first-orbital-starship-launch/",
+        timestamp: "2026-09-23T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch Vehicle",
+        headline: "ESA Confirms Ariane 6 Turbopump Anomaly Caps 2026 Flight Operations at Six Missions — Engine Turbopump Issue Discovered During August Ground Evaluations Reduces Planned Year-End Launches from Eight to Six; Member States Unanimously Reaffirm Program Continuation",
+        body: "The European Space Agency has confirmed that a turbopump anomaly on the Ariane 6 upper stage engine will reduce the rocket's 2026 launch cadence from the originally planned eight missions to six, following an issue first reported by French aerospace outlet La Tribune on September 17. The anomaly was discovered during ground evaluation testing in August and prompted ESA and ArianeGroup to revise the flight manifest, with the most recent Ariane 6 launch having occurred on August 27. ESA declined to comment on the root cause of the turbopump issue but confirmed the reduction in planned missions, noting that the four operational flights already completed this year represent meaningful progress in rebuilding European independent launch access. Separate from the technical issue, all ESA member states unanimously reaffirmed continuation of the Ariane 6 program on September 13 following an in-depth technical and financial review, providing program stability as engineers work to resolve the hardware problem ahead of resumed flights.",
+        sourceUrl: "https://satnews.com/2026/09/20/ariane-6-turbopump-anomaly-delays-launch-cadence-capping-2026-flight-operations-at-six-missions/",
+        timestamp: "2026-09-23T10:30:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Tiangong Expedition 11 Crew Approaching End of Six-Month Mission — Shenzhou 23 Taikonauts Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying Set for October Return After Arriving May 24; Shenzhou 24 Crew Rotation Expected Before Year-End",
+        body: "The three taikonauts of China's Tiangong space station Expedition 11 — Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying — are in the final weeks of their planned 180-day mission after arriving aboard Shenzhou 23 on May 24, 2026, with their departure and Earth return targeted for October 2026. The crew has conducted scientific experiments, technology demonstrations, and maintenance activities during their stay at the three-module Chinese Space Station, which has been continuously crewed since late 2022. The upcoming crew handover to Expedition 12 via the Shenzhou 24 spacecraft will continue China's uninterrupted human presence in orbit as the station operates toward a planned 15-year operational lifespan. Tiangong has now been in orbit for more than five years and has hosted eleven crew rotations as China expands its human spaceflight program toward its goal of landing taikonauts on the Moon before 2030.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_Tiangong_space_station_expeditions",
+        timestamp: "2026-09-23T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Targets December 2026 for Gaganyaan-1 Uncrewed Test Flight with Vyommitra Robot — First Human-Rated LVM3 Mission to Validate Life Support and Crew Module Reentry Systems Ahead of Crewed Gaganyaan Flight Planned for Q1 2027",
+        body: "The Indian Space Research Organisation is targeting December 2026 for the launch of Gaganyaan-1, the first uncrewed test flight of India's human spaceflight program, carrying the half-humanoid robot Vyommitra to validate the crew module, life support systems, and parachute reentry recovery systems before human crew missions. Vyommitra is equipped to monitor module environmental parameters, issue alerts, and execute life support operations in microgravity, providing real-time performance data that will directly inform readiness for the crewed Gaganyaan mission targeted for the first quarter of 2027. ISRO has completed more than 7,700 ground tests related to the Gaganyaan program and the LVM3 human-rated launch vehicle, with crew members — including Group Captains Prashanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap, and Wing Commander Shubhanshu Shukla — continuing astronaut training at the Gaganyaan Training Facility in Bengaluru. A successful Gaganyaan-1 mission will make India only the fourth nation to independently develop and operate a human spaceflight capability after the United States, Russia, and China.",
+        sourceUrl: "https://en.channeliam.com/2026/09/05/isro-gaganyaan-mission-lunar-exploration-navic/",
+        timestamp: "2026-09-23T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-22": {
     date: "September 22, 2026",
     stories: [
