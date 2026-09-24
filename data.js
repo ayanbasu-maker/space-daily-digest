@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-24": {
+    date: "September 24, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Wet Dress Rehearsal Underway at Starbase September 24 — Full Propellant Load Simulation With Ship 41 and Booster 21 Follows September 23 Stack Completion; FAA License Still Pending as September 28 Orbital Launch Window Approaches; Flight to Carry 26 Starlink V3 Satellites on Historic First Orbital Starship Mission",
+        body: "SpaceX is conducting a wet dress rehearsal (WDR) at Orbital Launch Pad B in Boca Chica, Texas on September 24, fully fueling the stacked Starship vehicle — consisting of Ship 41 and Super Heavy Booster 21 — in a complete simulated countdown designed to verify propellant loading procedures and ground system readiness ahead of the NET September 28 orbital launch attempt. The stacking of Booster 21 and Ship 41 was completed on September 23, assembling the 124-meter integrated vehicle just two days before the rehearsal, and if the WDR proceeds nominally SpaceX will enter final launch preparations pending regulatory clearance. The Federal Aviation Administration has posted a temporary flight restriction through October 7 covering the Starbase area, but has not yet issued the formal flight license required before propellant loading can proceed during an actual countdown; SpaceX needs FAA clearance before the 8:15 a.m. EDT (1215 GMT) September 28 window open. Flight 14 targets approximately 275 kilometers altitude for a near-full orbit before deorbit, and will mark the first commercial orbital payload deployment by a Starship vehicle — 26 Starlink V3 broadband satellites stored in Ship 41's payload bay.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
+        timestamp: "2026-09-24T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 October 1 Launch Remains on Track as NASA and SpaceX Complete Final Hardware Reviews — Dragon Grace and Falcon 9 at SLC-40 Cleared Through Joint Mission Management Team Review; Jessica Watkins, Luke Delaney, Joshua Kutryk and Sergey Teteryatnikov in Final Quarantine Days Before 11:10 a.m. EDT Liftoff",
+        body: "NASA and SpaceX completed a Joint Mission Management Team review on Wednesday confirming that all four Crew-13 mission elements — the crew, International Space Station, SpaceX Dragon Grace spacecraft, and Falcon 9 rocket — are on track for the 11:10 a.m. EDT October 1 liftoff from Space Launch Complex 40 at Cape Canaveral Space Force Station. Commander Jessica Watkins, Pilot Luke Delaney, CSA mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov remain in medical quarantine, with all crew health indicators nominal as of September 24. Dragon Grace is the fully repaired and recertified spacecraft following the oxidizer valve leak that caused the mission's delay from its original September 12 target date; engineers replaced the affected hardware and completed full propulsion system verification before granting flight clearance. For the October 1 liftoff opportunity, Crew-13 will dock to the forward-facing port of the station's Harmony module approximately nine hours after launch for a planned 180-day stay through March 2027, relieving the Crew-12 team that has been aboard the ISS for over seven months.",
+        sourceUrl: "https://www.nasa.gov/mission/nasas-spacex-crew-13/",
+        timestamp: "2026-09-24T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Confirms BepiColombo Mercury Orbit Insertion Locked for November 21 — MPO Capture Burn Has One Attempt and No Real-Time Command Uplink; MPO and Mio to Separate December 9–10 Before Science Phase Opens April 2027; Online Media Briefing Scheduled to Cover Final Approach Milestone",
+        body: "The European Space Agency has confirmed that BepiColombo's Mercury Planetary Orbiter will execute its critical orbit insertion burn on November 21, 2026 — a maneuver that has only one attempt, cannot be corrected in real time due to light-travel delay, and must fire precisely to bleed off enough approach velocity for Mercury's weak gravity to capture the spacecraft into its initial science orbit. ESA has scheduled an online media briefing to discuss the mission's final approach milestone as the composite spacecraft, now flying as an MPO-Mio pair since the Mercury Transfer Module separated on September 5, performs a series of capture maneuvers through November. Following MPO's November 21 insertion, the MPO and JAXA's Mercury Magnetospheric Orbiter Mio will separate from each other on December 9–10, entering complementary elliptical polar and magnetospheric orbits respectively, with the full science phase set to begin in April 2027. BepiColombo is only the second mission to orbit Mercury after NASA's MESSENGER (2011–2015), and the first to deploy two orbiters simultaneously — enabling coordinated surface geochemistry, mineralogy, and magnetospheric science that no single spacecraft could perform alone.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-24T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "Tianwen-2 Begins Close-Proximity Science Campaign at Asteroid Kamoʻoalewa — Spacecraft Closes to 20 Kilometers as Nature Communications Study Upends Origin Theory; Asteroid Only 20 Meters Long — Half Previous Size Estimates — with Itokawa-Like Flora Belt Composition Challenging Lunar Fragment Hypothesis",
+        body: "China's Tianwen-2 spacecraft is conducting its first sustained close-proximity science campaign at near-Earth asteroid 469219 Kamoʻoalewa, now operating at distances as close as 20 kilometers from the target following its July 4 arrival after a 400-day, billion-kilometer journey from Earth. The first resolved images returned by Tianwen-2's instruments have revealed the asteroid to be approximately 20 meters in length — roughly half the size ground-based radar and optical estimates had projected — a finding that aligns closely with a 2024 James Webb Space Telescope study that estimated an 18-meter diameter. A new peer-reviewed paper published this week in Nature Communications has further complicated Kamoʻoalewa's origin story: while a widely-cited 2021 hypothesis proposed the asteroid was a fragment of the Moon, the new analysis of spectral data suggests its surface composition more closely resembles Itokawa — the rocky S-type asteroid sampled by JAXA's Hayabusa mission — and points to an origin in the Flora asteroid family in the main belt rather than a lunar impact ejection. Tianwen-2 will continue mapping the asteroid's shape, mineralogy, and interior structure before collecting a surface sample for a planned return to Earth in late 2027, after which the spacecraft will depart for comet-like main-belt object 311P/PanSTARRS.",
+        sourceUrl: "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
+        timestamp: "2026-09-24T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Gaganyaan-1 Uncrewed Mission Preparations in Full Swing Targeting Q4 2026 Launch with Vyommitra Robot — ISRO Chief Confirms 7,700-Plus Tests Completed Across LVM3 and Crew Module Systems; Two Uncrewed Flights Required Before Crewed Mission Enters 2027 Manifest",
+        body: "ISRO Chairman V. Narayanan confirmed this week that the first uncrewed Gaganyaan test flight — designated Gaganyaan-1 and carrying the half-humanoid Vyommitra robot — remains firmly on track for launch in the fourth quarter of 2026, with preparations now described as in \"vigorous, systematic\" progress following the completion of more than 7,700 ground tests covering the LVM3 human-rated launch vehicle, crew module, service module, and life support systems. Vyommitra, designed to occupy an astronaut seat and actively monitor the capsule environment during flight, will provide critical data on life-support performance, microgravity behavior of crew systems, and parachute reentry recovery that will directly feed into the design certification for human crew missions. ISRO has planned two uncrewed orbital test flights before any crew boards a Gaganyaan spacecraft, with the first crewed mission currently penciled into the 2027 manifest — targeting a crew of three to a 400-kilometer orbit and ocean splashdown, which would make India only the fourth nation to independently execute human orbital spaceflight. The four Indian Air Force astronaut candidates — Group Captains Prashanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap, and Wing Commander Shubhanshu Shukla — continue mission training at the Gaganyaan Training Facility in Bengaluru.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/09/isros-first-unmanned-gaganyaan-mission.html",
+        timestamp: "2026-09-24T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-23": {
     date: "September 23, 2026",
     stories: [
