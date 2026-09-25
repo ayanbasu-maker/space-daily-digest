@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-25": {
+    date: "September 25, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Wet Dress Rehearsal Passes Successfully September 24 — Booster 21 and Ship 41 Fully Fueled and Counted Down at Starbase, Clearing Vehicle for September 28 First Orbital Launch Attempt; FAA Flight License Sole Remaining Hurdle as SpaceX Readies 26 Starlink V3 Satellites for First Commercial Starship Payload Delivery",
+        body: "SpaceX completed a successful wet dress rehearsal for Starship Flight 14 on September 24, fully loading Booster 21 and Ship 41 with liquid oxygen and liquid methane propellant and running the countdown sequence short of engine ignition at Orbital Launch Pad B in Boca Chica, Texas — confirming ground systems and propellant loading procedures are ready for the NET September 28 orbital launch window. The rehearsal cleared the stacked 124-meter vehicle across all major ground system checks, with no anomalies reported compared to the September 22 issue that scrubbed the previous launch attempt. As of September 25 the only remaining barrier to the September 28 attempt is the formal FAA flight license; the agency had posted a temporary flight restriction through October 7 covering Starbase airspace but had not yet issued the launch authorization required for propellant loading to proceed during an actual countdown. Flight 14 targets a 275-kilometer near-full orbit and will deploy 26 Starlink V3 broadband satellites — Starship's first commercial payload delivery and the mission that formally transitions the vehicle from developmental test article to operational launch system.",
+        sourceUrl: "https://keeptrack.space/x-report/spacex-brief-2026-09-25",
+        timestamp: "2026-09-25T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Advances PRIMA Far-Infrared Space Telescope to Phase B as First Mission in New Probe Explorers Class — 5.9-Foot Observatory Conditionally Capped at $1.2 Billion for 2033 Launch; JPL to Lead Development of Mission Bridging James Webb and Radio Telescope Coverage to Map Galaxy Formation, Exoplanet Origins, and Cosmic Dust Across Deep Time",
+        body: "NASA has selected the PRobe far-Infrared Mission for Astrophysics (PRIMA) to advance to Phase B — the formal preliminary design and technology development stage — as the inaugural mission of a new Probe Explorers category within the agency's Explorers Program, marking a significant expansion of NASA's astrophysics mission architecture between flagship observatories and smaller Explorer-class spacecraft. Equipped with a 5.9-foot primary mirror, PRIMA will conduct deep, sensitive sky surveys in far-infrared wavelengths inaccessible to the James Webb Space Telescope, targeting three major science themes: the formation environments of exoplanets, the co-evolution of galaxies and their supermassive central black holes, and the buildup of cosmic dust and heavy elements over billions of years of universal history. NASA conditionally approved a maximum project cost of $1.2 billion, excluding launch and operations expenses, with the Jet Propulsion Laboratory — managed by Caltech — named lead development center for the planned five-year science mission launching in 2033. A successful conclusion of Phase B will advance PRIMA to Phase C for final design, filling a critical spectral gap that no currently planned observatory will cover between the infrared sensitivity of JWST and the wavelength range of existing radio telescopes.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
+        timestamp: "2026-09-25T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Technology",
+        headline: "Starfish Space Completes Otter Debris Inspector for NASA SSPICY Mission — First Full-Scale Otter Servicing Vehicle Manifested on SpaceX Transporter-18 Rideshare Targeting October 2026 Launch; Spacecraft Will Close Within Hundreds of Meters of Defunct U.S. Satellites to Measure Spin Rate and Surface Condition in Agency's First Commercial Orbital Debris Inspection Contract",
+        body: "Starfish Space has finished building its first full-scale Otter satellite servicing vehicle and confirmed its assignment to SpaceX's Transporter-18 rideshare mission, targeting no earlier than October 2026, under a $15 million NASA contract called SSPICY (Starfish Space Proximity Inspection Capabilities Year-round) — designated by the agency as its first commercial orbital debris inspection mission. The kitchen-oven-sized spacecraft will use electric propulsion to close within hundreds of meters of multiple uncontrolled, defunct U.S. government satellites in low Earth orbit, collecting high-resolution imagery and sensor data to characterize each target's spin rate, spin axis, and surface thermal and structural condition — data NASA considers essential for planning future servicing, fuel transfer, or controlled deorbit operations. Otter is expected to begin active proximity operations with its first target in early 2027, with the mission's findings feeding directly into NASA and Department of Defense strategies for managing the growing population of high-mass trackable debris in operationally critical orbital regimes. SSPICY establishes a commercial model for debris inspection that NASA may scale through future contracts as in-space servicing technology matures toward active debris removal.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/",
+        timestamp: "2026-09-25T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Confirms BepiColombo Mercury Orbit Insertion Set for November 21 as Spacecraft Enters Final Approach Phase — Single-Attempt Capture Burn Has No Real-Time Correction Window Due to 8.5-Minute Signal Delay; MPO and Mio to Separate December 9–10 Before Joint Science Phase Opens April 2027",
+        body: "ESA has confirmed that BepiColombo's Mercury Planetary Orbiter will execute its critical orbit insertion burn on November 21, 2026 — a one-attempt-only maneuver that cannot be corrected in real time because the 8.5-minute one-way signal travel time between Earth and Mercury means the spacecraft must execute the burn sequence autonomously, relying entirely on pre-programmed instructions to bleed off sufficient approach velocity for Mercury's weak gravity to capture it into orbit. The composite MPO-Mio spacecraft has been flying as a pair since the Mercury Transfer Module separated on September 3, completing the propulsion phase of an eight-year, 9-billion-kilometer journey, and is now performing a series of capture maneuvers through November as it closes on Mercury. Following MPO's November 21 insertion, ESA's Mercury Planetary Orbiter and JAXA's Mercury Magnetospheric Orbiter Mio will separate from each other on December 9–10 into complementary elliptical science orbits, with the full coordinated science phase set to open in April 2027. BepiColombo is only the second mission to orbit Mercury after NASA's MESSENGER, and the first ever to deploy two orbiters simultaneously for coordinated surface geochemistry, mineralogy, and magnetospheric science from different vantage points.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-25T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Finalizes October 2026 Launch Window for Shenzhou 24 Crew Rotation as Tiangong Expedition 11 Approaches 185-Day Mark — Taikonauts Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying Preparing for Return After May 24 Arrival; Expedition 12 Crew Identities to Be Confirmed Days Before Launch Per CNSA Standard Practice",
+        body: "China's space program is finalizing the October 2026 launch window for Shenzhou 24, which will carry the three-person Expedition 12 crew to the Tiangong space station and relieve Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying — who arrived aboard Shenzhou 23 on May 24 and are approaching their 185th consecutive day in orbit as of late September 2026. CNSA has not yet publicly announced the Expedition 12 crew members, with official identification expected in the days before launch in accordance with the agency's standard practice of confirming crew close to the launch date. Shenzhou 24 will complete China's fourth crew rotation since Tiangong began permanent crewed operations in late 2022, maintaining the uninterrupted human presence that has made China only the second nation in history — after Russia with Mir and the ISS — to sustain a continuously occupied national space station for this duration. The mission also advances China's long-term Tiangong development roadmap as CNSA prepares for the Xuntian space telescope launch later in 2026, which will enter a co-orbital path enabling periodic docking with Tiangong for maintenance and instrument exchange.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-25T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-24": {
     date: "September 24, 2026",
     stories: [
