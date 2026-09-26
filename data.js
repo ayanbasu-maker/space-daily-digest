@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-26": {
+    date: "September 26, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches USSF-385 Classified Mission for U.S. Space Force from Vandenberg Aboard Falcon 9 at 7 a.m. PT September 26 — Sixth and Final Falcon 9 of the Month from West Coast as Cape Canaveral Shifts Focus to Starship; Veteran Booster B1100 Flies Tenth Mission and Lands on Drone Ship 'Of Course I Still Love You' Eight Minutes After Liftoff",
+        body: "SpaceX successfully launched the classified USSF-385 mission for the U.S. Space Force aboard a Falcon 9 rocket from Space Launch Complex 4-East at Vandenberg Space Force Base in California at 7 a.m. PT on September 26, deploying a secretive national security satellite constellation whose details remain undisclosed by the Space Force. The first stage booster, B1100, completed its tenth flight and executed a precision landing on the drone ship 'Of Course I Still Love You' in the Pacific Ocean approximately eight and a half minutes after launch. The mission marked the sixth and final Falcon 9 launch of September from Vandenberg, underscoring the West Coast base's growing role as SpaceX's primary Falcon 9 launch site as Cape Canaveral's operations increasingly shift toward Starship and Crew Dragon missions. Previous launches in this classified constellation series have resulted in the Space Force cataloging approximately 23 satellites per mission following each deployment.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+        timestamp: "2026-09-26T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 FAA License Expected Before September 28 Window Open — Cameron County Issues Beach Closure Order and FAA Posts TFRs Through September 30 as SpaceX Prepares Ship 41 and Booster 21 at Starbase for Historic First Orbital Commercial Payload Deployment; 75-Minute Window Opens 7:15 a.m. CT Monday",
+        body: "SpaceX is pressing forward with final ground preparations at Starbase in Boca Chica, Texas, for Starship Flight 14's September 28 orbital launch attempt, with Cameron County having issued a Mayor's Order closing Boca Chica Beach and State Highway 4 and the FAA posting Temporary Flight Restrictions through September 30 in a strong signal that regulatory approval is imminent. The 75-minute launch window opens at 7:15 a.m. CT on Monday, September 28, and requires formal FAA flight license issuance before propellant loading can begin — the final formal hurdle separating SpaceX from Starship's debut orbital mission. Ship 41 and Super Heavy Booster 21 completed a successful wet dress rehearsal on September 24 and remain stacked at Orbital Launch Pad B following that full fueling test, with no vehicle issues reported since the anomaly that scrubbed the September 22 attempt. Flight 14 will target a 275-kilometer near-complete orbit and deploy 26 Starlink V3 broadband satellites, formally transitioning Starship from developmental test article to operational commercial launch vehicle.",
+        sourceUrl: "https://orbitalradar.com/blog/orbital-briefing-2026-09-26",
+        timestamp: "2026-09-26T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "Albania Becomes 73rd Nation to Sign NASA's Artemis Accords at Washington Ceremony September 21 — Deputy Administrator Matt Anderson Hosts Foreign Minister Ferit Hoxha in Signing at Mary W. Jackson HQ; Albania Joins Growing Coalition Committing to Transparent, Sustainable Lunar and Deep Space Exploration Under Framework Now Spanning Europe, Asia, Africa, and the Americas",
+        body: "The Republic of Albania formally signed the Artemis Accords on September 21 at a ceremony hosted by NASA Deputy Administrator Matt Anderson at the Mary W. Jackson NASA Headquarters building in Washington, D.C., with Albania's Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador to the United States Ervin Bushati representing the country alongside U.S. Department of State officials. Albania's accession makes it the 73rd nation to join the non-binding framework that establishes transparency, interoperability, safe zones, and the responsible handling of space resources as guiding principles for civil space exploration programs. The Accords have expanded rapidly since their 2020 launch with eight founding signatories, now encompassing nations across six continents and institutionalizing norms for the Artemis lunar program era and beyond. Albania joins several other European nations that have signed in 2026 as global interest in civil lunar cooperation accelerates ahead of the planned Artemis III crewed Moon landing.",
+        sourceUrl: "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/",
+        timestamp: "2026-09-26T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Breaks Ground on $80M Cape Canaveral Payload Facility and Begins Construction of Second New Glenn Launch Pad LC-36B as Cape Expansion Accelerates — 700-Foot Tower Built With 2,500 Tons of Steel; Company Also Takes Over NASA Stennis B-2 Test Cell for New Glenn Second Stage Engine Qualification Testing",
+        body: "Blue Origin has broken ground on an $80 million payload processing facility at Cape Canaveral Space Force Station — designed to support up to 16 additional New Glenn missions per year when it opens in early 2028 — and has simultaneously begun construction on Launch Complex 36B, a second pad for its heavy-lift New Glenn 9x4 rocket featuring a 700-foot-tall launch tower built with approximately 2,500 tons of structural steel. The Cape Canaveral infrastructure expansion encompasses a new Merritt Island engine test site for second stage qualification, new Rocket Park production buildings for vehicle integration, and the rebuild of the historic Launch Complex 36 that served Atlas V for decades. In parallel, Blue Origin has announced it is taking over the historic B-2 test cell at NASA's Stennis Space Center in Mississippi for New Glenn second stage testing, with hardware already en route to the facility. The investment signals Blue Origin's ambitions to scale New Glenn cadence significantly beyond its current operational rate following the May 2026 pad explosion that temporarily grounded the vehicle and damaged LC-36.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
+        timestamp: "2026-09-26T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Outreach",
+        headline: "ESA Opens ESTEC Doors to Public September 26–27 at Europe's Largest Space Technology Research Center in Noordwijk — First Day Reserved for Visitors With Disabilities; Saturday Open to All With Exhibits Covering Ariane 6, BepiColombo Mercury Approach, Galileo Navigation, and ESA Astronaut Programs",
+        body: "The European Space Agency is hosting its biennial ESTEC Open Days on September 26 and 27 at the European Space Research and Technology Centre in Noordwijk, Netherlands — the largest ESA establishment in Europe and the hub of the agency's spacecraft design, test, and integration activities. The September 26 day is dedicated exclusively to visitors with disabilities to ensure accessible, unhurried engagement with the center's facilities, while September 27 opens to the general public with hands-on exhibits covering Ariane 6 launch vehicle operations, the BepiColombo spacecraft now on final approach to Mercury, Galileo navigation system infrastructure, and European astronaut training programs. ESTEC's giant space simulation chambers, thermal-vacuum testing halls, and satellite integration clean rooms are among the facilities on display, offering the public a rare look at the facilities that test spacecraft destined for everything from Earth observation to deep space. The Open Days arrive at a particularly active moment for ESA, with BepiColombo's November 21 Mercury orbit insertion approaching and Ariane 6 working through a turbopump issue that has reduced its 2026 launch manifest.",
+        sourceUrl: "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/",
+        timestamp: "2026-09-26T07:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Diplomacy",
+        headline: "ESA and ISRO Extend Bilateral Cooperative Agreement Through January 2032 at Paris International Space Summit — Updated Terms Add Space Weather, Human Spaceflight, and Lunar Exploration to Framework; ESTRACK-ISTRAC Cross-Support Networks Formalized as Foundation for Joint Planetary Science and Navigation Cooperation",
+        body: "The European Space Agency and the Indian Space Research Organisation formally extended their overarching Bilateral Cooperative Agreement through January 8, 2032, at the International Space Summit in Paris on September 10, expanding the partnership's scope to explicitly cover space weather monitoring, human spaceflight collaboration, lunar exploration, and planetary science alongside existing Earth observation and satellite navigation programs. The updated agreement formalizes the operational cross-support arrangements between ESA's ESTRACK ground station network and ISRO's Telemetry, Tracking and Command Network (ISTRAC), providing mutual backup tracking coverage that both agencies have relied upon for deep space missions. The extension comes amid deepening ESA-India ties following Indian Prime Minister Modi's participation in the Paris summit, with both agencies exploring joint contributions to lunar surface exploration missions and possible Indian astronaut training exchanges with ESA's European Astronaut Centre in Cologne. A separate analysis published this week by NewSpace Economy notes that expanded cooperation could position ISRO's commercial launch capability through NewSpace India Limited as a potential alternative rideshare option for smaller ESA science payloads.",
+        sourceUrl: "https://satnews.com/2026/09/22/esa-and-isro-extend-bilateral-space-agreement-to-2032/",
+        timestamp: "2026-09-26T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-25": {
     date: "September 25, 2026",
     stories: [
