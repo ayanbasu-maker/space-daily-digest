@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-27": {
+    date: "September 27, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Stands Ready at Starbase as FAA Posts TFRs Through September 30 — Vehicle Cleared After Successful September 24 Wet Dress Rehearsal; 75-Minute Launch Window Opens 7:15 a.m. CT Monday September 28 With FAA Flight License Sole Remaining Hurdle Before First Orbital Starship Mission; 26 Starlink V3 Satellites Stowed in Ship 41 Payload Bay",
+        body: "SpaceX's Starship Flight 14 vehicle — Ship 41 stacked atop Super Heavy Booster 21 at Orbital Launch Pad B in Boca Chica, Texas — stands fully ready for launch on Sunday September 27, with the Federal Aviation Administration having published Temporary Flight Restrictions through September 30 in a strong signal that a formal flight license is imminent ahead of the 75-minute window opening at 7:15 a.m. CT (12:15 UTC) Monday. The vehicle passed a complete wet dress rehearsal on September 24 with no anomalies reported, clearing all ground systems and propellant loading procedures for the actual launch attempt. Flight 14 will target a 275-kilometer near-complete orbit before executing a deorbit burn, and will deploy 26 Starlink V3 broadband satellites from Ship 41's payload bay — formally transitioning Starship from a developmental test article to an operational commercial launch vehicle. September 29 and 30 serve as backup windows if the FAA license or any vehicle issue prevents Monday's attempt.",
+        sourceUrl: "https://teslanorth.com/2026/09/23/starship-flight-14-september-28/",
+        timestamp: "2026-09-27T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA and SpaceX Enter Final 96-Hour Countdown Preparations for Crew-13 October 1 Liftoff at 11:10 a.m. ET — Commander Jessica Watkins, Pilot Luke Delaney, CSA's Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov in Medical Quarantine as Dragon Grace and Falcon 9 at SLC-40 Confirmed Ready; Backup Window Available October 2 at 10:47 a.m. ET",
+        body: "NASA and SpaceX are in final countdown preparations for the Crew-13 mission, with the four-person crew — NASA Commander Jessica Watkins, Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — currently in medical quarantine at Kennedy Space Center as Dragon Grace and its Falcon 9 rocket stand ready at Space Launch Complex 40. Launch is targeted for 11:10 a.m. ET on October 1, with a backup opportunity on October 2 at 10:47 a.m. ET, and the crew is expected to dock at the station's Harmony module forward port approximately nine hours after liftoff. The mission had originally been scheduled for early September but was delayed after engineers discovered an oxidizer valve leak in Dragon's propulsion system; the hardware was replaced and fully recertified before flight clearance was granted. Crew-13 will relieve the Crew-12 team aboard the International Space Station and begin a planned 180-day science and technology demonstration increment through March 2027.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/22/nasa-spacex-move-to-final-crew-13-prelaunch-prep-for-oct-1-liftoff/",
+        timestamp: "2026-09-27T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial Crew",
+        headline: "NASA and Boeing Schedule September 28 Starliner Development Update Press Conference at KSC — Administrator Isaacman, Dana Weigel, Astronaut Woody Hoburg, and Boeing VP John Mulholland to Discuss Progress Resolving Propulsion Issues and Path to Regular Crew Flights; First Operational Starliner Mission Now Targeting 2027",
+        body: "NASA has announced a press conference for September 28, 2026 at 3:00 p.m. ET at Kennedy Space Center — also available via livestream — where NASA Administrator Jared Isaacman, Low Earth Orbit Program Manager Dana Weigel, astronaut Woody Hoburg, and Boeing Commercial Crew Vice President John Mulholland will brief media on the status of Boeing's CST-100 Starliner crew vehicle and the agency's plans for transitioning to regular crew rotation flights. The briefing comes amid Boeing's ongoing work to resolve the helium leak and thruster anomaly issues that led to NASA returning the crewed CFT mission to Earth aboard a SpaceX Dragon in September 2025, requiring additional ground testing and propulsion system modifications before Starliner can be certified for operational missions. Boeing has since completed replacement of the affected oxidizer valve hardware on the first operational vehicle, designated Starliner-1, and is working toward a targeted 2027 certification flight that would carry a four-person crew to the ISS for a standard 180-day mission. The September 28 press conference is expected to provide the most detailed public timeline update on Boeing's commercial crew program in months.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        timestamp: "2026-09-27T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "BepiColombo Completes Final Deep-Space Maneuver Sequence en Route to Mercury Orbit Insertion November 21 — ESA Confirms Spacecraft Health Nominal at 7-Million-Kilometer Range From Mercury; Capture Burn Has One Attempt With No Real-Time Correction Due to 8.5-Minute Signal Delay; MPO and Mio Science Phase Opens April 2027",
+        body: "ESA's BepiColombo mission is on track for its landmark November 21, 2026 Mercury orbit insertion following the successful September 3 separation of the Mercury Transfer Module, with telemetry confirming all spacecraft systems healthy as the composite MPO-Mio pair closes to within 7 million kilometers of its destination. The orbit insertion burn on November 21 has no backup opportunity — Mercury's weak gravity demands a single precisely timed braking maneuver that must be executed autonomously by the spacecraft, as the 8.5-minute one-way signal delay between Earth and Mercury makes real-time human correction impossible. ESA's Mercury Planetary Orbiter and JAXA's Mercury Magnetospheric Orbiter Mio will separate into their individual science orbits on December 9–10, with coordinated dual-spacecraft science operations beginning in April 2027. BepiColombo will be only the second mission ever to orbit Mercury after NASA's MESSENGER and the first to simultaneously deploy two spacecraft, enabling unprecedented coordinated measurements of Mercury's surface mineralogy and the planet's magnetosphere.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-27T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Chairman V. Narayanan Reaffirms Late-2026 Target for Gaganyaan G1 Uncrewed Mission — Vyommitra Half-Humanoid Robot Fully Integrated Aboard Crew Module After Successful SOLVE Ground Test July 3 and Systems Validation July 12; Crewed H1 Mission Now Projected 2027–2028 as Final Safety Reviews Continue",
+        body: "ISRO Chairman Dr. V. Narayanan has reaffirmed the agency's target to launch the Gaganyaan G1 uncrewed test mission before the end of 2026, following successful ground milestones including a Structural Loads and Vibration Experiment on July 3 and full crew module systems validation on July 12 — bringing the spacecraft progressively closer to launch readiness. The G1 mission will carry Vyommitra, ISRO's half-humanoid robot designed to simulate astronaut interactions with the crew module's life support, communications, and environmental control systems, generating performance data critical for certifying the hardware for human occupancy on the subsequent crewed H1 mission. ISRO's mandatory safety review process remains the primary schedule variable, with the Chairman noting the late-2026 target remains aspirational and a slip to Q1 2027 is possible depending on final technical assessments. The eventual crewed H1 mission, which would make India only the fourth nation to independently send humans to orbit, is realistically projected for 2027 or 2028 pending outcomes of the G1 flight.",
+        sourceUrl: "https://zendaruniverse.com/updates/gaganyaan-2026-update-g1-launch-date-vyommitra-status/",
+        timestamp: "2026-09-27T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-26": {
     date: "September 26, 2026",
     stories: [
