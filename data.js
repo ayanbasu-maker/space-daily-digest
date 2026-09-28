@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-28": {
+    date: "September 28, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Achieves First Orbit in Historic Mission From Starbase — Ship 41 Lifts Off at 7:15 a.m. CDT Atop Super Heavy Booster 21, Reaches 275-Kilometer Orbit, and Successfully Deploys All 26 Starlink V3 Satellites With Each Adding 1 Terabit Per Second of Network Capacity; Six-Orbit, Ten-Hour Flight Concludes With Pacific Ocean Splashdown After Single Raptor 3 Deorbit Burn",
+        body: "SpaceX's Starship executed the world's first orbital flight of a Starship-class vehicle on September 28, lifting off at 7:15 a.m. CDT (12:15 UTC) from Orbital Launch Pad B at Starbase in Boca Chica, Texas, with Ship 41 and Super Heavy Booster 21 completing a 124-meter stack that ignited all 33 Raptor 3 engines on ascent and delivered the spacecraft to a 275-kilometer target orbit for the first time. After completing six full orbits over approximately ten hours, Ship 41 successfully deployed all 26 Starlink V3 broadband satellites — Starship's first commercial payload delivery — with SpaceX confirming contact with the first satellites shortly after separation; each V3 unit adds 1 terabit per second of network capacity, representing roughly ten times the capacity increment of a single Falcon 9 flight carrying V2 mini satellites. SpaceX incorporated hardware and software improvements to Super Heavy's landing systems in response to Flight 13's booster engine relight anomaly, in which only 8 of 13 engines reignited during the landing burn, and outfitted three Starlink V3 satellites with cameras to photograph Ship 41's exterior heat shield tiles during reentry for thermal performance data. The mission concluded with a targeted Pacific Ocean splashdown following a single-engine deorbit burn using a sea-level Raptor 3, formally transitioning Starship from a developmental test program into an operational launch vehicle capable of commercial payload delivery.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+        timestamp: "2026-09-28T12:15:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial Crew",
+        headline: "NASA and Boeing Confirm Starliner-1 Will Fly as Uncrewed Cargo Mission Before First Crewed Rotation — Isaacman, Weigel, Hoburg, and Mulholland Brief Media at Kennedy Space Center at 3 p.m. ET on Path Forward; Post-CFT Propulsion Hardware Fixes Validated on Ground, First Crewed Starliner Rotation Now Targeting 2027 After Uncrewed Validation Flight",
+        body: "NASA Administrator Jared Isaacman, Low Earth Orbit Program Manager Dana Weigel, astronaut Woody Hoburg, and Boeing Commercial Crew Vice President John Mulholland held a press conference at Kennedy Space Center on September 28 at 3 p.m. ET to announce that Starliner-1 will fly as an uncrewed cargo resupply mission to the ISS before any astronauts board the vehicle, formalizing the restructured contract that requires an additional uncrewed validation flight to certify post-CFT propulsion system modifications. The decision follows NASA's 2025 determination that Starliner's helium leak and thruster anomalies during the Crew Flight Test made it unsafe to return astronauts Butch Wilmore and Suni Williams aboard the spacecraft; Boeing has since replaced the affected oxidizer valve hardware on Starliner-1 and completed ground testing, but NASA requires the uncrewed flight to validate those fixes in orbit before certifying the vehicle for crew. Under the restructured contract, Boeing will fly four guaranteed missions — the uncrewed Starliner-1 cargo run followed by three crewed rotation flights — compared to the original six-crew-flight agreement from 2014. The first crewed Starliner rotation mission is now targeting 2027, contingent on successful performance of the Starliner-1 uncrewed demonstration.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        timestamp: "2026-09-28T20:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 Astronauts Arrive at Kennedy Space Center Ahead of October 1 Liftoff — Commander Jessica Watkins, Pilot Luke Delaney, CSA's Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov Touch Down in Florida as Dragon Grace and Falcon 9 Stand Ready at SLC-40; Backup Window Available October 2 at 10:47 a.m. EDT",
+        body: "The four-person Crew-13 crew — NASA Commander Jessica Watkins, Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — arrived at Kennedy Space Center on September 28, completing their pre-launch travel as final ground preparations continue for the 11:10 a.m. EDT October 1 liftoff aboard Dragon Grace atop a Falcon 9 at Space Launch Complex 40. The crew's arrival marks the final major countdown milestone before launch day, with the astronauts entering the pre-launch facility schedule that includes equipment checks, final medical reviews, and suit-up procedures in the days leading to the mission. Dragon Grace and its Falcon 9 rocket cleared final preflight reviews following the oxidizer valve replacement that delayed the mission from its original September 12 target, with all four mission elements — crew, Dragon, Falcon 9, and ISS — formally confirmed as ready. Crew-13 will relieve the Crew-12 team after a nine-hour rendezvous and docking at the Harmony forward port, beginning a planned 180-day science increment through March 2027.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
+        timestamp: "2026-09-28T16:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Advances Shenzhou 24 Launch Preparations for October 2026 Tiangong Crew Rotation — Pakistani Payload Specialist to Join One-Week Mission Before Returning Aboard Shenzhou 23 With Expedition 11 Commander Zhu Yangzhu and Crewmates Zhang Zhiyuan and Lai Ka-ying After 185-Day Stay; CNSA to Confirm Expedition 12 Crew Identity Days Before Liftoff",
+        body: "China's space program is completing final launch preparations for Shenzhou 24, targeting an October 2026 liftoff from Jiuquan Satellite Launch Center aboard a Long March 2F rocket to deliver the Expedition 12 crew to Tiangong, with a Pakistani payload specialist among the crew who will spend approximately one week aboard the station before returning on Shenzhou 23 — representing Pakistan's first crewed spaceflight participation. CNSA has not yet publicly announced the full Expedition 12 crew, following the agency's standard practice of confirming crew identities only in the days immediately before launch. The mission will relieve Expedition 11 Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying, who arrived May 24 and will have accumulated approximately 185 days in orbit by their return, maintaining China's uninterrupted crewed Tiangong presence that began in late 2022. Shenzhou 24 also advances the station's preparation for later-2026 activities, including the anticipated launch of the Xuntian space telescope into a co-orbital path enabling periodic docking with Tiangong for maintenance and instrument exchanges.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-28T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "BepiColombo Enters Final Countdown to November 21 Mercury Orbit Insertion as Spacecraft Closes Within 6 Million Kilometers of Target — ESA Schedules Media Briefing on Final Approach; Single-Attempt Autonomous Capture Burn Cannot Be Corrected in Real Time Due to 8.5-Minute One-Way Signal Delay; MPO and Mio Coordinated Science Phase Opens April 2027",
+        body: "ESA's BepiColombo mission is now within 6 million kilometers of Mercury and entering the final capture sequence ahead of the November 21 orbital insertion burn — a one-attempt-only autonomous maneuver that the spacecraft must execute entirely on pre-loaded commands because Mercury's 8.5-minute one-way signal travel time from Earth makes real-time guidance impossible. The composite MPO-Mio spacecraft has been flying as a pair following separation of the Mercury Transfer Module on September 3, performing a series of progressively tightening capture maneuvers as it closes toward orbital insertion over the coming weeks. ESA has scheduled a public media briefing to discuss the final approach milestone, with the Mercury Planetary Orbiter targeted for November 21 insertion followed by separation of the JAXA Mercury Magnetospheric Orbiter Mio on December 9–10 into complementary science orbits. BepiColombo is on track to become only the second mission in history to orbit Mercury after NASA's MESSENGER (2011–2015) and the first ever to deploy dual orbiters simultaneously, enabling coordinated surface geochemistry, mineralogy, and magnetospheric science from two distinct vantage points.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-28T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-27": {
     date: "September 27, 2026",
     stories: [
