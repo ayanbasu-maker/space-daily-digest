@@ -68,6 +68,290 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-29": {
+    date: "September 29, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 Dragon Grace Stands Ready on Pad as Falcon 9 Completes Static Fire September 29 — Four-Person Crew Including Commander Jessica Watkins, Pilot Luke Delaney, CSA Astronaut Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov Enter Final Launch Day Rehearsal Ahead of October 1 11:10 a.m. EDT Liftoff; Dragon Grace Photographed at SLC-40 as Space.com's Crew-13 Photo of the Day",
+        body: "SpaceX completed a successful Falcon 9 static fire engine test at Space Launch Complex 40 on September 29, clearing the rocket and Dragon Grace spacecraft for launch, while the Crew-13 astronauts — Commander Jessica Watkins, Pilot Luke Delaney, CSA mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — participated in a full launch day rehearsal in preparation for Thursday's 11:10 a.m. EDT liftoff. Dragon Grace and its Falcon 9 were featured as Space.com's Photo of the Day for September 29, capturing the fully assembled stack on the pad against the Florida sky as ground crews completed final checkouts at KSC. The mission, delayed from its original September target following discovery of an oxidizer valve issue, has a backup launch window available on October 2 at 10:47 a.m. EDT should weather or technical issues prevent the first attempt. Crew-13 will dock at the International Space Station's Harmony forward port approximately nine hours after liftoff, relieving Crew-12 and beginning a planned 180-day science increment.",
+        sourceUrl: "https://www.space.com/space-exploration/human-spaceflight/nasas-crew-13-mission-readies-on-the-launch-pad-space-photo-of-the-day-for-sept-29-2026",
+        timestamp: "2026-09-29T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Celebrates Starship Flight 14's Historic First Orbit as Teams Begin Post-Mission Analysis — Engine Shutdown Anomaly During Ascent Investigated; Ship 41 Pacific Splashdown Data Reviewed; Elon Musk Confirms Flight 15 Targeting Booster Catch Attempt; Starship Now Operational Commercial Launch Vehicle After 26 Starlink V3 Satellites Successfully Deployed on Yesterday's Mission",
+        body: "SpaceX engineers on September 29 began detailed post-mission analysis of Starship Flight 14's historic September 28 orbital success, examining data from the engine shutdown anomaly that briefly threatened orbital insertion when one Raptor 3 engine shut down early during ascent, yet the vehicle achieved its 275-kilometer target orbit and deployed all 26 Starlink V3 satellites successfully. Elon Musk confirmed on social media that SpaceX is targeting a booster catch attempt on Starship Flight 15, potentially using the Mechazilla mechanical arms at Starbase's launch tower after Booster 21 performed a controlled Pacific Ocean landing on Flight 14 rather than attempting a return to the pad. The six-orbit, ten-hour mission concluded with Ship 41 successfully executing a single Raptor 3 deorbit burn before Pacific splashdown, with thermal camera footage from three instrumented Starlink V3 satellites providing the most detailed heat shield tile performance data SpaceX has ever collected. With Starship now formally an operational launch vehicle, SpaceX confirmed that Flight 14 marks the beginning of a monthly Starship manifest that will be announced in the coming weeks.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-sept-28-2026-starship-first-orbital-launch-attempt",
+        timestamp: "2026-09-29T16:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Defense",
+        headline: "ESA-JAXA RAMSES Apophis Mission Passes Critical Milestone With First Complete Spacecraft Computer Switch-On — Onboard Systems Power Up in Integrated Configuration Ahead of 2028 Launch; Mission Will Accompany 375-Meter Asteroid Through 32,000-Kilometer Earth Flyby on April 13, 2029; JAXA Solar Arrays and Thermal Infrared Imager Confirmed Functional in Joint Testing",
+        body: "ESA's Rapid Apophis Mission for Space Safety (RAMSES) reached a significant development milestone in late September 2026 with the first complete switch-on of the spacecraft's integrated computer systems, confirming that the onboard computer and all connected subsystems — including power distribution, attitude control interfaces, and payload data handling — operate as a unified vehicle for the first time. The milestone follows ESA's February 2026 contract award of €81.2 million to OHB Italia for spacecraft development and the May 2026 memorandum of cooperation with JAXA, whose contributions include solar arrays and a thermal infrared imager that will characterize Apophis' surface during the 2029 encounter. RAMSES is designed to launch in 2028 and rendezvous with asteroid 99942 Apophis before the asteroid's unprecedented close approach on April 13, 2029, when the 375-meter space rock will pass within just 32,000 kilometers of Earth's surface — well inside the geostationary satellite belt. The mission will provide the first opportunity to study how Earth's gravity alters an asteroid's shape, spin state, and interior structure in real time, informing future planetary defense strategies.",
+        sourceUrl: "https://dailygalaxy.com/2026/09/esa-jaxa-ramses-asteroid-mission-switch-on/",
+        timestamp: "2026-09-29T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Earth Observation",
+        headline: "ISRO's EOS-05 Geostationary Imaging Satellite Completes Orbit-Raising Maneuvers and Enters Operational Geosynchronous Drift Orbit 25 Days After September 4 GSLV-F17 Launch — Spacecraft Delivering First Test Images at 36,000 km; 30-Minute Subcontinent Coverage Cadence to Activate After Final Station-Keeping; Heaviest GSLV Payload at 2,300 kg Performing Nominally",
+        body: "ISRO's EOS-05 (GISAT-1A) geostationary imaging satellite has successfully completed its series of orbit-raising apogee motor firings and entered its final geosynchronous drift orbit approximately 25 days after the September 4, 2026 GSLV-F17 launch, with the spacecraft's imaging systems producing initial test frames that engineers are evaluating before declaring full operational readiness. The 2,300-kilogram spacecraft — the heaviest payload ever flown on a GSLV — is designed to provide multispectral imagery of the entire Indian subcontinent at 30-minute intervals under normal operations, with the cadence compressible to five-minute revisit rates over priority zones during disaster response events such as cyclone landfalls and flood emergencies. ISRO's GSLV-F17 mission marked the agency's return to flight after a seven-month launch moratorium following the January 2026 PSLV-C62 third-stage spin failure, and the successful geosynchronous delivery validates the cryogenic upper stage turbopump improvements made during the stand-down period. With EOS-05 operational, ISRO is now clearing the manifest for upcoming missions including PSLV-C63 and the Gaganyaan G1 uncrewed orbital test flight targeting late 2026.",
+        sourceUrl: "https://www.isro.gov.in/Press.html",
+        timestamp: "2026-09-29T06:30:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Enters Final Countdown for Shenzhou 24 Tiangong Crew Rotation Targeting Mid-October Launch — Long March 2F Rocket Assembled at Jiuquan; Expedition 12 Crew Including Pakistani Payload Specialist to Be Announced Days Before Liftoff; Shenzhou 23 Docked and Awaiting Transfer of Returning Expedition 11 Crew After 185-Day Mission",
+        body: "China's CNSA has entered the final assembly and launch preparation phase for Shenzhou 24 at the Jiuquan Satellite Launch Center, with the Long March 2F rocket and crew module fully integrated as the agency prepares to announce the Expedition 12 crew — per standard CNSA practice — only in the days immediately preceding the mid-October targeted launch window. The Shenzhou 24 mission will carry a Pakistani payload specialist among its crew in what would represent Pakistan's first crewed spaceflight participation, spending approximately one week aboard Tiangong before returning to Earth on the Shenzhou 23 spacecraft already docked at the station. Shenzhou 24 will relieve Expedition 11 Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying, who arrived on Shenzhou 23 on May 24 and will have accumulated approximately 185 days in orbit by the time their successors arrive. The mission also continues Tiangong's steady preparation schedule for the 2027 deployment of the Xuntian space telescope into a co-orbital path enabling periodic docking with the station for instrument maintenance and data exchange.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-29T08:00:00Z"
+      }
+    ]
+  },
+
+  "2026-09-28": {
+    date: "September 28, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Achieves First Orbit in Historic Mission From Starbase — Ship 41 Lifts Off at 7:15 a.m. CDT Atop Super Heavy Booster 21, Reaches 275-Kilometer Orbit, and Successfully Deploys All 26 Starlink V3 Satellites With Each Adding 1 Terabit Per Second of Network Capacity; Six-Orbit, Ten-Hour Flight Concludes With Pacific Ocean Splashdown After Single Raptor 3 Deorbit Burn",
+        body: "SpaceX's Starship executed the world's first orbital flight of a Starship-class vehicle on September 28, lifting off at 7:15 a.m. CDT (12:15 UTC) from Orbital Launch Pad B at Starbase in Boca Chica, Texas, with Ship 41 and Super Heavy Booster 21 completing a 124-meter stack that ignited all 33 Raptor 3 engines on ascent and delivered the spacecraft to a 275-kilometer target orbit for the first time. After completing six full orbits over approximately ten hours, Ship 41 successfully deployed all 26 Starlink V3 broadband satellites — Starship's first commercial payload delivery — with SpaceX confirming contact with the first satellites shortly after separation; each V3 unit adds 1 terabit per second of network capacity, representing roughly ten times the capacity increment of a single Falcon 9 flight carrying V2 mini satellites. SpaceX incorporated hardware and software improvements to Super Heavy's landing systems in response to Flight 13's booster engine relight anomaly, in which only 8 of 13 engines reignited during the landing burn, and outfitted three Starlink V3 satellites with cameras to photograph Ship 41's exterior heat shield tiles during reentry for thermal performance data. The mission concluded with a targeted Pacific Ocean splashdown following a single-engine deorbit burn using a sea-level Raptor 3, formally transitioning Starship from a developmental test program into an operational launch vehicle capable of commercial payload delivery.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/starship-flight-14-orbit/",
+        timestamp: "2026-09-28T12:15:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial Crew",
+        headline: "NASA and Boeing Confirm Starliner-1 Will Fly as Uncrewed Cargo Mission Before First Crewed Rotation — Isaacman, Weigel, Hoburg, and Mulholland Brief Media at Kennedy Space Center at 3 p.m. ET on Path Forward; Post-CFT Propulsion Hardware Fixes Validated on Ground, First Crewed Starliner Rotation Now Targeting 2027 After Uncrewed Validation Flight",
+        body: "NASA Administrator Jared Isaacman, Low Earth Orbit Program Manager Dana Weigel, astronaut Woody Hoburg, and Boeing Commercial Crew Vice President John Mulholland held a press conference at Kennedy Space Center on September 28 at 3 p.m. ET to announce that Starliner-1 will fly as an uncrewed cargo resupply mission to the ISS before any astronauts board the vehicle, formalizing the restructured contract that requires an additional uncrewed validation flight to certify post-CFT propulsion system modifications. The decision follows NASA's 2025 determination that Starliner's helium leak and thruster anomalies during the Crew Flight Test made it unsafe to return astronauts Butch Wilmore and Suni Williams aboard the spacecraft; Boeing has since replaced the affected oxidizer valve hardware on Starliner-1 and completed ground testing, but NASA requires the uncrewed flight to validate those fixes in orbit before certifying the vehicle for crew. Under the restructured contract, Boeing will fly four guaranteed missions — the uncrewed Starliner-1 cargo run followed by three crewed rotation flights — compared to the original six-crew-flight agreement from 2014. The first crewed Starliner rotation mission is now targeting 2027, contingent on successful performance of the Starliner-1 uncrewed demonstration.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        timestamp: "2026-09-28T20:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 Astronauts Arrive at Kennedy Space Center Ahead of October 1 Liftoff — Commander Jessica Watkins, Pilot Luke Delaney, CSA's Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov Touch Down in Florida as Dragon Grace and Falcon 9 Stand Ready at SLC-40; Backup Window Available October 2 at 10:47 a.m. EDT",
+        body: "The four-person Crew-13 crew — NASA Commander Jessica Watkins, Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — arrived at Kennedy Space Center on September 28, completing their pre-launch travel as final ground preparations continue for the 11:10 a.m. EDT October 1 liftoff aboard Dragon Grace atop a Falcon 9 at Space Launch Complex 40. The crew's arrival marks the final major countdown milestone before launch day, with the astronauts entering the pre-launch facility schedule that includes equipment checks, final medical reviews, and suit-up procedures in the days leading to the mission. Dragon Grace and its Falcon 9 rocket cleared final preflight reviews following the oxidizer valve replacement that delayed the mission from its original September 12 target, with all four mission elements — crew, Dragon, Falcon 9, and ISS — formally confirmed as ready. Crew-13 will relieve the Crew-12 team after a nine-hour rendezvous and docking at the Harmony forward port, beginning a planned 180-day science increment through March 2027.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
+        timestamp: "2026-09-28T16:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Advances Shenzhou 24 Launch Preparations for October 2026 Tiangong Crew Rotation — Pakistani Payload Specialist to Join One-Week Mission Before Returning Aboard Shenzhou 23 With Expedition 11 Commander Zhu Yangzhu and Crewmates Zhang Zhiyuan and Lai Ka-ying After 185-Day Stay; CNSA to Confirm Expedition 12 Crew Identity Days Before Liftoff",
+        body: "China's space program is completing final launch preparations for Shenzhou 24, targeting an October 2026 liftoff from Jiuquan Satellite Launch Center aboard a Long March 2F rocket to deliver the Expedition 12 crew to Tiangong, with a Pakistani payload specialist among the crew who will spend approximately one week aboard the station before returning on Shenzhou 23 — representing Pakistan's first crewed spaceflight participation. CNSA has not yet publicly announced the full Expedition 12 crew, following the agency's standard practice of confirming crew identities only in the days immediately before launch. The mission will relieve Expedition 11 Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying, who arrived May 24 and will have accumulated approximately 185 days in orbit by their return, maintaining China's uninterrupted crewed Tiangong presence that began in late 2022. Shenzhou 24 also advances the station's preparation for later-2026 activities, including the anticipated launch of the Xuntian space telescope into a co-orbital path enabling periodic docking with Tiangong for maintenance and instrument exchanges.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-28T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "BepiColombo Enters Final Countdown to November 21 Mercury Orbit Insertion as Spacecraft Closes Within 6 Million Kilometers of Target — ESA Schedules Media Briefing on Final Approach; Single-Attempt Autonomous Capture Burn Cannot Be Corrected in Real Time Due to 8.5-Minute One-Way Signal Delay; MPO and Mio Coordinated Science Phase Opens April 2027",
+        body: "ESA's BepiColombo mission is now within 6 million kilometers of Mercury and entering the final capture sequence ahead of the November 21 orbital insertion burn — a one-attempt-only autonomous maneuver that the spacecraft must execute entirely on pre-loaded commands because Mercury's 8.5-minute one-way signal travel time from Earth makes real-time guidance impossible. The composite MPO-Mio spacecraft has been flying as a pair following separation of the Mercury Transfer Module on September 3, performing a series of progressively tightening capture maneuvers as it closes toward orbital insertion over the coming weeks. ESA has scheduled a public media briefing to discuss the final approach milestone, with the Mercury Planetary Orbiter targeted for November 21 insertion followed by separation of the JAXA Mercury Magnetospheric Orbiter Mio on December 9–10 into complementary science orbits. BepiColombo is on track to become only the second mission in history to orbit Mercury after NASA's MESSENGER (2011–2015) and the first ever to deploy dual orbiters simultaneously, enabling coordinated surface geochemistry, mineralogy, and magnetospheric science from two distinct vantage points.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-28T09:00:00Z"
+      }
+    ]
+  },
+
+  "2026-09-27": {
+    date: "September 27, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Stands Ready at Starbase as FAA Posts TFRs Through September 30 — Vehicle Cleared After Successful September 24 Wet Dress Rehearsal; 75-Minute Launch Window Opens 7:15 a.m. CT Monday September 28 With FAA Flight License Sole Remaining Hurdle Before First Orbital Starship Mission; 26 Starlink V3 Satellites Stowed in Ship 41 Payload Bay",
+        body: "SpaceX's Starship Flight 14 vehicle — Ship 41 stacked atop Super Heavy Booster 21 at Orbital Launch Pad B in Boca Chica, Texas — stands fully ready for launch on Sunday September 27, with the Federal Aviation Administration having published Temporary Flight Restrictions through September 30 in a strong signal that a formal flight license is imminent ahead of the 75-minute window opening at 7:15 a.m. CT (12:15 UTC) Monday. The vehicle passed a complete wet dress rehearsal on September 24 with no anomalies reported, clearing all ground systems and propellant loading procedures for the actual launch attempt. Flight 14 will target a 275-kilometer near-complete orbit before executing a deorbit burn, and will deploy 26 Starlink V3 broadband satellites from Ship 41's payload bay — formally transitioning Starship from a developmental test article to an operational commercial launch vehicle. September 29 and 30 serve as backup windows if the FAA license or any vehicle issue prevents Monday's attempt.",
+        sourceUrl: "https://teslanorth.com/2026/09/23/starship-flight-14-september-28/",
+        timestamp: "2026-09-27T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA and SpaceX Enter Final 96-Hour Countdown Preparations for Crew-13 October 1 Liftoff at 11:10 a.m. ET — Commander Jessica Watkins, Pilot Luke Delaney, CSA's Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov in Medical Quarantine as Dragon Grace and Falcon 9 at SLC-40 Confirmed Ready; Backup Window Available October 2 at 10:47 a.m. ET",
+        body: "NASA and SpaceX are in final countdown preparations for the Crew-13 mission, with the four-person crew — NASA Commander Jessica Watkins, Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — currently in medical quarantine at Kennedy Space Center as Dragon Grace and its Falcon 9 rocket stand ready at Space Launch Complex 40. Launch is targeted for 11:10 a.m. ET on October 1, with a backup opportunity on October 2 at 10:47 a.m. ET, and the crew is expected to dock at the station's Harmony module forward port approximately nine hours after liftoff. The mission had originally been scheduled for early September but was delayed after engineers discovered an oxidizer valve leak in Dragon's propulsion system; the hardware was replaced and fully recertified before flight clearance was granted. Crew-13 will relieve the Crew-12 team aboard the International Space Station and begin a planned 180-day science and technology demonstration increment through March 2027.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/22/nasa-spacex-move-to-final-crew-13-prelaunch-prep-for-oct-1-liftoff/",
+        timestamp: "2026-09-27T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial Crew",
+        headline: "NASA and Boeing Schedule September 28 Starliner Development Update Press Conference at KSC — Administrator Isaacman, Dana Weigel, Astronaut Woody Hoburg, and Boeing VP John Mulholland to Discuss Progress Resolving Propulsion Issues and Path to Regular Crew Flights; First Operational Starliner Mission Now Targeting 2027",
+        body: "NASA has announced a press conference for September 28, 2026 at 3:00 p.m. ET at Kennedy Space Center — also available via livestream — where NASA Administrator Jared Isaacman, Low Earth Orbit Program Manager Dana Weigel, astronaut Woody Hoburg, and Boeing Commercial Crew Vice President John Mulholland will brief media on the status of Boeing's CST-100 Starliner crew vehicle and the agency's plans for transitioning to regular crew rotation flights. The briefing comes amid Boeing's ongoing work to resolve the helium leak and thruster anomaly issues that led to NASA returning the crewed CFT mission to Earth aboard a SpaceX Dragon in September 2025, requiring additional ground testing and propulsion system modifications before Starliner can be certified for operational missions. Boeing has since completed replacement of the affected oxidizer valve hardware on the first operational vehicle, designated Starliner-1, and is working toward a targeted 2027 certification flight that would carry a four-person crew to the ISS for a standard 180-day mission. The September 28 press conference is expected to provide the most detailed public timeline update on Boeing's commercial crew program in months.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+        timestamp: "2026-09-27T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "BepiColombo Completes Final Deep-Space Maneuver Sequence en Route to Mercury Orbit Insertion November 21 — ESA Confirms Spacecraft Health Nominal at 7-Million-Kilometer Range From Mercury; Capture Burn Has One Attempt With No Real-Time Correction Due to 8.5-Minute Signal Delay; MPO and Mio Science Phase Opens April 2027",
+        body: "ESA's BepiColombo mission is on track for its landmark November 21, 2026 Mercury orbit insertion following the successful September 3 separation of the Mercury Transfer Module, with telemetry confirming all spacecraft systems healthy as the composite MPO-Mio pair closes to within 7 million kilometers of its destination. The orbit insertion burn on November 21 has no backup opportunity — Mercury's weak gravity demands a single precisely timed braking maneuver that must be executed autonomously by the spacecraft, as the 8.5-minute one-way signal delay between Earth and Mercury makes real-time human correction impossible. ESA's Mercury Planetary Orbiter and JAXA's Mercury Magnetospheric Orbiter Mio will separate into their individual science orbits on December 9–10, with coordinated dual-spacecraft science operations beginning in April 2027. BepiColombo will be only the second mission ever to orbit Mercury after NASA's MESSENGER and the first to simultaneously deploy two spacecraft, enabling unprecedented coordinated measurements of Mercury's surface mineralogy and the planet's magnetosphere.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-27T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Chairman V. Narayanan Reaffirms Late-2026 Target for Gaganyaan G1 Uncrewed Mission — Vyommitra Half-Humanoid Robot Fully Integrated Aboard Crew Module After Successful SOLVE Ground Test July 3 and Systems Validation July 12; Crewed H1 Mission Now Projected 2027–2028 as Final Safety Reviews Continue",
+        body: "ISRO Chairman Dr. V. Narayanan has reaffirmed the agency's target to launch the Gaganyaan G1 uncrewed test mission before the end of 2026, following successful ground milestones including a Structural Loads and Vibration Experiment on July 3 and full crew module systems validation on July 12 — bringing the spacecraft progressively closer to launch readiness. The G1 mission will carry Vyommitra, ISRO's half-humanoid robot designed to simulate astronaut interactions with the crew module's life support, communications, and environmental control systems, generating performance data critical for certifying the hardware for human occupancy on the subsequent crewed H1 mission. ISRO's mandatory safety review process remains the primary schedule variable, with the Chairman noting the late-2026 target remains aspirational and a slip to Q1 2027 is possible depending on final technical assessments. The eventual crewed H1 mission, which would make India only the fourth nation to independently send humans to orbit, is realistically projected for 2027 or 2028 pending outcomes of the G1 flight.",
+        sourceUrl: "https://zendaruniverse.com/updates/gaganyaan-2026-update-g1-launch-date-vyommitra-status/",
+        timestamp: "2026-09-27T06:00:00Z"
+      }
+    ]
+  },
+
+  "2026-09-26": {
+    date: "September 26, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches USSF-385 Classified Mission for U.S. Space Force from Vandenberg Aboard Falcon 9 at 7 a.m. PT September 26 — Sixth and Final Falcon 9 of the Month from West Coast as Cape Canaveral Shifts Focus to Starship; Veteran Booster B1100 Flies Tenth Mission and Lands on Drone Ship 'Of Course I Still Love You' Eight Minutes After Liftoff",
+        body: "SpaceX successfully launched the classified USSF-385 mission for the U.S. Space Force aboard a Falcon 9 rocket from Space Launch Complex 4-East at Vandenberg Space Force Base in California at 7 a.m. PT on September 26, deploying a secretive national security satellite constellation whose details remain undisclosed by the Space Force. The first stage booster, B1100, completed its tenth flight and executed a precision landing on the drone ship 'Of Course I Still Love You' in the Pacific Ocean approximately eight and a half minutes after launch. The mission marked the sixth and final Falcon 9 launch of September from Vandenberg, underscoring the West Coast base's growing role as SpaceX's primary Falcon 9 launch site as Cape Canaveral's operations increasingly shift toward Starship and Crew Dragon missions. Previous launches in this classified constellation series have resulted in the Space Force cataloging approximately 23 satellites per mission following each deployment.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
+        timestamp: "2026-09-26T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 FAA License Expected Before September 28 Window Open — Cameron County Issues Beach Closure Order and FAA Posts TFRs Through September 30 as SpaceX Prepares Ship 41 and Booster 21 at Starbase for Historic First Orbital Commercial Payload Deployment; 75-Minute Window Opens 7:15 a.m. CT Monday",
+        body: "SpaceX is pressing forward with final ground preparations at Starbase in Boca Chica, Texas, for Starship Flight 14's September 28 orbital launch attempt, with Cameron County having issued a Mayor's Order closing Boca Chica Beach and State Highway 4 and the FAA posting Temporary Flight Restrictions through September 30 in a strong signal that regulatory approval is imminent. The 75-minute launch window opens at 7:15 a.m. CT on Monday, September 28, and requires formal FAA flight license issuance before propellant loading can begin — the final formal hurdle separating SpaceX from Starship's debut orbital mission. Ship 41 and Super Heavy Booster 21 completed a successful wet dress rehearsal on September 24 and remain stacked at Orbital Launch Pad B following that full fueling test, with no vehicle issues reported since the anomaly that scrubbed the September 22 attempt. Flight 14 will target a 275-kilometer near-complete orbit and deploy 26 Starlink V3 broadband satellites, formally transitioning Starship from developmental test article to operational commercial launch vehicle.",
+        sourceUrl: "https://orbitalradar.com/blog/orbital-briefing-2026-09-26",
+        timestamp: "2026-09-26T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "Albania Becomes 73rd Nation to Sign NASA's Artemis Accords at Washington Ceremony September 21 — Deputy Administrator Matt Anderson Hosts Foreign Minister Ferit Hoxha in Signing at Mary W. Jackson HQ; Albania Joins Growing Coalition Committing to Transparent, Sustainable Lunar and Deep Space Exploration Under Framework Now Spanning Europe, Asia, Africa, and the Americas",
+        body: "The Republic of Albania formally signed the Artemis Accords on September 21 at a ceremony hosted by NASA Deputy Administrator Matt Anderson at the Mary W. Jackson NASA Headquarters building in Washington, D.C., with Albania's Minister for Europe and Foreign Affairs Ferit Hoxha and Ambassador to the United States Ervin Bushati representing the country alongside U.S. Department of State officials. Albania's accession makes it the 73rd nation to join the non-binding framework that establishes transparency, interoperability, safe zones, and the responsible handling of space resources as guiding principles for civil space exploration programs. The Accords have expanded rapidly since their 2020 launch with eight founding signatories, now encompassing nations across six continents and institutionalizing norms for the Artemis lunar program era and beyond. Albania joins several other European nations that have signed in 2026 as global interest in civil lunar cooperation accelerates ahead of the planned Artemis III crewed Moon landing.",
+        sourceUrl: "https://www.nasa.gov/organizations/oiir/nasa-welcomes-albania-as-newest-artemis-accords-signatory/",
+        timestamp: "2026-09-26T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Breaks Ground on $80M Cape Canaveral Payload Facility and Begins Construction of Second New Glenn Launch Pad LC-36B as Cape Expansion Accelerates — 700-Foot Tower Built With 2,500 Tons of Steel; Company Also Takes Over NASA Stennis B-2 Test Cell for New Glenn Second Stage Engine Qualification Testing",
+        body: "Blue Origin has broken ground on an $80 million payload processing facility at Cape Canaveral Space Force Station — designed to support up to 16 additional New Glenn missions per year when it opens in early 2028 — and has simultaneously begun construction on Launch Complex 36B, a second pad for its heavy-lift New Glenn 9x4 rocket featuring a 700-foot-tall launch tower built with approximately 2,500 tons of structural steel. The Cape Canaveral infrastructure expansion encompasses a new Merritt Island engine test site for second stage qualification, new Rocket Park production buildings for vehicle integration, and the rebuild of the historic Launch Complex 36 that served Atlas V for decades. In parallel, Blue Origin has announced it is taking over the historic B-2 test cell at NASA's Stennis Space Center in Mississippi for New Glenn second stage testing, with hardware already en route to the facility. The investment signals Blue Origin's ambitions to scale New Glenn cadence significantly beyond its current operational rate following the May 2026 pad explosion that temporarily grounded the vehicle and damaged LC-36.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/blue-origin-expands-test-launch-cape/",
+        timestamp: "2026-09-26T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Outreach",
+        headline: "ESA Opens ESTEC Doors to Public September 26–27 at Europe's Largest Space Technology Research Center in Noordwijk — First Day Reserved for Visitors With Disabilities; Saturday Open to All With Exhibits Covering Ariane 6, BepiColombo Mercury Approach, Galileo Navigation, and ESA Astronaut Programs",
+        body: "The European Space Agency is hosting its biennial ESTEC Open Days on September 26 and 27 at the European Space Research and Technology Centre in Noordwijk, Netherlands — the largest ESA establishment in Europe and the hub of the agency's spacecraft design, test, and integration activities. The September 26 day is dedicated exclusively to visitors with disabilities to ensure accessible, unhurried engagement with the center's facilities, while September 27 opens to the general public with hands-on exhibits covering Ariane 6 launch vehicle operations, the BepiColombo spacecraft now on final approach to Mercury, Galileo navigation system infrastructure, and European astronaut training programs. ESTEC's giant space simulation chambers, thermal-vacuum testing halls, and satellite integration clean rooms are among the facilities on display, offering the public a rare look at the facilities that test spacecraft destined for everything from Earth observation to deep space. The Open Days arrive at a particularly active moment for ESA, with BepiColombo's November 21 Mercury orbit insertion approaching and Ariane 6 working through a turbopump issue that has reduced its 2026 launch manifest.",
+        sourceUrl: "https://spacepolicyonline.com/news/whats-happening-in-space-policy-september-20-26-2026/",
+        timestamp: "2026-09-26T07:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Diplomacy",
+        headline: "ESA and ISRO Extend Bilateral Cooperative Agreement Through January 2032 at Paris International Space Summit — Updated Terms Add Space Weather, Human Spaceflight, and Lunar Exploration to Framework; ESTRACK-ISTRAC Cross-Support Networks Formalized as Foundation for Joint Planetary Science and Navigation Cooperation",
+        body: "The European Space Agency and the Indian Space Research Organisation formally extended their overarching Bilateral Cooperative Agreement through January 8, 2032, at the International Space Summit in Paris on September 10, expanding the partnership's scope to explicitly cover space weather monitoring, human spaceflight collaboration, lunar exploration, and planetary science alongside existing Earth observation and satellite navigation programs. The updated agreement formalizes the operational cross-support arrangements between ESA's ESTRACK ground station network and ISRO's Telemetry, Tracking and Command Network (ISTRAC), providing mutual backup tracking coverage that both agencies have relied upon for deep space missions. The extension comes amid deepening ESA-India ties following Indian Prime Minister Modi's participation in the Paris summit, with both agencies exploring joint contributions to lunar surface exploration missions and possible Indian astronaut training exchanges with ESA's European Astronaut Centre in Cologne. A separate analysis published this week by NewSpace Economy notes that expanded cooperation could position ISRO's commercial launch capability through NewSpace India Limited as a potential alternative rideshare option for smaller ESA science payloads.",
+        sourceUrl: "https://satnews.com/2026/09/22/esa-and-isro-extend-bilateral-space-agreement-to-2032/",
+        timestamp: "2026-09-26T06:00:00Z"
+      }
+    ]
+  },
+
+  "2026-09-25": {
+    date: "September 25, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Wet Dress Rehearsal Passes Successfully September 24 — Booster 21 and Ship 41 Fully Fueled and Counted Down at Starbase, Clearing Vehicle for September 28 First Orbital Launch Attempt; FAA Flight License Sole Remaining Hurdle as SpaceX Readies 26 Starlink V3 Satellites for First Commercial Starship Payload Delivery",
+        body: "SpaceX completed a successful wet dress rehearsal for Starship Flight 14 on September 24, fully loading Booster 21 and Ship 41 with liquid oxygen and liquid methane propellant and running the countdown sequence short of engine ignition at Orbital Launch Pad B in Boca Chica, Texas — confirming ground systems and propellant loading procedures are ready for the NET September 28 orbital launch window. The rehearsal cleared the stacked 124-meter vehicle across all major ground system checks, with no anomalies reported compared to the September 22 issue that scrubbed the previous launch attempt. As of September 25 the only remaining barrier to the September 28 attempt is the formal FAA flight license; the agency had posted a temporary flight restriction through October 7 covering Starbase airspace but had not yet issued the launch authorization required for propellant loading to proceed during an actual countdown. Flight 14 targets a 275-kilometer near-full orbit and will deploy 26 Starlink V3 broadband satellites — Starship's first commercial payload delivery and the mission that formally transitions the vehicle from developmental test article to operational launch system.",
+        sourceUrl: "https://keeptrack.space/x-report/spacex-brief-2026-09-25",
+        timestamp: "2026-09-25T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Advances PRIMA Far-Infrared Space Telescope to Phase B as First Mission in New Probe Explorers Class — 5.9-Foot Observatory Conditionally Capped at $1.2 Billion for 2033 Launch; JPL to Lead Development of Mission Bridging James Webb and Radio Telescope Coverage to Map Galaxy Formation, Exoplanet Origins, and Cosmic Dust Across Deep Time",
+        body: "NASA has selected the PRobe far-Infrared Mission for Astrophysics (PRIMA) to advance to Phase B — the formal preliminary design and technology development stage — as the inaugural mission of a new Probe Explorers category within the agency's Explorers Program, marking a significant expansion of NASA's astrophysics mission architecture between flagship observatories and smaller Explorer-class spacecraft. Equipped with a 5.9-foot primary mirror, PRIMA will conduct deep, sensitive sky surveys in far-infrared wavelengths inaccessible to the James Webb Space Telescope, targeting three major science themes: the formation environments of exoplanets, the co-evolution of galaxies and their supermassive central black holes, and the buildup of cosmic dust and heavy elements over billions of years of universal history. NASA conditionally approved a maximum project cost of $1.2 billion, excluding launch and operations expenses, with the Jet Propulsion Laboratory — managed by Caltech — named lead development center for the planned five-year science mission launching in 2033. A successful conclusion of Phase B will advance PRIMA to Phase C for final design, filling a critical spectral gap that no currently planned observatory will cover between the infrared sensitivity of JWST and the wavelength range of existing radio telescopes.",
+        sourceUrl: "https://spaceflightnow.com/2026/09/24/nasa-announces-new-space-telescope-prima-to-launch-in-2033/",
+        timestamp: "2026-09-25T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Technology",
+        headline: "Starfish Space Completes Otter Debris Inspector for NASA SSPICY Mission — First Full-Scale Otter Servicing Vehicle Manifested on SpaceX Transporter-18 Rideshare Targeting October 2026 Launch; Spacecraft Will Close Within Hundreds of Meters of Defunct U.S. Satellites to Measure Spin Rate and Surface Condition in Agency's First Commercial Orbital Debris Inspection Contract",
+        body: "Starfish Space has finished building its first full-scale Otter satellite servicing vehicle and confirmed its assignment to SpaceX's Transporter-18 rideshare mission, targeting no earlier than October 2026, under a $15 million NASA contract called SSPICY (Starfish Space Proximity Inspection Capabilities Year-round) — designated by the agency as its first commercial orbital debris inspection mission. The kitchen-oven-sized spacecraft will use electric propulsion to close within hundreds of meters of multiple uncontrolled, defunct U.S. government satellites in low Earth orbit, collecting high-resolution imagery and sensor data to characterize each target's spin rate, spin axis, and surface thermal and structural condition — data NASA considers essential for planning future servicing, fuel transfer, or controlled deorbit operations. Otter is expected to begin active proximity operations with its first target in early 2027, with the mission's findings feeding directly into NASA and Department of Defense strategies for managing the growing population of high-mass trackable debris in operationally critical orbital regimes. SSPICY establishes a commercial model for debris inspection that NASA may scale through future contracts as in-space servicing technology matures toward active debris removal.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/starfish-spaces-otter-transporter-18/",
+        timestamp: "2026-09-25T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Confirms BepiColombo Mercury Orbit Insertion Set for November 21 as Spacecraft Enters Final Approach Phase — Single-Attempt Capture Burn Has No Real-Time Correction Window Due to 8.5-Minute Signal Delay; MPO and Mio to Separate December 9–10 Before Joint Science Phase Opens April 2027",
+        body: "ESA has confirmed that BepiColombo's Mercury Planetary Orbiter will execute its critical orbit insertion burn on November 21, 2026 — a one-attempt-only maneuver that cannot be corrected in real time because the 8.5-minute one-way signal travel time between Earth and Mercury means the spacecraft must execute the burn sequence autonomously, relying entirely on pre-programmed instructions to bleed off sufficient approach velocity for Mercury's weak gravity to capture it into orbit. The composite MPO-Mio spacecraft has been flying as a pair since the Mercury Transfer Module separated on September 3, completing the propulsion phase of an eight-year, 9-billion-kilometer journey, and is now performing a series of capture maneuvers through November as it closes on Mercury. Following MPO's November 21 insertion, ESA's Mercury Planetary Orbiter and JAXA's Mercury Magnetospheric Orbiter Mio will separate from each other on December 9–10 into complementary elliptical science orbits, with the full coordinated science phase set to open in April 2027. BepiColombo is only the second mission to orbit Mercury after NASA's MESSENGER, and the first ever to deploy two orbiters simultaneously for coordinated surface geochemistry, mineralogy, and magnetospheric science from different vantage points.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-25T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Finalizes October 2026 Launch Window for Shenzhou 24 Crew Rotation as Tiangong Expedition 11 Approaches 185-Day Mark — Taikonauts Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying Preparing for Return After May 24 Arrival; Expedition 12 Crew Identities to Be Confirmed Days Before Launch Per CNSA Standard Practice",
+        body: "China's space program is finalizing the October 2026 launch window for Shenzhou 24, which will carry the three-person Expedition 12 crew to the Tiangong space station and relieve Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying — who arrived aboard Shenzhou 23 on May 24 and are approaching their 185th consecutive day in orbit as of late September 2026. CNSA has not yet publicly announced the Expedition 12 crew members, with official identification expected in the days before launch in accordance with the agency's standard practice of confirming crew close to the launch date. Shenzhou 24 will complete China's fourth crew rotation since Tiangong began permanent crewed operations in late 2022, maintaining the uninterrupted human presence that has made China only the second nation in history — after Russia with Mir and the ISS — to sustain a continuously occupied national space station for this duration. The mission also advances China's long-term Tiangong development roadmap as CNSA prepares for the Xuntian space telescope launch later in 2026, which will enter a co-orbital path enabling periodic docking with Tiangong for maintenance and instrument exchange.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-09-25T06:00:00Z"
+      }
+    ]
+  },
+
+  "2026-09-24": {
+    date: "September 24, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "Starship Flight 14 Wet Dress Rehearsal Underway at Starbase September 24 — Full Propellant Load Simulation With Ship 41 and Booster 21 Follows September 23 Stack Completion; FAA License Still Pending as September 28 Orbital Launch Window Approaches; Flight to Carry 26 Starlink V3 Satellites on Historic First Orbital Starship Mission",
+        body: "SpaceX is conducting a wet dress rehearsal (WDR) at Orbital Launch Pad B in Boca Chica, Texas on September 24, fully fueling the stacked Starship vehicle — consisting of Ship 41 and Super Heavy Booster 21 — in a complete simulated countdown designed to verify propellant loading procedures and ground system readiness ahead of the NET September 28 orbital launch attempt. The stacking of Booster 21 and Ship 41 was completed on September 23, assembling the 124-meter integrated vehicle just two days before the rehearsal, and if the WDR proceeds nominally SpaceX will enter final launch preparations pending regulatory clearance. The Federal Aviation Administration has posted a temporary flight restriction through October 7 covering the Starbase area, but has not yet issued the formal flight license required before propellant loading can proceed during an actual countdown; SpaceX needs FAA clearance before the 8:15 a.m. EDT (1215 GMT) September 28 window open. Flight 14 targets approximately 275 kilometers altitude for a near-full orbit before deorbit, and will mark the first commercial orbital payload deployment by a Starship vehicle — 26 Starlink V3 broadband satellites stored in Ship 41's payload bay.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/09/ship-41-booster-21-wdr/",
+        timestamp: "2026-09-24T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 October 1 Launch Remains on Track as NASA and SpaceX Complete Final Hardware Reviews — Dragon Grace and Falcon 9 at SLC-40 Cleared Through Joint Mission Management Team Review; Jessica Watkins, Luke Delaney, Joshua Kutryk and Sergey Teteryatnikov in Final Quarantine Days Before 11:10 a.m. EDT Liftoff",
+        body: "NASA and SpaceX completed a Joint Mission Management Team review on Wednesday confirming that all four Crew-13 mission elements — the crew, International Space Station, SpaceX Dragon Grace spacecraft, and Falcon 9 rocket — are on track for the 11:10 a.m. EDT October 1 liftoff from Space Launch Complex 40 at Cape Canaveral Space Force Station. Commander Jessica Watkins, Pilot Luke Delaney, CSA mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov remain in medical quarantine, with all crew health indicators nominal as of September 24. Dragon Grace is the fully repaired and recertified spacecraft following the oxidizer valve leak that caused the mission's delay from its original September 12 target date; engineers replaced the affected hardware and completed full propulsion system verification before granting flight clearance. For the October 1 liftoff opportunity, Crew-13 will dock to the forward-facing port of the station's Harmony module approximately nine hours after launch for a planned 180-day stay through March 2027, relieving the Crew-12 team that has been aboard the ISS for over seven months.",
+        sourceUrl: "https://www.nasa.gov/mission/nasas-spacex-crew-13/",
+        timestamp: "2026-09-24T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Confirms BepiColombo Mercury Orbit Insertion Locked for November 21 — MPO Capture Burn Has One Attempt and No Real-Time Command Uplink; MPO and Mio to Separate December 9–10 Before Science Phase Opens April 2027; Online Media Briefing Scheduled to Cover Final Approach Milestone",
+        body: "The European Space Agency has confirmed that BepiColombo's Mercury Planetary Orbiter will execute its critical orbit insertion burn on November 21, 2026 — a maneuver that has only one attempt, cannot be corrected in real time due to light-travel delay, and must fire precisely to bleed off enough approach velocity for Mercury's weak gravity to capture the spacecraft into its initial science orbit. ESA has scheduled an online media briefing to discuss the mission's final approach milestone as the composite spacecraft, now flying as an MPO-Mio pair since the Mercury Transfer Module separated on September 5, performs a series of capture maneuvers through November. Following MPO's November 21 insertion, the MPO and JAXA's Mercury Magnetospheric Orbiter Mio will separate from each other on December 9–10, entering complementary elliptical polar and magnetospheric orbits respectively, with the full science phase set to begin in April 2027. BepiColombo is only the second mission to orbit Mercury after NASA's MESSENGER (2011–2015), and the first to deploy two orbiters simultaneously — enabling coordinated surface geochemistry, mineralogy, and magnetospheric science that no single spacecraft could perform alone.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-09-24T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Science",
+        headline: "Tianwen-2 Begins Close-Proximity Science Campaign at Asteroid Kamoʻoalewa — Spacecraft Closes to 20 Kilometers as Nature Communications Study Upends Origin Theory; Asteroid Only 20 Meters Long — Half Previous Size Estimates — with Itokawa-Like Flora Belt Composition Challenging Lunar Fragment Hypothesis",
+        body: "China's Tianwen-2 spacecraft is conducting its first sustained close-proximity science campaign at near-Earth asteroid 469219 Kamoʻoalewa, now operating at distances as close as 20 kilometers from the target following its July 4 arrival after a 400-day, billion-kilometer journey from Earth. The first resolved images returned by Tianwen-2's instruments have revealed the asteroid to be approximately 20 meters in length — roughly half the size ground-based radar and optical estimates had projected — a finding that aligns closely with a 2024 James Webb Space Telescope study that estimated an 18-meter diameter. A new peer-reviewed paper published this week in Nature Communications has further complicated Kamoʻoalewa's origin story: while a widely-cited 2021 hypothesis proposed the asteroid was a fragment of the Moon, the new analysis of spectral data suggests its surface composition more closely resembles Itokawa — the rocky S-type asteroid sampled by JAXA's Hayabusa mission — and points to an origin in the Flora asteroid family in the main belt rather than a lunar impact ejection. Tianwen-2 will continue mapping the asteroid's shape, mineralogy, and interior structure before collecting a surface sample for a planned return to Earth in late 2027, after which the spacecraft will depart for comet-like main-belt object 311P/PanSTARRS.",
+        sourceUrl: "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
+        timestamp: "2026-09-24T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Gaganyaan-1 Uncrewed Mission Preparations in Full Swing Targeting Q4 2026 Launch with Vyommitra Robot — ISRO Chief Confirms 7,700-Plus Tests Completed Across LVM3 and Crew Module Systems; Two Uncrewed Flights Required Before Crewed Mission Enters 2027 Manifest",
+        body: "ISRO Chairman V. Narayanan confirmed this week that the first uncrewed Gaganyaan test flight — designated Gaganyaan-1 and carrying the half-humanoid Vyommitra robot — remains firmly on track for launch in the fourth quarter of 2026, with preparations now described as in \"vigorous, systematic\" progress following the completion of more than 7,700 ground tests covering the LVM3 human-rated launch vehicle, crew module, service module, and life support systems. Vyommitra, designed to occupy an astronaut seat and actively monitor the capsule environment during flight, will provide critical data on life-support performance, microgravity behavior of crew systems, and parachute reentry recovery that will directly feed into the design certification for human crew missions. ISRO has planned two uncrewed orbital test flights before any crew boards a Gaganyaan spacecraft, with the first crewed mission currently penciled into the 2027 manifest — targeting a crew of three to a 400-kilometer orbit and ocean splashdown, which would make India only the fourth nation to independently execute human orbital spaceflight. The four Indian Air Force astronaut candidates — Group Captains Prashanth Balakrishnan Nair, Ajit Krishnan, Angad Pratap, and Wing Commander Shubhanshu Shukla — continue mission training at the Gaganyaan Training Facility in Bengaluru.",
+        sourceUrl: "https://www.indiandefensenews.in/2026/09/isros-first-unmanned-gaganyaan-mission.html",
+        timestamp: "2026-09-24T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-23": {
     date: "September 23, 2026",
     stories: [
