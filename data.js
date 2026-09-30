@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-09-30": {
+    date: "September 30, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA Holds Crew-13 Pre-Launch Press Conference at Kennedy Space Center September 30 at 2:30 p.m. ET — Commander Jessica Watkins to Become First Active NASA Astronaut to Fly Dragon Twice as Mission Targets October 1 Liftoff at 11:10 a.m. EDT; Crew Watkins, Delaney, Kutryk, and Teteryatnikov Complete Final Suit-Up Reviews as Dragon Grace and Falcon 9 Confirmed Ready at SLC-40; Backup Window Available October 2 at 10:47 a.m. EDT",
+        body: "NASA held a pre-launch press conference at Kennedy Space Center on September 30 at 2:30 p.m. ET, with Mission Management Team officials confirming Dragon Grace, its Falcon 9 rocket, and all four Crew-13 crew members are cleared for the 11:10 a.m. EDT October 1 liftoff. Commander Jessica Watkins — a geologist and veteran of Crew-4 in 2022 — will become the first active NASA astronaut to fly the Dragon spacecraft twice, leading crewmates NASA Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov on a planned 180-day science increment as part of Expedition 75/76. Dragon Grace will target a nine-hour rendezvous and docking at the ISS Harmony forward port, arriving at approximately 8:00 p.m. EDT on October 1 to relieve the Crew-12 team that has been aboard since February 2026. A backup opportunity on October 2 at 10:47 a.m. EDT is available if weather or technical issues delay the primary attempt.",
+        sourceUrl: "https://spacepolicyonline.com/events/crew-13-pre-launch-news-conf-sept-30-2026-ksc-230-pm-et/",
+        timestamp: "2026-09-30T18:30:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Selects PRIMA Far-Infrared Space Telescope as First Mission in New Probe Explorer Class, Advancing to Phase B Development With $1.2 Billion Cost Cap and 2033 Launch Target — PRobe far-Infrared Mission for Astrophysics Features Cryogenically Cooled 1.8-Meter Telescope Built by JPL, Goddard, and Marshall in Partnership With Seven International Space Agencies; PRIMAger Imaging Polarimeter and FIRESS High-Resolution Spectrometer to Bridge Infrared Gap Between JWST and Radio Observatories",
+        body: "NASA has selected the PRIMA (PRobe far-Infrared Mission for Astrophysics) space telescope to advance into Phase B development as the inaugural mission in the agency's newly established Probe Explorer class — a mid-tier mission category positioned between flagship observatories like JWST and smaller Explorer missions, with a project cost cap of $1.2 billion, not including launch costs. The observatory features a cryogenically cooled 1.8-meter telescope designed to conduct deep, sensitive surveys in far-infrared light, filling a critical observational gap between the near-infrared capabilities of the James Webb Space Telescope and ground-based radio arrays by mapping the cold universe in unprecedented detail. PRIMA will carry two primary science instruments: PRIMAger, a wide-field imaging polarimeter for large-scale sky surveys, and FIRESS, a high-resolution spectrometer enabling multimode spectroscopy of star-forming regions, galaxies, and protoplanetary disks. The JPL-led mission includes contributions from space agencies of Canada, France, Germany, Japan, South Korea, and the United Kingdom, and targets a 2033 launch for a planned five-year science mission.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-selects-far-infrared-telescope-as-first-in-new-mission-class/",
+        timestamp: "2026-09-30T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Commercial Crew",
+        headline: "SpaceX Closes Out Crew-13 Launch Readiness Review as Falcon 9 Booster B1086 Undergoes Final Go-For-Launch Checks at SLC-40 — Recovery Teams Positioned Offshore Florida Coast; Dragon Grace Propulsion System Certified After September Oxidizer Valve Replacement; Crew-13 Marks SpaceX's 14th Crewed NASA Mission and Continues Unbroken Commercial Crew Manifest Now Extending to 2028; October 1 Window at 11:10 a.m. EDT Has Only 80-Minute Instantaneous Constraint",
+        body: "SpaceX teams completed a Crew-13 launch readiness review on September 30, confirming that Falcon 9 booster B1086 and Dragon Grace have passed all final engineering checkpoints ahead of the 11:10 a.m. EDT October 1 launch window, with the Dragon propulsion system fully certified following September's oxidizer valve replacement that pushed the mission back three weeks from its original target. Recovery vessel Go Navigator and its support ships are pre-positioned in the Atlantic Ocean at the planned dragon splashdown site for a contingency abort scenario, as standard commercial crew protocol requires recovery assets in position before the launch countdown passes the T-9 hour hold. Crew-13 marks SpaceX's 14th crewed mission under the NASA Commercial Crew Program and the company's most active year yet for crewed launches, with the manifest extending through at least 2028 and including a potential second Starship crew test flight pending NASA's Artemis schedule. SpaceX also confirmed that Booster B1086 is flying its sixth mission, continuing to demonstrate Falcon 9 reusability cadence that forms the backbone of both Commercial Crew and Commercial Resupply Services contracts.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/09/25/nasa-spacex-proceed-toward-crew-13-launch/",
+        timestamp: "2026-09-30T15:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Space",
+        headline: "Rocket Lab Files GAO Bid Protest Challenging NASA's $700 Million Mars Telecommunications Network Award to Blue Origin — Rocket Lab Alleges Evaluation Process Violated Federal Procurement Guidelines and Congressional Mandates for Deep-Space Communications Acquisitions; Government Accountability Office Opens Formal 100-Day Review as Blue Origin Simultaneously Presses New Glenn Return-to-Flight Effort Following May 28 BE-4 Explosion; NASA Administrator Confirms Blue Origin 'Very Committed' to Late-2026 Launch Resumption",
+        body: "Rocket Lab USA's formal bid protest filed September 11 with the U.S. Government Accountability Office against NASA's decision to award Blue Origin a $700 million contract for the Mars Telecommunications Network is now under active review, with the GAO's standard 100-day adjudication window running through mid-December 2026. Rocket Lab contends that NASA's evaluation of its technical submission contained incorrect assertions and conclusions, and that the award violates congressional mandates governing deep-space communications architecture acquisitions — allegations Blue Origin has not publicly addressed while continuing work under the preliminary contract terms. The protest comes as Blue Origin simultaneously advances its New Glenn return-to-flight program following the catastrophic May 28 first-stage static fire explosion at Launch Complex 36, which was traced in August to a failure in one of the rocket's BE-4 engines; engineers have since completed root-cause analysis and are conducting engine modifications ahead of a targeted late-2026 resumption. NASA Administrator Jared Isaacman stated publicly that Blue Origin remains very committed to returning New Glenn to flight before year's end, and that NASA is monitoring both the investigation and the GAO protest process while contingency planning across its launch manifest.",
+        sourceUrl: "https://satnews.com/2026/09/14/rocket-lab-files-gao-bid-protest-over-nasas-700m-mars-orbiter-award-to-blue-origin/",
+        timestamp: "2026-09-30T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Human Spaceflight",
+        headline: "ESA Astronaut Sophie Adenot Enters Final Weeks of Epsilon Mission Aboard ISS Ahead of Mid-October Crew-12 Undocking — French Astronaut Completes Historic First and Second EVAs in August, Logging More Than 12 Combined Hours Outside the Station; Crew-12 Commander Jessica Meir, Pilot Jack Hathaway, and Roscosmos Cosmonaut Andrey Fedyaev Set to Return After Crew-13 Docks October 1; ESA Schedules Landing Event in Cologne for Adenot's Return to Europe",
+        body: "ESA astronaut Sophie Adenot is in the final weeks of her Epsilon mission aboard the International Space Station, having launched on SpaceX Crew-12 on February 13, 2026, and is now preparing to return to Earth in mid-October after Crew-13 docks and the standard crew handover period concludes. Adenot completed two significant milestones during her mission: a first spacewalk in August 2026 that marked her debut as an extravehicular activity crew member, followed by a second EVA just one week later — a back-to-back cadence rarely seen for a first-time space walker — with both sorties focused on ISS external maintenance and science experiment installation work. The four-person Crew-12 team — Commander Jessica Meir, Pilot Jack Hathaway, Adenot, and Roscosmos cosmonaut Andrey Fedyaev — will depart the station following the standard crew overlap period after Crew-13 arrives October 1, targeting splashdown off the Florida coast followed by Adenot's transport to Europe for an ESA astronaut return ceremony at the Flugbereitschaft BMVg airport in Cologne, Germany. Adenot's roughly 240-day mission will have more than doubled the previous record for the longest ESA astronaut flight by a French national and establishes her as a leading candidate for future long-duration missions to lunar orbit or Gateway.",
+        sourceUrl: "https://blogs.esa.int/exploration/category/astronauts/sophie-adenot/",
+        timestamp: "2026-09-30T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-29": {
     date: "September 29, 2026",
     stories: [
