@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-01": {
+    date: "October 1, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA SpaceX Crew-13 Dragon Grace Lifts Off at 11:10 a.m. EDT From Cape Canaveral SLC-40 en Route to ISS Harmony Forward Port With Commander Jessica Watkins — First Active NASA Astronaut to Fly Dragon Twice — Alongside Pilot Luke Delaney, CSA's Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov; Nine-Hour Rendezvous Targets 8:00 p.m. EDT Docking for Start of Expedition 75/76 Science Increment Through March 2027",
+        body: "NASA's SpaceX Crew-13 mission lifted off at 11:10 a.m. EDT on October 1 aboard Dragon Grace on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station, successfully carrying four crew members toward the International Space Station on a planned 180-day science expedition as part of Expedition 75/76. Commander Jessica Watkins, a geologist and veteran of the 2022 Crew-4 mission, became the first active NASA astronaut to fly aboard a SpaceX Dragon spacecraft for a second time, leading Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov on the agency's 14th Commercial Crew mission. Dragon Grace was scheduled to dock at the ISS Harmony forward port approximately nine hours after liftoff at around 8:00 p.m. EDT, where it would relieve the outgoing Crew-12 team — Commander Jessica Meir, Pilot Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev — who have been aboard since February 2026. Weather forecasters gave the 11:10 a.m. window a 55 percent chance of favorable conditions, with a backup opportunity available October 2 at 10:47 a.m. EDT.",
+        sourceUrl: "https://www.nasa.gov/mission/nasas-spacex-crew-13/",
+        timestamp: "2026-10-01T15:10:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Commercial Launch",
+        headline: "SpaceX Executes Historic Double Launch Day October 1 With Crew-13 Crewed Mission From Cape Canaveral and Transporter-18 Rideshare From Vandenberg SLC-4E at 18:18 UTC — Transporter-18 Carries 130 Payloads Including Google's Project Suncatcher AI Prototype Satellite to Sun-Synchronous Orbit; Three Falcon-Capable Pads Active in Single Day as SpaceX Sustains Record 2026 Launch Cadence",
+        body: "SpaceX completed one of its most operationally intensive single days in company history on October 1, executing two separate Falcon 9 launches from opposite coasts of the United States within hours of each other and simultaneously supporting active Falcon Heavy operations from Florida. The Transporter-18 dedicated rideshare mission lifted off from Space Launch Complex 4E at Vandenberg Space Force Base at 18:18 UTC, delivering 130 payloads to a sun-synchronous orbit and headlined by Google's Project Suncatcher prototype — an AI-powered satellite designed to optimize solar energy collection and downlink data — alongside dozens of commercial, government, and research cubesats from operators worldwide. SpaceX confirmed that Transporter-18 marks a company rideshare pricing milestone, with multiple payloads aboard at the base rate of $350,000 per ESPA-class slot, underscoring the program's maturation as the primary dedicated SSO rideshare offering in the launch market. The simultaneous utilization of SLC-40 at Cape Canaveral and SLC-4E at Vandenberg on the same calendar day, with a third Falcon-capable pad on standby, is the first occurrence in SpaceX's history and demonstrates the operational depth of the company's 2026 launch infrastructure buildout.",
+        sourceUrl: "https://www.space.com/space-exploration/satellites/spacex-google-project-suncatcher-ai-satellite-transporter-18-mission",
+        timestamp: "2026-10-01T18:18:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO Begins GSLV-F18 Vehicle Integration at Satish Dhawan Space Centre for NVS-03 NavIC Navigation Satellite, Targeting October 15-20 Launch Window — Third Second-Generation NavIC Satellite to Restore Constellation to Four Active Spacecraft After Earlier Failures; Mission Critical for India's Armed Forces Precision Navigation Independence and Civilian Location Services",
+        body: "ISRO has commenced integration of the GSLV-F18 rocket at the Satish Dhawan Space Centre in Sriharikota for the NVS-03 (IRNSS-1L) mission, targeting a launch window between October 15 and 20 that would deliver the 2,200-kilogram navigation satellite to a geostationary transfer orbit from which it will use onboard propulsion to enter its final geosynchronous slot. NVS-03 is the third in India's second-generation NavIC (Navigation with Indian Constellation) satellite series and will bring the active navigation constellation back to four fully functional spacecraft, restoring the full regional positioning accuracy that India's military, fishing fleets, disaster response teams, and consumer devices depend on after the earlier degradation of older constellation members. The satellite is designed to provide L1, L5, and S-band navigation signals with improved accuracy compared to the first-generation IRNSS spacecraft it supplements, and its successful deployment will significantly strengthen India's operational independence from GPS and other foreign navigation systems. ISRO is completing the NVS-03 campaign just three weeks after the successful EOS-05 geostationary orbit insertion, marking one of the agency's most productive launch stretches in 2026.",
+        sourceUrl: "https://www.msn.com/en-in/news/other/isro-gears-up-for-nvs-03-launch-between-october-15-and-20/ar-AA2cGRMW",
+        timestamp: "2026-10-01T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Euclid Space Telescope's First Full Data Release DR1 Set to Drop in October 2026 — Covering 1,900 Square Degrees From One Year of Nominal Survey Operations, Roughly 30 Times the Quick Release Q1 Area, With First Core Dark Energy and Dark Matter Cosmological Constraints; International Astronomers to Access Billions of Galaxy Shapes and Redshifts to Probe Universe's Accelerating Expansion",
+        body: "ESA's Euclid space telescope is set to deliver its first major Data Release 1 (DR1) in October 2026, covering approximately 1,900 square degrees of sky from the first year of its nominal wide survey — roughly 30 times the area of the preliminary Quick Release Q1 published in early 2026 — and marking the first opportunity for the global astronomy community to conduct full cosmological analyses using Euclid's combined visible and near-infrared imaging and spectroscopic data. DR1 will contain shape measurements and photometric redshifts for billions of galaxies, enabling the Euclid Consortium to publish the mission's first direct constraints on the nature of dark energy, the dark matter power spectrum, and the equation-of-state parameter governing the Universe's accelerating expansion since the Big Bang. The release follows earlier teaser publications that demonstrated Euclid's extraordinary depth and resolution, including galaxy cluster detections, weak gravitational lensing maps, and baryon acoustic oscillation measurements from the Q1 area. DR1 represents the formal beginning of Euclid's primary science output and is expected to produce hundreds of peer-reviewed papers examining the dark universe at a precision no previous survey telescope has achieved.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-10-01T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Industry",
+        headline: "ESA Prepares Delegation for 77th International Astronautical Congress October 5-9 in Antalya, Türkiye Under Theme 'The World Needs More Space' — Agency to Showcase Ariane 6 Operational Status, RAMSES Apophis Mission Progress, Euclid DR1 Science, and Lunar Exploration Roadmap; ESA Reserve Astronaut Sara García Alonso Featured at ESAC Open Day October 3 Ahead of Congress",
+        body: "ESA is preparing a major delegation and exhibition presence for the 77th International Astronautical Congress running October 5-9 in Antalya, Türkiye, where the agency will present highlights from its most active launch and science year in recent memory under the congress theme 'The World Needs More Space.' ESA's featured topics at IAC 2026 include the operational return of Ariane 6 restoring European independent access to space, the successful April 2026 launch of the SMILE solar wind–magnetosphere interaction mission, the development milestone of RAMSES — its Apophis planetary defense mission — and the forthcoming Euclid DR1 data release transforming understanding of the dark universe. Preceding the congress, ESA reserve astronaut Sara García Alonso will appear at the European Space Astronomy Centre's annual Open Day on Saturday, October 3 in Villanueva de la Cañada, Madrid, welcoming public visitors to ESAC's telescope facilities and hosting outreach sessions on ESA's science missions. The IAC 2026 gathering is expected to draw over 6,000 delegates from 70 countries, with major bilateral space cooperation discussions anticipated amid rising global interest in Moon and Mars exploration architecture.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-10-01T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-30": {
     date: "September 30, 2026",
     stories: [
