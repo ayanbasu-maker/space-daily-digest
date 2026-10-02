@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-02": {
+    date: "October 2, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 Astronauts Board ISS After Record-Breaking 7-Hour 55-Minute Trip — Fastest American Spacecraft Flight to Station Ever; Jessica Watkins, Luke Delaney, Joshua Kutryk, and Sergey Teteryatnikov Welcomed Aboard as Crew-12 Begins Handover Period Ahead of Mid-October Departure",
+        body: "NASA's SpaceX Crew-13 astronauts boarded the International Space Station on October 2, completing the journey in just 7 hours and 55 minutes — a new speed record for any U.S. crewed or cargo spacecraft reaching the orbital outpost. The four crew members, Commander Jessica Watkins, Pilot Luke Delaney, CSA mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov, were welcomed by the Expedition 75 crew after Dragon Grace docked at the Harmony forward port at approximately 7:05 p.m. EDT on October 1. The record eclipsed the previous fastest American spacecraft trip of 14 hours and 43 minutes set by Crew-11 in August 2025, with mission planners taking advantage of a particularly favorable orbital geometry. The incoming Crew-13 and outgoing Crew-12 teams will overlap for several days before Commander Jessica Meir's Crew-12 crew departs for a splashdown off the Florida coast.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+        timestamp: "2026-10-02T01:43:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "National Security Launch",
+        headline: "SpaceX Falcon Heavy Lifts Off at 03:53 UTC October 2 From Kennedy LC-39A Carrying NROL-97 Classified Payload for National Reconnaissance Office — First NRO Mission Ever Flown on Falcon Heavy; Side Booster Recovery Marks 300th Successful Falcon Landing; Mission Demonstrates Falcon Heavy's Growing Role in U.S. Intelligence Community Launch Portfolio",
+        body: "A SpaceX Falcon Heavy rocket lifted off from Launch Complex 39A at Kennedy Space Center at 03:53 UTC on October 2, carrying the NROL-97 classified national security payload for the National Reconnaissance Office in what marks the first NRO mission ever launched aboard the Falcon Heavy. The recovery of both side boosters at Cape Canaveral's Landing Zones 1 and 2 included the company's 300th successful Falcon booster landing, a milestone SpaceX marked publicly on social media. The NROL-97 mission details remain classified as is standard for NRO payloads, but the selection of Falcon Heavy signals the NRO's confidence in the rocket's heavy-lift capability for larger intelligence-gathering satellites that cannot fit within the Falcon 9 payload envelope. The launch came just hours after the Crew-13 Dragon capsule completed its record-breaking docking with the ISS, making October 2 another active day in SpaceX's historic 2026 launch cadence.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_October%E2%80%93December_2026",
+        timestamp: "2026-10-02T03:53:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Science",
+        headline: "NASA Selects Three New Lunar Science Investigations Under PRISM Program for Moon Base Preparation — LEMS-SP Seismic Monitor, GIMLI Interior Mapper, and DISCO Spectral Imager Targeting South Pole Deployment; Instruments to Assess Regolith Hazards, Subsurface Structure, and Water-Ice Signatures to Guide Artemis Base Camp Site Selection",
+        body: "NASA has selected three new science investigations through its PRISM (Payloads and Research Investigations on the Surface of the Moon) program to support planning for the first permanent lunar outpost: the Lunar Environment Monitoring Station – South Pole (LEMS-SP), the Geophysical Investigation for Mapping Lunar Interior (GIMLI), and the Depth Imager with Spectral and Color Optics (DISCO). LEMS-SP will characterize seismic activity and the meteorite impact flux at the lunar south pole, while GIMLI will map the interior structure and regolith properties down to several meters depth using geophysical techniques critical for foundation engineering of future habitats. DISCO will use multispectral and color imaging to identify subsurface water-ice signatures and surface mineralogy at candidate Artemis Base Camp sites, providing data essential for in-situ resource utilization planning. The three selections deepen NASA's growing PRISM portfolio of small science payloads intended to reduce risk for crewed surface operations and identify the most resource-rich and structurally safe sites for the agency's planned permanent lunar presence.",
+        sourceUrl: "https://science.nasa.gov/",
+        timestamp: "2026-10-02T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Launch",
+        headline: "NASA Adds Blue Origin New Glenn 9×4 Variant to NLS II Launch Services Contract — Expanded Configuration With Nine First-Stage Engines and 4-Meter Fairing Broadens Launch Options for NASA Science and Exploration Missions; Addition Comes as New Glenn Return-to-Flight Effort Advances Following May Explosion Investigation",
+        body: "NASA has officially added Blue Origin's New Glenn 9×4 launch vehicle configuration to its NASA Launch Services (NLS) II indefinite-delivery, indefinite-quantity contract, expanding the agency's options for future science and exploration payloads to include the rocket's enhanced variant featuring nine BE-4 first-stage engines and a 4-meter payload fairing. The NLS II contract addition gives NASA mission planners an additional heavy-lift option alongside Falcon Heavy and ULA's Vulcan Centaur for medium-to-large spacecraft that require the New Glenn's unique orbit insertion capabilities or payload accommodations. The contract expansion comes as Blue Origin continues its return-to-flight engineering review following the May 28 static fire explosion at Launch Complex 36, with the company having completed root-cause analysis of the BE-4 engine failure and now in the modification and component testing phase. NASA Administrator Jared Isaacman confirmed that the agency expects Blue Origin to resume New Glenn flights before year-end, and that the NLS II expansion reflects long-term confidence in the vehicle's role in the commercial launch market.",
+        sourceUrl: "https://nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract",
+        timestamp: "2026-10-02T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "CNSA Confirms Shenzhou 24 Crewed Mission on Track for October 2026 Launch to Tiangong Station — First Non-Chinese Astronaut Expected Aboard as Pakistani Space Mission Specialist Joins Crew for Short-Stay Visit; Three-Person Chinese Core Crew to Begin 180-Day Science Rotation Aboard Tiangong as Shenzhou 23 Crew Completes Mission",
+        body: "China's Shenzhou 24 crewed mission to the Tiangong space station is confirmed on track for an October 2026 launch from the Jiuquan Satellite Launch Center, with a three-person Chinese core crew set to begin a 180-day science rotation as the current Shenzhou 23 crew prepares to conclude their mission. In a historic first, the Shenzhou 24 crew will include a Pakistani astronaut joining for a short-stay visit — marking the first time a non-Chinese national will visit the Tiangong station and opening a new chapter in China's international human spaceflight cooperation. The Shenzhou 24 mission is part of CNSA's 2026 plan for two crewed missions and one cargo resupply flight to keep Tiangong continuously staffed and to advance the station's scientific research program in materials science, life sciences, and Earth observation. The addition of an international partner astronaut reflects China's growing ambition to position Tiangong as a globally accessible space station alongside the ISS in the era of expanded low Earth orbit exploration.",
+        sourceUrl: "https://news.cgtn.com/news/2026-04-18/China-to-carry-out-intensive-space-missions-in-2026-says-CNSA-1MqYnNpxN8A/p.html",
+        timestamp: "2026-10-02T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-01": {
     date: "October 1, 2026",
     stories: [
