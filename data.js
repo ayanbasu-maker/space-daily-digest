@@ -68,6 +68,206 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-04": {
+    date: "October 4, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "ISS Expedition 75-76 Formal Change of Command Ceremony Airs Live on NASA TV at 10:20 a.m. EDT October 4 as Jessica Meir Transfers Station Authority to Incoming Expedition 76 Commander Jessica Watkins — Crew-12 Farewell Remarks Precede Planned Mid-October Dragon Endurance Departure; Meir Completes 237-Day Mission With Record Fifth Long-Duration Spaceflight as ISS Enters 26th Year of Continuous Human Presence",
+        body: "NASA broadcast the formal Expedition 75/76 change-of-command ceremony live on NASA TV at 10:20 a.m. EDT on October 4, as outgoing Expedition 75 Commander Jessica Meir officially transferred station authority to incoming Commander Jessica Watkins of Crew-13, completing the final leadership handover step following Crew-13's record-breaking 7-hour-55-minute arrival on October 1-2. Meir, flying her fifth long-duration mission in a career spanning more than three decades with NASA, addressed the combined 11-person crew and ground teams during farewell remarks that acknowledged her crew's science accomplishments across biology, materials science, and Earth observation over their 237-day stay. The ceremony marks the transition to Expedition 76, with Watkins and her Crew-13 colleagues set to conduct a packed science increment through March 2027. Crew-12 — Meir, Pilot Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev — are targeting Dragon Endurance departure from the Harmony forward port in mid-October for a splashdown off the Florida coast.",
+        sourceUrl: "https://spacepolicyonline.com/events/iss-change-of-command-ceremony-oct-4-2026-earth-orbit-1020-am-et/",
+        timestamp: "2026-10-04T14:20:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Solar System",
+        headline: "Saturn Reaches Opposition October 4, 2026 — Ringed Planet Rises at Sunset and Stays Visible All Night at Peak Brightness of Magnitude 0.6; Cassini Division Visible in Amateur Telescopes as Ring System Tilts 16 Degrees Toward Earth; Best Viewing Opportunity of the Year Coincides With International Observe the Moon Night for Double Planetary Spectacle",
+        body: "Saturn reached opposition on October 4, 2026, placing the ringed giant exactly opposite the Sun in Earth's sky and delivering the year's finest opportunity for backyard astronomers to observe it, with the planet rising around sunset and remaining well-positioned throughout the night at peak brightness of magnitude 0.6. Saturn's ring system is tilted approximately 16 degrees toward Earth this opposition, a favorable geometry that reveals the Cassini Division — the dark gap between the A and B rings — clearly in telescopes as small as 4 inches aperture, along with multiple cloud bands and the largest of Saturn's 146 known moons, Titan, visible as a distinct point of light. NASA's Skywatching team highlighted the opposition in its October 2026 celestial calendar, noting that Saturn will remain well-placed for evening observation through year-end. The timing of Saturn's opposition on the same date as International Observe the Moon Night offers skywatchers an exceptional opportunity to observe two of the solar system's most visually striking worlds in a single evening.",
+        sourceUrl: "https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/",
+        timestamp: "2026-10-04T00:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Science",
+        headline: "NASA's International Observe the Moon Night Draws Global Participation on October 4 With Events in 100-Plus Countries Tying Lunar Observations to Artemis II Mission Excitement — Agency Releases New LRO Mosaic of Shackleton Crater Rim as Science Hook; 16th Annual Global Moon Night Invites Public to Celebrate the Inspirational Bond Between Earth and Moon",
+        body: "NASA's International Observe the Moon Night on October 4 brought together amateur astronomers, students, and educators from more than 100 countries for the 16th annual global celebration of lunar science and exploration, tying this year's event to growing public enthusiasm surrounding Artemis II and NASA's long-term crewed return to the lunar surface. As a centerpiece for 2026 participants, NASA released a new high-resolution mosaic from the Lunar Reconnaissance Orbiter Camera showing unprecedented detail of the Shackleton Crater rim at the lunar south pole — the candidate region for future Artemis surface operations — providing a vivid visual connection between backyard Moon-watching and NASA's human exploration program. Observing events ranged from organized star parties at science museums and universities to social media campaigns encouraging participants to photograph the Moon and share their images, with NASA's web portal collecting thousands of submissions across six continents. The event's alignment with Saturn at opposition the same evening gave participants a rare opportunity to observe two of the solar system's most visually striking worlds in a single night.",
+        sourceUrl: "https://science.nasa.gov/solar-system/moon/join-nasa-on-oct-4-in-looking-up-celebrating-moon/",
+        timestamp: "2026-10-04T22:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Exploration",
+        headline: "World Space Week 2026 Opens October 4 Under 'Rocket Revolution' Theme as ESA Confirms Formal Investigation Into European-Led Low Earth Orbit Station in Partnership With Vast — Agency Director General Calls Post-ISS Continuity Critical for European Scientific Independence; October 4-10 Global Campaign Celebrates Proliferation of New Launch Vehicles Including Ariane 6, New Glenn, and Starship",
+        body: "World Space Week 2026 officially opened on October 4, running through October 10 under the theme 'Rocket Revolution' — a nod to the global proliferation of next-generation launch vehicles reshaping access to orbit — with ESA simultaneously announcing it has formally opened an investigation into European participation in and potential leadership of a next-generation low Earth orbit space station. ESA has entered active partnership discussions with California-based startup Vast, developer of the Haven-1 commercial station prototype targeting a 2027 launch, as a possible bridge toward sovereign European station capability after ISS retirement around 2030. ESA Director General Josef Aschbacher framed the move as essential for preserving Europe's uninterrupted microgravity research access, warning that the agency cannot afford a gap in human spaceflight like the one experienced between Spacelab and Columbus. The announcement ran parallel to ESA's World Space Week programming, which includes public events across all 22 member states celebrating European launch milestones including Ariane 6's return to full operational cadence.",
+        sourceUrl: "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution",
+        timestamp: "2026-10-04T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Deep Space",
+        headline: "China's Tianwen-2 Probe Closes to Within 20 Kilometers of Near-Earth Asteroid 2016 HO3 (Kamo'oalewa) as Sample Collection Phase Approaches — Robotic Arm Images Reveal Boulder-Strewn Surface With Two Candidate Touch-and-Go Sampling Sites; Mission Represents China's First-Ever Asteroid Sample Return Attempt Following May 2025 Launch",
+        body: "China's Tianwen-2 mission reached a proximity milestone in early October, with the probe closing to within 20 kilometers of near-Earth asteroid 2016 HO3 (Kamo'oalewa) and releasing close-range images captured by the spacecraft's robotic arm camera showing an irregular, boulder-strewn surface being analyzed by mission scientists to identify candidate touch-and-go sample collection sites. CNSA confirmed the new imagery reveals two relatively flat candidate regions on the asteroid's surface suitable for brief descents to collect material for return to Earth, with the sample collection window expected to open within weeks as scientists complete hazard characterization and targeting refinements. Tianwen-2, which launched on May 29, 2025, represents China's first-ever asteroid sample return attempt — a class of mission previously accomplished only by Japan's Hayabusa and Hayabusa2 spacecraft — and will subsequently survey main-belt comet 311P/PANSTARRS, making it one of the most scientifically ambitious small-body exploration missions yet attempted by any space agency. The mission reflects China's accelerating deep-space program ambitions following the success of the Chang'e lunar sample return series.",
+        sourceUrl: "https://www.cnsa.gov.cn/english/",
+        timestamp: "2026-10-04T08:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Commercial Launch",
+        headline: "SpaceX Confirms Starlink Group 12-3 Mission for October 10 Launch Window as Falcon 9 Fleet Approaches 300 Total Launches in 2026 — Booster B1076 Assigned for Record 23rd Flight; Company Files FCC Notice for 840-Satellite V2 Mini Expansion as Broadband Network Crosses Seven Million Active Subscribers Globally",
+        body: "SpaceX confirmed a Starlink Group 12-3 mission targeting a launch window opening October 10 at 23:00 GMT from Cape Canaveral, with Falcon 9 booster B1076 assigned for its record-extending 23rd flight and a recovery attempt on the droneship Just Read the Instructions in the Atlantic. The batch of 23 Starlink V2 Mini satellites will fill an orbital shell serving mid-latitude broadband customers, as the company works through remaining V2 Mini deployment campaigns before transitioning fully to the higher-capacity Starlink V3 constellation deliverable only by Starship. SpaceX simultaneously filed an FCC notification for an 840-satellite expansion of its V2 Mini constellation, seeking authority to deploy additional broadband capacity as demand continues to outpace network throughput in densely subscribed regions of Europe and North America. The network crossed seven million active subscribers globally in Q3 2026, a milestone that underscores the commercial significance of sustaining Falcon 9 launch cadence until Starship operational flights commence.",
+        sourceUrl: "https://www.spacex.com/launches",
+        timestamp: "2026-10-04T17:00:00Z"
+      }
+    ]
+  },
+
+  "2026-10-03": {
+    date: "October 3, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mars Science",
+        headline: "NASA Astronomy Picture of the Day Features Curiosity Rover Selfie at Vera Rubin Ridge on Sol 1943 — Composite Mosaic Shows 1-Ton Robot Against Layered Sedimentary Outcrops Rich in Hematite and Manganese That May Point to Ancient Gale Crater Lake Margins; Unexpectedly High Manganese Readings Driving Debate Among Geochemists About Shoreline Chemistry of Mars Billions of Years Ago",
+        body: "NASA's Curiosity rover marked sol 1943 with a detailed selfie at the south rim of Vera Rubin Ridge in Gale Crater, featured as the Astronomy Picture of the Day on October 3. The composite mosaic assembled from dozens of Mars Hand Lens Imager images shows Curiosity positioned against deeply layered sedimentary outcrops unusually rich in hematite — a mineral typically associated with ancient water-rich environments — and elevated manganese concentrations compared to surrounding terrain. Scientists studying the manganese anomaly have proposed it may reflect a chemically dynamic shoreline or lake margin within Gale Crater that experienced repeated wet-dry cycling billions of years ago, conditions considered potentially favorable for prebiotic chemistry. The image was released by the Curiosity team as part of ongoing geological documentation of the rover's journey across Gale Crater's diverse rock record, now in its fourteenth year of surface operations on Mars.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/",
+        timestamp: "2026-10-03T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 Astronauts Begin First Full Science Day Aboard ISS as Handover With Crew-12 Formally Launches — Commander Jessica Watkins Receives Station Keys From Outgoing Commander Jessica Meir; Crew-12 Departure Targeted Mid-October as Crew-13's Expedition 76 Science Increment Prepares to Open; Watkins First Astronaut to Command Two Separate Dragon Missions in NASA History",
+        body: "The four Crew-13 astronauts — Commander Jessica Watkins, Pilot Luke Delaney, Canadian mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov — began their first full work day aboard the International Space Station on October 3, conducting safety briefings and laboratory familiarization sessions following their record-breaking 7-hour-55-minute arrival on October 1-2. Commander Watkins formally received the station command from outgoing Expedition 75 Commander Jessica Meir, initiating the joint crew overlap period during which Crew-12 will pass on all operational and scientific responsibilities before boarding Dragon Endurance for a mid-October return to Earth. The handover process involves detailed walk-throughs of ongoing science experiments, life support system status, and emergency procedures across all ISS modules — a process expected to take approximately one week before Crew-12's Meir, Pilot Jack Hathaway, ESA astronaut Sophie Adenot, and cosmonaut Andrey Fedyaev depart for a splashdown off the Florida coast. Watkins made history as the first NASA astronaut to command two separate Crew Dragon spacecraft missions, having served as a mission specialist on Crew-4 in 2022.",
+        sourceUrl: "https://www.nasa.gov/mission/nasas-spacex-crew-13/",
+        timestamp: "2026-10-03T13:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Outreach",
+        headline: "ESA Welcomes Thousands to ESAC Open Day at Villanueva de la Cañada on October 3 — Reserve Astronaut Sara García Alonso Headlines Public Outreach Sessions as Agency Builds Momentum Ahead of 77th International Astronautical Congress Opening October 5 in Antalya, Türkiye; Euclid, Gaia, and XMM-Newton Mission Control Rooms Open to the Public in Rare Behind-the-Scenes Access to Europe's Scientific Space Infrastructure",
+        body: "ESA opened the European Space Astronomy Centre in Villanueva de la Cañada, Spain to the general public on October 3 for the annual ESAC Open Day, welcoming thousands of visitors for guided tours of telescope mission control facilities and interactive science demonstrations staffed by ESA researchers. ESA reserve astronaut Sara García Alonso — Spain's first ESA astronaut and a candidate for a future ISS mission — headlined public outreach sessions, fielding questions on her astronaut training and ESA's ambitions for lunar and deep-space exploration. The Open Day serves as a timely warm-up for the 77th International Astronautical Congress opening October 5 in Antalya, Türkiye, where ESA will showcase Ariane 6's return to full operational launch cadence, the upcoming Euclid Data Release 1 covering 1,900 square degrees of sky, and the agency's evolving contributions to the Moon Village concept. Mission teams from the Euclid dark-energy telescope, Gaia stellar cartography mission, and XMM-Newton X-ray observatory opened their science operations centers to the public in an unusually comprehensive look at Europe's world-class space science infrastructure.",
+        sourceUrl: "https://www.esa.int/About_Us/ESA_Open_Days/ESA_Open_Days_2026/ESAC_Open_Day_2026",
+        timestamp: "2026-10-03T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Announces Shenzhou 24 Launch Window for Mid-to-Late October 2026 as Long March 2F Rolls to Jiuquan Launch Pad — Three-Taikonaut Core Crew to Relieve Shenzhou 23 Team in 18th Crewed Chinese Spaceflight; Pakistani SUPARCO Astronaut to Join as Short-Stay Mission Specialist in Tiangong Station's First International Crew Visit; Full Crew Names to Be Disclosed Day Before Launch per CNSA Protocol",
+        body: "China's human spaceflight program announced a mid-to-late October launch window for the Shenzhou 24 mission on October 3, with the Long March 2F carrier rocket completing its rollout to the launch pad at the Jiuquan Satellite Launch Center ahead of final integrated pre-launch checkouts. The three-taikonaut core crew — whose identities will only be disclosed the day before liftoff per CNSA's customary pre-mission secrecy protocol — will begin a 180-day science rotation aboard Tiangong, relieving the Shenzhou 23 crew currently conducting Earth observation, materials science, and life sciences experiments in their fifth month aboard the station. Shenzhou 24 will mark a historic first for China's crewed program: a Pakistani astronaut selected from SUPARCO candidates Muhammad Zeeshan Ali and Khurram Daud will join the mission as a short-stay mission specialist for approximately one week, making Tiangong an internationally crewed station for the first time and deepening China-Pakistan space cooperation ahead of further planned international partnerships. The mission is China's 18th crewed spaceflight and the ninth rotation of the Tiangong station since it reached full operational configuration in late 2022.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-10-03T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO GSLV-F18 Emerges From Vehicle Assembly Building at Sriharikota With NVS-03 NavIC Satellite Encapsulated as October 15-20 Launch Window Confirmed — Third Second-Generation NavIC Spacecraft to Restore Full-Constellation Indian Navigation Coverage After Legacy IRNSS Satellite Degradation; NVS-03 Carries Upgraded L1, L5, and S-Band Signals for Military and Civilian Users Seeking GPS Independence",
+        body: "ISRO confirmed on October 3 that the GSLV-F18 rocket has been rolled out from the Vehicle Assembly Building at the Satish Dhawan Space Centre in Sriharikota with the NVS-03 navigation satellite enclosed in its payload fairing, with launch window targeting between October 15 and 20 for delivery to a geostationary transfer orbit. NVS-03 is the third second-generation NavIC satellite and will bring the Indian Regional Navigation Satellite System back to four fully active L5-band spacecraft, restoring the constellation's design accuracy and coverage area after multiple first-generation IRNSS satellites exceeded their operational lifespans. The satellite carries upgraded L1, L5, and S-band navigation signals with improved accuracy and atomic clock stability compared to the original IRNSS spacecraft it supplements, furthering India's strategic objective of operational independence from foreign GPS systems for its armed forces, maritime navigation, and precision agriculture sectors. ISRO is mounting the NVS-03 campaign just weeks after successfully completing the EOS-05 geostationary Earth observation satellite orbit insertion, sustaining one of the agency's most productive launch cadences in recent years.",
+        sourceUrl: "https://www.msn.com/en-in/news/other/isro-gears-up-for-nvs-03-launch-between-october-15-and-20/ar-AA2cGRMW",
+        timestamp: "2026-10-03T09:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Next-Gen Launch Systems",
+        headline: "SpaceX Advances Starship V3 Flight 15 Preparations at Boca Chica With Raptor 3 Engine Integration Underway on New Super Heavy Booster — First Full Operational Starlink V3 Satellite Batch Targeted for Late October Deployment; Company Tallies 85th Successful Falcon Booster Landing of 2026 After NROL-97 Dual Recovery on October 2; Starship Operational Cadence Key to Freeing Falcon 9 Capacity for Expanding Commercial Rideshare Market",
+        body: "SpaceX continued integration of a new Super Heavy booster fitted with upgraded Raptor 3 engines at Starbase in Boca Chica, Texas on October 3, targeting Starship Flight 15 as the first operational delivery of the next-generation Starlink V3 broadband satellite constellation expected in late October or early November pending final FAA license issuance. The Starlink V3 network — designed to offer over 100 times the throughput of the current V1 fleet — represents the foundation of SpaceX's premium high-bandwidth commercial internet tier and is central to the company's revenue projections beyond the Falcon 9 era. Meanwhile, the company's 2026 landing tally reached 85 successful Falcon booster recoveries following the dual side-booster recoveries from the NROL-97 Falcon Heavy mission on October 2, reinforcing the operational reliability metrics SpaceX references in commercial and government launch procurement discussions. Company officials have signaled that once Starship begins delivering Starlink V3 batches at scale, significant Falcon 9 rideshare and commercial GEO launch capacity currently consumed by internal Starlink replenishment will open up for paying customers, a transition expected to reshape the global commercial launch market.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/",
+        timestamp: "2026-10-03T16:00:00Z"
+      }
+    ]
+  },
+
+  "2026-10-02": {
+    date: "October 2, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Crew-13 Astronauts Board ISS After Record-Breaking 7-Hour 55-Minute Trip — Fastest American Spacecraft Flight to Station Ever; Jessica Watkins, Luke Delaney, Joshua Kutryk, and Sergey Teteryatnikov Welcomed Aboard as Crew-12 Begins Handover Period Ahead of Mid-October Departure",
+        body: "NASA's SpaceX Crew-13 astronauts boarded the International Space Station on October 2, completing the journey in just 7 hours and 55 minutes — a new speed record for any U.S. crewed or cargo spacecraft reaching the orbital outpost. The four crew members, Commander Jessica Watkins, Pilot Luke Delaney, CSA mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov, were welcomed by the Expedition 75 crew after Dragon Grace docked at the Harmony forward port at approximately 7:05 p.m. EDT on October 1. The record eclipsed the previous fastest American spacecraft trip of 14 hours and 43 minutes set by Crew-11 in August 2025, with mission planners taking advantage of a particularly favorable orbital geometry. The incoming Crew-13 and outgoing Crew-12 teams will overlap for several days before Commander Jessica Meir's Crew-12 crew departs for a splashdown off the Florida coast.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-crew-13-astronaut-mission-docks-iss-fastest-trip-us-spacecraft",
+        timestamp: "2026-10-02T01:43:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "National Security Launch",
+        headline: "SpaceX Falcon Heavy Lifts Off at 03:53 UTC October 2 From Kennedy LC-39A Carrying NROL-97 Classified Payload for National Reconnaissance Office — First NRO Mission Ever Flown on Falcon Heavy; Side Booster Recovery Marks 300th Successful Falcon Landing; Mission Demonstrates Falcon Heavy's Growing Role in U.S. Intelligence Community Launch Portfolio",
+        body: "A SpaceX Falcon Heavy rocket lifted off from Launch Complex 39A at Kennedy Space Center at 03:53 UTC on October 2, carrying the NROL-97 classified national security payload for the National Reconnaissance Office in what marks the first NRO mission ever launched aboard the Falcon Heavy. The recovery of both side boosters at Cape Canaveral's Landing Zones 1 and 2 included the company's 300th successful Falcon booster landing, a milestone SpaceX marked publicly on social media. The NROL-97 mission details remain classified as is standard for NRO payloads, but the selection of Falcon Heavy signals the NRO's confidence in the rocket's heavy-lift capability for larger intelligence-gathering satellites that cannot fit within the Falcon 9 payload envelope. The launch came just hours after the Crew-13 Dragon capsule completed its record-breaking docking with the ISS, making October 2 another active day in SpaceX's historic 2026 launch cadence.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_spaceflight_launches_in_October%E2%80%93December_2026",
+        timestamp: "2026-10-02T03:53:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Science",
+        headline: "NASA Selects Three New Lunar Science Investigations Under PRISM Program for Moon Base Preparation — LEMS-SP Seismic Monitor, GIMLI Interior Mapper, and DISCO Spectral Imager Targeting South Pole Deployment; Instruments to Assess Regolith Hazards, Subsurface Structure, and Water-Ice Signatures to Guide Artemis Base Camp Site Selection",
+        body: "NASA has selected three new science investigations through its PRISM (Payloads and Research Investigations on the Surface of the Moon) program to support planning for the first permanent lunar outpost: the Lunar Environment Monitoring Station – South Pole (LEMS-SP), the Geophysical Investigation for Mapping Lunar Interior (GIMLI), and the Depth Imager with Spectral and Color Optics (DISCO). LEMS-SP will characterize seismic activity and the meteorite impact flux at the lunar south pole, while GIMLI will map the interior structure and regolith properties down to several meters depth using geophysical techniques critical for foundation engineering of future habitats. DISCO will use multispectral and color imaging to identify subsurface water-ice signatures and surface mineralogy at candidate Artemis Base Camp sites, providing data essential for in-situ resource utilization planning. The three selections deepen NASA's growing PRISM portfolio of small science payloads intended to reduce risk for crewed surface operations and identify the most resource-rich and structurally safe sites for the agency's planned permanent lunar presence.",
+        sourceUrl: "https://science.nasa.gov/",
+        timestamp: "2026-10-02T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Launch",
+        headline: "NASA Adds Blue Origin New Glenn 9×4 Variant to NLS II Launch Services Contract — Expanded Configuration With Nine First-Stage Engines and 4-Meter Fairing Broadens Launch Options for NASA Science and Exploration Missions; Addition Comes as New Glenn Return-to-Flight Effort Advances Following May Explosion Investigation",
+        body: "NASA has officially added Blue Origin's New Glenn 9×4 launch vehicle configuration to its NASA Launch Services (NLS) II indefinite-delivery, indefinite-quantity contract, expanding the agency's options for future science and exploration payloads to include the rocket's enhanced variant featuring nine BE-4 first-stage engines and a 4-meter payload fairing. The NLS II contract addition gives NASA mission planners an additional heavy-lift option alongside Falcon Heavy and ULA's Vulcan Centaur for medium-to-large spacecraft that require the New Glenn's unique orbit insertion capabilities or payload accommodations. The contract expansion comes as Blue Origin continues its return-to-flight engineering review following the May 28 static fire explosion at Launch Complex 36, with the company having completed root-cause analysis of the BE-4 engine failure and now in the modification and component testing phase. NASA Administrator Jared Isaacman confirmed that the agency expects Blue Origin to resume New Glenn flights before year-end, and that the NLS II expansion reflects long-term confidence in the vehicle's role in the commercial launch market.",
+        sourceUrl: "https://nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract",
+        timestamp: "2026-10-02T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "CNSA Confirms Shenzhou 24 Crewed Mission on Track for October 2026 Launch to Tiangong Station — First Non-Chinese Astronaut Expected Aboard as Pakistani Space Mission Specialist Joins Crew for Short-Stay Visit; Three-Person Chinese Core Crew to Begin 180-Day Science Rotation Aboard Tiangong as Shenzhou 23 Crew Completes Mission",
+        body: "China's Shenzhou 24 crewed mission to the Tiangong space station is confirmed on track for an October 2026 launch from the Jiuquan Satellite Launch Center, with a three-person Chinese core crew set to begin a 180-day science rotation as the current Shenzhou 23 crew prepares to conclude their mission. In a historic first, the Shenzhou 24 crew will include a Pakistani astronaut joining for a short-stay visit — marking the first time a non-Chinese national will visit the Tiangong station and opening a new chapter in China's international human spaceflight cooperation. The Shenzhou 24 mission is part of CNSA's 2026 plan for two crewed missions and one cargo resupply flight to keep Tiangong continuously staffed and to advance the station's scientific research program in materials science, life sciences, and Earth observation. The addition of an international partner astronaut reflects China's growing ambition to position Tiangong as a globally accessible space station alongside the ISS in the era of expanded low Earth orbit exploration.",
+        sourceUrl: "https://news.cgtn.com/news/2026-04-18/China-to-carry-out-intensive-space-missions-in-2026-says-CNSA-1MqYnNpxN8A/p.html",
+        timestamp: "2026-10-02T08:00:00Z"
+      }
+    ]
+  },
+
+  "2026-10-01": {
+    date: "October 1, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA SpaceX Crew-13 Dragon Grace Lifts Off at 11:10 a.m. EDT From Cape Canaveral SLC-40 en Route to ISS Harmony Forward Port With Commander Jessica Watkins — First Active NASA Astronaut to Fly Dragon Twice — Alongside Pilot Luke Delaney, CSA's Joshua Kutryk, and Roscosmos Cosmonaut Sergey Teteryatnikov; Nine-Hour Rendezvous Targets 8:00 p.m. EDT Docking for Start of Expedition 75/76 Science Increment Through March 2027",
+        body: "NASA's SpaceX Crew-13 mission lifted off at 11:10 a.m. EDT on October 1 aboard Dragon Grace on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station, successfully carrying four crew members toward the International Space Station on a planned 180-day science expedition as part of Expedition 75/76. Commander Jessica Watkins, a geologist and veteran of the 2022 Crew-4 mission, became the first active NASA astronaut to fly aboard a SpaceX Dragon spacecraft for a second time, leading Pilot Luke Delaney, Canadian Space Agency mission specialist Joshua Kutryk, and Roscosmos cosmonaut Sergey Teteryatnikov on the agency's 14th Commercial Crew mission. Dragon Grace was scheduled to dock at the ISS Harmony forward port approximately nine hours after liftoff at around 8:00 p.m. EDT, where it would relieve the outgoing Crew-12 team — Commander Jessica Meir, Pilot Jack Hathaway, ESA astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev — who have been aboard since February 2026. Weather forecasters gave the 11:10 a.m. window a 55 percent chance of favorable conditions, with a backup opportunity available October 2 at 10:47 a.m. EDT.",
+        sourceUrl: "https://www.nasa.gov/mission/nasas-spacex-crew-13/",
+        timestamp: "2026-10-01T15:10:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Commercial Launch",
+        headline: "SpaceX Executes Historic Double Launch Day October 1 With Crew-13 Crewed Mission From Cape Canaveral and Transporter-18 Rideshare From Vandenberg SLC-4E at 18:18 UTC — Transporter-18 Carries 130 Payloads Including Google's Project Suncatcher AI Prototype Satellite to Sun-Synchronous Orbit; Three Falcon-Capable Pads Active in Single Day as SpaceX Sustains Record 2026 Launch Cadence",
+        body: "SpaceX completed one of its most operationally intensive single days in company history on October 1, executing two separate Falcon 9 launches from opposite coasts of the United States within hours of each other and simultaneously supporting active Falcon Heavy operations from Florida. The Transporter-18 dedicated rideshare mission lifted off from Space Launch Complex 4E at Vandenberg Space Force Base at 18:18 UTC, delivering 130 payloads to a sun-synchronous orbit and headlined by Google's Project Suncatcher prototype — an AI-powered satellite designed to optimize solar energy collection and downlink data — alongside dozens of commercial, government, and research cubesats from operators worldwide. SpaceX confirmed that Transporter-18 marks a company rideshare pricing milestone, with multiple payloads aboard at the base rate of $350,000 per ESPA-class slot, underscoring the program's maturation as the primary dedicated SSO rideshare offering in the launch market. The simultaneous utilization of SLC-40 at Cape Canaveral and SLC-4E at Vandenberg on the same calendar day, with a third Falcon-capable pad on standby, is the first occurrence in SpaceX's history and demonstrates the operational depth of the company's 2026 launch infrastructure buildout.",
+        sourceUrl: "https://www.space.com/space-exploration/satellites/spacex-google-project-suncatcher-ai-satellite-transporter-18-mission",
+        timestamp: "2026-10-01T18:18:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO Begins GSLV-F18 Vehicle Integration at Satish Dhawan Space Centre for NVS-03 NavIC Navigation Satellite, Targeting October 15-20 Launch Window — Third Second-Generation NavIC Satellite to Restore Constellation to Four Active Spacecraft After Earlier Failures; Mission Critical for India's Armed Forces Precision Navigation Independence and Civilian Location Services",
+        body: "ISRO has commenced integration of the GSLV-F18 rocket at the Satish Dhawan Space Centre in Sriharikota for the NVS-03 (IRNSS-1L) mission, targeting a launch window between October 15 and 20 that would deliver the 2,200-kilogram navigation satellite to a geostationary transfer orbit from which it will use onboard propulsion to enter its final geosynchronous slot. NVS-03 is the third in India's second-generation NavIC (Navigation with Indian Constellation) satellite series and will bring the active navigation constellation back to four fully functional spacecraft, restoring the full regional positioning accuracy that India's military, fishing fleets, disaster response teams, and consumer devices depend on after the earlier degradation of older constellation members. The satellite is designed to provide L1, L5, and S-band navigation signals with improved accuracy compared to the first-generation IRNSS spacecraft it supplements, and its successful deployment will significantly strengthen India's operational independence from GPS and other foreign navigation systems. ISRO is completing the NVS-03 campaign just three weeks after the successful EOS-05 geostationary orbit insertion, marking one of the agency's most productive launch stretches in 2026.",
+        sourceUrl: "https://www.msn.com/en-in/news/other/isro-gears-up-for-nvs-03-launch-between-october-15-and-20/ar-AA2cGRMW",
+        timestamp: "2026-10-01T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA Euclid Space Telescope's First Full Data Release DR1 Set to Drop in October 2026 — Covering 1,900 Square Degrees From One Year of Nominal Survey Operations, Roughly 30 Times the Quick Release Q1 Area, With First Core Dark Energy and Dark Matter Cosmological Constraints; International Astronomers to Access Billions of Galaxy Shapes and Redshifts to Probe Universe's Accelerating Expansion",
+        body: "ESA's Euclid space telescope is set to deliver its first major Data Release 1 (DR1) in October 2026, covering approximately 1,900 square degrees of sky from the first year of its nominal wide survey — roughly 30 times the area of the preliminary Quick Release Q1 published in early 2026 — and marking the first opportunity for the global astronomy community to conduct full cosmological analyses using Euclid's combined visible and near-infrared imaging and spectroscopic data. DR1 will contain shape measurements and photometric redshifts for billions of galaxies, enabling the Euclid Consortium to publish the mission's first direct constraints on the nature of dark energy, the dark matter power spectrum, and the equation-of-state parameter governing the Universe's accelerating expansion since the Big Bang. The release follows earlier teaser publications that demonstrated Euclid's extraordinary depth and resolution, including galaxy cluster detections, weak gravitational lensing maps, and baryon acoustic oscillation measurements from the Q1 area. DR1 represents the formal beginning of Euclid's primary science output and is expected to produce hundreds of peer-reviewed papers examining the dark universe at a precision no previous survey telescope has achieved.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-10-01T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Industry",
+        headline: "ESA Prepares Delegation for 77th International Astronautical Congress October 5-9 in Antalya, Türkiye Under Theme 'The World Needs More Space' — Agency to Showcase Ariane 6 Operational Status, RAMSES Apophis Mission Progress, Euclid DR1 Science, and Lunar Exploration Roadmap; ESA Reserve Astronaut Sara García Alonso Featured at ESAC Open Day October 3 Ahead of Congress",
+        body: "ESA is preparing a major delegation and exhibition presence for the 77th International Astronautical Congress running October 5-9 in Antalya, Türkiye, where the agency will present highlights from its most active launch and science year in recent memory under the congress theme 'The World Needs More Space.' ESA's featured topics at IAC 2026 include the operational return of Ariane 6 restoring European independent access to space, the successful April 2026 launch of the SMILE solar wind–magnetosphere interaction mission, the development milestone of RAMSES — its Apophis planetary defense mission — and the forthcoming Euclid DR1 data release transforming understanding of the dark universe. Preceding the congress, ESA reserve astronaut Sara García Alonso will appear at the European Space Astronomy Centre's annual Open Day on Saturday, October 3 in Villanueva de la Cañada, Madrid, welcoming public visitors to ESAC's telescope facilities and hosting outreach sessions on ESA's science missions. The IAC 2026 gathering is expected to draw over 6,000 delegates from 70 countries, with major bilateral space cooperation discussions anticipated amid rising global interest in Moon and Mars exploration architecture.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-10-01T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-09-30": {
     date: "September 30, 2026",
     stories: [
