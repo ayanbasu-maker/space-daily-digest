@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-06": {
+    date: "October 6, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Military Launch",
+        headline: "SpaceX Waves Off Second Falcon 9 Launch Attempt for SDA Tranche 1 Transport Layer-A From Vandenberg on October 6 After October 5 Abort — 21 Proliferated Warfighter Space Architecture Data-Relay Satellites Remain on Pad at SLC-4E as Teams Assess New Window; Booster B1103 on Its Sixth Flight Eyes Next Opportunity With Of Course I Still Love You Positioned in Pacific",
+        body: "SpaceX waived off its second consecutive launch attempt for the Space Development Agency's Tranche 1 Transport Layer-A mission on October 6 at the 1:17 a.m. PDT window from Space Launch Complex 4 East at Vandenberg Space Force Base, citing undisclosed conditions that prevented the 21-satellite manifest from proceeding after Monday's autonomous computer-triggered abort just seconds before liftoff. Booster B1103, flying its sixth mission, and its payload of 21 LEO data-relay spacecraft for the Pentagon's Proliferated Warfighter Space Architecture remain healthy on the pad while SpaceX and SDA engineers evaluate the earliest viable new launch opportunity. The 21 T1TL-A satellites are the fourth batch of SDA's planned multi-hundred-satellite constellation designed to provide low-latency tactical communications and precision targeting data links to U.S. military users worldwide. Recovery vessel Of Course I Still Love You remains in position in the Pacific Ocean west of Vandenberg, ready to catch the booster's controlled landing at sea.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+        timestamp: "2026-10-06T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Science",
+        headline: "NASA APOD October 6 Features ESA–CAS SMILE Spacecraft's Complete Daytime Auroral Oval in Ultraviolet — First Full Northern Auroral Ring Captured Since 2008 Reveals Hour-Long Turbulent Dynamic Display Invisible From the Ground; SMILE Officially Enters Science Operations After May 2026 Launch and Four-Month Commissioning Phase",
+        body: "NASA's Astronomy Picture of the Day on October 6, 2026, showcases a time-lapse video from ESA and the Chinese Academy of Sciences' Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) spacecraft showing a complete auroral oval over Earth's north magnetic pole in ultraviolet light — making SMILE the first spacecraft since 2008 to image the full northern auroral ring in UV, and notably capturing it during daylight hours invisible to ground observers. The one-hour time-lapse, recorded in late July during SMILE's commissioning phase, reveals the auroral oval as a continuously shifting, turbulent ring of light encircling the magnetic pole, dramatically illustrating the dynamic interaction between the solar wind and Earth's magnetosphere that is the mission's primary science target. NASASpaceFlight.com reported that ESA and CAS formally declared SMILE in full science operations this week, approximately four months after the spacecraft launched on May 19, 2026, from the Guiana Space Centre aboard a Vega-C rocket. SMILE will image Earth's magnetopause in soft X-rays and the auroral oval in UV for up to 40 hours per orbit, building the first systematic global dataset of magnetosphere–solar wind coupling over its planned multi-year science mission.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+        timestamp: "2026-10-06T00:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Launch",
+        headline: "NASA Adds Blue Origin New Glenn 9×4 Variant to Launch Services II Contract Expanding Agency's Heavy-Lift Options — Upgraded Vehicle Capable of 70-Plus Metric Tons to LEO and 20 Metric Tons to Trans-Lunar Injection; On-Ramp Announced September 29 Broadens NASA's Ordering Authority Through June 2030 Alongside Existing New Glenn 7×2 Configuration",
+        body: "NASA's Kennedy Space Center formally added Blue Origin's upgraded New Glenn 9×4 launch vehicle configuration to the NASA Launch Services II contract via the program's annual on-ramp clause, announced on September 29, 2026, and widely covered in the space press this week ahead of IAC industry discussions. The 9×4 variant fields nine BE-4 engines on its first stage — two more than the baseline 7×2 — and four BE-3U engines on its second stage, giving it a rated capability of more than 70 metric tons to low Earth orbit, more than 14 metric tons to geosynchronous orbit, and more than 20 metric tons to trans-lunar injection, meaningfully expanding Blue Origin's addressable range of NASA science and exploration missions. The NLS II contract is a multiple-award, indefinite-delivery/indefinite-quantity vehicle with an ordering period through June 2030 and an overall performance period through December 2032, meaning NASA's Launch Services Program now holds authority to procure 9×4 flights for future missions alongside the existing 7×2 and other contracted vehicles. The addition comes as Blue Origin accelerates New Glenn's launch cadence toward its stated goal of 12 or more flights in 2026, bolstering the company's case as a credible large-payload alternative to Falcon 9 Heavy and ULA Vulcan Centaur.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+        timestamp: "2026-10-06T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Policy",
+        headline: "IAC 2026 Antalya Day 2 Industry Day Opens With Plenary on 'Bridging Eras: From Silk Road Astronomy to Lunar Exploration' and Afternoon Session on 'Geopolitics vs. Innovation' — NASA, ESA, JAXA, and Commercial Leaders Address Sovereign vs. Open-Architecture Tensions in Next-Generation Launch; Global Networking Forum and Hundreds of Technical Sessions Run Through NEST Convention Center",
+        body: "The second day of the 77th International Astronautical Congress in Antalya, Türkiye, designated as Industry Day, opened with a morning plenary titled 'Bridging Eras: From Silk Road Astronomy to Lunar Exploration' at the NEST Convention Center, drawing on Türkiye's long astronomical heritage to frame contemporary debates about international access and cooperation in deep space exploration. An afternoon plenary on 'Geopolitics vs. Innovation: Balancing Corporate Flexibility and Sovereign Capability in a Volatile World' convened executives from major launch providers and government agency leaders — including NASA, ESA, and commercial operators — to debate how the industry reconciles national security export controls and dual-use technology concerns with the open collaboration needed to sustain ambitious programs like Artemis and Gateway. Industry Day also featured the Global Networking Forum, hundreds of interactive and technical presentations across more than 180 session tracks, and an industry luncheon, as the 40,000-square-meter exhibition floor drew record commercial participation. More than 4,000 presentations are scheduled across the congress's five days, running through October 9, with the technical program continuing at pace on day three.",
+        sourceUrl: "https://www.iafastro.org/events/iac/international-astronautical-congress-2026/plenary-programme/",
+        timestamp: "2026-10-06T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Commercial Launch",
+        headline: "ISRO Prepares SSLV-D3/L-1 First Commercial Mission Carrying OrbitAID's AayulSAT-1A In-Orbit Refueling Demonstration Satellite — October Launch Window Targeted From Satish Dhawan Space Centre for Inaugural Commercial SSLV Flight; Mission Marks Key Milestone for ISRO's NewSpace India Limited as Agency Opens Small Satellite Rocket to Paying Customers",
+        body: "India's ISRO is finalizing preparations at the Satish Dhawan Space Centre's First Launch Pad for the SSLV-D3/L-1 mission, the inaugural commercial flight of the Small Satellite Launch Vehicle targeting a launch window in October 2026, with the primary payload being AayulSAT-1A — an in-orbit refueling demonstration satellite developed by Bengaluru-based startup OrbitAID Aerospace. AayulSAT-1A will test orbital propellant transfer technologies in low Earth orbit that could enable satellite life extension and reduce space debris, representing both a significant technical first for the Indian commercial space sector and a validation of ISRO's expanded NewSpace India Limited commercial launch offerings. The SSLV, a three-stage solid-fuel rocket capable of placing up to 500 kilograms into a 500 km low Earth orbit, completed its second developmental flight successfully in early 2023 and has since undergone qualification for commercial operations; this mission is its first revenue-generating flight. The launch solidifies ISRO's pitch to global small satellite operators as a cost-effective alternative in the emerging commercial microsatellite launch market alongside Rocket Lab, SpaceX's rideshare services, and Virgin Orbit's successor programs.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_SSLV_launches",
+        timestamp: "2026-10-06T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-05": {
     date: "October 5, 2026",
     stories: [
