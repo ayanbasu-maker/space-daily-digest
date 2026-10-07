@@ -68,6 +68,98 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-07": {
+    date: "October 7, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "SpaceX Crew-12 Dragon Endurance Undocks From ISS at 8:05 a.m. EDT October 7 After 237-Day Mission — Jessica Meir, Jack Hathaway, ESA's Sophie Adenot, and Roscosmos Cosmonaut Andrey Fedyaev Begin Return Journey; Splashdown Off Southern California Targeted for October 8 at 11:25 a.m. EDT as SpaceX Recovery Vessels Hold Station in Pacific",
+        body: "Dragon Endurance undocked from the International Space Station's Harmony forward port at 8:05 a.m. EDT on October 7, beginning the final leg of the Expedition 75 mission for Crew-12 Commander Jessica Meir, Pilot Jack Hathaway, ESA mission specialist Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev after 237 days aboard the orbital outpost. The undocking concludes an Expedition 75 science increment covering hundreds of experiments in biology, materials science, fluid physics, and Earth observation, with the crew having completed a full handover to the incoming Crew-13 Expedition 76 team led by Commander Jessica Watkins. A deorbit burn is planned overnight targeting a splashdown at approximately 11:25 a.m. EDT on October 8 off the coast of southern California, where SpaceX recovery vessels and NASA medical teams are prepositioned. Meir, flying her record fifth long-duration spaceflight, logged her longest single mission to date with this 237-day flight, exceeding her previous record set during Expedition 62.",
+        sourceUrl: "https://www.nasa.gov/blogs/commercialcrew/2026/10/03/nasa-spacex-set-no-earlier-than-oct-7-for-crew-12-departure/",
+        timestamp: "2026-10-07T08:05:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Military Launch",
+        headline: "SpaceX Prepares Third Falcon 9 Attempt for SDA Tranche 1 Transport Layer-A at Vandenberg Following Back-to-Back October 5 and October 6 Scrubs — Booster B1103 on Sixth Flight and 21 PWSA Data-Relay Satellites Remain Healthy on Pad at SLC-4E; Teams Targeting New Window as Of Course I Still Love You Stands By in Pacific for Booster Recovery",
+        body: "SpaceX and the Space Development Agency are working toward a third launch attempt for the Tranche 1 Transport Layer-A mission from Space Launch Complex 4 East at Vandenberg Space Force Base after consecutive wave-offs on October 5 and October 6, with Falcon 9 booster B1103 and its 21-satellite payload remaining in healthy condition on the pad. The 21 data-relay spacecraft form the fourth batch of the Pentagon's Proliferated Warfighter Space Architecture constellation, a planned network designed to provide low-latency tactical communications and precision targeting data links for U.S. armed forces operating globally. SpaceX and SDA engineers have been methodically working through the undisclosed conditions responsible for Monday's autonomous computer-triggered abort and Tuesday's wave-off to ensure a clean window for the third attempt. If successful, the mission will continue the Space Force's push toward initial operational capability for the PWSA transport layer by late 2026, with recovery vessel Of Course I Still Love You positioned in the Pacific to catch the returning first stage.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+        timestamp: "2026-10-07T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Astrophysics",
+        headline: "NASA APOD October 7 Showcases Supernova Remnant Pa 30 Imaged by Gemini North Telescope — Likely Remnant of 1181 AD 'Guest Star' Documented by Chinese, Japanese, and Arabic Astronomers for 185 Days; Rare Type Iax Double White Dwarf Merger Left Surviving Stellar Remnant Parker's Star at Center of Expanding Sulfur-Rich Filamentary Nebula",
+        body: "NASA's Astronomy Picture of the Day for October 7, 2026, features Gemini North Telescope imaging of nebula Pa 30, the probable remnant of a supernova observed as a 'guest star' by medieval Chinese, Japanese, and Arabic astronomers that remained visible in the night sky for 185 days beginning in 1181 AD — making it one of the last historical supernovae recorded from Earth. Unlike typical core-collapse supernovae, Pa 30 is believed to have originated from a rare thermonuclear Type Iax event triggered by the merger of two white dwarf stars, an explosion violent enough to obliterate its progenitor system yet not so complete as to leave a neutron star or black hole: the surviving stellar remnant Parker's Star sits at the center of the expanding ejecta with an extraordinary surface temperature of approximately 200,000 Kelvin. The nebula's spoke-like pattern of sulfur-rich filaments radiating outward at high velocity distinguishes Pa 30 from other known remnants and has made it a benchmark object for understanding the diverse endpoints of white dwarf thermonuclear runaway events. The image underscores the power of deep ground-based imaging to connect medieval historical records to physical objects on the sky, a detective process astronomers began in earnest after Pa 30 was catalogued in 2013.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/",
+        timestamp: "2026-10-07T00:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO NVS-03 NavIC Second-Generation Navigation Satellite Launch Campaign at Sriharikota Advances Toward October 15–20 GSLV Mk II Window — Third NavIC-S Spacecraft Carries Indigenous Rubidium Atomic Clock Built by Space Applications Centre; Deployment Will Restore Four-Satellite Operational Constellation Critical to Indian Military and Civilian Precision Positioning",
+        body: "ISRO's launch campaign for the NVS-03 navigation satellite aboard a GSLV Mk II rocket at the Satish Dhawan Space Centre in Sriharikota is progressing toward a targeted launch window of October 15–20, 2026, with first-stage stacking complete and spacecraft integration proceeding on schedule after NVS-03 arrived at the launch site in August. NVS-03 is the third second-generation NavIC satellite and will restore the constellation to its minimum operational requirement of four active satellites, addressing a gap that has degraded precision positioning services across the Indian subcontinent relied on by the armed forces and civil users alike. Built on ISRO's I-2K bus and weighing approximately 2,250 kg at liftoff, NVS-03 is equipped with an indigenous rubidium atomic clock developed at the Space Applications Centre in Ahmedabad — a milestone reducing India's dependence on foreign-sourced precision timing hardware. India's military, which relies on NavIC for targeting, navigation, and time-transfer applications across all three services, has prioritized this launch as strategically significant alongside the broader push for domestic technology self-reliance under the Space Policy 2023 framework.",
+        sourceUrl: "https://www.dtnext.in/news/national/isro-plans-navic-revival-with-nvs-03-launch-in-october",
+        timestamp: "2026-10-07T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Policy",
+        headline: "IAC 2026 Antalya Day 3 Features Official IAF Press Conference and ESA Technical Sessions on SMILE Solar Wind Data, Gateway Hardware Readiness, and JUICE Post-Earth-Flyby Trajectory — IAF President Gabriella Arrigo and Turkish Space Agency Head Yusuf Kıraç Address Media at NEST Plus Hall 33; Congress Technical Programme Continues Through October 9 Across 180 Session Tracks",
+        body: "The 77th International Astronautical Congress in Antalya, Türkiye entered its third day on October 7 with the official IAF Press Conference at 10:30 a.m. local time, where IAF President Gabriella Arrigo, Executive Director Christian Feichtinger, and Turkish Space Agency President Yusuf Kıraç addressed international media on the Congress's progress and key industry announcements. ESA's technical programme for day three included updates from the SMILE solar wind mission science team following the mission's official transition to full science operations, hardware readiness summaries for ESA's contributions to the Gateway lunar orbital station, and detailed trajectory presentations for the JUICE spacecraft following its September 28 Earth gravity assist that placed it on course for Jupiter. With more than 4,000 presentations scheduled across 180 session tracks over the Congress's five days, October 7 sessions concentrated on mission systems architecture, advanced in-space propulsion, and next-generation Earth observation constellation operations. The Congress runs through October 9, with ESA, NASA, CNSA, JAXA, and commercial operators continuing bilateral meetings on the sidelines of the technical programme.",
+        sourceUrl: "https://www.iafastro.org/events/iac/international-astronautical-congress-2026/media/press-conferences.html",
+        timestamp: "2026-10-07T09:00:00Z"
+      }
+    ]
+  },
+
+  "2026-10-06": {
+    date: "October 6, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Military Launch",
+        headline: "SpaceX Waves Off Second Falcon 9 Launch Attempt for SDA Tranche 1 Transport Layer-A From Vandenberg on October 6 After October 5 Abort — 21 Proliferated Warfighter Space Architecture Data-Relay Satellites Remain on Pad at SLC-4E as Teams Assess New Window; Booster B1103 on Its Sixth Flight Eyes Next Opportunity With Of Course I Still Love You Positioned in Pacific",
+        body: "SpaceX waived off its second consecutive launch attempt for the Space Development Agency's Tranche 1 Transport Layer-A mission on October 6 at the 1:17 a.m. PDT window from Space Launch Complex 4 East at Vandenberg Space Force Base, citing undisclosed conditions that prevented the 21-satellite manifest from proceeding after Monday's autonomous computer-triggered abort just seconds before liftoff. Booster B1103, flying its sixth mission, and its payload of 21 LEO data-relay spacecraft for the Pentagon's Proliferated Warfighter Space Architecture remain healthy on the pad while SpaceX and SDA engineers evaluate the earliest viable new launch opportunity. The 21 T1TL-A satellites are the fourth batch of SDA's planned multi-hundred-satellite constellation designed to provide low-latency tactical communications and precision targeting data links to U.S. military users worldwide. Recovery vessel Of Course I Still Love You remains in position in the Pacific Ocean west of Vandenberg, ready to catch the booster's controlled landing at sea.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+        timestamp: "2026-10-06T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Science",
+        headline: "NASA APOD October 6 Features ESA–CAS SMILE Spacecraft's Complete Daytime Auroral Oval in Ultraviolet — First Full Northern Auroral Ring Captured Since 2008 Reveals Hour-Long Turbulent Dynamic Display Invisible From the Ground; SMILE Officially Enters Science Operations After May 2026 Launch and Four-Month Commissioning Phase",
+        body: "NASA's Astronomy Picture of the Day on October 6, 2026, showcases a time-lapse video from ESA and the Chinese Academy of Sciences' Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) spacecraft showing a complete auroral oval over Earth's north magnetic pole in ultraviolet light — making SMILE the first spacecraft since 2008 to image the full northern auroral ring in UV, and notably capturing it during daylight hours invisible to ground observers. The one-hour time-lapse, recorded in late July during SMILE's commissioning phase, reveals the auroral oval as a continuously shifting, turbulent ring of light encircling the magnetic pole, dramatically illustrating the dynamic interaction between the solar wind and Earth's magnetosphere that is the mission's primary science target. NASASpaceFlight.com reported that ESA and CAS formally declared SMILE in full science operations this week, approximately four months after the spacecraft launched on May 19, 2026, from the Guiana Space Centre aboard a Vega-C rocket. SMILE will image Earth's magnetopause in soft X-rays and the auroral oval in UV for up to 40 hours per orbit, building the first systematic global dataset of magnetosphere–solar wind coupling over its planned multi-year science mission.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/",
+        timestamp: "2026-10-06T00:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Launch",
+        headline: "NASA Adds Blue Origin New Glenn 9×4 Variant to Launch Services II Contract Expanding Agency's Heavy-Lift Options — Upgraded Vehicle Capable of 70-Plus Metric Tons to LEO and 20 Metric Tons to Trans-Lunar Injection; On-Ramp Announced September 29 Broadens NASA's Ordering Authority Through June 2030 Alongside Existing New Glenn 7×2 Configuration",
+        body: "NASA's Kennedy Space Center formally added Blue Origin's upgraded New Glenn 9×4 launch vehicle configuration to the NASA Launch Services II contract via the program's annual on-ramp clause, announced on September 29, 2026, and widely covered in the space press this week ahead of IAC industry discussions. The 9×4 variant fields nine BE-4 engines on its first stage — two more than the baseline 7×2 — and four BE-3U engines on its second stage, giving it a rated capability of more than 70 metric tons to low Earth orbit, more than 14 metric tons to geosynchronous orbit, and more than 20 metric tons to trans-lunar injection, meaningfully expanding Blue Origin's addressable range of NASA science and exploration missions. The NLS II contract is a multiple-award, indefinite-delivery/indefinite-quantity vehicle with an ordering period through June 2030 and an overall performance period through December 2032, meaning NASA's Launch Services Program now holds authority to procure 9×4 flights for future missions alongside the existing 7×2 and other contracted vehicles. The addition comes as Blue Origin accelerates New Glenn's launch cadence toward its stated goal of 12 or more flights in 2026, bolstering the company's case as a credible large-payload alternative to Falcon 9 Heavy and ULA Vulcan Centaur.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/",
+        timestamp: "2026-10-06T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Policy",
+        headline: "IAC 2026 Antalya Day 2 Industry Day Opens With Plenary on 'Bridging Eras: From Silk Road Astronomy to Lunar Exploration' and Afternoon Session on 'Geopolitics vs. Innovation' — NASA, ESA, JAXA, and Commercial Leaders Address Sovereign vs. Open-Architecture Tensions in Next-Generation Launch; Global Networking Forum and Hundreds of Technical Sessions Run Through NEST Convention Center",
+        body: "The second day of the 77th International Astronautical Congress in Antalya, Türkiye, designated as Industry Day, opened with a morning plenary titled 'Bridging Eras: From Silk Road Astronomy to Lunar Exploration' at the NEST Convention Center, drawing on Türkiye's long astronomical heritage to frame contemporary debates about international access and cooperation in deep space exploration. An afternoon plenary on 'Geopolitics vs. Innovation: Balancing Corporate Flexibility and Sovereign Capability in a Volatile World' convened executives from major launch providers and government agency leaders — including NASA, ESA, and commercial operators — to debate how the industry reconciles national security export controls and dual-use technology concerns with the open collaboration needed to sustain ambitious programs like Artemis and Gateway. Industry Day also featured the Global Networking Forum, hundreds of interactive and technical presentations across more than 180 session tracks, and an industry luncheon, as the 40,000-square-meter exhibition floor drew record commercial participation. More than 4,000 presentations are scheduled across the congress's five days, running through October 9, with the technical program continuing at pace on day three.",
+        sourceUrl: "https://www.iafastro.org/events/iac/international-astronautical-congress-2026/plenary-programme/",
+        timestamp: "2026-10-06T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Commercial Launch",
+        headline: "ISRO Prepares SSLV-D3/L-1 First Commercial Mission Carrying OrbitAID's AayulSAT-1A In-Orbit Refueling Demonstration Satellite — October Launch Window Targeted From Satish Dhawan Space Centre for Inaugural Commercial SSLV Flight; Mission Marks Key Milestone for ISRO's NewSpace India Limited as Agency Opens Small Satellite Rocket to Paying Customers",
+        body: "India's ISRO is finalizing preparations at the Satish Dhawan Space Centre's First Launch Pad for the SSLV-D3/L-1 mission, the inaugural commercial flight of the Small Satellite Launch Vehicle targeting a launch window in October 2026, with the primary payload being AayulSAT-1A — an in-orbit refueling demonstration satellite developed by Bengaluru-based startup OrbitAID Aerospace. AayulSAT-1A will test orbital propellant transfer technologies in low Earth orbit that could enable satellite life extension and reduce space debris, representing both a significant technical first for the Indian commercial space sector and a validation of ISRO's expanded NewSpace India Limited commercial launch offerings. The SSLV, a three-stage solid-fuel rocket capable of placing up to 500 kilograms into a 500 km low Earth orbit, completed its second developmental flight successfully in early 2023 and has since undergone qualification for commercial operations; this mission is its first revenue-generating flight. The launch solidifies ISRO's pitch to global small satellite operators as a cost-effective alternative in the emerging commercial microsatellite launch market alongside Rocket Lab, SpaceX's rideshare services, and Virgin Orbit's successor programs.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_SSLV_launches",
+        timestamp: "2026-10-06T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-05": {
     date: "October 5, 2026",
     stories: [
