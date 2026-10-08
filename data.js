@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-08": {
+    date: "October 8, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "SpaceX Crew-12 Dragon Endurance Splashes Down Off Southern California Coast at 11:34 a.m. EDT October 8 Completing 237-Day Expedition 75 Mission — Commander Jessica Meir, Pilot Jack Hathaway, ESA's Sophie Adenot, and Roscosmos Cosmonaut Andrey Fedyaev Recovered by SpaceX Vessel After Overnight Deorbit Burn; NASA Post-Splashdown Press Conference Scheduled for 1:15 p.m. EDT at Johnson Space Center",
+        body: "Dragon Endurance completed its return from the International Space Station with a Pacific Ocean splashdown off the coast of southern California at approximately 11:34 a.m. EDT on October 8, bringing home NASA Commander Jessica Meir, Pilot Jack Hathaway, ESA mission specialist Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev after a 237-day Expedition 75 mission that began with their February 13, 2026 launch from Kennedy Space Center. The crew undocked from the station's Harmony forward port at 8:05 a.m. EDT on October 7 and conducted a deorbit burn overnight, with SpaceX recovery vessels and NASA medical teams prepositioned in the Pacific; the original October 5 splashdown had been delayed two days due to unfavorable sea states. Meir's mission marked her fifth long-duration spaceflight and her longest single mission to date, during which Expedition 75 completed hundreds of scientific investigations spanning biology, materials science, fluid physics, and Earth observation before handing command to the incoming Crew-13 team led by Commander Jessica Watkins. NASA's post-splashdown briefing featuring all four crewmembers was scheduled for 1:15 p.m. EDT from Johnson Space Center.",
+        sourceUrl: "https://www.fox10phoenix.com/news/nasas-spacex-crew-12-undock-from-iss-splashdown-off-coast-california",
+        timestamp: "2026-10-08T15:34:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Military Launch",
+        headline: "SpaceX Slips SDA Tranche 1 Transport Layer-A Falcon 9 to No Earlier Than October 10 After Third Wave-Off From Vandenberg SLC-4E — Booster B1103 on Sixth Flight and 21 Proliferated Warfighter Space Architecture Satellites Healthy on Pad; Of Course I Still Love You Remains on Station in Pacific for Booster Recovery as Teams Clear Undisclosed Condition Preventing Earlier Attempt",
+        body: "SpaceX and the Space Development Agency have set no earlier than October 10 as the next launch opportunity for the Tranche 1 Transport Layer-A mission from Space Launch Complex 4 East at Vandenberg Space Force Base, following a third wave-off that prevents a launch attempt on October 8 as teams continue to evaluate the undisclosed technical condition responsible for the October 5 autonomous abort and the subsequent October 6 and October 7 wave-offs. The 21 data-relay spacecraft for the Pentagon's Proliferated Warfighter Space Architecture constellation — the fourth batch of the planned multi-hundred-satellite network designed to provide low-latency tactical communications and precision targeting data for U.S. military operations globally — along with Falcon 9 booster B1103, flying its sixth mission, remain in healthy condition on the pad. SpaceX's updated launch manifest reflects the October 10 window for this Vandenberg mission alongside the October 13 CRS-35 cargo launch from Kennedy Space Center and an October 11–12 Starlink mission, indicating that pad and vehicle preparations are otherwise proceeding in parallel across both coasts. Recovery vessel Of Course I Still Love You remains in position in the Pacific Ocean west of Vandenberg, ready to attempt the booster landing at sea upon liftoff.",
+        sourceUrl: "https://spaceflightnow.com/tag/t1tl-a/",
+        timestamp: "2026-10-08T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Exploration",
+        headline: "NASA Selects GIMLI Payload Through PRISM Program to Determine Whether Marius Hills Pit on the Moon Opens Into a Large Lava Tube Cave — Geophysical Instruments for Marius Lunar Pit Investigation Led by Planetary Science Institute Will Deploy Ground-Penetrating Radar, Seismometers, Gravimeter, and Cameras via Commercial CLPS Lander and Rover; Discovery Could Identify Natural Radiation-Shielded Shelter for Future Artemis Astronauts",
+        body: "NASA has selected the GIMLI payload — Geophysical Instruments for Marius Lunar pit Investigation — through its Payloads and Research Investigations on the Surface of the Moon program to investigate whether the Marius Hills Pit, a roughly 65-meter-wide opening in the Moon's Oceanus Procellarum region estimated at 34–40 meters deep, connects to a vast underground lava tube or cave system of potential importance to future human exploration. The mission, led by PSI Associate Director and Senior Scientist Than Putzig in partnership with Honeybee Robotics and the Norwegian Space Agency, will deliver ground-penetrating radar, seismic sensors, a gravimeter, and cameras to the lunar surface aboard a commercial CLPS provider's lander and rover, with the geophysical suite designed to characterize subsurface structure beneath and around the pit. Underground lava tubes could offer Artemis astronauts a natural, radiation-shielded and thermally stable environment that would dramatically reduce the construction mass and cost of a permanent lunar outpost compared to building surface habitats from scratch against the Moon's extreme temperature swings and cosmic ray flux. The GIMLI selection complements NASA's broader Moon-to-Mars infrastructure strategy and follows the agency's recent announcement adding the search for habitable subsurface environments to its Artemis science priorities.",
+        sourceUrl: "https://www.newsbytesapp.com/news/science/nasa-starts-gimli-to-probe-marius-hills-pit-lava-tubes/tldr",
+        timestamp: "2026-10-08T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Deep Space",
+        headline: "Blue Origin Advances Mars Telecommunications Orbiter Under $700 Million NASA Contract Awarded September 1 — MTO Built on Blue Ring Multi-Mission Space Vehicle in Production at Huntsville; Single High-Performance Relay Spacecraft Augmented by UHF Relay Satellites Targeted for Mars Orbital Insertion by 2030 to Serve All Future Robotic and Crewed Missions on and Around the Red Planet",
+        body: "Blue Origin is in active production on its Mars Telecommunications Orbiter in Huntsville, Alabama, under a firm-fixed-price contract worth up to $700 million awarded by NASA on September 1, 2026, through the agency's Space Communications and Navigation program, with CEO Dave Limp confirming that the orbiter is built on the company's Blue Ring multi-mission space vehicle platform. The architecture centers on a single high-performance telecommunications spacecraft in Mars orbit supplemented by deployable UHF relay satellites, using hybrid chemical-and-electric propulsion for orbital insertion and station-keeping, and is designed to support relay data rates dramatically exceeding those of the current Mars Reconnaissance Orbiter and MAVEN spacecraft. The contract requires delivery of the orbiter no later than December 31, 2028, with full operational capability at Mars targeted for 2030, providing communications infrastructure for every NASA, international, and commercial mission landing on or orbiting the Red Planet well into the 2030s. Funding for the Mars Telecommunications Network was appropriated by Congress at $700 million in the reconciliation bill signed in July 2025, reflecting bipartisan recognition that high-bandwidth relay capability is an essential precondition for crewed Mars surface operations.",
+        sourceUrl: "https://govconwire.com/articles/nasa-blue-origin-700m-mars-communications-orbiter-award",
+        timestamp: "2026-10-08T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Policy",
+        headline: "ESA Moves Forward With EPIC Dedicated Crew Dragon ISS Mission for 2028 and Selects Thales Alenia Space and The Exploration Company for €25 Million Each to Advance European Cargo Capsule Designs — NASASpaceFlight Analysis of October 3 Update Details Agency's Post-ISS Strategy Including Axiom Space and Starlab Cooperation Agreements and Long-Term Path to European-Led Crewed Transportation Capability",
+        body: "ESA is pressing ahead with a multi-pronged strategy to end Europe's dependence on partners for human spaceflight access, anchored by the EPIC project that would fly a dedicated Crew Dragon mission carrying a European crew to the International Space Station in early 2028, as detailed in a NASASpaceFlight analysis published October 3, 2026. To build toward an independent European cargo and ultimately crew transport capability, ESA has awarded €25 million each to Thales Alenia Space and The Exploration Company — whose Nyx cargo capsule is designed from the outset to evolve into a crewed vehicle — to advance competing cargo spacecraft designs toward a target demonstration docking with the ISS in late 2028. ESA has also signed framework cooperation agreements with Axiom Space and Starlab, positioning the agency to secure European access and research rights on successor commercial stations ahead of the ISS's planned deorbit in the early 2030s, a transition ESA has warned could strand Europe without affordable human spaceflight access if no action is taken. The agency's long-term vision, endorsed at the November 2025 Ministerial Council, calls for a European crewed vehicle operational by the mid-2030s, closing a capability gap that has left Europe reliant on U.S. and Russian vehicles since the cancellation of the Hermes spaceplane in 1993.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/10/europe-update/",
+        timestamp: "2026-10-08T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-07": {
     date: "October 7, 2026",
     stories: [
