@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-09": {
+    date: "October 9, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Astrophysics",
+        headline: "NASA APOD October 9 Spotlights Stickney Crater on Phobos in Color-Enhanced HiRISE Close-Up — Mars Reconnaissance Orbiter Image Reveals 9-Kilometer Scar That Nearly Shattered the Tiny Martian Moon; Crater Named for Mathematician Chloe Angeline Stickney Hall, Wife of Phobos Discoverer Asaph Hall, Whose Surface Grooves May Trace Tidal Stresses or the Original Cataclysmic Impact",
+        body: "NASA's Astronomy Picture of the Day for October 9, 2026, features a color-enhanced close-up of Stickney Crater on Phobos — the largest crater on Mars's inner moon and a relic of an ancient impact so violent it nearly destroyed the small body entirely. The image, captured by the HiRISE camera aboard the Mars Reconnaissance Orbiter and processed by researchers at the Lunar and Planetary Laboratory at the University of Arizona, reveals Stickney's rim and interior in striking false-color detail that highlights compositional variations across the crater floor. Spanning more than 9 kilometers, Stickney's diameter exceeds nearly half of Phobos's own 22-kilometer width, and the kinetic energy required to excavate such a structure in a body that small places the impactor among the most consequential in the Martian system's geological history. The crater is named for Chloe Angeline Stickney Hall, a mathematician who encouraged her husband Asaph Hall to persist in his search for Martian moons in 1877; the striking radial grooves emanating from the crater across Phobos's surface remain a subject of active debate, with competing hypotheses attributing them to tidal stresses from close-in orbital dynamics or to the original impact event itself.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
+        timestamp: "2026-10-09T00:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Military Launch",
+        headline: "SpaceX and SDA Clear Undisclosed Technical Condition and Set Friday 12:29 a.m. PDT Window for Tranche 1 Transport Layer-A After Five-Day Slip From October 5 First Attempt — Booster B1103 on Sixth Flight and 21 Northrop Grumman-Built PWSA Data-Relay Satellites Healthy on Vandenberg Pad; Backup Window Available October 11 at 12:32 a.m. PDT if Needed",
+        body: "SpaceX and the Space Development Agency have cleared the undisclosed technical condition responsible for multiple wave-offs this week and established a final launch window of 12:29–12:51 a.m. PDT on Friday, October 10 (07:29 UTC), for the Tranche 1 Transport Layer-A mission from Space Launch Complex 4 East at Vandenberg Space Force Base, with booster B1103 and its 21-satellite manifest now confirmed ready for flight. The five-day delay from the October 5 first attempt — which ended in an autonomous abort triggered by an onboard sensor — followed by wave-offs on October 6, October 8, and October 9, marks the most protracted countdown for a Space Development Agency mission to date, reflecting the agency's strict launch commit criteria for its Proliferated Warfighter Space Architecture constellation. The 21 data-relay spacecraft, built by Northrop Grumman, form the fourth batch of PWSA transport-layer satellites designed to deliver low-latency tactical communications and precision targeting data links to U.S. military users globally, with initial operational capability for the full transport layer targeted for late 2026. B1103, flying its sixth mission, will attempt a landing at Landing Zone 4 at Vandenberg approximately eight to ten minutes after liftoff, with a backup opportunity reserved for October 11 at 12:32 a.m. PDT should the primary window be missed.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/",
+        timestamp: "2026-10-09T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Station",
+        headline: "NASA and SpaceX Finalize October 13 Launch Date for CRS-35 Dragon Cargo Mission to ISS — Cargo Dragon Loaded With Approximately 6,000 Pounds of Science, Hardware, and Crew Provisions at Cape Canaveral; Mission Follows CRS-34's May 2026 Delivery and Will Support Expedition 76 Science Program Aboard the Station",
+        body: "NASA and SpaceX have confirmed October 13, 2026, as the launch date for the 35th Commercial Resupply Services mission, with the Cargo Dragon capsule at Kennedy Space Center now loaded with approximately 6,000 pounds of scientific investigations, hardware, crew provisions, and experiment samples for the International Space Station's Expedition 76 crew led by Commander Jessica Watkins. CRS-35 will deliver priority science payloads for ongoing ISS National Lab investigations in microgravity biology, materials processing, and fluid physics, along with replacement hardware for station systems and fresh supplies for the nine-person crew currently aboard following the arrival of Crew-13 earlier this month. The Falcon 9 booster assigned to the mission has completed its pre-launch readiness reviews, and the launch window on October 13 opens in the morning hours from Launch Complex 39A. CRS-35 follows CRS-34, which launched on May 15, 2026 after a three-day weather delay, and will itself be the final cargo Dragon of the second Commercial Resupply Services contract before NASA transitions to next-generation commercial cargo partnerships.",
+        sourceUrl: "https://www.nasa.gov/event/nasas-spacex-crs-35",
+        timestamp: "2026-10-09T14:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou 23 Crew Enters Final Weeks Aboard Tiangong Station Ahead of Expected October Return — Commander Zhu Yangzhu, Zhang Zhiyuan, and Lai Ka-ying Complete Five-Month Expedition 11 Science Increment; Handover to Incoming Shenzhou 24 Crew Imminent as China Prepares Next Station Rotation Under Established Six-Month Flight Cadence",
+        body: "The Shenzhou 23 crew of Commander Zhu Yangzhu, flight engineer Zhang Zhiyuan, and mission specialist Lai Ka-ying are in the final phase of their Expedition 11 mission aboard the Tiangong space station, having arrived on May 24, 2026, and are expected to undock and return to Earth in October in keeping with China's established six-month crew rotation cycle. Over their five-month residency, the Shenzhou 23 crew carried out a comprehensive science programme spanning microgravity life sciences, materials science experiments, and Earth observation from the station's Wentian and Mengtian laboratory modules, while also performing station maintenance and external servicing operations. The China Manned Space Agency (CMSA) has not publicly announced a specific undocking date or confirmed the Shenzhou 24 crew composition, consistent with the agency's practice of releasing mission details close to the event, but the rotation is expected before the end of October. Tiangong continues to operate in a stable three-module T-shaped configuration and will eventually expand to a six-module Chinese Space Station with the addition of further laboratory and habitation nodes planned through the late 2020s.",
+        sourceUrl: "https://en.wikipedia.org/wiki/List_of_Tiangong_space_station_expeditions",
+        timestamp: "2026-10-09T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO NVS-03 NavIC Launch Campaign Clears GSLV Mk II Vehicle Integration at Sriharikota With Liftoff Targeted October 15–20 — Third Second-Generation Navigation Satellite Carries Indigenous Rubidium Atomic Clock Built by Space Applications Centre; Mission to Restore Four-Satellite Operational Constellation and End Precision Positioning Gap for Indian Military and Civilian Users",
+        body: "ISRO's NVS-03 launch campaign is proceeding on schedule at the Satish Dhawan Space Centre in Sriharikota, with GSLV Mk II vehicle integration complete and the spacecraft mated to the rocket ahead of the targeted October 15–20 launch window, according to ISRO officials tracking the campaign. NVS-03, the third spacecraft in the second-generation NavIC constellation, carries an indigenously developed rubidium atomic clock built at the Space Applications Centre in Ahmedabad — a critical milestone that eliminates the program's dependence on foreign-sourced precision timing hardware that constrained earlier satellites. The satellite will be placed in a geosynchronous transfer orbit and manoeuvred to its operational slot in geostationary orbit, where it will restore the NavIC constellation to a minimum of four active satellites following the degradation of an earlier spacecraft and recover full-coverage precision positioning services across the Indian subcontinent. India's armed forces, which rely on NavIC for navigation, targeting, and time-transfer applications across all three services, have designated the launch as strategically significant, and ISRO Chairman V. Narayanan confirmed this week that all countdown readiness reviews have been completed satisfactorily.",
+        sourceUrl: "https://www.dtnext.in/news/national/isro-plans-navic-revival-with-nvs-03-launch-in-october",
+        timestamp: "2026-10-09T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-08": {
     date: "October 8, 2026",
     stories: [
