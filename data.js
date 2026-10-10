@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-10": {
+    date: "October 10, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Military Launch",
+        headline: "SpaceX Falcon 9 Booster B1103 Successfully Delivers 21 SDA Tranche 1 Transport Layer-A Satellites to Orbit From Vandenberg SLC-4E at 12:39 a.m. PDT After Five-Day Delay — Fourth PWSA Transport-Layer Batch Now in Orbit; First Stage Returns to Landing Zone 4 at Vandenberg, Pushing Proliferated Warfighter Space Architecture Constellation Toward Late 2026 Initial Operational Capability",
+        body: "SpaceX's Falcon 9 lifted off from Space Launch Complex 4 East at Vandenberg Space Force Base at 12:39 a.m. PDT on October 10, successfully deploying 21 data-relay satellites for the Space Development Agency's Proliferated Warfighter Space Architecture constellation after a five-day slip caused by an autonomous abort on October 5 and subsequent wave-offs on October 6, 8, and 9 tied to an undisclosed technical condition. Booster B1103, completing its sixth flight, returned to Landing Zone 4 at Vandenberg approximately eight minutes after liftoff, marking the 21 Northrop Grumman-built spacecraft as the fourth batch of Tranche 1 transport-layer satellites successfully placed in low Earth orbit. The T1TL-A mission is the fourth of six planned launches deploying the transport layer of the PWSA, the Pentagon's constellation designed to provide low-latency tactical communications and precision targeting data links globally for U.S. armed forces, with the Space Development Agency tracking initial operational capability for the full transport layer by late 2026. With this deployment, the SDA's on-orbit transport-layer satellite count advances meaningfully toward the threshold needed to declare IOC and begin delivering continuous connectivity to warfighters worldwide.",
+        sourceUrl: "https://space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-data-transport-satellites-military-proliferated-architecture",
+        timestamp: "2026-10-10T07:39:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Station",
+        headline: "Northrop Grumman Cygnus NG-24 S.S. Steven R. Nagel Released From ISS Canadarm2 at 12:44 p.m. EDT October 9 After Nearly Six-Month Stay, With Controlled Reentry Over Pacific Planned for October 12 — CRS-24 Spacecraft Delivered 11,000 Pounds of Supplies in April; Departure Clears Unity Module Port Ahead of CRS-35 Cargo Dragon Arrival October 15",
+        body: "NASA and Northrop Grumman's Cygnus NG-24 cargo spacecraft, named S.S. Steven R. Nagel in honor of the Space Shuttle astronaut, was released from the Canadarm2 robotic arm at 12:44 p.m. EDT on October 9 while the International Space Station orbited approximately 260 miles above the Pacific Ocean, concluding a nearly six-month docked mission that began when the spacecraft arrived in April 2026 carrying roughly 11,000 pounds of scientific investigations, crew provisions, hardware, and commercial products. Mission controllers at Johnson Space Center will command the spacecraft to perform a deorbit burn on October 12, sending the Cygnus on a controlled destructive reentry over the South Pacific where it will burn up along with the disposal waste loaded aboard by the Expedition 76 crew before departure. The NG-24 departure clears the Earth-facing port of the station's Unity module and paves the way for the CRS-35 Cargo Dragon — targeting launch October 13 from Cape Canaveral — to arrive and dock at Harmony around October 15 with the station's final pair of Roll-Out Solar Array upgrades aboard. Cygnus NG-24 is the second of the expanded Cygnus XL model, which offers approximately 19 cubic meters of pressurized cargo volume, and its mission duration of approximately 180 days is typical of the Cygnus long-duration docked-operations concept that Northrop Grumman demonstrated beginning in 2021.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/10/09/cygnus-xl-cargo-spacecraft-released-from-station-by-canadarm2/",
+        timestamp: "2026-10-10T00:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Solar Science",
+        headline: "ESA and Chinese Academy of Sciences Declare SMILE Mission in Full Science Operations Following Release of First Soft X-Ray Image of Cassiopeia A and Ultraviolet Footage of a Complete Northern Lights Ring — Solar Wind Magnetosphere Ionosphere Link Explorer Now Only Spacecraft Offering Continuous Global Aurora Coverage Since 2008; Highly Elliptical Orbit Enables 45-Hour Observation Windows of Earth's Magnetosphere",
+        body: "The European Space Agency and the Chinese Academy of Sciences have jointly announced that the Solar Wind Magnetosphere Ionosphere Link Explorer (SMILE) has entered full science operations after the mission released its first calibration image from the Soft X-ray Imager — a striking view of the Cassiopeia A supernova remnant some 11,000 light-years away — and the first ultraviolet footage from the UV Imager capturing a complete ring of Northern Lights around the north pole captured during a substorm event on July 24, 2026. SMILE launched on April 9, 2026, arrived at its highly elliptical science orbit on June 20, and completed a commissioning period that validated all four instruments: the Soft X-ray Imager, the UV Imager, the Light Ion Analyser, and the Magnetometer. The spacecraft is now the only mission capable of simultaneously imaging the Earth's magnetopause in soft X-rays and the full auroral oval in UV for up to 45 hours at a time from its apogee over the polar regions, giving scientists the first opportunity to directly correlate solar wind pressure variations with global magnetospheric boundary motion and auroral response in real time. SMILE's science programme targets a 3-year prime mission studying how the solar wind shapes and energizes Earth's space environment, with potential for a two-year extended phase pending mid-mission review.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/10/smile-uvi-sxi-commissioning/",
+        timestamp: "2026-10-10T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Chairman Narayanan Confirms Over 8,000 Tests Completed for Gaganyaan-1 Uncrewed Orbital Mission Following EOS-05 Return to Flight — LVM3 Vehicle and Orbital Module in Final Integration at Sriharikota for Late 2026 Launch; Vyommitra Humanoid Robot to Ride First Uncrewed Test; Crewed Gaganyaan Mission Targeting 2027 Pending Clean Run of Three Uncrewed Precursors",
+        body: "ISRO Chairman V. Narayanan confirmed at a press conference following the September EOS-05 mission that the agency has completed more than 8,000 component-level and system-level tests in support of the Gaganyaan-1 uncrewed orbital mission, describing the program as on track for a late 2026 launch that would mark India's first crewed-class spacecraft to orbit Earth. The LVM3 launch vehicle and the Orbital Module — consisting of the Crew Module and Service Module — are in the final integration phase at the Satish Dhawan Space Centre in Sriharikota, with the Vyommitra semi-humanoid robot that will ride aboard the first uncrewed test flight having completed its own hardware qualification. Narayanan said that a successful Gaganyaan-1 will be followed by two additional uncrewed missions before ISRO attempts the first crewed flight with Indian astronauts, targeted for 2027, though The Wire reported in June that a technical slip could push the uncrewed debut to early 2027 if safety assessments require additional iteration. India's Gaganyaan program, approved in 2018 with a budget of approximately ₹9,023 crore, would make India the fourth nation after the Soviet Union, the United States, and China to independently send humans to orbit.",
+        sourceUrl: "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/",
+        timestamp: "2026-10-10T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Propulsion",
+        headline: "Blue Origin Expands Multi-Year Propulsion Research Partnership With Air Force Research Laboratory Rocket Propulsion Division to Develop Advanced BE-Engine Derivatives for National Security Space Applications — Agreement Covers Turbopump Performance, Combustion Stability, and Deep-Throttle Capability Needed for Precision Lunar and Planetary Landing Missions; Partnership Builds on BE-4's Dual Role Powering New Glenn and ULA Vulcan Centaur",
+        body: "Blue Origin and the Rocket and Space Propulsion Division of the Air Force Research Laboratory announced an expanded multi-year research partnership targeting the development of advanced derivatives of the company's BE-class rocket engine family to meet emerging national security space launch and lander propulsion requirements, according to a joint announcement from the companies. The agreement focuses specifically on turbopump aerodynamic performance improvements, combustion stability characterization at deep-throttle settings, and high-altitude restart reliability — capabilities demanded by precision vertical-landing missions on the lunar surface and other planetary bodies where a rocket engine must reliably restart after extended cold-soaking in vacuum. The partnership leverages AFRL's dedicated propulsion test infrastructure at Edwards Air Force Base alongside Blue Origin's own West Texas test complex where BE-4 development testing is conducted, and is intended to accelerate the technology readiness of next-generation propulsion for both government and commercial mission profiles. Blue Origin's BE-4 engine, which already underpins two operational American launch vehicles — New Glenn and ULA's Vulcan Centaur — gives the company a strong baseline from which to develop variants meeting the higher specific-impulse and deep-throttle requirements of missions to the Moon and Mars.",
+        sourceUrl: "https://www.blueorigin.com/news",
+        timestamp: "2026-10-10T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-09": {
     date: "October 9, 2026",
     stories: [
