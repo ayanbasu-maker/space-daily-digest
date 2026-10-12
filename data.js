@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-12": {
+    date: "October 12, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Cargo Mission",
+        headline: "SpaceX CRS-35 Cargo Dragon on Pad at SLC-40 Targeting 6:33 a.m. ET Tuesday Launch With Final Two iROSA Solar Arrays for ISS — Docking at Harmony Nadir Planned for October 15; Completion of ISS Power Upgrade Begun in 2021 Will Raise Station Capacity to 215 Kilowatts",
+        body: "SpaceX's Cargo Dragon spacecraft for the CRS-35 mission is ready at Space Launch Complex 40 at Cape Canaveral Space Force Station, with liftoff targeting 6:33 a.m. ET on Tuesday, October 13, and NASA coverage beginning at 6:15 a.m. ET. The Falcon 9 booster assigned to the mission has cleared all launch commit criteria reviews, with no outstanding technical issues. The Dragon capsule carries the final two Roll-Out Solar Arrays (iROSAs) that will complete the International Space Station's six-panel power upgrade when installed by spacewalking astronauts after docking at the station's Harmony nadir port on approximately October 15. Once deployed, the six iROSA panels will raise the station's total available electrical power from roughly 160 kilowatts to 215 kilowatts, completing a retrofit that began in June 2021.",
+        sourceUrl: "https://spacepolicyonline.com/events/launch-of-spx-crs-35-cargo-mission-to-iss-oct-13-2026-ccsfs-633-am-et-nasa-coverage-begins-615-am-et/",
+        timestamp: "2026-10-12T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Exploration",
+        headline: "NASA Selects Proposals to Scout Underground Caves and Hidden Ice Ahead of First Permanent Lunar Base — Planetary Science Institute-Led Study to Determine Whether Lunar Pit Extends Into Accessible Cave System; Agency Sets October 15 Media Teleconference on Japan's Martian Moons Mission Contributions",
+        body: "NASA has moved forward with three investigations aimed at finding underground shelters and hidden water ice deposits in preparation for humanity's first permanent Moon base, part of the agency's broader Artemis infrastructure planning. A Planetary Science Institute-led proposal will study whether a well-known lunar pit — a collapsed lava tube opening — extends into a larger, accessible cave system that could shield future astronauts from radiation and temperature extremes. In parallel, NASA announced it will hold a media teleconference on October 15 previewing its scientific contributions to Japan's Martian Moons eXploration (MMX) mission, which is targeting a sample return from Phobos. The agency also made the full lunar science dataset from the Artemis II crewed lunar flyby available to researchers and the public.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-10-12T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Solar Science",
+        headline: "ESA SMILE Solar-Wind Mission Begins Full Science Operations After Achieving Nominal Orbit — Magnetospheric Imaging Instrument and UV Imager Delivering First Calibrated Data; Hera Asteroid Mission Conducts Deep-Space Maneuver Ahead of Didymos System Arrival in November",
+        body: "ESA confirmed that the Solar wind Magnetosphere Ionosphere Link Explorer (SMILE) spacecraft transitioned to full science operations on September 30, 2026, following its April launch and commissioning phase. SMILE's payload — including its Soft X-ray Imager and UV Aurora Imager — has begun delivering calibrated observational data on the interaction between the solar wind and Earth's magnetosphere, with early results expected to be presented at upcoming scientific conferences. Separately, ESA's Hera spacecraft completed a planned deep-space maneuver this week in preparation for its arrival at the Didymos binary asteroid system in November, where it will conduct the first-ever detailed survey of a deflected asteroid following NASA's DART impact in 2022. The dual milestones cement October as a significant month for ESA's science portfolio.",
+        sourceUrl: "https://www.esa.int/About_Us/Corporate_news/ESA_s_highlights_for_2026",
+        timestamp: "2026-10-12T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Planetary Science",
+        headline: "China's Tianwen-2 Probe Conducts Science Operations at 20 km From Quasi-Moon Asteroid Kamoʻoalewa After 400-Day Flight — Spacecraft Begins Characterization Phase Before 2024 Sample Collection; Return to Earth Planned for Late 2027",
+        body: "China's Tianwen-2 interplanetary probe has reached a stable proximity position approximately 20 kilometers from asteroid 469219 Kamoʻoalewa (2016 HO3), a near-Earth quasi-satellite, after completing a 400-day transit from Earth. CNSA confirmed the spacecraft's science instruments are now operational, beginning a detailed characterization of the asteroid's surface morphology, composition, and local gravity field ahead of a planned sample collection attempt. Kamoʻoalewa is of particular scientific interest because spectroscopic data suggests it may be a fragment of the Moon, potentially offering unique insights into the history of the Earth-Moon system. The Tianwen-2 mission is designed to return collected samples to Earth in late 2027, making it China's first asteroid sample-return mission.",
+        sourceUrl: "https://www.leonarddavid.com/chinas-2026-space-agenda-detailed-phased-breakthroughs-for-human-moon-mission/",
+        timestamp: "2026-10-12T06:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Lunar Infrastructure",
+        headline: "Blue Origin Unveils 'Power Tower' Lunar Solar Energy System Designed to Supply Electricity for Permanent Moon Base — Modular Fission-Supplemented Design Targets 10 Kilowatts Continuous; Company Simultaneously Identifies BE-4 Engine Anomaly Root Cause and Targets New Glenn Return to Flight Before Year-End",
+        body: "Blue Origin has publicly unveiled its 'Power Tower,' a modular solar energy system engineered to provide continuous electrical power for a future permanent lunar base, potentially supplemented by a small fission reactor for operations during the two-week lunar night. The system is designed to deliver at least 10 kilowatts of continuous power to support habitats, life support systems, and science equipment in the lunar south polar region. In separate news, Blue Origin issued a statement identifying the root cause of the BE-4 engine anomaly that led to the loss of a New Glenn vehicle earlier this year and confirmed it is targeting a return to flight before the end of 2026. The BE-4 engine also powers United Launch Alliance's Vulcan Centaur, meaning the resolution of the anomaly has implications for multiple launch vehicle programs.",
+        sourceUrl: "https://www.space.com/tag/blue-origin",
+        timestamp: "2026-10-12T14:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-11": {
     date: "October 11, 2026",
     stories: [
