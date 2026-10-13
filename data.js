@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-13": {
+    date: "October 13, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Cargo Mission",
+        headline: "SpaceX CRS-35 Cargo Dragon Lifts Off at 6:33 a.m. ET From SLC-40 Carrying Final Two iROSA Solar Arrays to Complete ISS Power Upgrade — 6,300 Pounds of Cargo Aboard Including Science Experiments and Crew Provisions; Dragon Targeting Harmony Nadir Docking October 15 at 11:00 a.m. ET",
+        body: "A SpaceX Falcon 9 rocket carrying NASA's CRS-35 Cargo Dragon lifted off from Space Launch Complex 40 at Cape Canaveral Space Force Station at 6:33 a.m. ET on Tuesday, October 13, delivering more than 6,300 pounds of cargo toward the International Space Station. The Dragon capsule's most consequential payload is the final pair of Roll-Out Solar Arrays (iROSA), which will be installed by spacewalking astronauts after the spacecraft docks at the Harmony nadir port on approximately October 15. Once deployed, all six iROSA panels will raise the station's total available electrical power from roughly 160 kilowatts to 215 kilowatts, completing a power retrofit that began in June 2021. The launch was visible across North Carolina and other parts of the Eastern Seaboard, with the Falcon 9 first stage returning to Landing Zone 1 for recovery.",
+        sourceUrl: "https://space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station",
+        timestamp: "2026-10-13T10:33:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mars Exploration",
+        headline: "NASA Perseverance Rover Sets All-Time Off-Earth Distance Record on Mars, Surpassing Opportunity's 45-Kilometer Legacy — Milestone Achieved While Traversing Ancient River Delta Science Zones; JPL Teams Project Rover Could Ultimately Travel More Than 100 Kilometers Over Mission Lifetime",
+        body: "NASA's Perseverance rover has surpassed the cumulative driving distance record set by the Opportunity rover, which covered approximately 45 kilometers over its nearly 15-year mission, making Perseverance the vehicle that has traveled farther on the surface of another world than any spacecraft in history. The milestone was reached as Perseverance continues its northbound traverse across ancient river delta terrain in Jezero Crater, where the science team is targeting layered rock outcrops that may preserve signs of past microbial life. Perseverance has also set individual sol driving records, covering 411.7 meters in a single Martian day in June 2025 using its AutoNav autonomous driving system. JPL mission planners project the rover could ultimately traverse more than 100 kilometers over its operational lifetime as it heads toward the crater rim for a new phase of science operations.",
+        sourceUrl: "https://www.space.com/perseverance-distance-record-mars",
+        timestamp: "2026-10-13T14:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO Confirms NVS-03 NavIC Satellite Ready for October 15–20 Launch Window on GSLV Mk II From Sriharikota — Indigenous Rubidium Atomic Clock Passes All Preflight Checks; Mission Critical to Restoring Four-Satellite NavIC Constellation After Earlier Payload Anomaly Left System Below Operational Threshold",
+        body: "ISRO confirmed that the GSLV Mk II launch vehicle carrying the NVS-03 second-generation NavIC navigation satellite is fully integrated at the Satish Dhawan Space Centre in Sriharikota, with the launch window opening October 15 and extending through October 20 pending final weather and range assessments. The NVS-03 satellite carries an indigenous rubidium atomic clock developed entirely at ISRO's Space Applications Centre in Ahmedabad, eliminating India's reliance on foreign precision timing hardware that constrained earlier NavIC satellites. The mission is critical because the NavIC constellation currently has only three fully operational satellites, below the four-satellite minimum needed to provide standalone positioning service across the Indian subcontinent; a previous NavIC mission in January 2025 failed to reach its target orbit. Once operational, NVS-03 will restore continuous NavIC coverage supporting Indian armed forces precision navigation and more than 200 million agricultural users relying on NavIC-enabled precision-farming applications.",
+        sourceUrl: "https://www.dtnext.in/news/national/isro-plans-navic-revival-with-nvs-03-launch-in-october",
+        timestamp: "2026-10-13T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "ESA Hera Asteroid Mission Confirmed on Direct Trajectory for November 2026 Arrival at Didymos-Dimorphos System — Spacecraft to Conduct First Detailed Survey of DART-Deflected Asteroid; Early Arrival One Month Ahead of Original Schedule Following Successful Final Thrust Maneuver in March",
+        body: "ESA confirmed that its Hera spacecraft is on a direct, nominal trajectory toward the Didymos binary asteroid system following the completion of its final major thrust maneuver in March 2026, with arrival now expected in early November 2026 — approximately one month ahead of the original schedule. Hera will conduct the first detailed post-impact scientific survey of asteroid moonlet Dimorphos, which was struck by NASA's DART kinetic impactor in September 2022 in humanity's first planetary defense demonstration. The spacecraft carries cameras, a radar sounder, and a gravimeter to characterize Dimorphos's mass, structure, and the crater left by DART, data essential for validating kinetic impactor models used in future planetary defense scenarios. Hera is expected to spend approximately six months investigating the Didymos system before departing in spring 2027.",
+        sourceUrl: "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids",
+        timestamp: "2026-10-13T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Targets Late-October Shenzhou 24 Launch for Tiangong Crew Rotation With First Non-Chinese Astronaut Aboard — Pakistan's Muhammad Zeeshan Ali Set to Become First Pakistani in Space; Shenzhou 23 Crew Completing Final Science Operations Before Handover",
+        body: "The China Manned Space Engineering Office is targeting a late-October launch of Shenzhou 24 on a Long March 2F rocket from the Jiuquan Satellite Launch Center to relieve most of the Shenzhou 23 crew currently aboard the Tiangong space station. The mission is expected to carry Pakistan's payload specialist Muhammad Zeeshan Ali from SUPARCO, who would become the first Pakistani citizen to reach space and the first international payload specialist to visit Tiangong from a non-founding partner nation. Aboard the station, the Shenzhou 23 crew is wrapping up their final science runs before the handover, with one taikonaut designated to remain in orbit to extend China's inaugural one-year continuous human spaceflight biomedical study through spring 2027. Shenzhou 24 will mark the eighth crewed flight to Tiangong since the station entered operations in 2021.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-10-13T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch Operations",
+        headline: "Blue Origin Advances LC-36 Launch Complex Rebuild at Cape Canaveral Targeting Year-End New Glenn Return to Flight — Structural Repairs Progressing Four Months After Pad Anomaly; New Glenn 9×4 Configuration Added to NASA Launch Services II Contract Expanding Commercial Launch Options for Agency Missions",
+        body: "Blue Origin confirmed this week that reconstruction of Launch Complex 36 at Cape Canaveral Space Force Station is progressing on schedule following the anomaly that destroyed a New Glenn vehicle on the pad earlier in 2026, with the company maintaining its target for a return to flight before year-end. The company identified the root cause of the pad anomaly and has implemented design changes to prevent recurrence, with structural repairs to the mobile launch platform and flame trench advancing through the final phases. In a separate development, NASA announced that the New Glenn 9×4 configuration — a variant of the heavy-lift rocket with an expanded upper stage — has been added to the NASA Launch Services II contract, qualifying it to compete for future agency planetary science and exploration missions. The expansion is significant as New Glenn's BE-4 engines also power United Launch Alliance's Vulcan Centaur, and the return to flight will clear a path for both launch vehicle programs.",
+        sourceUrl: "https://www.nasaspaceflight.com/",
+        timestamp: "2026-10-13T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-12": {
     date: "October 12, 2026",
     stories: [
