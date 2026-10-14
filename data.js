@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-14": {
+    date: "October 14, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Cargo Mission",
+        headline: "SpaceX CRS-35 Cargo Dragon in Final Rendezvous Approach With Docking at ISS Harmony Nadir Confirmed for October 15 at 11:00 a.m. ET — All Dragon Systems Nominal During Two-Day Coast; Expedition 76 Crew Readying for Arrival of Final Two iROSA Solar Arrays That Will Complete Station Power Upgrade to 215 Kilowatts",
+        body: "The CRS-35 Cargo Dragon spacecraft is coasting through low Earth orbit on a nominal two-day rendezvous trajectory following its October 13 launch from Cape Canaveral, with SpaceX and NASA mission controllers confirming all vehicle systems are healthy and docking at the International Space Station's Harmony nadir port remains on schedule for October 15 at approximately 11:00 a.m. ET. The spacecraft's payload includes the final two Roll-Out Solar Array panels that Expedition 76 astronauts will install during upcoming spacewalks, completing a six-panel retrofit begun in June 2021 that will raise total station electrical capacity to 215 kilowatts. NASA flight controllers at Johnson Space Center executed the first series of rendezvous burns Wednesday morning, steadily closing the distance to the station as the Dragon approached the kilometer-range final-approach corridor. The successful arrival will mark the 35th cargo delivery under SpaceX's Commercial Resupply Services 2 contract and set the stage for EVA scheduling in the days following berthing.",
+        sourceUrl: "https://space.com/space-exploration/international-space-station/spacex-crs-35-cargo-launch-international-space-station",
+        timestamp: "2026-10-14T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Astrophysics",
+        headline: "NASA James Webb Space Telescope Maps Ancient Galaxy Cluster With Anomalously Dense Dark Matter Concentration 40 Percent Above Model Predictions — Gravitational Lensing Study Challenges Cold Dark Matter Theory; Findings Could Point to Self-Interacting Dark Matter With Particle-Level Forces Not Included in Standard Cosmological Simulations",
+        body: "Astronomers using NASA's James Webb Space Telescope have published gravitational lensing maps of a galaxy cluster at a redshift corresponding to roughly nine billion years ago, revealing a concentration of dark matter approximately 40 percent denser than standard cold dark matter simulations predict — a discrepancy significant enough to challenge prevailing cosmological models. The team, led by researchers at the Space Telescope Science Institute and Johns Hopkins University, reconstructed the cluster's dark matter distribution by modeling how its gravity distorts the light of background galaxies recorded by Webb's NIRCam in a deep-field campaign. The anomalous density is consistent with self-interacting dark matter, a theoretical variant in which dark matter particles exchange forces with one another and clump more tightly in cluster cores than collision-less cold dark matter permits. The findings have been submitted to The Astrophysical Journal Letters and are expected to prompt re-examination of lensing data from clusters previously observed by Hubble.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-10-14T16:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Planetary Science",
+        headline: "International Team Using NASA Juno Data Reports Jupiter's Magnetodisk Is a Rippling, Rotating Structure That Contradicts Long-Held Static Disk Models — Dynamic Oscillations Tied to Io Volcanic Plasma Injection Cycles; Discovery Has Direct Implications for Understanding Jupiter's Giant Polar Auroras, Largest in the Solar System",
+        body: "An international research team analyzing data from NASA's Juno spacecraft has found that Jupiter's magnetodisk — the vast sheet of magnetized plasma extending tens of Jupiter radii into space — is not the static, flat structure of pre-Juno models but a dynamically rippling and wobbling disk that rotates in lockstep with Jupiter's roughly ten-hour spin period. Published in Geophysical Research Letters, the study used Juno's JADE plasma instrument and onboard magnetometer data from multiple close planetary passes to track periodic oscillations in plasma density and magnetic field orientation that earlier Voyager and Galileo observations lacked the resolution to detect. The researchers traced the rippling to periodic sulfur dioxide plasma injections from Io's volcanoes, which send pressure waves propagating radially outward through the disk, continuously deforming its structure on timescales of hours. Understanding this dynamic disk is critical for predicting Jupiter's powerful polar auroras, which are driven by field-aligned currents originating in the magnetodisk, making the planet's aurora the largest and most energetic in the solar system.",
+        sourceUrl: "https://www.sciencedaily.com/news/space_time/",
+        timestamp: "2026-10-14T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Human Spaceflight",
+        headline: "ESA Astronaut Sophie Adenot Begins Post-Flight Rehabilitation at European Astronaut Centre Cologne After Record 235-Day ISS Mission — Adenot Breaks European Continuous Spaceflight Duration Record Set by Alexander Gerst in 2018; ESA Flight Surgeons Report No Unexpected Physiological Findings From Extended Microgravity Exposure",
+        body: "ESA astronaut Sophie Adenot arrived at the European Astronaut Centre in Cologne, Germany this week to begin her formal post-flight rehabilitation program following her October 8 splashdown in the Pacific Ocean, which concluded a 235-day continuous stay aboard the International Space Station — the longest uninterrupted orbital mission by any European astronaut in history. Adenot launched February 13, 2026 as part of the SpaceX Crew-12 mission and conducted more than 200 scientific investigations in microgravity, including bone density studies, plant biology experiments, and fluid physics investigations, along with three station maintenance spacewalks. ESA's medical team reports no unexpected physiological findings from her extended mission, and her recovery data will contribute directly to the agency's long-duration physiological research program in preparation for future crewed lunar gateway missions. Her record surpasses the 197-day mark set by Alexander Gerst during the Horizons mission in 2018, and positions ESA with expanded operational experience for multi-year deep-space crew rotations.",
+        sourceUrl: "https://www.euronews.com/2026/10/08/astronaut-sophie-adenot-returns-to-earth-after-record-space-mission",
+        timestamp: "2026-10-14T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO Begins 72-Hour NVS-03 NavIC Satellite Terminal Countdown at Sriharikota as Launch Window Opens October 15 — GSLV Mk II Enters Propellant Loading Phase; Successful Mission Will Restore Four-Satellite Operational NavIC Constellation Critical to Indian Military Positioning and 200 Million Agricultural Users",
+        body: "ISRO has commenced the 72-hour terminal countdown for the NVS-03 navigation satellite, with the GSLV Mk II launch vehicle at the Second Launch Pad of the Satish Dhawan Space Centre now in its propellant loading phase as the launch window opens Thursday, October 15. The NVS-03 spacecraft has completed all final electrical and mechanical checkouts and carries an indigenous rubidium atomic clock developed entirely at ISRO's Space Applications Centre in Ahmedabad, eliminating dependence on foreign-supplied precision timing hardware that constrained earlier NavIC satellites. A successful deployment will restore the NavIC constellation to four operational geostationary satellites — the minimum threshold for continuous standalone positioning across India and surrounding regions — recovering capabilities degraded since a January 2025 payload anomaly on a prior NavIC spacecraft. ISRO Chairman V. Narayanan said the mission also demonstrates India's end-to-end satellite navigation sovereignty, with all critical subsystems including the atomic clock now produced domestically.",
+        sourceUrl: "https://corsstations.com/news/isro-targets-october-15-20-launch-of-nvs-03-to-restore-indias-navic-navigation-system/",
+        timestamp: "2026-10-14T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Confirms Shenzhou 24 Crew Medically Cleared After Final Isolation Training — Commander Tang Shengjie, Flight Engineer Ma Zhiyuan, and Pakistan's Muhammad Zeeshan Ali All Qualified for Late-October Launch; Ali Passes Chinese Systems Proficiency Evaluations to Become First Pakistani in Space",
+        body: "The China Manned Space Engineering Office confirmed Wednesday that all three members of the Shenzhou 24 crew — Commander Tang Shengjie, flight engineer Ma Zhiyuan, and Pakistani payload specialist Muhammad Zeeshan Ali of SUPARCO — have completed their final isolation training and are medically and operationally cleared for their late-October launch aboard a Long March 2F rocket from the Jiuquan Satellite Launch Center. Ali passed comprehensive systems proficiency evaluations for Tiangong's life support, docking, and emergency abort hardware, a mandatory requirement for all international crewmembers under China's bilateral space cooperation framework. The crew will relieve two of the three current Shenzhou 23 occupants, with Zhang Zhiyuan remaining aboard to continue a year-long biomedical research program extending through spring 2027. Shenzhou 24 will be the first crewed Chinese mission to fly an astronaut from a non-founding partner nation, marking a significant step in China's strategy to expand international participation in its national space station.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-10-14T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-13": {
     date: "October 13, 2026",
     stories: [
