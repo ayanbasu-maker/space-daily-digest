@@ -68,6 +68,53 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-15": {
+    date: "October 15, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Cargo Mission",
+        headline: "SpaceX CRS-35 Cargo Dragon Docks at ISS Harmony Nadir Port, Delivering Final Two iROSA Solar Arrays That Will Complete Station Power Upgrade to 215 Kilowatts — Dragon Arrival Caps Two-Day Rendezvous Following October 13 Launch; Expedition 76 Crew to Begin EVA Preparations to Deploy Arrays Within Days of Berthing",
+        body: "NASA's SpaceX CRS-35 Cargo Dragon successfully docked with the International Space Station's Harmony module nadir port on October 15 at approximately 11:12 a.m. EDT, completing a two-day autonomous rendezvous following its October 13 liftoff from Cape Canaveral Space Force Station. The spacecraft delivered more than 6,300 pounds of cargo, including the final pair of Roll-Out Solar Array panels that Expedition 76 crew members will deploy during forthcoming spacewalks to complete the station's six-panel iROSA power upgrade. Once all six arrays are installed, the station's total available electrical power will increase from roughly 160 kilowatts to 215 kilowatts, sustaining expanded science and systems operations through the station's planned retirement. The CRS-35 mission marks the 35th cargo delivery under SpaceX's Commercial Resupply Services 2 contract with NASA.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-iss-cargo-mission-docking",
+        timestamp: "2026-10-15T15:12:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO NVS-03 NavIC Launch Window Opens Today as GSLV Mk II Completes Final Countdown Readiness at Sriharikota — October 15–20 Window Now Active; Mission Will Restore Four-Satellite Operational NavIC Constellation and Demonstrate India's First Fully Indigenous Rubidium Atomic Clock Timing Payload",
+        body: "ISRO's launch window for the NVS-03 second-generation NavIC navigation satellite officially opened today, October 15, with the GSLV Mk II rocket at the Satish Dhawan Space Centre in Sriharikota cleared for launch on any day within the October 15–20 window pending final weather and range assessments. The satellite has been at the launch site since August and the GSLV launch campaign began September 14, with all vehicle integration stages completed. NVS-03 carries an indigenous rubidium atomic clock developed entirely at ISRO's Space Applications Centre in Ahmedabad, representing a key milestone in India's end-to-end satellite navigation sovereignty. A successful deployment will restore the NavIC constellation to four operational geostationary satellites — the minimum threshold for continuous standalone positioning service critical to Indian armed forces navigation and more than 200 million precision-agriculture users.",
+        sourceUrl: "https://www.msn.com/en-in/news/other/isro-gears-up-for-nvs-03-launch-between-october-15-and-20/ar-AA2cGRMW",
+        timestamp: "2026-10-15T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Artemis Program",
+        headline: "NASA Completes Artemis III SLS Final Solid Rocket Booster Segment Integration on Mobile Launcher at Kennedy Space Center — Milestone Places Moon-Landing Rocket on Critical Assembly Path Toward 2028 Launch; Core Stage and Orion Spacecraft Stacking to Follow in Coming Months as Program Momentum Builds After April Artemis II Crewed Lunar Flyby",
+        body: "NASA's Kennedy Space Center teams completed integration of the final solid rocket booster segments for the Artemis III Space Launch System onto the mobile launcher platform, a critical assembly milestone for the mission targeting the first crewed lunar landing since Apollo 17 in 1972. The twin solid rocket boosters will provide approximately 75 percent of total thrust at liftoff when Artemis III launches no earlier than 2028 with a crew of four destined for a south polar landing site. Core stage stacking and Orion spacecraft integration are the next major assembly milestones before the full rocket can be rolled to the pad for integrated testing. The booster milestone follows last April's successful Artemis II crewed lunar flyby, which validated the SLS and Orion system for human deep-space travel.",
+        sourceUrl: "https://www.nasa.gov/",
+        timestamp: "2026-10-15T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Lunar Exploration",
+        headline: "ESA Reveals NovaMoon Mission to Deliver Sub-Meter Positioning Accuracy on the Lunar Surface — Dedicated Navigation Satellites in Lunar Orbit Will Support Both Robotic and Crewed Artemis Operations at the South Pole; Architecture Study Phase Begins Targeting Operational System Before 2030",
+        body: "The European Space Agency announced the NovaMoon mission, a dedicated lunar navigation and timing infrastructure designed to provide positioning accuracy of under one meter on the Moon's surface — comparable to the precision GPS delivers on Earth. The mission will deploy a constellation of navigation satellites in specialized lunar orbits, directly addressing one of the key operational challenges for sustained human presence at the lunar south pole where GPS signals do not reach. NovaMoon is designed to be interoperable with NASA's Lunar Positioning System elements and will support ESA-contributed robotic surface systems and crewed Artemis operations at Gateway and on the surface. ESA is beginning a formal mission architecture study with a target of having the system operational before 2030, ahead of the first crewed Artemis south polar landings.",
+        sourceUrl: "https://thepeninsulaqatar.com/article/14/10/2026/european-space-agency-developing-mission-to-enhance-navigation-accuracy-on-surface-of-the-moon",
+        timestamp: "2026-10-15T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch Operations",
+        headline: "Blue Origin Confirms New Glenn Return to Flight Before Year-End and Files FAA Request to Raise Annual Launch Cadence From 12 to 50 — Aggressive Commercial Expansion Follows LC-36 Rebuild Progress Five Months After May Prelaunch Explosion; NASA Also Selects Blue Origin to Develop Mars Telecommunications Orbiter Relay Spacecraft",
+        body: "Blue Origin confirmed it will return the New Glenn rocket to flight before the end of 2026 and simultaneously filed a formal request with the FAA to raise its maximum permitted annual New Glenn launch cadence from 12 to 50 launches per year, signaling ambitious commercial market expansion as the company rebuilds its Cape Canaveral launch infrastructure. The announcements come five months after a New Glenn rocket exploded during prelaunch testing at Launch Complex 36 in May, destroying the vehicle and requiring extensive pad reconstruction that is now nearing completion. In a separate development this month, NASA selected Blue Origin to develop and deliver the Mars Telecommunications Orbiter, a dedicated relay spacecraft that will provide high-bandwidth communications for future Mars surface missions in the early 2030s. The orbital contract expands Blue Origin's growing NASA portfolio alongside its Human Landing System lunar lander program.",
+        sourceUrl: "https://www.advanced-television.com/2026/10/09/blue-origin-confirms-2026-launch/",
+        timestamp: "2026-10-15T10:00:00Z"
+      }
+    ]
+  },
+
+>>>>>>> 58fbe8c (Daily digest: 2026-10-15)
   "2026-10-14": {
     date: "October 14, 2026",
     stories: [
