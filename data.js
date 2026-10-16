@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-16": {
+    date: "October 16, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Nancy Grace Roman Space Telescope Named to TIME's Best Inventions of 2026, Recognized for Revolutionary Wide-Field Infrared Survey Capability That Will Image 100 Times Hubble's Field of View and Transform Cosmology Research",
+        body: "NASA's Nancy Grace Roman Space Telescope has been recognized on TIME magazine's Best Inventions of 2026 list, placing the agency's wide-field infrared observatory among the year's most transformative innovations across science and technology. Roman's 2.4-meter primary mirror, paired with a 300-megapixel Wide Field Instrument, will capture images 100 times the field of view of the Hubble Space Telescope in a single pointing, enabling survey programs in months that would have taken decades with prior observatories. The telescope's core science missions include a dark energy wide-area survey using weak gravitational lensing, a galactic bulge time-domain program to detect thousands of exoplanets via microlensing, and a general observer program open to the international scientific community. Roman remains on track for launch in 2027 pending final integration and testing milestones.",
+        sourceUrl: "https://science.nasa.gov/blogs/honors/2026/10/15/time-best-inventions-of-2026/",
+        timestamp: "2026-10-16T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Scientists Reveal SkyFall Mars Helicopter Concept Designed to Reach Inaccessible Terrain Never Surveyed by Rovers, Building on Ingenuity Legacy to Unlock Canyon Walls, Polar Scarps, and High-Altitude Volcanic Sites",
+        body: "NASA scientists have detailed the SkyFall helicopter concept, a next-generation Mars rotorcraft designed to access extreme terrain — including deep canyon walls, polar scarps, and high-altitude volcanic flanks — that wheeled rovers like Perseverance and Curiosity cannot physically reach, potentially unlocking some of the most scientifically valuable but previously inaccessible regions of the Martian surface. Building on the operational legacy of the Ingenuity helicopter, which completed 72 flights before concluding operations in early 2024 having far exceeded all mission objectives, SkyFall would carry a significantly larger rotor system, expanded battery capacity, and an onboard science payload including close-range cameras and a miniaturized spectrometer for rapid mineralogical analysis of rock outcrops. The concept targets sites of particular astrobiological interest, including locations where ancient lake sediments may be exposed in eroded canyon walls and layered terrains potentially preserving evidence of past climate transitions on Mars. SkyFall is in advanced concept development at NASA's Jet Propulsion Laboratory, with proponents advocating for its inclusion in a future Discovery or New Frontiers class planetary science mission.",
+        sourceUrl: "https://www.space.com/",
+        timestamp: "2026-10-16T07:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Carries Classified USSF-481 Payload to Orbit for United States Space Force in Overnight Launch from Vandenberg, First Stage Booster Lands Successfully on West Coast Droneship",
+        body: "A SpaceX Falcon 9 rocket launched the classified USSF-481 mission for the United States Space Force from Space Launch Complex 4 East at Vandenberg Space Force Base at 8:01 p.m. EDT on October 15, with the mission crossing midnight UTC into October 16 at 0001 GMT. The first-stage booster completed a successful autonomous landing on the droneship stationed off the California coast at approximately 8:23 p.m. EDT, continuing SpaceX's record of back-to-back recoveries. The nature of the USSF-481 payload remains classified, consistent with Space Force practice for national security satellite missions supporting communications and domain awareness constellations. The mission follows SpaceX's CRS-35 cargo delivery to the ISS on October 13, underscoring the Falcon 9's sustained cadence of multiple launches per week across commercial, government, and classified customers.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/15/live-coverage-spacex-to-launch-classified-payload-for-u-s-space-force/",
+        timestamp: "2026-10-16T00:01:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Business",
+        headline: "Blue Origin Files with FAA to Raise New Glenn Annual Launch Rate from 12 to 50 Missions Per Year, Simultaneously Announces 1.27-Million-Square-Foot Texas Manufacturing Campus as Company Accelerates Post-Anomaly Recovery",
+        body: "Blue Origin has filed with the Federal Aviation Administration to increase its authorized annual New Glenn launch rate from 12 to 50 missions per year, a move that signals the company's ambition to dramatically scale commercial operations after resuming flights following a May 2026 vehicle anomaly that temporarily grounded the rocket. Alongside the regulatory filing, Blue Origin announced the lease of three buildings totaling over 1.27 million square feet in Hutto, Texas, establishing a major aerospace manufacturing hub intended to support high-cadence New Glenn production and ongoing development of the BE-4 engine that also powers United Launch Alliance's Vulcan Centaur rocket. The Texas campus is projected to create thousands of jobs and form the production backbone for a ramp toward multiple launches per week by the end of the decade. Blue Origin founder Jeff Bezos separately confirmed this week that an initial public offering remains on the horizon within the next several years as the company pursues an estimated $10 billion external funding round — its first from outside investors.",
+        sourceUrl: "https://tech-insider.org/blue-origin-50-launches-year-new-glenn-2026/",
+        timestamp: "2026-10-16T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Mission",
+        headline: "ESA Confirms October 19 Launch Window for Joint JAXA-ESA Martian Moons eXploration Mission, Spacecraft to Orbit Mars Before Landing Sample-Return Probe on Phobos in First-Ever Attempt to Retrieve Material from a Martian Moon",
+        body: "The European Space Agency confirmed that the Martian Moons eXploration (MMX) mission, developed in partnership with the Japan Aerospace Exploration Agency, is targeting a launch on October 19 from Japan's Tanegashima Space Center, beginning a multi-year journey to study the two moons of Mars — Phobos and Deimos — with instruments contributed by ESA and international partners. MMX will spend approximately three years in the Martian system, with the mission's centerpiece being a sample collection and return from Phobos, marking the first time material from a Martian moon will be brought back to Earth for laboratory analysis — expected in 2031. ESA's contribution includes a rover to be deployed on Phobos for in-situ geological and mineralogical characterization, extending the agency's track record in collaborative planetary exploration. Scientists expect the Phobos samples to help resolve the long-standing debate over whether the Martian moons are captured asteroids or debris from an ancient giant impact on early Mars, with implications for understanding the broader solar system formation record.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-10-16T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-15": {
     date: "October 15, 2026",
     stories: [
