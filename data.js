@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-17": {
+    date: "October 17, 2026",
+    stories: [
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Completes Critical Crew Module–Service Module Separation Tests for Gaganyaan, Validating Re-Entry Safety Systems Ahead of Uncrewed G1 Mission Targeted for Late 2026",
+        body: "The Indian Space Research Organisation has successfully completed a series of Crew Module–Service Module separation tests for the Gaganyaan human spaceflight programme at the Vikram Sarabhai Space Centre in Thiruvananthapuram, clearing a key engineering milestone on the path to India's first uncrewed orbital test flight. The tests confirmed that the crew module and service module separate cleanly under all simulated conditions, and ISRO also validated the resilience of critical avionics, navigation equipment, and the heat shield required for safe re-entry. The G1 uncrewed mission is now targeted for the fourth quarter of 2026, with a crewed flight expected in 2027 once the full Gaganyaan test campaign is satisfied. Successful completion of the separation tests removes a major risk item from the mission manifest and marks significant progress toward India joining the exclusive group of nations capable of launching astronauts to orbit.",
+        sourceUrl: "https://www.isro.gov.in/Crew_Module_Service_Module_Separation_Tests.html",
+        timestamp: "2026-10-17T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Station",
+        headline: "NASA Schedules Back-to-Back Spacewalks to Deploy Final iROSA Solar Arrays Aboard ISS — Expedition 76 EVAs Will Complete Six-Panel Power Upgrade to 215 Kilowatts After CRS-35 Delivery",
+        body: "NASA announced two back-to-back extravehicular activities at the International Space Station, during which Expedition 76 crew members will deploy the final pair of Roll-Out Solar Array panels delivered by SpaceX's CRS-35 Cargo Dragon, which docked at the station's Harmony nadir port on October 15. The consecutive spacewalks will complete the six-panel iROSA retrofit begun in June 2021, raising the station's total available electrical power from approximately 160 kilowatts to 215 kilowatts and sustaining expanded science and life-support operations through the station's planned retirement. With Crew-13 now aboard following the return of Crew-12, the EVA team is fully assembled and hardware is being staged inside the Quest airlock in preparation for first egress. The final iROSA installations represent the last major power infrastructure upgrade to the station before its eventual deorbit.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-10-17T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Crewed Spaceflight",
+        headline: "SpaceX Crew-12 Splashes Down After Eight-Month ISS Mission as Crew-13 Takes Over Expedition 76 — Dragon Capsule Lands Off Florida Coast; Relief Crew Begins Six-Month Science Mission Aboard Station",
+        body: "A SpaceX Crew Dragon capsule carrying the Crew-12 astronauts splashed down off the Florida coast, completing an eight-month mission aboard the International Space Station and handing over Expedition 76 operations to the freshly arrived Crew-13 team. The returning crew conducted dozens of science experiments, multiple spacewalks, and oversaw the delivery of four of the six iROSA solar array panels now aboard the station. Crew-13, which arrived earlier this month, will conduct a six-month mission focused on medical research, materials science, and completing the final iROSA power upgrade, before the next crew rotation under NASA's Commercial Crew Program. The handover marks the latest in an unbroken chain of commercial crew rotations that has kept the station continuously occupied since November 2000.",
+        sourceUrl: "https://www.cbsnews.com/tag/spacex/",
+        timestamp: "2026-10-17T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Lunar Exploration",
+        headline: "Blue Origin Unveils Power Tower Freestanding Solar Array System Designed to Provide Multi-Kilowatt Electricity for Sustained Human Presence at the Lunar South Pole",
+        body: "Blue Origin has unveiled the Power Tower, a deployable freestanding solar array structure designed to provide reliable electrical power for sustained human presence on the lunar surface, addressing one of the most critical infrastructure challenges for long-duration Moon missions. The system features retractable photovoltaic panels on a tall mast that can be repositioned to maintain solar exposure in the challenging lighting conditions of the lunar south pole, where peaks of eternal light sit adjacent to permanently shadowed craters. Blue Origin envisions the Power Tower as a scalable element that can be deployed robotically ahead of human arrivals, ensuring power availability from mission outset without relying on a nuclear fission surface power system. The announcement extends Blue Origin's lunar infrastructure portfolio alongside its Blue Moon Human Landing System, which is under contract with NASA for Artemis south polar landings.",
+        sourceUrl: "https://www.space.com/tag/blue-origin",
+        timestamp: "2026-10-17T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "JAXA-ESA Martian Moons eXploration Mission Enters Final Two-Day Countdown With October 19 Liftoff From Tanegashima — ESA Rover Will Land on Phobos in First Attempt to Retrieve Samples From a Martian Moon",
+        body: "The Martian Moons eXploration mission, a joint endeavor between JAXA and the European Space Agency, entered its final two-day countdown ahead of a targeted October 19 liftoff from Tanegashima Space Center in Japan, beginning a journey to Mars's two moons that will culminate in the first-ever sample return from a Martian moon. MMX will spend approximately three years in the Martian system, orbiting and studying both Phobos and Deimos before deploying an ESA-built rover onto Phobos for in-situ geological characterization, followed by sample collection and an Earth return expected in 2031. Laboratory analysis of the returned Phobos material is expected to resolve whether the Martian moons are captured asteroids or debris from an ancient giant impact, a question with direct implications for understanding early solar system formation. NASA is contributing science instruments and Deep Space Network tracking support to the mission, extending the international cooperative model that has defined planetary exploration for decades.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-10-17T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-16": {
     date: "October 16, 2026",
     stories: [
@@ -160,7 +206,6 @@ const DIGESTS = {
     ]
   },
 
->>>>>>> 58fbe8c (Daily digest: 2026-10-15)
   "2026-10-14": {
     date: "October 14, 2026",
     stories: [
