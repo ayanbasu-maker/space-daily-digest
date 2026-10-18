@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-18": {
+    date: "October 18, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Roman Space Telescope Surpasses Design Expectations by Nearly 30% After Engineers Make Microscopic Mirror Adjustments One-Sixteenth the Width of a Human Hair — Sharper-Than-Predicted Wide-Field Infrared Images Set Stage for Historic Dark Energy and Exoplanet Surveys",
+        body: "NASA announced this week that the Nancy Grace Roman Space Telescope, which launched August 30 aboard a SpaceX Falcon Heavy from Kennedy Space Center, is producing images nearly 30 percent sharper than its design specifications following microscopic optical alignment adjustments by the engineering team. By shifting a secondary mirror element by just one-sixteenth the width of a human hair, engineers achieved focus quality that substantially exceeds pre-launch predictions, extending what had already been an unprecedented wide-field infrared imaging capability. The telescope's 300-megapixel Wide Field Instrument was powered on in September and the coronagraph instrument is also performing nominally, keeping first-light science operations on track for early 2027. The precision of the Falcon Heavy's August launch trajectory was so accurate that Roman may require fewer orbital correction burns than planned, potentially extending its nominal five-year mission to a full decade.",
+        sourceUrl: "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+        timestamp: "2026-10-18T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "JAXA-ESA Martian Moons eXploration Spacecraft Enters T-Minus-24-Hour Countdown at Tanegashima as H3 Rocket Clears Final Readiness Reviews — October 19 Liftoff at 19:41 UTC Will Begin Six-Year Journey to First-Ever Sample Return From a Martian Moon",
+        body: "The Martian Moons eXploration spacecraft entered its final 24-hour countdown at Tanegashima Space Center in Japan today, with JAXA and ESA officials confirming that the H3 rocket and payload have cleared all pre-launch readiness reviews ahead of a planned liftoff at 19:41 UTC on October 19. MMX will spend approximately three years orbiting the Martian system before deploying the ESA-contributed IDEFIX rover onto Phobos for in-situ geological characterization, then collecting at least 10 grams of Phobos material for return to Earth by 2031. NASA is contributing science instruments and Deep Space Network tracking support to the mission, which aims to determine whether the Martian moons are captured asteroids or debris from an ancient giant impact — a question central to understanding early solar system formation. If successful, MMX will mark the first retrieval of material from a Martian moon and the furthest planetary body from which a sample has been returned.",
+        sourceUrl: "https://earthsky.org/space/mmx-mission-mars-moons-phobos-deimos/",
+        timestamp: "2026-10-18T06:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO's NVS-03 NavIC Satellite Enters Final Days of October 15–20 Launch Window With GSLV-F18 Rocket at Full Readiness at Sriharikota — Launch Will Restore Four-Satellite NavIC Operational Constellation and Demonstrate India's First Fully Indigenous Rubidium Atomic Clock",
+        body: "ISRO's GSLV-F18 rocket carrying the NVS-03 NavIC navigation satellite remains at full launch readiness at the Satish Dhawan Space Centre, with the October 15–20 launch window now in its final days and mission planners awaiting favorable weather and range conditions for liftoff. The constellation currently operates with only three geostationary satellites — below the four-satellite minimum required for continuous, standalone positioning — and NVS-03 is urgently needed to restore full service that supports Indian defense operations and more than 200 million precision-agriculture users. The satellite carries a fully indigenous rubidium atomic clock developed at ISRO's Space Applications Centre in Ahmedabad, reducing dependence on imported timing hardware and marking a key milestone in India's end-to-end navigation sovereignty. A successful deployment would also validate the GSLV Mk II for high-demand government payloads ahead of ISRO's planned transition to the next-generation NVS constellation.",
+        sourceUrl: "https://corsstations.com/news/isro-targets-october-15-20-launch-of-nvs-03-to-restore-indias-navic-navigation-system/",
+        timestamp: "2026-10-18T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Business",
+        headline: "Blue Origin Announces $330 Million Florida Manufacturing and Infrastructure Expansion to Underpin High-Cadence New Glenn Operations — New Landing Barges and Production Facilities Will Support Aggressive Ramp Toward 50 Annual Launches as Company Recovers From May 2026 Anomaly",
+        body: "Blue Origin revealed a $330 million Florida expansion plan encompassing new landing barges, launch support infrastructure, and expanded manufacturing capacity at Cape Canaveral, directly supporting the company's recently filed FAA request to increase New Glenn's authorized annual launch rate from 12 to 50 missions. The investment comes as the company accelerates recovery work following a May 2026 New Glenn pad anomaly that temporarily grounded the rocket and drove the concurrent Texas campus announcement adding over 1.27 million square feet of production space in Hutto. The combined Florida and Texas expansions signal a strategic pivot from capability demonstration toward industrial-scale launch services, with Blue Origin aiming to return New Glenn to flight before the end of 2026. Founder Jeff Bezos separately confirmed that an initial public offering remains planned within the next several years as the company pursues a reported $10 billion external funding round.",
+        sourceUrl: "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
+        timestamp: "2026-10-18T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "China Prepares Shenzhou-24 Crewed Mission for October Launch to Tiangong Space Station as Shenzhou-23 Crew Nears Midpoint of Six-Month Mission — Rotation Will Maintain China's Unbroken Human Presence in Orbit Ahead of Xuntian Telescope Deployment in December 2026",
+        body: "China is finalizing preparations for the Shenzhou-24 crewed mission targeting an October 2026 launch on a Long March 2F rocket from the Jiuquan Satellite Launch Center, which will rotate the crew aboard the Tiangong space station and sustain China's uninterrupted human spaceflight presence. The incoming crew of three will relieve the Shenzhou-23 astronauts who arrived in May and conduct a 180-day mission encompassing life science experiments, materials processing, and station maintenance work ahead of the planned December 2026 deployment of the Xuntian space telescope adjacent to Tiangong. China's Manned Space Agency has not yet publicly announced the Shenzhou-24 crew, consistent with the agency's practice of confirming crew assignments close to launch day. The crew rotation continues China's six-month rotation cadence that has kept Tiangong continuously occupied since 2021.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-10-18T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-17": {
     date: "October 17, 2026",
     stories: [
