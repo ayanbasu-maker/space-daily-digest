@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-19": {
+    date: "October 19, 2026",
+    stories: [
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "JAXA-ESA Martian Moons eXploration Spacecraft Lifts Off Aboard H3 Rocket From Tanegashima at 19:41 UTC — Historic Six-Year Journey Begins to Collect First-Ever Samples From Phobos and Resolve Whether the Martian Moons Are Captured Asteroids or Impact Debris",
+        body: "The Martian Moons eXploration spacecraft lifted off today from Tanegashima Space Center in Japan atop a JAXA H3 rocket, beginning a six-year journey that will culminate in the first-ever sample return from a Martian moon. The joint JAXA-ESA mission will spend approximately three years orbiting the Martian system, deploying the ESA-built IDEFIX rover onto the surface of Phobos for in-situ geological analysis before collecting at least 10 grams of regolith for return to Earth in 2031. Contributions from NASA — including the MEGANE gamma-ray and neutron spectrometer, the P-Sampler surface contact tool, and Deep Space Network tracking support — make MMX one of the most broadly international robotic missions in planetary science history. Laboratory analysis of the returned Phobos samples is expected to resolve a decades-old question about whether the Martian moons are captured outer-belt asteroids or debris ejected by a giant impact on ancient Mars.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+        timestamp: "2026-10-19T19:41:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Bandwagon-5 Falcon 9 Rideshare Scrubbed Monday Due to Weather and Reset for Tuesday Morning Liftoff — Mission Carries Starfall Reentry Capsule and 30 Additional Payloads; Rocket Exhaust Plume May Produce Rare 'Space Jellyfish' Phenomenon Visible From Gulf Coast",
+        body: "SpaceX scrubbed Monday's launch attempt of the Bandwagon-5 rideshare mission from Cape Canaveral due to unfavorable weather, resetting the Falcon 9's one-hour window to open at 6:30 a.m. EDT on Tuesday, October 20. The mission carries 31 customer payloads for a broad range of commercial operators, with the most prominent being the Starfall reentry capsule, a small atmospheric-reentry technology demonstrator being tested ahead of future in-orbit servicing applications. Atmospheric conditions at the time of the rescheduled launch could produce a highly visible, expanding rocket-exhaust plume that refracts sunlight into a glowing jellyfish-like shape visible from Louisiana, Mississippi, and neighboring Gulf Coast states before sunrise. SpaceX will attempt to recover the Falcon 9 first stage at the drone ship stationed in the Atlantic, continuing the company's routine booster recovery cadence.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/18/live-coverage-spacex-to-launch-starfall-reentry-capsule-31-customer-payloads-on-bandwagon-5-rideshare-mission/",
+        timestamp: "2026-10-19T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Station",
+        headline: "NASA Announces Spacewalks 100 and 101 for October 29 and November 5 as Astronauts Anil Menon and Kutryk Prepare to Install Final Pair of iROSA Roll-Out Solar Arrays Aboard the International Space Station",
+        body: "NASA has confirmed that Expedition 76 flight engineers Anil Menon and Jeremy Hansen Kutryk will conduct the 100th and 101st U.S. spacewalks on October 29 and November 5, respectively, to install the final pair of Roll-Out Solar Array panels delivered last week by SpaceX's CRS-35 Dragon. The back-to-back extravehicular activities will complete the iROSA retrofit program begun in June 2021, raising the station's total available electrical power from approximately 160 kilowatts to 215 kilowatts — a 35 percent increase that sustains expanded science and life-support operations through the station's planned retirement. NASA held a press conference previewing the EVAs today with Mission Operations officials outlining the timeline, hardware staging procedures, and contingency plans for the sequential walks. The 100th U.S. spacewalk milestone adds symbolic weight to an already historically significant final power upgrade for the aging orbital laboratory.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-10-19T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Leadership",
+        headline: "NASA Administrator Isaacman Names Stephen Cash as New Director of Marshall Space Flight Center in Huntsville Effective Today — Cash Takes Over Agency's Premier Propulsion and Deep Space Transport Hub as Artemis Moon-to-Mars Program Enters Critical Hardware Delivery Phase",
+        body: "NASA Administrator Jared Isaacman has appointed Stephen Cash as the new director of Marshall Space Flight Center in Huntsville, Alabama, with the appointment taking effect today, October 19. Marshall is the agency's lead center for propulsion development and manages key Artemis hardware including the Space Launch System core stage and the Human Landing System contract oversight, placing Cash at the helm of one of NASA's most mission-critical facilities during a pivotal period. Cash's appointment comes as Marshall oversees the production of SLS core stages for future Artemis missions and coordinates deep-space propulsion technology development programs supporting NASA's long-range Moon-to-Mars exploration architecture. The Marshall directorship is one of the most consequential field center leadership positions in the agency, and the transition underscores Isaacman's continued reshaping of NASA's senior leadership team.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-10-19T12:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Navigation",
+        headline: "ISRO's GSLV-F18 With NVS-03 NavIC Satellite Reaches Final Day of October 15–20 Launch Window at Sriharikota — Liftoff Today Would Restore India's Four-Satellite Navigation Constellation and Validate Indigenous Rubidium Atomic Clock After NVS-02 Propulsion Anomaly",
+        body: "ISRO's GSLV-F18 rocket carrying the NVS-03 NavIC navigation satellite is on standby at the Satish Dhawan Space Centre as the October 15–20 launch window reaches its final day, with mission teams awaiting confirmation of weather and range conditions for a possible October 19 liftoff. The NVS-03 satellite is urgently needed to restore the NavIC constellation to its four-satellite operational minimum, as only three geostationary satellites are currently broadcasting positioning signals — insufficient for continuous, standalone navigation services relied upon by Indian defense forces and over 200 million precision-agriculture users. A successful launch would also validate corrective measures introduced to the satellite's propulsion system after NVS-02 suffered a propulsion anomaly following its January 2025 deployment, and would demonstrate ISRO's first fully indigenous rubidium atomic clock developed at the Space Applications Centre in Ahmedabad. If conditions force a further delay, ISRO is expected to target a late-October or November window as a fallback.",
+        sourceUrl: "https://corsstations.com/news/isro-targets-october-15-20-launch-of-nvs-03-to-restore-indias-navic-navigation-system/",
+        timestamp: "2026-10-19T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "China's Shenzhou-24 Crew Mission to Tiangong Confirmed for October 2026 With Pakistani Astronaut Making History as First South Asian in Space — Short-Duration Visit Will Strengthen China's International Human Spaceflight Partnerships Ahead of December Xuntian Telescope Deployment",
+        body: "China has confirmed that its Shenzhou-24 crewed mission to the Tiangong space station will launch in October 2026 aboard a Long March 2F rocket from the Jiuquan Satellite Launch Center, with reports indicating the crew will include a Pakistani cosmonaut flying as an international mission specialist — marking the first spaceflight by a South Asian astronaut. The Pakistani crew member will join two Chinese astronauts for a short-duration visit that both broadens China's international human spaceflight partnerships and demonstrates the Tiangong station's role as a platform for wider global participation in human exploration beyond the International Space Station framework. The Shenzhou-24 crew's extended mission will overlap with the planned December 2026 deployment of the Xuntian optical space telescope, which will orbit in proximity to Tiangong and be available for periodic astronaut servicing. China's Manned Space Agency has not yet publicly named the full crew, consistent with its long-standing practice of holding crew announcements until close to launch day.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-10-19T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-18": {
     date: "October 18, 2026",
     stories: [
