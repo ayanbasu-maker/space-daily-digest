@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-21": {
+    date: "October 21, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Wednesday Afternoon Liftoff From Vandenberg Space Force Base for 27-Satellite Starlink Group Constellation Flight After Monday Scrub — Falcon 9 Booster B1063 Aims for Record-Equaling 36th Flight as Company Maintains 2026 Cadence Averaging More Than One Launch Per Week",
+        body: "SpaceX reset a Falcon 9 launch of 27 Starlink satellites from Space Launch Complex 4 East at Vandenberg Space Force Base to Wednesday, October 21, after a technical issue scrubbed the first attempt on Monday. The rescheduled window opens at 2:59 p.m. PDT (21:59 UTC), targeting delivery of the Group 10-8 batch into low Earth orbit as part of SpaceX's ongoing effort to expand broadband capacity and global coverage of the Starlink constellation. Falcon 9 first stage B1063, flying on its 36th mission, will attempt to land on a drone ship stationed in the Pacific Ocean shortly after stage separation, continuing the company's standard booster recovery operations. A successful 36th flight for B1063 would equal the highest flight count achieved by any single Falcon 9 booster to date, demonstrating the exceptional reusability record that underpins SpaceX's ambitious commercial launch cadence.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+        timestamp: "2026-10-21T21:59:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Communications Technology",
+        headline: "Two NASA-Funded Commercial Satellite Communication Technology Demonstrations Successfully Reach Orbit Aboard SpaceX Bandwagon-5 Rideshare — Payloads Will Validate Next-Generation Space-to-Ground Links Under Agency's Commercial Services Plan to Reduce Reliance on Deep Space Network",
+        body: "Two commercial satellite communication technology demonstration payloads funded under NASA's Commercial Services program were successfully delivered to low Earth orbit aboard SpaceX's Bandwagon-5 rideshare mission from Cape Canaveral Space Force Station, NASA confirmed. The demonstrators are designed to validate advanced space-to-ground communication links at speeds and bandwidths that significantly exceed conventional relay capabilities, supporting NASA's broader effort to develop commercially procured communication services as a supplement to agency-owned infrastructure. The demos are part of NASA's strategy to leverage the commercial satellite communications industry — including operators such as SES and others — to offload relay traffic as the agency's mission portfolio expands with Artemis, Gateway, and deep-space exploration programs. NASA will analyze in-orbit demonstration data over the coming months to establish performance baselines before potential integration into future mission communications architectures.",
+        sourceUrl: "https://nasa.gov/blogs/smallsatellites/2026/10/20/two-nasa-commercial-satellite-communication-demonstrations-launch",
+        timestamp: "2026-10-21T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Policy",
+        headline: "Republic of Uzbekistan Signs Artemis Accords at Ceremony in Samarkand, Becoming 77th Nation to Commit to Peaceful, Transparent, and Interoperable Space Exploration — Central Asian Nation Joins Growing Global Coalition Underpinning NASA's Moon-to-Mars Architecture",
+        body: "The Republic of Uzbekistan formally acceded to the Artemis Accords at a signing ceremony held in Samarkand this week, becoming the 77th country to commit to the international framework governing responsible and cooperative civil space exploration. The Accords, developed by NASA and the U.S. Department of State in 2020, establish norms of behavior for lunar and deep-space activities including transparency, peaceful use, interoperability of systems, release of scientific data, and preservation of historic sites. Uzbekistan's accession broadens the coalition across Central Asia and reflects growing international recognition of the Artemis program as a framework for multilateral human exploration beyond Earth orbit. The 77-nation signatory base now spans every inhabited continent and represents a significant diplomatic achievement for NASA's approach to building broad international partnerships for lunar and Mars exploration.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-unveils-initiatives-to-achieve-americas-national-space-policy/",
+        timestamp: "2026-10-21T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Regulatory",
+        headline: "SpaceX Files FAA Request to Raise Annual Starship Launch Authorization at Boca Chica From 25 to 456 Flights per Year — Sweeping 18-Fold Increase Reflects Constellation-Scale Ambitions for Starlink V3, Point-to-Point Transport, and Regular NASA Artemis Lunar Cargo Missions",
+        body: "SpaceX has formally petitioned the Federal Aviation Administration to increase its annual Starship launch authorization at Starbase, Boca Chica, Texas, from the current 25 launches per year to 456 — an 18-fold increase signaling the company's ambition to operate Starship at industrial scale within the next several years. The FAA is currently reviewing the environmental and licensing implications of the expanded cadence, which SpaceX argues is necessary to support high-frequency Starlink satellite constellation replenishment, commercial point-to-point transport, and regular NASA Artemis lunar lander delivery missions. Critics and environmental groups near Boca Chica have raised concerns about the cumulative impact of dramatically increased launch and landing operations on the sensitive South Texas wildlife refuge surrounding Starbase. The application underscores the growing gap between SpaceX's vision for Starship as the backbone of a space transportation economy and the current regulatory and infrastructure constraints that govern high-cadence rocket operations.",
+        sourceUrl: "https://spaceflightnow.com/",
+        timestamp: "2026-10-21T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Station",
+        headline: "ESA Formally Begins Feasibility Investigation for European-Led Independent Space Station Following ISS Retirement Concerns — Study Will Assess Technical Requirements, Funding Models, and Industrial Partners as Agency Weighs Post-ISS Options for European Human Spaceflight Continuity",
+        body: "The European Space Agency has formally launched a feasibility investigation into a European-led independent space station, evaluating whether ESA member states could develop and operate a successor orbital facility after the International Space Station retires no later than 2030. The investigation will assess technical requirements for station architecture, life support, and scientific capabilities, as well as potential funding models under ESA's Science and Human Spaceflight directorates and appetite among member nations for a major new crewed program commitment. European industrial players including Airbus, Thales Alenia Space, and OHB are expected to contribute during the concept definition phase, and the study may also examine partial collaboration with NASA on the proposed Lunar Gateway as an alternative or complement to a fully independent station. ESA officials have stressed the investigation is a preliminary analysis rather than a program commitment, but it reflects growing concern about maintaining human spaceflight capability and independent access to orbit after the ISS closure.",
+        sourceUrl: "https://www.nasaspaceflight.com/",
+        timestamp: "2026-10-21T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-19": {
     date: "October 19, 2026",
     stories: [
