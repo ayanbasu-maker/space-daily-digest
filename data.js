@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-22": {
+    date: "October 22, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Thursday Evening Window From Vandenberg Space Force Base for Starlink Group 15-15 Falcon 9 Mission — Booster B1063 Poised for Record-Equaling 36th Flight Following Wednesday Delay, With Drone Ship Stationed in Pacific for Routine First-Stage Recovery",
+        body: "SpaceX is targeting a Thursday evening launch window from Space Launch Complex 4 East at Vandenberg Space Force Base for its Starlink Group 15-15 mission, after the flight slipped from its previous Wednesday attempt. The mission will deliver a batch of Starlink v2 Mini satellites to low Earth orbit as part of the company's ongoing effort to expand broadband capacity for the operational Starlink constellation. Falcon 9 first stage booster B1063 is set to attempt its 36th flight, which would equal the highest flight count achieved by any single Falcon 9 booster — a milestone that underscores the exceptional reusability record central to SpaceX's commercial launch economics. The booster will attempt to land on a drone ship stationed in the Pacific Ocean shortly after stage separation, continuing SpaceX's standard recovery cadence that has now seen more than 300 successful booster landings across the Falcon 9 fleet.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-10-22T22:40:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Administrator Isaacman to Deliver Major Artemis Mission Update at Kennedy Space Center Press Conference Thursday — Briefing Expected to Clarify Artemis III Earth-Orbital Test Timeline and Artemis IV Crewed Lunar Landing Target for 2028 as Agency Sharpens Focus on Surface Base Architecture",
+        body: "NASA Administrator Jared Isaacman is scheduled to lead a press conference at Kennedy Space Center on Thursday, October 23, at 2 p.m. EDT, delivering a significant update on the agency's revised Artemis lunar exploration roadmap. The briefing is expected to formally clarify the agency's plan for Artemis III to serve as a crewed Earth-orbital test flight before any lunar landing attempt, following Isaacman's February 2026 declaration that proceeding directly from Artemis II to a lunar surface landing was 'a bridge too far.' Artemis IV remains the agency's target for the first crewed lunar landing since Apollo 17, with a 2028 window in view, and NASA has been working to accelerate preparation of lunar surface infrastructure and logistics systems to support the broader Moon-to-Mars architecture. The press conference will be live-streamed on NASA Television and NASA's website, and is anticipated to include updated contractor milestones for both the SpaceX Starship Human Landing System and Blue Origin's National Team lander.",
+        sourceUrl: "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live",
+        timestamp: "2026-10-22T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Confirms Development of New Launch Complex 36B at Cape Canaveral as Company Maintains Year-End New Glenn Return-to-Flight Target Following Catastrophic May Hotfire Explosion — Alternative Vertical Operations Concept Eliminates Need to Replace Destroyed Transporter-Erector",
+        body: "Blue Origin confirmed this week that it is developing a new Launch Complex 36B at Cape Canaveral Space Force Station to support its New Glenn rocket, as part of its recovery from the May 28 hotfire explosion that destroyed a New Glenn vehicle and inflicted severe damage to its primary launch pad at LC-36. Rather than replacing the transporter-erector destroyed in the blast, the company is transitioning to an alternative vertical operations concept that it says will streamline return-to-flight preparations and reduce infrastructure dependencies over the long term. Blue Origin has said it still intends to return New Glenn to flight before the end of 2026, pointing to the fact that the pad's propellant farm, integration facility, vehicle access tower, and the New Glenn booster hardware stored inside the integration facility all survived the incident in good condition. Independent observers remain cautiously skeptical of the year-end timeline given the scale of the damage, but Blue Origin has continued to update the status of its LC-36 rebuild and the LC-36B development program through official channels.",
+        sourceUrl: "https://pulse2.com/blue-origin-new-glenn-to-return-to-flight-before-end-of-2026-following-hotfire-explosion/",
+        timestamp: "2026-10-22T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Targets Late 2026 Window for Gaganyaan G1 Uncrewed Test Mission Despite Possible Slip to 2027 — Chairman Narayanan Says All Critical Systems Tests Are Underway as Agency Pursues Eight-Mission Launch Vehicle Manifest in Current Financial Year",
+        body: "ISRO Chairman V. Narayanan confirmed this month that preparations are underway for the first uncrewed Gaganyaan test flight, with the agency continuing to target a late 2026 launch while acknowledging that a slip into the third quarter of 2027 remains possible if ongoing safety assessments require additional time. The G1 mission will test the Gaganyaan crew module's life support, atmospheric re-entry guidance, and ocean recovery systems without a crew aboard, serving as the critical precursor to India's first crewed orbital spaceflight. Earlier reports placed the uncrewed flight approximately four months out from August 2026, which if accurate would suggest a December 2026 or early 2027 target, and ISRO has been conducting eight launches in the current financial year ahead of the crewed program milestones. The Gaganyaan crewed missions have been approved under India's Gaganyaan continuation program, and a successful G1 flight would represent a historic milestone for Indian human spaceflight capability.",
+        sourceUrl: "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/",
+        timestamp: "2026-10-22T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "ESA Confirms Ariane 6 Turbopump Anomaly May Limit Remaining 2026 Launches to One or Two Flights, Threatening Agency's Ambition to Double Annual Cadence — MTG-I2 Meteosat Mission Remains Next in Queue as Engineers Assess Impact on Broader Launch Manifest",
+        body: "The European Space Agency confirmed in late September that an Ariane 6 turbopump anomaly could limit the rocket's remaining 2026 flights to just one or two, dealing a setback to ESA's stated goal of doubling Ariane 6's annual launch rate compared with 2025. The turbopump issue was identified following the rocket's April 30, 2026 mission that carried Amazon Project Kuiper satellites to orbit, and engineers are currently assessing the extent to which the anomaly affects the remainder of the launch manifest. The MTG-I2 Meteosat Third Generation imaging satellite remains the next scheduled Ariane 6 mission, and its delivery to geostationary orbit would complete Europe's operational three-satellite Meteosat constellation for improved weather forecasting coverage over Europe and Africa. ESA's plan to reach 65 launches and space missions in 2026 is now under pressure, with the turbopump problem compounding the challenge of ramping Ariane 6 to commercial competitiveness against SpaceX Falcon 9 and other heavy-lift providers.",
+        sourceUrl: "https://keeptrack.space/tag/ariane-6.html",
+        timestamp: "2026-10-22T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-21": {
     date: "October 21, 2026",
     stories: [
