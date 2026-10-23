@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-23": {
+    date: "October 23, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Holds 'Artemis Acceleration' Press Conference at Kennedy Space Center Friday With Administrator Isaacman Detailing Revised Roadmap — Artemis III Confirmed as Crewed Earth-Orbital Test Flight for Mid-2027 While Artemis IV Targets 2028 South Pole Landing as First Crewed Return to the Moon Since Apollo 17",
+        body: "NASA Administrator Jared Isaacman convened the 'Artemis Acceleration' press conference at Kennedy Space Center on Friday afternoon alongside Associate Administrator Amit Kshatriya and Artemis Program Manager Jeremy Parsons to lay out the agency's most significant programmatic update since the Artemis II mission flew in April 2026. The briefing officially confirmed that Artemis III will serve as a crewed Earth-orbital mission designed to test deep-space life support, abort systems, and SpaceX Starship Human Landing System rendezvous procedures before any attempt to land on the lunar surface — a change Isaacman had foreshadowed in February when he declared proceeding directly to the Moon was 'a bridge too far.' Artemis IV, now carrying the weight of the first crewed lunar landing, is targeting the Moon's south polar region in early 2028, where NASA and its international partners plan to demonstrate in-situ resource utilization equipment and begin laying the groundwork for a permanent lunar outpost. The event, streamed live on NASA+, was watched closely by the global space community as the agency attempts to anchor a credible schedule following the delays that pushed Artemis I and II well past their original targets.",
+        sourceUrl: "https://starlust.org/nasa-to-provide-major-update-on-upcoming-artemis-missions-today-when-and-where-to-watch-live/",
+        timestamp: "2026-10-23T18:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Sets Fourth Attempt for Starlink Group 15-15 Falcon 9 From Vandenberg Friday Night After Three Consecutive Scrubs This Week — Veteran Booster B1063 Chasing Record-Equaling 36th Flight as Company Maintains Push Toward More Than One Launch Per Week for 2026",
+        body: "SpaceX lined up a fourth launch attempt for the Starlink Group 15-15 mission from Space Launch Complex 4 East at Vandenberg Space Force Base on Friday, October 23, after scrubs on Monday, Wednesday, and Thursday forced repeated recycles of Falcon 9 booster B1063. The flight will carry 27 Starlink v2 Mini broadband satellites to low Earth orbit, continuing the rapid constellation-replenishment cadence SpaceX has maintained throughout 2026 as it upgrades coverage and throughput across the operational Starlink network. B1063, targeting its 36th flight, would match the highest single-booster reuse milestone ever achieved by the Falcon 9 fleet — a benchmark that underscores SpaceX's industrial approach to rocket reusability. Following stage separation, the booster is set to execute an autonomous landing aboard a drone ship stationed in the Pacific Ocean, after which SpaceX crews will inspect and return it to the launch site for its next turnaround.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-10-23T22:28:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Leadership",
+        headline: "Former NASA Science Chief Thomas Zurbuchen Joins Blue Origin as Senior Vice President of Advanced Concepts — Celebrated Astrophysicist Who Oversaw James Webb Space Telescope Launch and Mars Sample Return Program Brings Deep Agency Relationships and Scientific Prestige to Jeff Bezos's Rocket Company",
+        body: "Blue Origin has hired Thomas Zurbuchen, the former NASA Associate Administrator for Science who led the agency's science directorate from 2016 to 2022, as Senior Vice President of Advanced Concepts, the company confirmed this week. Zurbuchen, who officially began his role on October 5, oversaw some of NASA's most celebrated recent achievements during his six-year tenure including the successful launch and commissioning of the James Webb Space Telescope, the Perseverance rover landing on Mars, and the initiation of the Mars Sample Return campaign before he departed for a position at ETH Zurich. His hire signals Blue Origin's ambition to play a deeper role in NASA-partnered science missions and potentially in future lunar and deep-space exploration programs beyond the company's current Human Landing System contract for Artemis. Zurbuchen's extensive relationships across the global space science community and his familiarity with NASA's procurement processes make him a strategically valuable addition as Blue Origin works to diversify its mission portfolio and credibility beyond commercial launch.",
+        sourceUrl: "https://www.kentreporter.com/2026/10/22/former-nasa-associate-administrator-joins-kents-blue-origin/",
+        timestamp: "2026-10-23T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "Shenzhou-23 Crew Aboard Tiangong Passes Five-Month Mark With Science Productivity at Record Levels as CMSA Confirms One Taikonaut Will Complete Historic Year-Long Stay — First Hong Kong Taikonaut Li Jiaying Continues Biomedical Research Ahead of Landmark Mission Milestone",
+        body: "China's Shenzhou-23 crew — commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Li Jiaying, the first taikonaut from Hong Kong — has surpassed five months aboard the Tiangong space station following their May 24 launch, with the China Manned Space Agency reporting strong progress across more than 100 new science and application projects. Li Jiaying's biomedical research portfolio, focused on space life sciences and human physiological adaptation, has attracted particular attention as CMSA prepares data products for international partners under its expanding collaboration framework. The mission is notable as the first Shenzhou flight to include a planned year-long stay for one crew member — a duration milestone that would match those achieved by ISS astronauts — to gather long-duration health and performance data in advance of China's planned deep-space crewed missions later this decade. CMSA has not yet publicly identified which of the three taikonauts will remain aboard Tiangong for the extended portion of the mission, stating the assignment will be finalized based on health assessments conducted throughout the flight.",
+        sourceUrl: "https://www.collectspace.com/news/news-052426a-china-shenzhou-23-taikonauts-launch-tiangong-station.html",
+        timestamp: "2026-10-23T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "International Cooperation",
+        headline: "NASA Formally Invites ISRO to Participate in Lunar Gateway and Moon to Mars Base Architecture as India-US Space Partnership Deepens — Invitation Follows Artemis Accords Signing and Builds on Chandrayaan-3 South Polar Success in Push to Make India a Founding Partner of Humanity's Permanent Return to the Moon",
+        body: "NASA has formally extended an invitation to the Indian Space Research Organisation to participate in the Lunar Gateway and the broader Moon to Mars base architecture, deepening what has become one of the most consequential bilateral space partnerships in the world. The invitation builds on India's historic Chandrayaan-3 south polar landing in 2023, ISRO's signing of the Artemis Accords, and the joint NISAR Earth-observation satellite that is now in orbit, positioning India as a potential founding contributor of hardware, science, and crew time to the Gateway orbital outpost. ISRO Chairman V. Narayanan has indicated the agency is studying the invitation with interest, though any formal commitment would require government approval given the significant funding and technology-transfer questions involved in a crewed lunar program partnership. An Indian contribution to Gateway or the lunar surface base would mark a generational milestone for the country's space program and would represent the first crewed spaceflight collaboration between the two nations.",
+        sourceUrl: "https://space.veerexa.com/news",
+        timestamp: "2026-10-23T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-22": {
     date: "October 22, 2026",
     stories: [
