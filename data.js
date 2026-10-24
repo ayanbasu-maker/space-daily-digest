@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-24": {
+    date: "October 24, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Roman Space Telescope Enters Final Commissioning Phase With Both Science Instruments Powered On and Calibration Underway — Wide Field Instrument and Coronagraph Instrument Checked Out in Space as Mission Teams Target Arrival at Sun-Earth L2 Point in December and First Public Images for Early 2027",
+        body: "NASA's Nancy Grace Roman Space Telescope, which launched aboard a SpaceX Falcon Heavy from Kennedy Space Center on August 30, 2026, has entered its final commissioning phase with both primary science instruments — the Wide Field Instrument and the Coronagraph Instrument — powered on and undergoing in-space checkout. Engineers at the Space Telescope Science Institute and NASA's Goddard Space Flight Center are calibrating detector arrays, verifying optical alignment, and characterizing instrument performance in the space environment after the spacecraft successfully deployed its solar array and lower sunshade within the first two hours of flight. The telescope is en route to the Sun-Earth L2 Lagrange point approximately 1.5 million kilometers from Earth, where it will eventually join the James Webb Space Telescope in operations, with arrival targeted for December 2026 and the first publicly released science images scheduled for early 2027. The $4.3 billion mission, which launched approximately nine months ahead of its original schedule, will survey more of the sky in a single pointing than any space telescope before it, targeting dark energy, dark matter, exoplanet demographics, and infrared time-domain astronomy.",
+        sourceUrl: "https://www.natureworldnews.com/articles/73213/20260903/roman-space-telescope-commissioning-milestones-after-launch.htm",
+        timestamp: "2026-10-24T16:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Missions",
+        headline: "NASA's Neil Gehrels Swift Observatory Ends 21-Year Science Mission as Orbital Decay Below 171 Miles Prevents Steady Observations — Spacecraft Conducted Final Observation on October 20 and Is Expected to Re-enter Earth's Atmosphere Within Weeks After Pioneering Gamma-Ray Burst Astronomy",
+        body: "NASA has announced the end of science operations for the Neil Gehrels Swift Observatory, a multi-wavelength space telescope that spent more than two decades revolutionizing humanity's understanding of gamma-ray bursts, neutron star mergers, and transient high-energy phenomena across the universe. The spacecraft's orbit has decayed to below approximately 171 miles (275 kilometers) above Earth's surface, where atmospheric drag makes it impossible to maintain the stable pointing required for scientific observations, and Swift conducted its final observation on October 20. Launched in November 2004, Swift detected and localized more than 1,500 gamma-ray bursts, enabled real-time multi-messenger follow-up observations of gravitational wave events detected by LIGO, and provided early ultraviolet and X-ray photometry for the kilonova that confirmed neutron star mergers as a source of heavy r-process elements including gold and platinum. The spacecraft is expected to re-enter Earth's atmosphere in the coming weeks, with NASA and the aerospace safety community monitoring its descent; no risk to populated areas is anticipated from the uncontrolled reentry.",
+        sourceUrl: "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/",
+        timestamp: "2026-10-24T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Successfully Launches Starlink Group 15-15 From Vandenberg on Fourth Attempt as Veteran Booster B1063 Achieves Record-Equaling 36th Flight and Lands Aboard Pacific Drone Ship — 27 New Starlink v2 Mini Satellites Deployed to Low Earth Orbit Following Week of Weather and Technical Scrubs",
+        body: "SpaceX successfully launched 27 Starlink v2 Mini satellites to low Earth orbit on a Falcon 9 rocket from Space Launch Complex 4 East at Vandenberg Space Force Base Friday evening, completing the Starlink Group 15-15 mission after three consecutive scrubs earlier in the week due to weather and technical issues. Falcon 9 first stage booster B1063 flew on its 36th mission, matching the highest flight count ever achieved by a single Falcon 9 booster and underlining the extraordinary reusability record that forms the economic foundation of SpaceX's commercial launch operations. Following stage separation, B1063 executed a successful landing aboard the droneship stationed in the Pacific Ocean, marking another operational recovery in the company's standard post-mission booster reclamation workflow. The successful deployment brings the total number of Starlink satellites launched in 2026 to over 1,100, as SpaceX continues upgrading its constellation's broadband capacity and throughput ahead of the planned introduction of Starlink v3 hardware later in the program.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/20/live-coverage-spacex-to-launch-27-starlink-satellites-on-falcon-9-rocket-from-vandenberg-sfb-5/",
+        timestamp: "2026-10-24T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA and Chinese Academy of Sciences Report SMILE Mission Is Delivering First-of-Its-Kind Soft X-Ray Images of Earth's Magnetosphere — Joint Solar Wind and Magnetosphere Ionosphere Link Explorer Begins Sustained Science Operations Three Weeks Ahead of Original Schedule After May Launch on Vega-C",
+        body: "The European Space Agency and China's Academy of Sciences have confirmed that the Solar wind Magnetosphere Ionosphere Link Explorer, known as SMILE, is conducting sustained science operations and delivering the first soft X-ray images of Earth's magnetosphere ever captured from space, following the spacecraft's launch on May 19, 2026 aboard a Vega-C rocket from Kourou, French Guiana. SMILE's four instruments — including ESA's soft X-ray imager, an ultraviolet aurora imager, a light ion analyzer, and a magnetometer — are performing within specifications across a highly elliptical orbit with a roughly 5,000-kilometer perigee and a 121,000-kilometer apogee, providing up to 40 hours of continuous magnetospheric imaging per orbit. The mission represents a landmark in space weather science, enabling researchers to observe in near-real-time how solar wind plasma interacts with Earth's protective magnetic field to drive geomagnetic storms, auroral phenomena, and space weather events that affect satellites, power grids, and communications systems on Earth. ESA Director General Josef Aschbacher described the first images as historically significant, stating they open an entirely new window on the dynamics of the near-Earth space environment and validate a decade of instrument development shared between European and Chinese scientists.",
+        sourceUrl: "https://orbitalradar.com/blog/orbital-briefing-2026-10-05",
+        timestamp: "2026-10-24T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Completes Key Propulsion System Test for Gaganyaan G1 Uncrewed Mission as Agency Works Toward Late 2026 Launch Window — Service Module Engine Qualification Milestone Marks Final Critical Hurdle Before Flight Readiness Review for India's First Human Spaceflight Precursor Test",
+        body: "India's ISRO has completed a key propulsion system qualification test for the Gaganyaan G1 uncrewed mission, clearing a significant milestone on the path to India's first orbital human spaceflight precursor test as the agency works toward a launch window in late 2026 or early 2027. The G1 mission will carry an uncrewed Gaganyaan crew module — equipped with the Vyom Mitra semi-humanoid robot — on a suborbital or orbital trajectory to validate life support, guidance systems, crew module separation, atmospheric re-entry, and ocean recovery procedures before any astronaut is placed aboard the vehicle. ISRO Chairman V. Narayanan noted that the agency has now completed more than 8,000 ground tests across Gaganyaan systems, and that the flight readiness review timeline will ultimately depend on satisfactory results from the remaining integrated subsystem evaluations currently underway. A successful G1 flight would make India only the fourth nation in history to independently launch humans — or human-rated hardware — to orbit, cementing ISRO's position as a top-tier spacefaring agency as it looks toward crewed orbital missions and a potential future collaboration with NASA on the Lunar Gateway.",
+        sourceUrl: "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/",
+        timestamp: "2026-10-24T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-23": {
     date: "October 23, 2026",
     stories: [
