@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-25": {
+    date: "October 25, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Advances Artemis III SLS Stacking in Vehicle Assembly Building While Confirming Dual-Provider Lander Strategy for 2028 Lunar Landing — Both SpaceX Starship HLS and Blue Origin National Team Lander Remain Under Active Certification Testing as Axiom Space Sortie Suit Clears Key Thermal Milestone",
+        body: "NASA is making steady progress on Artemis III hardware integration in Kennedy Space Center's Vehicle Assembly Building as the agency simultaneously pursues a dual-provider approach for the 2028 Artemis IV crewed lunar landing, keeping both the SpaceX Starship Human Landing System and Blue Origin's National Team lander under active development. The agency confirmed it will not select a single lander provider until testing demonstrates which vehicle is the clear choice for the south polar landing mission, a strategy intended to protect the 2028 schedule from a delay by either contractor. The Axiom Space lunar surface sortie suit, which astronauts will wear during moonwalks, cleared a key thermal performance milestone this week in vacuum chamber testing at Axiom's Houston facility, addressing concerns that had flagged during earlier prototype evaluations. The dual-path approach and sortie suit progress were detailed in a NASASpaceFlight analysis published this week following Administrator Jared Isaacman's October 23 Artemis Acceleration press conference at Kennedy Space Center.",
+        sourceUrl: "https://nasaspaceflight.com/2026/10/nasa-artemis-sls-sortie-suit-dual-paths",
+        timestamp: "2026-10-25T16:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA's PLATO Exoplanet-Hunting Space Telescope Enters Final Pre-Launch Processing Ahead of Ariane 6 VA270 Flight Targeted for December 2026 — Mission Will Survey One Million Stars Simultaneously for Earth-Sized Planets in Habitable Zones Using 26 Wide-Field Cameras and Stellar Seismology",
+        body: "The European Space Agency's PLATO mission — short for PLAnetary Transits and Oscillations of stars — has entered final pre-launch environmental testing and processing at ESTEC in the Netherlands ahead of a targeted December 2026 launch on an Ariane 6 rocket from the Guiana Space Centre in Kourou, French Guiana. PLATO carries 26 wide-field optical cameras that will survey more than one million stars simultaneously for the characteristic brightness dips produced by transiting exoplanets, using stellar oscillation measurements to determine host star ages and masses with unprecedented precision. The mission is specifically designed to detect Earth-sized rocky worlds orbiting in the habitable zones of Sun-like stars and characterize their radii to better than three percent accuracy, providing the definitive sample needed to assess how common potentially habitable worlds are in the galaxy. A successful December launch would mark the fourth Ariane 6 flight of 2026 and help the vehicle move toward the nine-to-ten launches per year cadence ESA Director General Josef Aschbacher set as a target for 2027.",
+        sourceUrl: "https://www.europe1.fr/technologies/ariane-6-lancement-dun-telescope-spatial-fin-2026-268966",
+        timestamp: "2026-10-25T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Confirms All 32 Payloads Successfully Deployed From Bandwagon-5 Rideshare Mission Following October 20 Cape Canaveral Launch — Starfall Reentry Capsule Completes Second Orbital Demonstration Flight as Falcon 9 Booster B1060 Achieves 19th Successful Recovery",
+        body: "SpaceX has confirmed successful deployment and early communications contact for all 32 customer payloads from the Bandwagon-5 rideshare mission, which lifted off October 20 from Space Launch Complex 40 at Cape Canaveral Space Force Station following a one-day weather delay. Booster B1060 flew its 19th mission and completed a successful autonomous landing on a drone ship in the Atlantic Ocean shortly after stage separation, extending the rocket's impressive reuse record. Among the 32 payloads was Starfall, a disc-shaped reentry capsule developed by SpaceX for returning cargo from low Earth orbit, flying on its second orbital demonstration after a June 2026 debut mission. The flight highlights SpaceX's growing commercial rideshare business, which now deploys hundreds of customer spacecraft annually across the Transporter and Bandwagon series missions, serving satellite manufacturers, research institutions, and in-space services companies across multiple orbital inclinations.",
+        sourceUrl: "https://www.newsbytesapp.com/news/science/spacex-s-bandwagon-5-mission-blasts-off-to-orbit/story",
+        timestamp: "2026-10-25T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Details Aggressive New Glenn Flight Rate Expansion With New Florida and California Launch Facilities Targeting Operational Surge by 2028 — Vandenberg SLC-14 Lease Secured as Company Presses Ahead With LC-36B for New Glenn 9x4 Variant Despite Ongoing Recovery From May Hotfire Explosion",
+        body: "Blue Origin has outlined an aggressive expansion of its New Glenn launch infrastructure that goes well beyond recovering from the May 28 hotfire explosion at Cape Canaveral, with plans for multiple new Florida launch pads and a California facility that together aim to support a dramatically higher annual flight rate by the end of the decade. The company has secured a lease for Space Launch Complex 14 at Vandenberg Space Force Base, which will take approximately two years to prepare for operations, and is constructing Launch Complex 36B at Cape Canaveral to support the more powerful New Glenn 9x4 rocket variant targeting its debut in 2027. CEO Dave Limp maintained this week that New Glenn will return to flight before the end of 2026 from the repaired LC-36A pad, though NASA Administrator Jared Isaacman said publicly that restoring the pad after the explosion could take significantly longer. The expansion plans reflect Blue Origin's intent to grow from a single Florida pad to a diversified multi-facility operation capable of meeting growing civil, commercial, and national security launch demand.",
+        sourceUrl: "https://www.foxweather.com/earth-space/blue-origin-plans-building-new-launch-pad-support-its-more-powerful-new-glenn-9x4-rocket.amp",
+        timestamp: "2026-10-25T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "China Confirms Year-Long Taikonaut Mission Aboard Tiangong Is Generating Rich Biomedical Dataset for 2030 Lunar Crewed Ambitions as Tianzhou-10 Cargo Craft Completes Five-Month Docking — CMSA Prepares to Identify Which Shenzhou-23 Crew Member Will Complete Extended Stay Based on Ongoing Health Assessments",
+        body: "China's Manned Space Agency confirmed this week that its decision to extend one Shenzhou-23 crew member's stay aboard Tiangong to a full year is generating a rich biomedical and physiological dataset that will directly inform crew selection, training, and medical countermeasures for China's planned crewed lunar missions in the early 2030s. The Tianzhou-10 cargo spacecraft, which launched on a Long March 7 rocket and docked with Tiangong's rear port on May 11, 2026, has now been attached for more than five months and continues delivering propellant and consumables to support the extended-duration mission. CMSA has not yet publicly named which of the three Shenzhou-23 taikonauts — commander Zhu Yangzhu, pilot Zhang Zhiyuan, or payload specialist Li Jiaying — will complete the year-long stay, with the selection to be finalized through ongoing medical assessments conducted throughout the flight. The planned year-long individual stay matches durations achieved by ISS astronauts and marks a significant step in China's ambition to send humans beyond Earth orbit later this decade.",
+        sourceUrl: "https://opengovasia.com/chinas-tianzhou-10-cargo-spacecraft-docks-with-tiangong-space-station/",
+        timestamp: "2026-10-25T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Chairman V. Narayanan Announces Gaganyaan Human Spaceflight Program Is 90 Percent Complete as Agency Targets December 2026 for G1 Uncrewed Test Mission — More Than 8,000 Subsystem Tests Completed at Bengaluru Facilities With Remaining Work Focused on Final Propulsion Qualification and Integrated Systems Review",
+        body: "ISRO Chairman V. Narayanan announced that development work on the Gaganyaan human spaceflight program has crossed the 90 percent completion milestone, with the remaining work focused on final propulsion system qualification, integrated systems testing, and the flight readiness review process ahead of the targeted December 2026 first uncrewed G1 test mission. The G1 mission will carry the Vyom Mitra semi-humanoid robot aboard a fully human-rated Gaganyaan crew module on an orbital trajectory to validate life support systems, atmospheric re-entry guidance, parachute deployment, and ocean recovery procedures in a realistic flight environment. Narayanan emphasized that more than 8,000 individual subsystem and component tests have been completed across the Gaganyaan program and that no critical open items remain unresolved at the system level, with schedule confidence improving as the final qualification work nears conclusion. A successful G1 flight would make India only the fourth nation to independently test a human-rated orbital spacecraft in flight, setting the stage for India's first crewed orbital spaceflight anticipated in 2027.",
+        sourceUrl: "https://www.deccanherald.com/science/space/gaganyaan-mission-90-development-work-completed-says-isro-chief-v-narayanan-3772843",
+        timestamp: "2026-10-25T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-24": {
     date: "October 24, 2026",
     stories: [
