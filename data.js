@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-26": {
+    date: "October 26, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Roman Space Telescope Wide Field Instrument Surpasses Design Specifications by Nearly 30 Percent Following Precision Secondary Mirror Adjustment — Engineers Measure 63 Nanometer RMS Optical Error Against 90 Nanometer Requirement as Coronagraph Instrument Deformable Mirror Calibration Begins in Earnest",
+        body: "NASA engineers have confirmed that the Nancy Grace Roman Space Telescope's Wide Field Instrument is performing nearly 30 percent better than its optical design requirement after teams made a sub-micron adjustment to the telescope's secondary mirror, bringing wavefront error down to approximately 63 nanometers root mean square against the mission requirement of 90 nanometers — a result described as exceptional by the mission team at the Space Telescope Science Institute. The mirror movement, smaller than one-sixteenth the width of a human hair, was executed in late October as part of the telescope's ongoing in-space commissioning process and has effectively locked in extraordinary image sharpness across the Wide Field Instrument's 300.8-megapixel detector array. With the Wide Field Instrument calibration largely complete, engineers have shifted focus to the Coronagraph Instrument, which will attempt to directly image exoplanets by suppressing starlight with a system of deformable mirrors; teams are now identifying optimal mirror configurations ahead of a demonstration of the coronagraph's planet-suppression performance expected within the next few weeks. The results position Roman's scientific return substantially higher than pre-launch projections and validate the precision alignment approach the team adopted after launch on August 30.",
+        sourceUrl: "https://www.newsbytesapp.com/news/science/nasas-roman-space-telescope-now-delivers-almost-30-sharper-images/tldr",
+        timestamp: "2026-10-26T16:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Confirms Starship Flight 15 Will Attempt First-Ever Simultaneous Catch of Both Booster and Ship With Mechazilla Tower Arms in November — Elon Musk Says Success Is More Likely Than Not While Teams Stack Second Complete Flight Stack at Starbase in Parallel Preparation",
+        body: "SpaceX has confirmed that Starship Flight 15, targeting a launch in November from Starbase, Texas, will attempt to catch both the Super Heavy booster and the upper-stage Starship vehicle with the Mechazilla launch tower's mechanical arms — a feat never before attempted that would mark the first full recovery of both rocket stages in a single mission. Elon Musk disclosed the dual-catch goal during the company's third-quarter earnings call and said the probability of success is more likely than not, while noting SpaceX has sufficient spare hardware to absorb a failure and proceed to Flight 16 on a rapid timeline. The plan follows the partial success of Flight 14 in late September, which reached Earth orbit, deployed 26 Starlink V3 prototype satellites, and successfully caught the booster with the tower arms before an early Raptor engine shutdown on the Ship stage forced a curtailed orbital coast and a controlled splashdown rather than a tower catch for the upper stage. A successful Flight 15 dual catch would dramatically accelerate SpaceX's path toward full and rapid reusability of the Starship system, enabling the flight cadence needed to support both commercial payload manifests and NASA's Artemis Human Landing System contract.",
+        sourceUrl: "https://northeasttimes.com/2026/10/21/spacex-plans-to-catch-both-starship-stages-on-its-next-flight/",
+        timestamp: "2026-10-26T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Regulatory",
+        headline: "FAA Issues Notice of Intent to Prepare Programmatic Environmental Impact Statement Covering SpaceX Request for Up to 456 Annual Starship Launches From Boca Chica — Current 25-Flight Annual Ceiling Would Increase 17-Fold Under Phase 2 of Proposal Spanning Texas, Florida, and Louisiana Spaceports",
+        body: "The Federal Aviation Administration has issued a Notice of Intent to prepare a programmatic environmental impact statement for SpaceX's application to conduct up to 456 Starship launches and 912 landings per year across its Starbase facility in Boca Chica, Texas, a 17-fold increase over the current 25-flight annual ceiling that has constrained the company's test and commercial launch cadence. The phased proposal would authorize approximately 100 launches per year in Phase 1, scaling to the 456-flight ceiling in Phase 2 as infrastructure, processing, and demand allow, with the scope potentially extending to Starship launch sites in Florida and Louisiana as those facilities complete construction. The programmatic EIS process will include public comment periods and environmental reviews covering noise, wildlife impact, air quality, and public safety corridors around Boca Chica, and the FAA has not established a timeline for when final authorization might be granted. Industry analysts note that even approval of a fraction of the proposed ceiling would represent a transformative increase in launch cadence that could support Starlink constellation maintenance, point-to-point cargo missions, and deep-space mission support at a scale no existing launch vehicle can approach.",
+        sourceUrl: "https://satnews.com/2026/10/14/spacex-requests-faa-approval-for-up-to-456-starship-launches-annually-at-starbase/",
+        timestamp: "2026-10-26T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "China Confirms Shenzhou-24 Mission Will Include First Pakistani Spaceflight Participant for Brief Tiangong Stay as Crew Rotation Targets Late November — Shenzhou-23 Commander Zhu Yangzhu Among Those Considered for Year-Long Extended Stay While Three-Person Crew Prepares for November 25 Launch on Long March 2F",
+        body: "China's Manned Space Engineering Office has confirmed that the Shenzhou-24 mission, targeting launch on November 25 from the Jiuquan Satellite Launch Center aboard a Long March 2F rocket, will carry a Pakistani spaceflight participant for a short-duration visit to the Tiangong space station — a milestone that would make Pakistan the first South Asian nation beyond India to place a citizen in space. The Shenzhou-24 crew will dock with Tiangong and overlap briefly with the departing Shenzhou-23 crew before that spacecraft's planned return on November 30, completing China's routine six-month crew rotation while retaining one Shenzhou-23 crew member aboard to continue China's first year-long human spaceflight experiment. The Shenzhou-23 crew — commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Lai Ka-ying — have spent more than five months aboard Tiangong since their May 24 launch, conducting biomedical research and technology demonstrations that are generating data directly relevant to future crewed lunar missions. No official announcement of the Shenzhou-24 crew names has yet been made by CMSA, with the Pakistani astronaut candidate selection remaining a closely held detail ahead of the formal pre-launch press briefing expected in early November.",
+        sourceUrl: "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+        timestamp: "2026-10-26T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Human Landing System",
+        headline: "Blue Origin Blue Moon Human Landing System Completes Critical Descent Engine Hot-Fire Series at West Texas Facility as NASA Dual-Provider Certification Testing Intensifies Ahead of 2028 Artemis IV South Pole Landing — Company Maintains That Lander Is On Track for Crewed Demonstration in Parallel With SpaceX Starship HLS",
+        body: "Blue Origin has completed a multi-engine hot-fire test series for the Blue Moon Mark 2 Human Landing System at its West Texas propulsion facility, validating the descent stage propulsion performance in a configuration representative of the final flight vehicle as the company intensifies certification work under NASA's dual-provider Artemis lander strategy. The Blue Moon lander, which is powered by a cluster of BE-7 liquid hydrogen-liquid oxygen engines that Blue Origin has been refining through extensive ground testing, is competing alongside SpaceX's Starship Human Landing System for the first crewed lunar surface landing in the Artemis IV mission targeting the south pole in 2028. NASA confirmed at the October 23 Artemis Acceleration briefing that both providers remain under active certification contracts and that the agency will not prematurely narrow to a single provider, preserving schedule insurance against a technical setback by either team. Blue Origin CEO Dave Limp stated that Blue Moon is making steady progress through NASA's certification milestones and that the company expects to present a compelling case for selection as the Artemis IV prime lander based on its engine maturity, crew cabin heritage from the New Shepard program, and broader infrastructure investments at its Kent, Washington headquarters.",
+        sourceUrl: "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update",
+        timestamp: "2026-10-26T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-25": {
     date: "October 25, 2026",
     stories: [
