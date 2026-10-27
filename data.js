@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-27": {
+    date: "October 27, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Falcon 9 Launches Starlink Group 15-16 Batch of 27 Satellites From Vandenberg Space Force Base as Network Surpasses 11,000 Active Satellites — Booster B1082 Completes Record 26th Flight and Lands on OCISLY Droneship in Pacific Ocean",
+        body: "SpaceX launched 27 Starlink satellites aboard a Falcon 9 rocket from Vandenberg Space Force Base's Space Launch Complex 4E at 3:25 a.m. EDT on October 27, deploying the Starlink Group 15-16 batch to low Earth orbit in the company's 117th Falcon 9 mission of 2026. Booster B1082 completed its 26th overall flight and 21st dedicated Starlink mission, executing a flawless autonomous landing on the Of Course I Still Love You droneship in the Pacific Ocean approximately eight minutes after liftoff. The deployment pushed SpaceX's operational Starlink constellation past 11,000 active satellites, a milestone that further solidifies the network's capacity to deliver high-bandwidth broadband globally. SpaceX is set to close out October with another Vandenberg launch on October 29, continuing a rapid-fire cadence that has averaged more than two launches per week throughout 2026.",
+        sourceUrl: "https://spaceflightnow.com/2026/10/27/west-coast-falcon-9-rocket-to-launch-27-starlink-satellites/",
+        timestamp: "2026-10-27T07:25:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Targets Summer 2027 for Artemis III Crewed Lunar Landing in Most Complex Multi-Rocket Campaign Ever Attempted — Program Manager Details Simultaneous Operations Involving SLS, New Glenn, and Starship HLS at Kennedy Space Center Briefing",
+        body: "NASA program manager Jeremy Parsons described the Artemis III crewed lunar landing mission as the most complicated launch campaign ever undertaken during a Kennedy Space Center press conference on October 27, with the agency targeting summer 2027 for the mission that will coordinate three separate launch vehicles in sequence. The campaign requires SpaceX's Starship Human Landing System to first reach lunar orbit via a series of propellant-transfer missions using Starship tankers, followed by the SLS launch of Orion with astronauts aboard, with all elements rendezvousing in cislunar space. Parsons noted that schedule confidence has improved following ongoing Artemis III core stage stacking work in the Vehicle Assembly Building. NASA Administrator Jared Isaacman also addressed recent contractor layoffs at Kennedy Space Center, reaffirming the agency's commitment to the Artemis timeline amid ongoing budget negotiations.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-10-27T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Officially Retires Swift Observatory After Private Satellite Rendezvous Mission Fails to Reach Aging Spacecraft in Orbit — 22-Year Gamma-Ray Burst Hunter Ends Operations Having Transformed High-Energy Astrophysics",
+        body: "NASA has officially ended the mission of the Neil Gehrels Swift Observatory after a commercial satellite tasked with extending its operational life failed to complete a rendezvous with the spacecraft, leaving the 22-year-old telescope unable to continue gamma-ray burst detection and follow-up observations. Swift launched in November 2004 and revolutionized high-energy astrophysics by rapidly slewing its onboard X-ray and ultraviolet telescopes to pinpoint afterglows within seconds of a burst detection, enabling identification of thousands of events and confirming that the most distant GRBs trace the earliest stars in the universe. The observatory had been operating well beyond its original design lifetime on a degraded but still productive battery system, and the private servicing mission had aimed to install a fresh power supply to extend operations another decade. Mission scientists say the Swift archive of more than 1,400 gamma-ray burst detections will remain a foundational resource for high-energy astrophysics research for generations.",
+        sourceUrl: "https://science.nasa.gov/",
+        timestamp: "2026-10-27T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Policy",
+        headline: "ESA Launches Formal Study Into European-Led Space Station and Independent Crew Transport Capability Following Member-State Mandate — Agency Assesses Options for Autonomy in Human Spaceflight as Ariane 6 Establishes Commercial Launch Baseline",
+        body: "The European Space Agency has formally opened a study into the feasibility and design options for a European-led space station and independent crew transportation system, responding to a mandate from member states that calls for ESA to develop competitive capabilities in human spaceflight rather than remaining dependent on international partners for orbital access. The initiative follows a Ministerial Council direction to strengthen Europe's position across low-Earth orbit, cislunar space, and eventual Mars exploration, with crewed transport identified as the critical strategic gap. ESA Director General Josef Aschbacher has framed the study as a necessary investment in Europe's long-term role in exploration, noting that Ariane 6 now provides independent launch access for cargo and that crew transport is the logical next step. The study is expected to produce architecture options and preliminary cost estimates within 18 months, informing a Ministerial decision on whether to pursue full development.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/10/europe-update/",
+        timestamp: "2026-10-27T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Science",
+        headline: "Blue Origin Pneumatic Sampler Instrument Confirmed Operational Aboard JAXA Martian Moons eXploration Spacecraft Following October 19 Launch — P-Sampler Will Attempt First-Ever Collection of Pristine Phobos Surface Material for Earth Return",
+        body: "Blue Origin has confirmed that its Pneumatic Sampler instrument is operational and transmitting data aboard JAXA's Martian Moons eXploration spacecraft, which launched on October 19 on a multi-year journey to study Phobos and Deimos and return samples from the Martian moon's surface. The P-Sampler uses pressurized gas to dislodge and capture surface regolith from Phobos in a manner designed to avoid contamination and preserve the chemical and physical state of material that may date to the early solar system. If successful in returning Phobos samples to Earth around 2031, the mission would provide the first pristine material from a body in the Mars system, potentially resolving longstanding questions about Phobos's origin as either a captured asteroid or a remnant of an ancient giant impact. The instrument marks Blue Origin's first contribution to a deep-space scientific mission and broadens the company's profile beyond launch services and lunar landers.",
+        sourceUrl: "https://www.blueorigin.com/news",
+        timestamp: "2026-10-27T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-26": {
     date: "October 26, 2026",
     stories: [
