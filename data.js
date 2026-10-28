@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-28": {
+    date: "October 28, 2026",
+    stories: [
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin CEO Announces New Glenn Vehicle Access Tower at LC-36 Fully Rebuilt Five Months After May Hot-Fire Explosion — Company Now Targets November Return to Flight, Earlier Than Most Industry Forecasts, Using Revised Horizontal Integration and Crane-Lift Assembly Approach",
+        body: "Blue Origin CEO Dave Limp disclosed on October 24 that the 430-foot Vehicle Access Tower at Launch Complex 36 at Cape Canaveral Space Force Station has been fully reassembled, with every module repaired and reinstated following the May 28 hot-fire test explosion that heavily damaged the pad and forced an extended stand-down of the New Glenn program. Advanced Television reported on October 28 that Blue Origin has set a November target for its first return-to-flight attempt, a timeline described by industry observers as earlier than expected given the scale of the damage and the structural changes required to enable operations. Rather than restoring the destroyed original transporter-erector, Blue Origin has adopted a revised launch approach in which the rocket will be assembled horizontally in a new integration hall, moved to the pad, lifted vertical by a mobile crane, and then mated with the customer payload — a significant operational change from the original stack-and-erect concept. The company has shared few details about any changes to the New Glenn rocket itself following the explosion, leaving investigators and analysts watching closely to see whether a structural modification or procedural change is required before flight.",
+        sourceUrl: "https://www.advanced-television.com/2026/10/28/blue-origin-to-resume-flights-earlier-than-expected/",
+        timestamp: "2026-10-28T08:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Completes Full-Duration 33-Engine Static Fire on Super Heavy Booster 22 for Starship Flight 15 as Ship 42 Undergoes Additional Cryogenic Testing — Unprecedented Dual-Catch of Both Stages With Mechazilla Tower Arms Targeted for November Launch From Starbase",
+        body: "SpaceX fired all 33 Raptor engines on Super Heavy Booster 22 for approximately 15 seconds at Starbase on October 25, completing the full-duration static fire that clears the booster for Starship Flight 15 — the first mission to attempt simultaneously catching both the Super Heavy booster and the Starship upper stage with the Mechazilla launch tower's mechanical arms. The milestone follows Elon Musk's announcement on October 20 that Flight 15 will attempt the unprecedented dual catch that would complete the first fully reusable Starship flight cycle in a single mission, with Musk saying success is more likely than not. Ship 42, the upper stage assigned to Flight 15, has returned to SpaceX's Massey's facility for additional cryogenic proof testing after all six Raptor engines were removed, meaning the ship must complete its own static fire before the full vehicle stack can be prepared for launch. SpaceX is targeting a November launch window for Flight 15, building on the partial success of Flight 14, which caught the booster with the Mechazilla arms but ended with a controlled water splashdown for the Ship stage after an early engine shutdown curtailed its burn.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
+        timestamp: "2026-10-28T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Chairman Narayanan Confirms First Uncrewed Gaganyaan Test Flight G1 Carrying Half-Humanoid Robot Vyommitra Expected Within Two Months — December Launch Target Set After Successful Module Separation Tests as Agency Announces Plan for Four Active Launch Pads by 2029",
+        body: "ISRO Chairman V. Narayanan confirmed on October 25–26 that the agency's first uncrewed orbital test of the Gaganyaan crew transportation system, designated G1, is expected to launch within approximately two months from Sriharikota's Second Launch Pad aboard the HLVM3 rocket, placing the attempt squarely in December 2026. The G1 mission will carry Vyommitra, India's half-humanoid spaceflight testbed designed to monitor crew module conditions and demonstrate life-support systems, through a multi-orbit mission followed by a guided reentry and Bay of Bengal splashdown — the first of three uncrewed test flights before a crewed Gaganyaan mission planned for 2027. ISRO completed critical crew module and service module separation tests at Vikram Sarabhai Space Centre in mid-October, confirming reliability of the pyrotechnic and mechanical systems that separate the two modules during nominal flight and abort scenarios, and the agency also validated its parachute deceleration systems in a second integrated air drop test (IADT-02) using an Indian Air Force helicopter. Alongside the Gaganyaan timeline update, ISRO unveiled a major infrastructure expansion plan that calls for four active launch pads to be operational at Sriharikota by 2029, supporting increased cadence for crew missions, commercial PSLV and GSLV launches, and future missions toward India's national space station goal.",
+        sourceUrl: "https://businesstoday.in/india/story/4-launch-pads-by-2029-isro-lays-out-indias-next-big-space-expansion-plan-563705-2026-10-26",
+        timestamp: "2026-10-28T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Technology",
+        headline: "ESA's INVICTUS Hypersonic Spaceplane Programme Publicly Confirms Clearance of First System Requirements Review — Frazer-Nash Consultancy Discloses March 2026 Milestone After Follow-On Funding Discussions Conclude, With Second Review Planned for October 2027 and Mach 5 Test Flight Targeting 2031",
+        body: "The European Space Agency's INVICTUS hypersonic spaceplane programme has publicly confirmed the successful completion of its first System Requirements Review (SRR-1), following a disclosure by Frazer-Nash Consultancy chief engineer Stephan Carroll that the milestone passed in March 2026 — withheld until follow-on planning discussions with ESA and the UK Space Agency concluded in late October. Frazer-Nash received a €7 million ESA contract in July 2025 for the initial design phase of a reusable Mach 5 test aircraft, with the programme aiming to demonstrate the hypersonic flight regime needed as a stepping stone toward a future single-stage-to-orbit vehicle, and targets a first flight in early 2031 — roughly three years later than ESA's original 2028 aspirational schedule in early procurement documents. Design work underway spans aerodynamics and thermodynamic modelling, propulsion integration around the reactivated SABRE pre-cooled air-breathing engine originally developed by Reaction Engines before that company entered administration, systems engineering, safety cases, and preliminary cost modelling. The second System Requirements Review (SRR-2) is targeted for October 2027, after which ESA and the UK Space Agency will assess whether to proceed to detailed design with additional funding committed.",
+        sourceUrl: "https://europeanspaceflight.com/esas-invictus-hypersonic-programme-clears-first-major-review/",
+        timestamp: "2026-10-28T11:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Perseverance SHERLOC Instrument Study Spanning 1,645 Martian Days Finds Martian Dust Particles Fine Enough to Pose Inhalation Risk for Future Mars Crews — Vectran Suit Fabric Identified as Most Vulnerable Material, Informing Next-Generation Mars Spacesuit Design at Johnson Space Center",
+        body: "A NASA study drawing on 1,645 Martian days of observations by the SHERLOC ultraviolet spectrometer aboard the Perseverance rover has found that Martian dust particles accumulate on spacesuit materials at concentrations where ultrafine grains could pose an inhalation hazard for future crewed Mars surface crews, representing a key data point for human health planning ahead of any eventual Mars landing. The study examined five suit material samples mounted on SHERLOC's calibration target — including polycarbonate visor material, Vectran structural fabric, Ortho-Fabric outer shell material, and two grades of Teflon — exposed to raw Martian conditions including UV radiation, perchlorates, dust loading, and extreme temperature cycling since Perseverance landed in February 2021. Researchers found that Vectran, a high-performance liquid crystal polymer fiber that provides structural strength in current NASA suit designs, was the first material to show measurable degradation in tensile strength and surface chemistry, with roughly half of all observable changes occurring within the first 200 Martian days after landing. The findings are now being used by NASA Johnson Space Center engineers to inform material selection for next-generation exploration spacesuits, with lab tests underway in chambers that simultaneously replicate Martian atmospheric chemistry, radiation flux, and dust loading to validate candidate replacement fabrics.",
+        sourceUrl: "https://www.nasa.gov/centers-and-facilities/johnson/nasas-perseverance-rover-will-carry-first-spacesuit-materials-to-mars",
+        timestamp: "2026-10-28T13:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-27": {
     date: "October 27, 2026",
     stories: [
