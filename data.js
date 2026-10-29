@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-29": {
+    date: "October 29, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Completes 118th Falcon 9 Mission of 2026 With Starlink Group 15-18 Launch From Vandenberg Space Force Base — Booster Lands Successfully on West Coast Droneship as Constellation Passes 11,000 Active Satellites",
+        body: "SpaceX closed out October with a Falcon 9 launch of 27 Starlink Group 15-18 satellites from Vandenberg Space Force Base's Space Launch Complex 4E on October 29, marking the company's 118th Falcon 9 mission of 2026 and its second Vandenberg launch in three days following the Starlink 15-16 deployment on October 27. The booster executed a routine autonomous landing on the Of Course I Still Love You droneship in the Pacific Ocean after stage separation, extending SpaceX's near-perfect landing record for the year. The batch replenishes orbital slots in the mid-inclination shell of the Starlink constellation, which has now surpassed 11,000 active satellites following the October 27 mission. SpaceX's remaining launches for 2026 include November Starlink missions from both coasts and the high-profile Starship Flight 15 attempt targeting a dual mechanical catch of both the Super Heavy booster and Starship upper stage.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-10-29T06:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Completes Artemis III SLS Core Stage Mating With Twin Solid Rocket Boosters in VAB High Bay 3 — Major Integration Milestone Puts Moon Rocket Stack on Track for Early 2027 Rollout and Summer 2027 Crewed Lunar Mission",
+        body: "NASA technicians at Kennedy Space Center completed the mating of the Artemis III Space Launch System core stage with its twin solid rocket boosters in Vehicle Assembly Building High Bay 3 on October 28, reaching a critical milestone in the most complex multi-rocket campaign ever attempted for a crewed lunar landing. The 212-foot core stage, which arrived at KSC on April 28 and spent several months in High Bay 2 undergoing engine section integration and system checkouts, was lifted and positioned between the two five-segment solid rocket boosters that collectively provide 75 percent of the SLS's liftoff thrust. With the main booster stack now standing roughly 200 feet tall in High Bay 3, teams will begin outfitting work and system-level testing before the Orion crew vehicle — currently completing its own processing in the Operations and Checkout Building — is transported over and mounted atop the stack ahead of a targeted early 2027 rollout to Launch Complex 39B. NASA program manager Jeremy Parsons has confirmed the agency is targeting summer 2027 for the Artemis III crewed lunar landing, which will coordinate the SLS/Orion stack with the SpaceX Starship Human Landing System that will ferry two astronauts to the lunar surface.",
+        sourceUrl: "https://www.nasa.gov/image-detail/amf-ksc-20260428-ph-fmx01_0021/",
+        timestamp: "2026-10-29T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Revises Artemis IV and Beyond Lunar Architecture to Drop Near-Rectilinear Halo Orbit Rendezvous Requirement — SpaceX Starship HLS and Blue Moon Mark II Will Each Use Independent Orbits Rather Than Universal NRHO Meeting Point",
+        body: "NASA has published a significant revision to its crewed lunar landing architecture covering Artemis IV and all subsequent missions, abandoning the original plan that required both the Orion crew vehicle and its Human Landing System to rendezvous in a standardized near-rectilinear halo orbit approximately 70,000 kilometers above the lunar surface. Under the updated framework, confirmed on October 26, each Human Landing System provider — SpaceX with Starship HLS and Blue Origin with Blue Moon Mark II — will operate in its own preferred orbit suited to the vehicle's propellant management and performance profile rather than conforming to a single common orbit that imposed penalties on one or both designs. The change eliminates a complex orbital choreography challenge that had been cited as a scheduling risk factor for back-to-back crewed landings and gives mission planners more flexibility in crew transfer timing and abort scenarios. The revision does not affect the Artemis III mission, which already has its rendezvous profile locked to a specific Starship HLS trajectory; the change applies from Artemis IV onward as NASA moves toward routine annual lunar surface operations.",
+        sourceUrl: "https://www.nasa.gov/",
+        timestamp: "2026-10-29T09:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Infrastructure",
+        headline: "Blue Origin Signs Lease on 266,000-Square-Foot Des Moines, Washington Manufacturing Facility — State Environmental Filing Suggests Site Will Support Commercial Satellite Research and Development as Company Scales Beyond Rocket Production",
+        body: "Blue Origin has signed a lease on a 266,000-square-foot industrial facility in Des Moines, Washington — a Seattle-area community directly adjacent to the company's Kent headquarters and primary rocket manufacturing campus — marking a major expansion of its physical footprint for what a Washington State environmental permit filing indicates will be used for commercial satellite research and development. The building, a former large-format retail warehouse, will be repurposed for high-bay manufacturing and integration work suited to satellite assembly and testing, extending Blue Origin's capabilities into the commercial spacecraft market beyond its existing lines in launch vehicles, lunar landers, and space station modules. The Des Moines facility represents one of several infrastructure investments Blue Origin is executing simultaneously in late 2026: the company recently unveiled its $330 million Florida expansion at Cape Canaveral's Launch Complex 36 complex designed to support multiple New Glenn flights per week, and broke ground on Constellation Park, a 1.3-million-square-foot manufacturing campus in Hutto, Texas, targeting over 2,000 jobs over the next decade. CEO Dave Limp has framed these parallel investments as part of a deliberate push to develop an integrated capability spanning launch, landers, and spacecraft that positions Blue Origin to compete for commercial and government satellite integration contracts.",
+        sourceUrl: "https://hoodline.com/2026/10/blue-origin-signs-lease-on-266-000-square-foot-des-moines-plant",
+        timestamp: "2026-10-29T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "China Shenzhou-24 Launch Campaign Enters Final Four-Week Countdown at Jiuquan as CMSA Prepares Early-November Crew Announcement — Pakistani Cosmonaut Identity Remains Undisclosed Ahead of Historic South Asian First Spaceflight",
+        body: "China's Manned Space Engineering Office has entered the final phase of the Shenzhou-24 pre-launch campaign at Jiuquan Satellite Launch Center with 27 days remaining until the November 25 liftoff atop a Long March 2F rocket, as the Long March 2F stack and Shenzhou-24 crew vehicle complete final system-level checks before being moved to the launch pad and erected vertically approximately two weeks before launch. The formal crew announcement identifying the three Shenzhou-24 members — including the undisclosed Pakistani spaceflight participant who will become the first South Asian beyond India to orbit Earth — is expected in early November ahead of the traditional pre-launch press briefing. Aboard Tiangong, the Shenzhou-23 crew of commander Zhu Yangzhu, pilot Zhang Zhiyuan, and payload specialist Lai Ka-ying has been advised of the upcoming handover timeline, with the crew's extended six-month stay having generated biomedical data central to China's plans for a crewed lunar mission before 2030. The brief overlap of the Shenzhou-23 and Shenzhou-24 crews at Tiangong will include a formal handover of station systems before the Shenzhou-23 vehicle departs on November 30, completing China's ninth crewed rotation of the Tiangong program.",
+        sourceUrl: "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-23-astronaut-launch-tiangong-space-station",
+        timestamp: "2026-10-29T11:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-28": {
     date: "October 28, 2026",
     stories: [
