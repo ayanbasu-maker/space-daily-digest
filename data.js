@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-30": {
+    date: "October 30, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "ISS Operations",
+        headline: "NASA Astronaut Anil Menon and CSA's Joshua Kutryk Complete 7-Hour 11-Minute Spacewalk Installing Roll-Out Solar Array on ISS P4 Truss — Upgrade Marks Third New iROSA Deployment of 2026 as Station Power Systems Approach Full Modernization",
+        body: "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk concluded a spacewalk outside the International Space Station at 3:08 p.m. EDT on October 30, completing a 7-hour, 11-minute extravehicular activity that successfully installed and deployed a new roll-out solar array on the station's port truss segment. The iROSA — ISS Roll-Out Solar Array — was extracted from the station's external logistics carrier and manually positioned over an existing, degraded P4 solar wing before both spacewalkers connected power and data cables and confirmed full rollout deployment, extending the station's electricity-generating capacity by approximately eight kilowatts. This marks the third iROSA installation of 2026 and the sixth overall since the program began in 2021, part of NASA's phased effort to replace aging photovoltaic blankets that have lost efficiency since initial station assembly. With the October 30 deployment complete, station managers say ISS power generation is on track to reach its fully modernized capacity before the planned 2030 deorbit, providing ample margin for science operations and any extended commercial crew rotations planned under NASA's Equity in Space program.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-10-30T19:10:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "International Cooperation",
+        headline: "NASA Welcomes Vietnam as Newest Artemis Accords Signatory — Southeast Asian Nation Becomes 52nd Country to Commit to Principles of Peaceful, Transparent, and Interoperable Cislunar Exploration",
+        body: "NASA announced on October 28 that Vietnam has officially signed the Artemis Accords, joining 51 other countries that have committed to the bilateral framework establishing norms of responsible behavior for civil space exploration on and around the Moon, Mars, comets, and asteroids. Vietnam's Minister of Science and Technology signed the accords in a ceremony attended by NASA Administrator and U.S. State Department officials, with the agreement covering transparency in space activities, registration of space objects, release of scientific data, and the preservation of historically significant space heritage sites. The accords, first established in 2020 with eight initial signatories, have expanded rapidly as the U.S. sought to build broad international support for the norms underpinning the Artemis program ahead of the first crewed lunar landing targeted for summer 2027. Vietnam joins a growing bloc of Asian signatories — including Japan, South Korea, India, Bahrain, Saudi Arabia, and the Philippines — reflecting the increasing strategic importance of space policy alignment across the Indo-Pacific region.",
+        sourceUrl: "https://www.nasa.gov/",
+        timestamp: "2026-10-30T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Ship 42 Completes Full Six-Engine Raptor 3 Static Fire Simulating Orbital Deorbit Burn — All Pre-Launch Tests for Starship Flight 15 Dual-Catch Attempt Now Finished as November Launch Window Firms Up",
+        body: "SpaceX announced on October 28 the successful completion of a full six-engine static fire of Ship 42 — the Starship upper stage assigned to Flight 15 — at Starbase, Texas, with all Raptor 3 engines firing for a duration that simulated the deorbit burn profile SpaceX plans to execute during the mission. The test follows a single-engine ignition on October 27 that validated individual engine startup and throttle sequences, and comes after the Super Heavy Booster 22 completed its 33-engine static fire on October 25, meaning both stages have now cleared their pre-launch test campaigns. Flight 15 is SpaceX's most ambitious Starship mission to date, targeting the simultaneous mechanical catch of both the Super Heavy booster and the Starship upper stage using the Mechazilla launch tower's arms at Starbase — a feat that would complete the first fully reusable Starship flight cycle in a single mission. SpaceX is targeting a November 2026 launch window for Flight 15, with the exact date to be set following FAA review of the completed test data and a final stack mate of Booster 22 and Ship 42 on the orbital launch mount.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+        timestamp: "2026-10-30T12:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin CEO Confirms All Nine Modules of New Glenn Vehicle Access Tower Fully Repaired and Stacked at LC-36 — Company Targets November Return-to-Flight, Earlier Than Industry Forecast, With Revised Horizontal Assembly Approach",
+        body: "Blue Origin CEO Dave Limp confirmed October 29 that all nine modules of the 430-foot Vehicle Access Tower at Launch Complex 36 at Cape Canaveral Space Force Station have been fully repaired and restacked, completing the structural restoration work required following the May 28 hot-fire explosion that heavily damaged the pad infrastructure and halted New Glenn operations. The company is now targeting a November 2026 return to flight — a timeline described as significantly earlier than most industry estimates given the scale of the pad damage — using a revised launch operation that assembles the New Glenn rocket horizontally in a new integration hall before transporting it to the pad and lifting it vertical with a mobile crane. NASASpaceFlight reported that Blue Origin is also actively seeking to secure its Artemis IV Human Landing System selection from NASA, with the company's Blue Moon Mark 2 lunar lander requiring demonstration launches that make a fast return-to-flight essential to the program's competitive position. The November window would allow Blue Origin to execute at least one and possibly two New Glenn flights before year-end, helping the company rebuild flight cadence toward its stated goal of double-digit annual launch rates in 2027.",
+        sourceUrl: "https://nasaspaceflight.com/2026/10/blue-origin-update-2",
+        timestamp: "2026-10-30T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Crewed Spaceflight",
+        headline: "ESA Astronaut Sophie Adenot Returns to Europe After Record 237-Day ISS Mission — France's Second Female Astronaut Completes Science-Intensive Increment Focused on Microgravity Biology, Materials Research, and European Columbus Module Upgrades",
+        body: "European Space Agency astronaut Sophie Adenot landed in Cologne, Germany on October 30, returning home after 237 days aboard the International Space Station — one of the longest single ISS increments flown by a European astronaut and a career-defining mission for France's second female astronaut. During her extended stay, Adenot led or contributed to more than 80 scientific experiments in ESA's Columbus research module, with a particular focus on microgravity effects on human bone density and cardiovascular adaptation, crystallization studies for pharmaceutical applications, and long-duration plant growth trials supporting future deep-space food systems. ESA mission controllers noted that Adenot's increment coincided with the installation of two new Columbus module external experiment platforms, expanding ESA's science-exposure capacity in low Earth orbit for the first time since the module's 2008 arrival. Adenot's return brings ESA's total human spaceflight hours in 2026 to more than 800, reflecting the agency's growing investment in continuous ISS presence as it evaluates its post-ISS commercial destination strategy with potential partners including Axiom Space and the Vast Haven-1 station.",
+        sourceUrl: "https://europeanspaceflight.com/",
+        timestamp: "2026-10-30T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Completes Final Crew Module Parachute System Qualification Test Ahead of Gaganyaan G1 Uncrewed Mission — December Launch Now Fully Cleared After Successful High-Altitude Drop Simulation Validates Recovery System for Crewed Operations",
+        body: "The Indian Space Research Organisation announced the successful completion of a high-altitude parachute deployment qualification test for the Gaganyaan crew module recovery system, the final critical test milestone required before the G1 uncrewed orbital flight carrying half-humanoid robot Vyommitra can proceed to its targeted December 2026 launch window. The test, conducted from a high-altitude balloon platform over the Bay of Bengal, validated the full parachute deployment sequence — including drogue chute extraction, main canopy inflation, and airbag activation — under conditions closely simulating the thermal and dynamic loads the system will experience during a real crew module atmospheric reentry. ISRO Chairman V. Narayanan stated the qualification result clears the final open technical item on the G1 mission safety checklist, with all crew module subsystems — life support, thermal protection, separation mechanisms, and recovery — now fully validated through flight-representative testing. The G1 mission will fly aboard a human-rated LVM3 rocket from the Second Launch Pad at Satish Dhawan Space Centre and represents India's decisive step toward the crewed Gaganyaan-1 mission carrying three Indian astronauts targeted for the second half of 2027.",
+        sourceUrl: "https://space.veerexa.com/news",
+        timestamp: "2026-10-30T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-29": {
     date: "October 29, 2026",
     stories: [
