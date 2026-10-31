@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-10-31": {
+    date: "October 31, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Mars Exploration",
+        headline: "NASA's Second Year-Long CHAPEA Mars Habitat Simulation Concludes as Four-Volunteer Crew Exits Johnson Space Center's 3D-Printed Habitat After 378 Days — Mission 2 Delivers Longest Continuous Analog Mars Dataset, Informing Deep-Space Health and Operations Planning for Artemis and Beyond",
+        body: "Four NASA volunteers — Commander Ross Elder, Medical Officer Ellen Ellis, Science Officer Matthew Montgomery, and Flight Engineer James Spicer — emerged from the Crew Health and Performance Exploration Analog (CHAPEA) habitat at Johnson Space Center in Houston at 3:00 p.m. EDT on October 31, concluding 378 days inside the 1,700-square-foot 3D-printed Mars surface analog and setting a new record for the CHAPEA program's longest single-crew simulation. During their stay the crew performed simulated spacewalks in the adjacent Mars Dune Alpha outdoor area, maintained plant-growth operations, managed a nutrient-limited diet representative of future deep-space conditions, and completed a continuous suite of physical and psychological health assessments while communicating with mission controllers under simulated 20-minute one-way signal delays. The four crew members will now undergo two weeks of post-mission medical evaluations and debriefings at JSC, with the resulting longitudinal health dataset expected to feed directly into habitat life-support specifications, food system requirements, and behavioral health protocols for the first crewed lunar surface campaigns beginning with Artemis III in summer 2027. Mission 2 is the second consecutive successful long-duration CHAPEA run following the first crew's July 2024 exit, and NASA has indicated that a potential Mission 3 could extend duration or crew size to stress-test systems and interpersonal dynamics expected during multi-year deep-space missions.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+        timestamp: "2026-10-31T19:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA's Neil Gehrels Swift Observatory Enters Final Countdown to Uncontrolled Atmospheric Reentry After 22-Year Mission Ends and Katalyst Space Rescue Fails — Space Force Tracking Confirms Imminent Decay as Astronomers Warn of Gamma-Ray Burst Coverage Gap With No Successor Ready",
+        body: "NASA confirmed on October 31 that the Neil Gehrels Swift Observatory is in its final days before uncontrolled atmospheric reentry, with U.S. Space Force orbital tracking placing the spacecraft at a decaying altitude after the telescope's science instruments were shut down on October 20 when the observatory fell too low for reliable astrophysical pointing. NASA formally closed the mission on October 23 following the failure of a commercial rescue attempt by Katalyst Space, whose robotic servicing vehicle came no closer than seven to nine miles from the telescope — well short of the proximity needed for a reboost — before the approach was abandoned. The agency expects most of Swift's approximately 1,500-kilogram mass to burn up during reentry, though dense components including tungsten radiation shielding and X-ray mirror assemblies are projected to survive and land in the ocean, with the Space Force and NASA monitoring orbit decay closely but noting that a precise reentry window cannot be determined until the final 24 hours. The observatory's loss creates an acknowledged gap in near-real-time gamma-ray burst detection, as Swift had been the primary instrument alerting follow-up telescopes worldwide within minutes of burst events since 2004 — a capability that astronomy advocacy groups are now urging NASA to restore through its planned Compton Spectrometer and Imager (COSI) mission targeted for no earlier than 2027.",
+        sourceUrl: "https://science.nasa.gov/blogs/swift/2026/10/23/nasas-swift-mission-ends-ahead-of-re-entry/",
+        timestamp: "2026-10-31T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Marks Historic 700th Falcon 9 Launch Milestone With Halloween Starlink Mission From Vandenberg Space Force Base — Only Orbital Rocket in History to Reach 700 Flights as Active Starlink Constellation Closes in on 10,000 Satellites",
+        body: "SpaceX etched a landmark into commercial spaceflight history on the evening of October 30 local time when a Falcon 9 rocket lifted off from Space Launch Complex 4E at Vandenberg Space Force Base at 9:04 p.m. PDT (0404 UTC October 31), marking the 700th flight of the Falcon 9 vehicle type since its maiden launch in June 2010 and making it the first orbital rocket in history to reach that milestone. The mission deployed 27 Starlink V2 Mini Optimized satellites into a mid-inclination orbit, with the first stage booster executing a successful autonomous landing on the Of Course I Still Love You droneship in the Pacific Ocean and continuing SpaceX's near-perfect recovery record in 2026. With this batch added, the active Starlink constellation has closed to within 20 satellites of the 10,000-satellite threshold — Orbital Radar tracking data put the count at 9,980 operational satellites as of October 31 — as SpaceX continues to add capacity across multiple orbital shells to support its growing broadband subscriber base worldwide. The Halloween milestone flight was also the 119th Falcon 9 mission of 2026, putting SpaceX on course to exceed 130 annual launches before the year ends and maintaining its commanding lead in global launch cadence ahead of a November Starship Flight 15 dual-catch attempt.",
+        sourceUrl: "https://spaceflightnow.com/",
+        timestamp: "2026-10-31T04:04:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO's GSLV-F18 Successfully Delivers NVS-03 NavIC Navigation Satellite to Geosynchronous Transfer Orbit — Twentieth GSLV Flight Restores Four-Satellite NavIC Constellation and Introduces India's First L1 Civil Signal Payload Compatible With Global Receiver Standards",
+        body: "The Indian Space Research Organisation confirmed in the early hours of October 31 IST that the NVS-03 satellite — also designated IRNSS-1L — had successfully reached its target geosynchronous transfer orbit following liftoff of the GSLV-F18 rocket from the Second Launch Pad at Satish Dhawan Space Centre in Sriharikota at 23:51 IST on October 30, marking the twentieth flight of India's Geosynchronous Satellite Launch Vehicle. The 2,232-kilogram spacecraft carries ISRO's indigenous atomic clock navigation payload alongside L5 and S-band navigation transponders from the original IRNSS series, plus a new L1 civil signal transmitter that aligns NavIC with the frequency standards used by GPS, Galileo, and GLONASS — opening the constellation to compatible civilian smartphone receivers for the first time without requiring custom chipsets. With NVS-03 in orbit, the NavIC constellation returns to four operational satellites in the medium Earth orbit navigation series, meeting the minimum threshold for continuous positioning coverage across the Indian subcontinent and its 1,500-kilometer buffer zone, while ISRO plans three additional NVS-series satellites by 2028 to build redundancy and extend coverage toward Southeast Asia. The cryogenic upper stage executed its planned burn to deliver NVS-03 to an injection orbit between 170 kilometers perigee and 37,023 kilometers apogee, from which the satellite will begin a weeks-long drift to its final geostationary slot under ground-controller guidance from ISRO's Master Control Facility in Hassan, Karnataka.",
+        sourceUrl: "https://orbitalradar.com/blog/orbital-briefing-2026-10-31",
+        timestamp: "2026-10-31T02:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-30": {
     date: "October 30, 2026",
     stories: [
