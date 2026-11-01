@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-01": {
+    date: "November 1, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Confirms Artemis III Will Not Attempt Lunar Landing — Crewed Moon Surface Mission Now Artemis IV in 2028 as Both HLS Providers Receive Redesigned Flight Profiles Tailored to Each Vehicle's Strengths",
+        body: "NASA announced a sweeping revision to its Artemis lunar architecture on November 1, confirming that the Artemis III mission — previously planned as the first crewed lunar landing — will now serve as a rendezvous and systems verification flight in orbit, with the first human landing on the Moon rescheduled as Artemis IV targeting 2028. Under the new framework, SpaceX's Starship Human Landing System will operate from a low lunar orbit where Orion and Starship rendezvous before crew transfer, while Blue Origin's Blue Moon Mark 2 will forgo on-orbit propellant transfer entirely and instead use three dedicated transfer stages to ferry the lander to an elliptical polar orbit suited to the vehicle's architecture. Both companies must complete uncrewed demonstration missions before any crewed landing — SpaceX targeting its uncrewed demo in late 2027 and Blue Origin in 2028 — with NASA reserving the choice of which provider lands first until closer to Artemis IV based on demonstrated readiness. NASA Administrator Bill Nelson stated that the revised approach reduces mission risk by validating each lander design in its optimal operating environment before committing astronauts, and that landing on the Moon in 2028 remains a firm programmatic goal.",
+        sourceUrl: "https://spacewatch.global/2026/10/nasa-revises-spacex-and-blue-origin-lander-plans-for-2028-artemis-moon-landing/",
+        timestamp: "2026-11-01T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Starship Flight 15 Targeting NET November 12 for Historic Simultaneous Dual-Catch Attempt — Latest FAA Schedule Slide Confirms Both Booster 22 and Ship 42 Fully Cleared After Successful Static Fire Campaigns",
+        body: "SpaceX's internal scheduling documents, reflected in the latest CADENA COMPASS slide dated October 29, confirm Starship Flight 15 is targeting no earlier than November 12, 2026 from Orbital Launch Pad 2 at Starbase, Texas — the most ambitious Starship test to date, which will attempt the simultaneous mechanical catch of both the Super Heavy booster and the Starship upper stage using Mechazilla's chopstick arms in a single mission. The revised NET date follows earlier estimates of October 19 and November 8 as SpaceX completed its static fire campaigns: Booster 22 successfully completed its 33-engine full-duration static fire on October 25, and Ship 42 followed with a six-engine Raptor 3 static fire on October 28 simulating the deorbit burn profile. SpaceX CEO Elon Musk stated in early October that the dual-catch attempt was approximately four to six weeks away, a timeline consistent with the November 12 window. An FAA launch license amendment covering the simultaneous-catch scenario is the final outstanding authorization item before a launch date can be formally set.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Starship_flight_15",
+        timestamp: "2026-11-01T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Lunar Exploration",
+        headline: "Blue Origin's Blue Moon Mark 2 Lunar Lander Redesigned to Skip Propellant Transfer — Three Dedicated Transfer Stages Will Ferry Lander to Elliptical Polar Orbit Under NASA's Revised Artemis IV Architecture",
+        body: "Blue Origin confirmed that its Blue Moon Mark 2 Human Landing System has undergone a fundamental mission-profile redesign under NASA's revised Artemis lunar architecture, eliminating the on-orbit propellant transfer requirement that had been a core element of the original contract in favor of a three-stage transfer vehicle stack that will carry the lander fully fueled from low Earth orbit to an elliptical polar orbit above the Moon. The new approach addresses a key technical risk that had concerned NASA program managers: large-scale cryogenic propellant transfer in orbit has never been demonstrated at operational scale, and Blue Origin's redesign routes around this dependency entirely by staging propulsive capacity across dedicated transfer elements that separate and deorbit as the lander descends. New Glenn's evolving launch cadence is central to the revised mission architecture, as the three transfer stages and the lander itself require multiple launches that must be coordinated in a tight rendezvous sequence; Blue Origin's push for a November return-to-flight for New Glenn is therefore directly tied to building the launch heritage needed to prove the multi-launch cadence before the uncrewed Blue Moon demonstration planned for 2028. The company's CEO Dave Limp called the redesign a more elegant solution that plays to Blue Origin's manufacturing strengths while eliminating a technology dependency that would have added years of development risk to the program.",
+        sourceUrl: "https://newspaceeconomy.ca/2026/10/24/nasa-revises-artemis-lunar-landing-plans-for-spacex-and-blue-origin/",
+        timestamp: "2026-11-01T12:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Crewed Spaceflight",
+        headline: "China Begins Final Preparations for Shenzhou-24 Mission Carrying First Pakistani Cosmonaut to Tiangong — Long March 2F Stack Erected at Jiuquan for Late November Launch as Shenzhou-23 Crew Approaches Six-Month Mark",
+        body: "China's Shenzhou-24 mission is entering final launch preparations at the Jiuquan Satellite Launch Center, with the Long March 2F rocket and crew vehicle stack fully erected on the launch pad ahead of a targeted November 24 liftoff that will carry two Chinese taikonauts and Pakistan's first cosmonaut to the Tiangong space station. The mission marks a milestone in China's effort to internationalize access to its orbital outpost, with Pakistan's astronaut — selected under a bilateral space cooperation agreement signed in 2022 — spending approximately one week aboard Tiangong before returning to Earth alongside two members of the outgoing Shenzhou-23 crew in a crew overlap handover. The Shenzhou-23 expedition, which has been aboard Tiangong since May 2026, is scheduled to undock and return to Earth on approximately November 30 following a standard six-month increment that included multiple spacewalks, materials science experiments, and life science research in the station's Wentian and Mengtian laboratory modules. The Shenzhou-24 flight will be the fourteenth crewed Shenzhou mission overall and continues China's steady pace of twice-yearly crew rotations that has kept Tiangong continuously staffed since 2022.",
+        sourceUrl: "https://spacecalendar.com/organizer/cnsa/",
+        timestamp: "2026-11-01T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Lunar Exploration",
+        headline: "ESA Awards OHB System Contract to Lead Feasibility and Preliminary Design Study for Shared Lunar Surface Infrastructure — European Industry to Define Architecture for Power, Communications, and Mobility Assets Supporting Multi-Agency Moon Base Vision",
+        body: "The European Space Agency has selected OHB System AG of Bremen, Germany, to lead a feasibility and preliminary design study for shared infrastructure on the lunar surface, tasking the industrial prime with defining the architecture for common assets — including power generation and distribution, surface communications relays, and mobility platforms — that could serve multiple agency and commercial lunar surface operations under the Moon Village concept ESA has championed since 2016. The study will run for approximately 18 months and will draw on contributions from across the European space industrial supply chain, with OHB coordinating inputs from payload specialists, robotics firms, and in-situ resource utilization technology developers to produce a reference architecture compatible with NASA's Artemis base camp plans and JAXA's lunar exploration roadmap. ESA Director General Josef Aschbacher framed the award as Europe staking out a concrete leadership role in the infrastructure layer of sustained lunar presence, noting that shared surface assets reduce costs for all users and give ESA programmatic leverage in a lunar ecosystem increasingly shaped by bilateral deals between NASA, its commercial partners, and competing national programs. The contract follows ESA member state approval at last year's Ministerial Council of a lunar exploration budget line that for the first time includes dedicated funding for surface infrastructure rather than solely for orbital and transportation elements.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-11-01T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-10-31": {
     date: "October 31, 2026",
     stories: [
