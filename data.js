@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-02": {
+    date: "November 2, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Classified USSF-432 Mission for U.S. Space Force on Falcon 9 From Vandenberg — Booster B1095 Lands on Drone Ship After 8th Flight as Active Starlink Constellation Surpasses 10,000 Satellites",
+        body: "SpaceX executed the classified USSF-432 mission for the United States Space Force on November 2, 2026, lifting off from Space Launch Complex 4E at Vandenberg Space Force Base aboard a Falcon 9 Block 5 rocket, with booster B1095 completing its eighth flight and executing a successful landing on the drone ship Of Course I Still Love You in the Pacific Ocean. The mission's payload details remain classified under a national security launch contract, but the flight marks SpaceX's 120th Falcon 9 mission of 2026 and the latest in a series of USSF missions that have solidified SpaceX's position as the dominant provider for U.S. military launch requirements. The November 2 liftoff also coincided with Starlink constellation trackers confirming the active satellite count surpassed 10,000 operational spacecraft for the first time, a milestone Elon Musk had targeted publicly in 2024 projections. The USSF-432 flight maintains SpaceX's ambitious launch cadence heading into a critical mid-November window for Starship Flight 15's dual-catch attempt.",
+        sourceUrl: "https://tech-insider.org/spacex-ussf-432-falcon-9-119th-flight-vandenberg-nov-2-2026/",
+        timestamp: "2026-11-02T01:56:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin Completes Full Reconstruction of New Glenn Vehicle Access Tower at Launch Complex 36 Five Months After Explosion — CEO Dave Limp Confirms November Return-to-Flight Target Remains Intact as Pad Reconfiguration Adopts Crane-Based Erection Architecture",
+        body: "Blue Origin CEO Dave Limp confirmed on November 2 that the company has completed reconstruction of the 430-foot Vehicle Access Tower at Launch Complex 36, Cape Canaveral Space Force Station, five months after the May 28 static fire anomaly that destroyed the transporter-erector and severely damaged the launch pad, clearing the most visible infrastructure barrier to a New Glenn return-to-flight attempt before year's end. The rebuilt pad adopts a fundamentally new erection architecture: rather than restoring the destroyed transporter-erector, New Glenn will be raised by crane directly onto a refurbished launch table and connected to the main tower's umbilicals — a configuration Blue Origin says not only accelerates the return to flight but has been designed from the outset to accommodate a future larger variant of New Glenn. The root cause of the May explosion was traced to an oxygen valve in the BE-4 engine system; Blue Origin has completed redesign and qualification testing of the affected component and confirmed that the flight-ready vehicle will incorporate the fix before any countdown begins. With the pad rebuild now confirmed complete, the company is targeting a launch date in November 2026, contingent on final integrated vehicle testing and range scheduling with the U.S. Space Force.",
+        sourceUrl: "https://satnews.com/2026/10/29/blue-origin-reconstructs-launch-complex-36-tower-targets-november-return-to-flight-for-new-glenn/",
+        timestamp: "2026-11-02T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Exploration",
+        headline: "NASA Targets November Wet Dress Rehearsal for Artemis III as Administrator Isaacman Reaffirms 'Extreme Confidence' in 2027 Launch — Orion Spacecraft and SLS Stack at Kennedy Space Center as Max Power Test Event Approaches",
+        body: "NASA Administrator Jared Isaacman reiterated in a November 2 statement that he is 'extremely confident' the Artemis III mission will launch in 2027, with agency teams at Kennedy Space Center preparing for a Wet Dress Rehearsal scheduled ahead of the biennial Max Power event on November 7–8, a major gathering of the aerospace workforce at KSC. Artemis III has been redesigned from a lunar landing to an Earth-orbital rendezvous and systems verification mission, with the Orion crew of Commander Randy Bresnik, pilot Frank Rubio, mission specialists Andre Douglas and ESA astronaut Luca Parmitano set to rendezvous and evaluate both the SpaceX Starship HLS and Blue Origin Blue Moon Mark 2 landers in orbit — a profile change that removes the landing attempt from Artemis III and sets up Artemis IV and V as the first crewed Moon landings in 2028. The Wet Dress Rehearsal will flow propellant through the Space Launch System's core stage and upper stage to validate countdown procedures and hardware interfaces, the same critical test that exposed problems during the original Artemis I campaign in 2022 and now serves as the final major pre-launch checkpoint before a formal launch date is set. Isaacman defended the all-male Artemis III crew lineup, citing mission-specific skill requirements, while indicating that Artemis IV will include a female astronaut on its lunar landing crew.",
+        sourceUrl: "https://spacepolicyonline.com/news/isaacman-extremely-confident-artemis-iii-will-launch-in-2027/",
+        timestamp: "2026-11-02T15:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Crewed Spaceflight",
+        headline: "ISRO Chairman Confirms Gaganyaan G1 Uncrewed Test Mission Targeting Late 2026 Launch Despite Potential Slip Risk to Early 2027 — Vyommitra Robot Crew Module Fully Integrated as Agency Completes Final Parachute Qualification Tests",
+        body: "ISRO Chairman V. Narayanan confirmed in a November 2 briefing that the Gaganyaan G1 uncrewed test flight remains officially targeted for late 2026, while acknowledging that ongoing safety assessments and hardware qualification work create a slip risk that could push the mission into the first quarter of 2027 if all remaining checkpoints are not cleared within the current window. The G1 mission will carry the Vyommitra humanoid robot inside a fully configured crew module, conducting an end-to-end test of the life support system, reentry thermal protection, and the new parachute-based recovery system that will bring astronauts to a splashdown in the Bay of Bengal for India's maiden crewed spaceflight. ISRO confirmed that final qualification testing of the 10-parachute recovery stack — a critical safety system that must demonstrate redundant deployment across a range of reentry corridors — was completed at the Aerial Delivery Research and Development Establishment facility in Agra, removing one of the last remaining technical holds on the G1 countdown campaign. The GSLV Mark 3 launch vehicle assigned to G1 has completed vehicle assembly checks at the Vehicle Assembly Building in Sriharikota, and ISRO will make a formal go/no-go decision for a December 2026 launch slot following review of the completed qualification data.",
+        sourceUrl: "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/",
+        timestamp: "2026-11-02T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Science",
+        headline: "ESA's SMILE Solar Wind Magnetosphere Ionosphere Link Explorer Returns First Science Data — Joint ESA-CAS Mission Captures Unprecedented X-Ray Images of Earth's Bow Shock and Magnetopause, Opening New Window on Space Weather Dynamics",
+        body: "The European Space Agency announced on November 2 that the SMILE (Solar Wind Magnetosphere Ionosphere Link Explorer) satellite, launched in April 2026 aboard a Long March 3B rocket in one of the most significant ESA-China National Space Administration joint science missions, has returned its first verified science data following completion of its six-month commissioning phase, including the first X-ray images of Earth's bow shock and magnetopause boundary ever captured by a dedicated space weather imager. SMILE carries a Soft X-ray Imager, UV Auroral Imager, ion analyzer, and magnetometer in a highly elliptical polar orbit that allows it to observe the full magnetosphere for up to 40 continuous hours per orbit — a time coverage no previous mission has achieved — enabling scientists to correlate solar wind input with global magnetospheric and auroral responses in real time. The first-light data release includes a composite view of the dayside magnetosphere built from 12 consecutive SXI exposures, revealing the diffuse X-ray emission from charge exchange between solar wind ions and neutral atoms in the magnetosheath, a structure that ground-based and low-orbit missions could only characterize in cross-section. ESA project scientist Chi Wang called the images a 'transformative new observational capability' that will allow researchers to test global magnetospheric models under a range of solar wind conditions throughout the mission's planned three-year prime science phase.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-11-02T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-01": {
     date: "November 1, 2026",
     stories: [
