@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-03": {
+    date: "November 3, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Confirms Neil Gehrels Swift Observatory Will Re-Enter Earth's Atmosphere on November 4 as Orbit Decay Accelerates — Space Force Tracking Places Reentry Window Over Pacific and Atlantic as Dense Tungsten Shielding Expected to Survive Burn-Up",
+        body: "U.S. Space Force orbital tracking confirmed on November 3 that the Neil Gehrels Swift Observatory, which ended its 22-year science mission on October 23, is now firmly on course for uncontrolled atmospheric reentry on November 4, 2026, with the predicted window centered on a path crossing portions of the Pacific and Atlantic Oceans. NASA's debris analysts project that most of Swift's approximately 1,500-kilogram structure will ablate during reentry, but dense components including tungsten radiation shielding and X-ray mirror assemblies — estimated at roughly 150 kilograms combined — are expected to survive and reach the ocean surface. The agency and Space Force will narrow the reentry window through continuous orbital radar tracking, with a final two-hour window calculable no earlier than six hours before reentry; no public evacuation is planned given the low probability of populated impact. Swift's upcoming reentry closes the operational chapter on one of NASA's most productive astrophysics missions, which discovered more than 1,000 gamma-ray bursts and 18 confirmed neutron star mergers during its 22-year career.",
+        sourceUrl: "https://science.nasa.gov/blogs/swift/2026/10/23/nasas-swift-mission-ends-ahead-of-re-entry/",
+        timestamp: "2026-11-03T09:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "FAA License Amendment for Starship Flight 15's Historic Dual-Catch Attempt Is Final Authorization Gate as SpaceX Confirms NET November 12 — Booster 22 and Ship 42 Static Fires Both Complete With All Raptor 3 Systems Nominal Ahead of Most Ambitious Starship Test Yet",
+        body: "SpaceX confirmed on November 3 that both flight vehicles for Starship Flight 15 have completed all pre-flight static fire testing and are in final inspection at Starbase, Texas, with the only remaining gate being the FAA license amendment covering the simultaneous mechanical catch of both the Super Heavy booster and the Starship upper stage by the Mechazilla chopstick arm system. Booster 22 completed a full-duration 33-engine static fire on October 25, and Ship 42 followed with a Raptor 3 deorbit burn simulation on October 28; industry analysts expect the FAA amendment to arrive within days based on the pace of the agency's flight safety analysis review. If the amendment clears on schedule, SpaceX will proceed with a NET November 12 launch from Orbital Launch Pad 2 — the first ever attempted dual-vehicle catch in a single mission. A simultaneous catch success would dramatically accelerate the path to operational Starship missions by demonstrating the complete rapid-reusability architecture needed for Artemis HLS lunar service and point-to-point transport.",
+        sourceUrl: "https://starlust.org/spacex-starship-flight-15-possible-launch-date-revealed/",
+        timestamp: "2026-11-03T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Aeronautics",
+        headline: "NASA's X-59 Quiet SuperSonic Technology Aircraft Enters Acoustic Testing Phase at Lockheed Skunk Works — QueSST Mission Moves Toward 2027 Community Overflight Surveys After 18-Month Ground Campaign Validates Structural and Propulsion Systems",
+        body: "NASA's X-59 Quiet SuperSonic Technology demonstrator entered its acoustic testing phase at Lockheed Martin's Skunk Works facility in Palmdale, California on November 3, marking a critical milestone in the QueSST mission to validate whether the aircraft's reshaped fuselage can reduce the classic sonic boom to a quieter 'thump' acceptable for overland flight. Acoustic tests will measure the X-59's sound signature at multiple angles and flight attitudes to build the database that will underpin community overflight surveys, during which NASA plans to fly the aircraft over several U.S. cities in 2027 and collect resident noise perception data to inform potential new FAA and ICAO supersonic overland rules. The test phase follows an 18-month ground campaign that cleared the aircraft's fly-by-wire flight controls, propulsion integration, and structural integrity after its first flight in March 2024. Successful QueSST results could open the door to commercial supersonic passenger flight over land for the first time since the Concorde's retirement in 2003.",
+        sourceUrl: "https://news.clearancejobs.com/2026/11/03/nasa-is-having-a-moment",
+        timestamp: "2026-11-03T16:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Station",
+        headline: "ISS Expedition 72 Crew Stages Tools for November 7 iROSA Spacewalk as Station Power Upgrade Approaches Final Phase — Fifth of Six Roll-Out Solar Array Panels to Be Installed, Bringing ISS to 85 Percent of 300-Kilowatt Target Capacity",
+        body: "The Expedition 72 crew aboard the International Space Station completed tool staging and suit checkout on November 3 for a scheduled extravehicular activity on November 7 that will install the fifth of six International Space Station Roll-Out Solar Array panels in the ongoing power system modernization campaign. The iROSA program, which began in 2021, replaces the station's original 1990s-era rigid solar arrays with modern flexible roll-out panels that roughly double energy output per wing; once the November 7 panel is commissioned, ISS will reach approximately 85 percent of its 300-kilowatt continuous power generation target. Sustaining high-power output is a critical operational priority before the station's commercial successor platforms — Axiom's modules, Starlab, and Vast Haven — are ready for crew handoffs, as the joint science program requires maximum power during the overlap period. NASA confirmed that EVA hardware cleared final inspection following minor cooling system anomalies noted during the October 18 spacewalk, with no issues identified that would affect the upcoming excursion.",
+        sourceUrl: "https://www.nasa.gov/news/recently-published/",
+        timestamp: "2026-11-03T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Station",
+        headline: "ESA Awards Competing Feasibility Study Contracts to Airbus and OHB for Future European-Led Low Earth Orbit Space Station — Two-Year Phase A Studies to Define Architecture, Science Priorities, and Commercial Revenue Model for Post-ISS European Autonomous Presence",
+        body: "The European Space Agency announced on November 3 that it has awarded parallel Phase A feasibility study contracts to Airbus Defence and Space and OHB System AG to independently assess the technical and programmatic viability of a future European-led space station in low Earth orbit, marking ESA's most concrete step toward securing autonomous European microgravity access after the ISS transitions to commercial operations. The dual-study approach will run for approximately two years, with each prime contractor assessing station architecture, crew transportation compatibility, power and life support systems, scientific payload accommodation, and commercial revenue models alongside potential dual-use national security applications to broaden the funding coalition across ESA's 22 member states. The contracts follow a 2025 Ministerial Council decision to begin independent LEO station planning rather than rely entirely on booking access aboard U.S.-built commercial platforms, which ESA member states viewed as an unacceptable long-term dependency for European space science. ESA Director General Josef Aschbacher framed the parallel studies as 'strategic insurance' for European research capability, drawing an explicit lesson from the 1990s cancellation of the Hermes crewed spacecraft program that left ESA without autonomous human spaceflight access for more than three decades.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases",
+        timestamp: "2026-11-03T10:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch",
+        headline: "ISRO Chairman Narayanan Confirms Five-Launch Manifest for Remainder of 2026-27 Financial Year — Gaganyaan G1 Uncrewed Test, Two PSLV Missions, Two SSLV Flights, and Historic First Launch From New Kulasekharapatnam Spaceport in Tamil Nadu Targeted Before March 2027",
+        body: "ISRO Chairman V. Narayanan outlined a five-launch manifest for the remainder of India's 2026-27 financial year on November 3, confirming the uncrewed Gaganyaan G1 test mission for a December 2026 slot alongside two Polar Satellite Launch Vehicle missions, two Small Satellite Launch Vehicle flights, and the first launch from ISRO's new Satish Dhawan Space Centre II at Kulasekharapatnam on Tamil Nadu's southeastern coast, targeted for March or April 2027. The Kulasekharapatnam spaceport is designed as India's primary small satellite launch facility, with its coastal southern location offering improved trajectory access for equatorial and retrograde orbits compared to the primary Sriharikota site, and a successful commercial debut will validate the facility ahead of surging small satellite demand from domestic and international customers. Narayanan reiterated that the Gaganyaan G1 go/no-go decision for December follows review of completed parachute qualification data and final vehicle checks, with the GSLV Mark 3 vehicle already assembled at the Sriharikota Vehicle Assembly Building. The five-mission burst would represent ISRO's most active six-month launch window in the agency's history and reflects India's drive to build launch cadence credentials as competition with global commercial small-satellite providers intensifies.",
+        sourceUrl: "https://www.newsbytesapp.com/news/science/isro-plans-at-least-5-more-launches-this-financial-year/story",
+        timestamp: "2026-11-03T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-02": {
     date: "November 2, 2026",
     stories: [
