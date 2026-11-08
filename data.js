@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-08": {
+    date: "November 8, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Lunar Exploration",
+        headline: "NASA Awards Blue Origin $94 Million Contract to Deliver PROMISE Nuclear-Powered Rover to Lunar South Pole on Blue Moon Lander at MAX POWER Expo — Six Additional Moon Base Task Orders Covering Transport, Technology, and Science Announced as Agency Advances Toward Permanent Lunar Surface Presence",
+        body: "NASA Administrator Jared Isaacman announced a package of Moon Base awards at the MAX POWER aerospace exposition at Kennedy Space Center, highlighted by a $94 million base contract plus a $140 million performance-based option to Blue Origin to deliver the PROMISE nuclear-powered rover to the lunar South Pole aboard its Blue Moon Mark 1 commercial lander, targeting a late 2028 launch and an 18-month surface mission to prospect for ice and mineral resources critical to sustaining a permanent lunar base. PROMISE — Polar Rover for Observation, Mapping, and In-Situ Exploration — is built from flight-spare heritage hardware derived from NASA's Mars rover program, equipped with a radioisotope thermoelectric generator for continuous power through the two-week lunar night, and carries a one-meter drill to sample subsurface regolith for volatile compounds at the permanently shadowed regions near the South Pole. Additional task orders announced alongside the PROMISE contract cover commercial robotic cargo delivery, orbital transfer services, and lunar surface infrastructure development from multiple commercial partners, collectively representing the most comprehensive investment package NASA has made in permanent lunar surface operations since the Apollo program. The Moon Base awards were among the flagship reveals at MAX POWER's second and final day, underscoring Isaacman's vision of an accelerated commercial partnership model that contracts operational lunar surface systems rather than developing them in-house.",
+        sourceUrl: "https://starlust.org/nasa-shares-moon-base-updates-at-the-max-power-expo-including-a-nuclear-powered-rover-and-new-lander-deals/",
+        timestamp: "2026-11-08T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "NASA Opens Artemis Astronaut Class Applications at MAX POWER With December 3 Deadline — Recruits Selected in Late 2027 Will Begin Training in Early 2028 for Lunar Surface Assignments at Moon Base, Marking First Class Recruited Specifically for Permanent Crewed Surface Operations Since Apollo",
+        body: "NASA opened applications on November 8 for a new astronaut class to support the Artemis program's expansion toward a permanent Moon Base, with the application window closing at 11:59 p.m. EST on December 3, 2026, and final candidate selections expected in late 2027 for recruits who will begin the two-year astronaut candidate training program in early 2028. The new class is specifically described as Artemis-linked, with candidates being recruited with the expectation of training for lunar surface assignments at the Moon Base being developed under the contracts announced at this weekend's MAX POWER expo — the first astronaut class recruited primarily for surface operations since the original Apollo selections of the 1960s. NASA's announcement emphasized candidates with backgrounds in engineering, science, mathematics, and military aviation who can serve as both operators of lunar surface systems and scientific investigators in the extreme environment of the lunar South Pole. Isaacman personally announced the opening of applications at MAX POWER, framing it as a call for the generation of explorers who will establish the first permanent human presence beyond Earth orbit.",
+        sourceUrl: "https://www.nbcnews.com/science/space/nasa-is-looking-for-new-astronauts-rcna608025",
+        timestamp: "2026-11-08T11:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "NASASpaceFlight Confirms Booster 22 and Ship 42 in Final Checkouts for Starship Flight 15 as FAA License Amendment Reaches 27-Day Review Mark With Five Days Until November 13 Target — Dual-Catch Architecture Ready While Regulatory Gate Remains Last Barrier to Historic First Simultaneous Recovery of Both Rocket Stages",
+        body: "NASASpaceFlight confirmed on November 8 that SpaceX has completed final pre-launch checkouts of Booster 22 and Ship 42 at Starbase, with both vehicles ready for the dual-catch flight profile that would achieve the first simultaneous mechanical recovery of two rocket stages in history, while the FAA license amendment authorizing the return-to-launch-site catch for Starship remains the sole outstanding gate five days before the November 13 no-earlier-than target. The amendment has now been under FAA review for 27 days, covering the novel operational scenario in which the Mechazilla chopstick arms would catch Super Heavy Booster 22 approximately seven minutes after liftoff, then catch Starship Ship 42 approximately 65 minutes later following a partial orbital trajectory, deorbit, and atmospheric reentry — with both catches at the same launch mount in a single mission. The FAA's Starship flight licensing page does not yet list a Flight 15 entry as of November 8, meaning the amendment has not been issued; analysts note that if authorization is not received by November 10, the November 13 date becomes logistically difficult to hold and the launch would likely need to target no earlier than mid-to-late November. SpaceX has not issued a public statement about the amendment status since its November 4 characterization of the delay as 'purely procedural,' but the company's operational posture — vehicles in final checkout, propellant loading rehearsals complete, Mechazilla systems certified — indicates it will proceed immediately upon receiving authorization.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+        timestamp: "2026-11-08T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Deep Space Exploration",
+        headline: "Trump Announces NASA Nuclear-Powered Spacecraft to Mars Within Two Years at Kennedy Space Center MAX POWER Closing Ceremony — Crewed Mars Nuclear Propulsion Vision Unveiled Alongside Moon Base Commitments as Administration Signals Accelerated Deep Space Timeline",
+        body: "President Trump announced at the closing ceremony of NASA's MAX POWER aerospace exposition at Kennedy Space Center on November 8 that the United States will launch a first-ever nuclear-powered spacecraft to Mars within two years — a declaration that positions NASA's nuclear propulsion program as a centerpiece of the administration's accelerated deep space exploration agenda alongside the concurrent Moon Base investments unveiled earlier in the day. The announcement aligns with NASA and DARPA's ongoing Demonstration Rocket for Agile Cislunar Operations program, which is developing nuclear thermal propulsion technology intended to dramatically reduce transit times for Mars missions by achieving specific impulse roughly twice that of conventional chemical rockets, potentially cutting a crewed Earth-to-Mars journey from seven to nine months down to four to five months. Trump's remarks at KSC built on the Moon Base awards announced by Administrator Isaacman earlier in the day, framing the United States as simultaneously pursuing permanent lunar presence and crewed interplanetary missions under a unified space supremacy strategy. NASA has not yet released a formal mission architecture or programmatic timeline for the nuclear Mars spacecraft, and the two-year target would require significant acceleration of the existing nuclear thermal propulsion development schedule; the agency is expected to issue a detailed mission concept statement in the coming weeks.",
+        sourceUrl: "https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028",
+        timestamp: "2026-11-08T20:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Events",
+        headline: "Trump and NASA Announce CapeWeek — Flagship 2028 U.S. Aerospace Showcase at Kennedy Space Center Designed to Outshine Paris and Farnborough — Commercial Aviation, Defense, and Space Technology to Converge at Multi-Day Expo on Florida's Space Coast",
+        body: "President Trump joined NASA Administrator Jared Isaacman at the closing of MAX POWER on November 8 to announce CapeWeek, a new flagship American aerospace exposition scheduled to debut in 2028 at Kennedy Space Center, with Trump describing the planned show as 'BIGGER, BETTER, and GRANDER than the Paris Air Show' and positioning it as a demonstration of combined U.S. commercial aviation, defense, and space sector supremacy. CapeWeek is designed to integrate commercial aviation, defense programs, and the commercial space sector into a single multi-day public event unprecedented in scale among American aerospace shows, with Kennedy Space Center's proximity to both Space Force launch facilities and commercial orbital launch complexes providing a unique backdrop of live launches and hardware demonstrations unavailable at traditional air shows. The announcement closed out MAX POWER, NASA's first-ever public aerospace exposition running November 7–8, which featured U.S. Air Force Thunderbirds aerobatics, the X-59 quiet supersonic demonstrator, and a string of agency announcements headlined by the PROMISE rover Moon Base contract, the new astronaut class search, and the nuclear Mars spacecraft vision. NASA and the White House did not announce a specific organizing body, projected attendance targets, or funding commitments for CapeWeek at this stage, with an advisory committee expected to be announced in early 2027 to begin operational planning for the 2028 debut.",
+        sourceUrl: "https://www.benzinga.com/news/space/26/11/63017536/trump-nasa-plan-new-space-and-aviation-showcase-to-outshine-paris-air-show-bigger-better-and-grander",
+        timestamp: "2026-11-08T18:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-07": {
     date: "November 7, 2026",
     stories: [
