@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-09": {
+    date: "November 9, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Readies Falcon 9 for USSF-627 Classified Space Force Launch From Vandenberg Tonight as Veteran Booster B1103 Targets Its Seventh Flight — West Coast Campaign Pushes 2026 Cadence Beyond 125 as Pacific Droneship Recovery Planned for Consecutive-Week California Mission",
+        body: "SpaceX is preparing for the overnight launch of a classified USSF-627 mission for the U.S. Space Force from Space Launch Complex 4E at Vandenberg Space Force Base, California, targeting liftoff at approximately 3:03 a.m. UTC on November 10 — equivalent to late Sunday night Pacific time — using Falcon 9 booster B1103 on its seventh flight with a planned recovery aboard the Pacific droneship Of Course I Still Love You. The USSF-627 mission follows the November 7 USSF-432 flight by just two days, underscoring the aggressive cadence SpaceX is maintaining from the West Coast as the company's 2026 annual launch count stands at 125 and continues to climb. The classified payload, operated by the U.S. Space Force's Space Systems Command, is consistent with SpaceX's expanding Starshield national security satellite service, which has accounted for a growing share of Vandenberg launches in 2026 as the Space Force accelerates its proliferated low-Earth-orbit architecture. SpaceX has not publicly confirmed payload details, but the mission's orbital profile and drop-zone filings are consistent with a low-Earth-orbit classified government satellite delivery.",
+        sourceUrl: "https://www.spacelaunchschedule.com/launch/falcon-9-block-5-ussf-627",
+        timestamp: "2026-11-09T07:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "Starship Flight 15 FAA License Amendment Enters 32nd Day of Review With Four Days to November 13 Launch Window — Booster 22 and Ship 42 Remain in Final Checkout as Mechazilla Dual-Catch Systems Certified Ready and Window Opens 4:45 p.m. CT for 75-Minute Opportunity",
+        body: "The FAA license amendment authorizing the dual-catch flight profile for Starship Flight 15 has now been under regulatory review for 32 days with four days remaining before SpaceX's November 13 no-earlier-than target, as of November 9, with no update from the FAA's Starship licensing page and no public statement from SpaceX on the amendment's expected issuance date. SpaceX vehicles Booster 22 and Ship 42 remain in final pre-launch checkout at Starbase, Texas, with propellant loading rehearsals complete and the Mechazilla chopstick arms certified ready for the dual-catch sequence that would, if executed, mark the first simultaneous mechanical recovery of two rocket stages in spaceflight history. Industry analysts tracking the amendment note that authorization received by November 10 would give SpaceX a narrow operational window to meet the November 13 date, while a slip beyond that would likely push the launch to mid-to-late November — though SpaceX has demonstrated the ability to execute rapidly once regulatory clearance arrives. The November 13 window would open at 4:45 p.m. CT for a 75-minute flight opportunity, targeting the dual-catch of Super Heavy Booster 22 approximately seven minutes after liftoff and Starship Ship 42 approximately 65 minutes later following a partial orbital trajectory and controlled reentry.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+        timestamp: "2026-11-09T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Science",
+        headline: "NASA Confirms Neil Gehrels Swift Observatory Reentered Over North Sumatra on November 4 After 22 Years — Failed Commercial Rescue Attempt and Atmospheric Decay Close Book on Gamma-Ray Burst Pioneer That Detected More Than 1,400 Transients and Revolutionized Multi-Messenger Astronomy",
+        body: "NASA confirmed the Neil Gehrels Swift Observatory reentered Earth's atmosphere on November 4, 2026, at 7:39 a.m. EDT, with the U.S. Space Force tracking network placing the reentry at approximately 3.4° north latitude and 98.6° east longitude over northern Sumatra, Indonesia — concluding a 22-year mission that catalogued more than 1,400 gamma-ray bursts and established Swift as a cornerstone of time-domain and multi-messenger astronomy. Swift's end came after a failed commercial rescue: in September 2026, a Katalyst Space Technologies servicing vehicle using the LINK in-space servicing system reached the observatory but was unable to execute the planned orbit-raising maneuver, and the servicing spacecraft itself subsequently reentered, leaving Swift to continue natural atmospheric decay. NASA had suspended scientific observations in October 2026 to minimize drag perturbations and position Swift for the safest possible reentry corridor, estimating a ground-impact risk of approximately 1 in 2,100; as of November 9, no debris has been confirmed recovered from the North Sumatra reentry track, and the agency says risk to the public was low given the sparsely populated corridor. Swift's legacy includes the most complete gamma-ray burst detection archive in observational astronomy, the discovery of the first confirmed magnetar giant flare, and foundational contributions to multi-messenger astrophysics through its role in localizing electromagnetic counterparts to LIGO-detected gravitational-wave events.",
+        sourceUrl: "https://aiaa.org/?p=37667",
+        timestamp: "2026-11-09T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Education",
+        headline: "NASA Opens $1 Million Moon Base Student Design Challenge With January 25 Registration Deadline — High School and College Teams Invited to Develop Lunar South Pole Habitat Concepts in Direct Extension of MAX POWER Moon Base Architecture Unveiled by Administrator Isaacman",
+        body: "NASA opened a $1 million Moon Base Student Design Challenge for U.S. high school and college teams, inviting students to develop original concepts for lunar south pole habitat and infrastructure systems consistent with the Moon Base architecture unveiled by Administrator Jared Isaacman at the MAX POWER exposition on November 7–8, with registration open through January 25, 2027. The challenge is structured in phases, with teams submitting design proposals, subsystem analyses, and integration concepts over a multi-month competition period culminating in finalist presentations evaluated by NASA engineers and scientists working on the agency's real Moon Base program. NASA framed the challenge as both an educational pipeline initiative and a genuine source of innovative design ideas, noting that student competitions have historically contributed novel concepts that influenced actual mission architectures — including habitation studies that informed the Lunar Gateway design process. The $1 million prize pool across multiple award tiers reflects NASA's intent to build a generation of engineers and scientists who will design and operate Moon Base infrastructure being developed under the multi-billion-dollar commercial contracts awarded at MAX POWER, with first anticipated lunar south pole lander missions targeting late 2028.",
+        sourceUrl: "https://meridia.news/news/nasa-announces-1-million-to-students-for-moon-base-challenge-7xi1",
+        timestamp: "2026-11-09T12:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Defense",
+        headline: "ESA Hera Mission Begins Systematic Orbital Reduction Toward 30-Kilometer Science Orbit at Didymos — CubeSats Juventas and Milani Integration Checks Complete as Science Team Processes First High-Resolution Surface Maps of DART Impact Crater and Surrounding Dimorphos Boulder Field",
+        body: "ESA's Hera spacecraft began the systematic orbital reduction sequence toward its planned 30-kilometer operational science orbit at the Didymos-Dimorphos binary asteroid system on November 9, executing the first in a series of controlled maneuvers that will progressively reduce its standoff distance from the primary asteroid and enable the high-resolution mapping, mass determination, and gravity field measurement that constitute the core scientific objectives of the mission. The Hera science team at the European Space Operations Centre in Darmstadt is simultaneously processing high-resolution optical navigation imagery returned since the spacecraft's November 4 arrival, with surface maps of the DART impact crater on Dimorphos now being compared against pre-impact models to characterize the crater's dimensions and surrounding ejecta redistribution caused by the September 2022 kinetic impact. Integration and functional checks of CubeSats Juventas and Milani are complete ahead of their planned deployment before the end of November — Juventas carrying the GRASS gravimeter and JuRa radar to probe Dimorphos's interior structure, and Milani carrying the ASPECT spectrometer to characterize the mineralogical composition of the boulder-covered surface at closer range than Hera itself will approach. ESA planetary defense scientists say the first detailed mass estimate of Dimorphos derived from Hera's gravitational tracking — combined with DART's measured orbital period change — will provide the highest-precision kinetic impactor efficacy calculation ever achieved, establishing the definitive scientific foundation for future planetary defense mission planning.",
+        sourceUrl: "https://www.esa.int/ESA_Multimedia/Videos/2026/06/Humans_changed_an_asteroid._Now_we_find_out_how",
+        timestamp: "2026-11-09T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-08": {
     date: "November 8, 2026",
     stories: [
