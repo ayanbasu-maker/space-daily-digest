@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-10": {
+    date: "November 10, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Successfully Launches Classified USSF-627 Mission From Vandenberg on November 10, Completing Back-to-Back West Coast Space Force Flights in Three Days as Veteran Booster B1103 Lands Aboard Pacific Droneship on Its Seventh Recovered Flight — 2026 Annual Cadence Now Surpasses 126 as Starshield Constellation Buildout Continues",
+        body: "SpaceX executed the launch of the classified USSF-627 mission for the U.S. Space Force from Space Launch Complex 4E at Vandenberg Space Force Base on November 10, with Falcon 9 booster B1103 completing a successful propulsive landing aboard the Pacific droneship Of Course I Still Love You approximately eight minutes after liftoff, marking the booster's seventh flight and recovery. The USSF-627 mission followed USSF-432 by just three days, continuing the high-tempo West Coast campaign that has characterized SpaceX's 2026 Vandenberg schedule as the Space Force accelerates proliferated low-Earth-orbit satellite architecture buildout. The classified payload, operated by U.S. Space Force Space Systems Command, was delivered to its target orbit with the Falcon 9 upper stage performing the required orbital insertion maneuver after a coast phase; SpaceX confirmed successful satellite separation. The launch pushes SpaceX's 2026 total to 126 and counting, sustaining a pace that remains well ahead of any previous launch provider's annual record.",
+        sourceUrl: "https://www.ksby.com/news/launch-tracker/spacex-falcon-9-launch-planned-for-monday-evening-out-of-vandenberg-sfb",
+        timestamp: "2026-11-10T03:03:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "FAA Planning Slide for Starship Flight 15 Now Shows November 12 Date, Raising Confidence in SpaceX's November 13 Launch Target as License Amendment Review Enters Day 33 — Booster 22 and Ship 42 Remain Ready at Starbase With Mechazilla Dual-Catch Configuration Certified and Both Stage Recoveries on the Line",
+        body: "New FAA internal planning slides surfaced November 10 show Starship Flight 15 listed with a November 12 planning date — a one-day shift from an earlier slide that showed November 8 — which industry analysts are interpreting as a strong signal that the FAA license amendment authorizing the dual-catch flight profile is close to issuance, with SpaceX's publicly stated no-earlier-than target of November 13 now appearing increasingly plausible. The amendment, which covers the novel operational scenario in which Mechazilla would catch Super Heavy Booster 22 approximately seven minutes after liftoff and then catch Starship Ship 42 approximately 65 minutes later following a partial orbital trajectory and controlled reentry, has been under review for 33 days as of November 10, with no formal issuance yet appearing on the FAA's Starship licensing page. SpaceX vehicles Booster 22 and Ship 42 remain in final checkout at Starbase, Texas, with propellant loading rehearsals complete and the dual-catch chopstick arms certified ready; authorization received by November 12 would give SpaceX a narrow operational window to meet the November 13 date and attempt the first simultaneous mechanical recovery of two rocket stages in spaceflight history. The November 13 window would open at 4:45 p.m. CT for a 75-minute flight opportunity.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/11/starship-flight-15-awaits-faa/",
+        timestamp: "2026-11-10T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin Confirms New Glenn Next Orbital Launch Slips to January 2027 as Launchpad Rebuild From May Hot-Fire Explosion Extends Into Fourth Quarter — Company Races to Restore Pad Ahead of NASA ESCAPADE Support Commitments and 12-Launch Annual Target Already Beyond Reach",
+        body: "Blue Origin confirmed its next New Glenn orbital launch has been pushed to January 2027, approximately 10 days later than the company's prior target, as reconstruction of its Florida launch complex from the catastrophic launchpad damage sustained during a May 2026 hot-fire engine test continues to extend the recovery timeline. The May incident destroyed major infrastructure at the base of Launch Complex 36 at Cape Canaveral Space Force Station, requiring Blue Origin to change its launch procedures — opting to use cranes rather than its previous transporter-erector to position the New Glenn rocket on the rebuilt launch tower. The delay puts Blue Origin's 2026 annual launch count at three completed missions, far short of the 12-launch target the company set at the beginning of the year, underscoring the operational setback caused by the spring accident as competitors SpaceX and United Launch Alliance maintain high cadence. Blue Origin still carries significant manifest commitments including AST SpaceMobile, Amazon Project Kuiper, and NASA-related science missions into 2027.",
+        sourceUrl: "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+        timestamp: "2026-11-10T08:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Vehicle Development",
+        headline: "Blue Origin Unveils New Glenn GS3 Third Stage for Geostationary and Escape Trajectory Missions — Upper-Stage Augmentation Opens Deep Space and High-Energy Commercial Markets Previously Inaccessible to Two-Stage New Glenn Configuration",
+        body: "Blue Origin announced the development of a GS3 third stage for the New Glenn rocket, a cryogenic upper stage designed to deliver payloads to geostationary orbit, lunar transfer orbit, and escape trajectories that fall beyond the energy budget of New Glenn's existing two-stage BE-3U-powered second stage. The GS3 augmentation is intended to position New Glenn as a competitor for high-energy commercial missions including direct-to-GEO satellite delivery and deep space scientific payloads, markets currently dominated by United Launch Alliance's Centaur upper stage and, for heavier GEO deliveries, SpaceX's Falcon Heavy. Blue Origin has not yet announced a first flight date for the GS3 configuration or disclosed the stage's propellant combination and performance figures, though the announcement is consistent with the company's stated ambition to offer a full range of orbital energy levels as New Glenn's production cadence recovers following the spring launchpad incident. The GS3 follows Blue Origin's previous announcement of the New Glenn Mk2 stretched variant and further reinforces the company's strategy of incrementally extending New Glenn's capability envelope as the vehicle matures.",
+        sourceUrl: "https://autoevolution.com/news/blue-origin-s-new-glenn-mega-rocket-gets-a-third-stage-to-send-stuff-deeper-into-space-278170.html",
+        timestamp: "2026-11-10T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Earth Observation",
+        headline: "ESA Awards OHB €554 Million Contract to Build First Sentinel-3 Next Generation Topography Satellite for Copernicus Programme — Successor to Operational Sentinel-3A/B Ocean and Land Color Monitors Will Add Dedicated Topographic Measurement Capability for Sea Level, Ice Sheet, and Inland Water Tracking",
+        body: "ESA awarded a €554 million contract to German spacecraft manufacturer OHB to develop and build the first Sentinel-3 Next Generation Topography satellite for the European Union's Copernicus Earth observation programme, advancing the long-term continuity of a data record that has underpinned sea level rise monitoring, ice sheet mass balance assessment, and global ocean color and land surface temperature mapping for more than a decade. The Sentinel-3 NG Topography variant represents a dedicated evolution of the current Sentinel-3A and Sentinel-3B altimetry capabilities, adding a next-generation radar altimeter optimized for high-resolution measurement of ocean topography, inland water levels, and ice sheet surface elevation changes at accuracies required for climate change monitoring commitments under the EU Green Deal. OHB will lead the industrial prime contractor team covering spacecraft design, integration, and testing at its Bremen facility, with the satellite targeting a launch in the early 2030s to maintain continuity with the operational Sentinel-3 constellation before the current instruments degrade. The contract is among the largest single Copernicus instrument awards in ESA's recent portfolio and reflects the growing scientific and policy demand for high-accuracy altimetric records as sea level acceleration becomes one of the defining observational challenges in Earth system science.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases",
+        timestamp: "2026-11-10T11:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Weather",
+        headline: "ESA's MTG-I2 Meteosat Third Generation Imager Delivers First Full-Disk Weather Images From Geostationary Orbit — Successor to Legacy Meteosat Fleet Begins Operational Validation With European and African Coverage as Eumetsat Prepares for Handover to Operational Meteorological Service",
+        body: "ESA's Meteosat Third Generation Imager satellite MTG-I2 delivered its first full-disk weather imagery from geostationary orbit, marking a significant milestone in the transition from the legacy Meteosat Second Generation fleet to Europe's next generation of operational meteorological satellites with substantially improved spatial resolution, spectral channels, and imaging cadence for severe weather monitoring over Europe and Africa. MTG-I2 joins its sister satellite MTG-I1, which completed commissioning earlier in 2026, in providing continuous high-resolution visible and infrared weather imagery that will form the backbone of European numerical weather prediction and nowcasting operations for the next 20 years as the ageing MSG constellation is progressively retired. The satellite's Flexible Combined Imager delivers imagery every 10 minutes at a full disk and every 2.5 minutes for a rapid-scan Europe-Africa region, capabilities that European meteorological services say will materially improve lead times for severe thunderstorm and flash flood warnings across the continent. Eumetsat, the European meteorological satellite organisation that will operate MTG-I2 in service, is now conducting the final phases of instrument validation and will announce an operational service entry date following completion of the commissioning campaign.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases",
+        timestamp: "2026-11-10T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-09": {
     date: "November 9, 2026",
     stories: [
