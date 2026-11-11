@@ -68,6 +68,53 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+
+  "2026-11-11": {
+    date: "November 11, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Rolls Booster 22 to Launch Mount for Squeeze Test as Starship Flight 15 Countdown Enters Final 48 Hours — FAA License Amendment Still Pending as November 13 Dual-Catch Window Approaches and Ship 42 Awaits Stacking at Starbase",
+        body: "SpaceX rolled Super Heavy Booster 22 to Orbital Launch Mount 2 at Starbase, Texas on November 11, completing a move that began at approximately 4 p.m. CST and took roughly three hours along Highway 4, positioning the 233-foot booster for a 'squeeze test' that will verify the Mechazilla chopstick arms can grip and support the stage — the same hardware that will attempt to catch both Booster 22 and Starship Ship 42 during the planned Flight 15 dual-catch attempt targeted for no earlier than November 13. The FAA license amendment authorizing the dual-catch flight profile, which covers the novel scenario of returning Ship 42 to the launch tower for a chopstick catch approximately 65 minutes after liftoff following a partial orbital trajectory and controlled reentry, had not been formally issued as of the booster move, keeping the November 13 date contingent on imminent regulatory clearance from the agency. Ship 42 remained in final checkout at the Starbase production facility awaiting stacking atop the booster, a step that SpaceX can execute rapidly once launch authorization is received; the November 13 window opens at 4:45 p.m. CT for a 75-minute flight opportunity. If the dual-catch succeeds, Flight 15 will mark the first time in spaceflight history that both stages of a rocket have been mechanically recovered in a single mission.",
+        sourceUrl: "https://starlust.org/starship-flight-15-spacex-moves-super-heavy-booster-to-launch-pad-ahead-of-november-13-lift-off/",
+        timestamp: "2026-11-11T22:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Deep Space Exploration",
+        headline: "NASA Confirms Both ESCAPADE Mars Probes Successfully Completed Powered Earth Flybys and Are Now Cruising to Mars — Blue and Gold Probes Executed Back-to-Back Oberth Maneuvers November 7 and 9, Setting Up September 2027 Arrival at Red Planet",
+        body: "NASA confirmed on November 11 that both ESCAPADE spacecraft — Blue and Gold — successfully completed their powered Earth flyby maneuvers, with Blue executing the gravity-assisted engine burn on November 7 and Gold following with an identical Oberth maneuver on November 9, leaving both probes on a confirmed cruise trajectory toward Mars with arrival expected in September 2027. The dual powered flyby represented the first time any Mars-bound spacecraft has performed Oberth maneuvers — engine burns timed at the point of closest Earth approach to maximize velocity gained from the gravity assist — a technique the Berkeley-led mission team chose to extend the mission's reach despite ESCAPADE's small spacecraft mass of approximately 350 kilograms each. Both engine burns lasted approximately nine minutes and were confirmed as nominal by the mission operations team, redirecting the probes from their year-long loiter near the Sun-Earth Lagrange point 2 onto a direct Mars intercept course. ESCAPADE will study the interaction between the solar wind and the Martian magnetosphere, with the dual-spacecraft design enabling simultaneous measurements upstream and downstream of Mars to characterize the processes that stripped away the planet's ancient atmosphere.",
+        sourceUrl: "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+        timestamp: "2026-11-11T16:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Aeronautics",
+        headline: "NASA Unveils X-70 Fractal Crewed Experimental Research Aircraft at UP.Summit — Agency's First New X-Plane in Nearly a Decade Targets Flight Within Two Years to Advance High-Speed Flight Technologies for Commercial and Defense Applications",
+        body: "NASA unveiled the X-70 Fractal, a crewed experimental research aircraft, at the UP.Summit aerospace conference in Florida, marking the agency's first new X-plane designation in nearly a decade and the first crewed experimental flight research aircraft in several years as NASA's aeronautics directorate seeks to accelerate high-speed flight technology development. The X-70 is designed to explore technologies applicable to both commercial and defense aviation in the high-subsonic and low-supersonic flight regime, with NASA describing a first-flight target within two years from unveiling and the aircraft currently in final design and fabrication phases. The Fractal designation reflects the aircraft's intended role as a testbed for advanced aerodynamic shapes and flow control technologies that could feed into next-generation commercial airliners and military platforms, expanding the aeronautics research portfolio beyond NASA's existing X-59 quiet supersonic demonstrator program. NASA's aeronautics mission directorate has increasingly pursued experimental aircraft programs as a core pipeline for delivering technology demonstrations that industry partners can carry through to commercial products.",
+        sourceUrl: "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+        timestamp: "2026-11-11T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Defense",
+        headline: "ESA Hera Mission Continues Orbital Reduction at Didymos One Week Into Science Operations — High-Resolution Imagery of DART Impact Crater Now Processing as CubeSat Deployment Window Approaches End of November",
+        body: "ESA's Hera spacecraft continued its systematic orbital reduction sequence toward its planned 30-kilometer science orbit at the Didymos-Dimorphos binary asteroid system on November 11, one week after completing its November 4 arrival, with the mission team at the European Space Operations Centre in Darmstadt processing high-resolution optical imagery of Dimorphos that shows the DART impact crater from closer range than any previous observation. The imagery is being compared against pre-impact models to determine the crater's precise dimensions, the distribution of ejecta material around the boulder-covered surface of Dimorphos, and the degree to which the DART impact redistributed the loose regolith layer — data that will constrain kinetic impactor models used in future planetary defense mission planning. CubeSats Juventas and Milani, which completed integration and functional checks last week, are scheduled for deployment before the end of November: Juventas carries the GRASS gravimeter and JuRa radar to probe Dimorphos's interior structure, while Milani carries the ASPECT spectrometer for close-up mineralogical characterization of the surface. ESA's planetary defense scientists expect to publish the first peer-reviewed mass estimate of Dimorphos derived from Hera's gravitational tracking — combined with DART's measured orbital period change — as early as the first quarter of 2027.",
+        sourceUrl: "https://www.esa.int/Newsroom/Press_Releases",
+        timestamp: "2026-11-11T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin Sets January 2027 New Glenn Return-to-Flight Target as Launchpad Reconstruction Enters Final Phase — Crane-Based Launch Procedure Replaces Destroyed Transporter-Erector as Company Seeks to Recapture Cadence After Six-Month Stand-Down",
+        body: "Blue Origin confirmed its New Glenn rocket will not resume orbital launches until January 2027, with launchpad reconstruction at Launch Complex 36 at Cape Canaveral Space Force Station entering what the company characterized as its final phase following the catastrophic May 2026 hot-fire accident that destroyed major infrastructure at the base of the launch complex. The rebuild has required Blue Origin to fundamentally change its launch operations procedure, replacing the destroyed transporter-erector with a crane-based vehicle positioning system to place New Glenn on the reconstructed launch mount — a change that engineers say adds operational steps but does not compromise the vehicle's performance or reliability margins. Blue Origin ends 2026 with three completed New Glenn orbital missions against the 12-launch annual target set at the beginning of the year, a shortfall the company has attributed entirely to the spring accident; the January return-to-flight would mark the beginning of a recovery in cadence that Blue Origin says will accelerate through 2027 with Amazon Project Kuiper, AST SpaceMobile, and government payloads in the manifest. The company separately confirmed that development of the GS3 cryogenic third stage for high-energy and deep space missions continues on schedule independent of the launch complex reconstruction.",
+        sourceUrl: "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+        timestamp: "2026-11-11T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-10": {
     date: "November 10, 2026",
     stories: [
