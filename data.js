@@ -68,6 +68,51 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-12": {
+    date: "November 12, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "FAA Issues Indian Ocean Re-Entry NOTAM Through November 20 as SpaceX Stacks Booster 22 and Ship 42 at Starbase Ahead of Flight 15's Targeted November 13 Dual-Catch Attempt — License Amendment Still Pending as History's First Simultaneous Two-Stage Mechanical Recovery Stands 24 Hours Away",
+        body: "The FAA issued a Notice to Airmen covering a re-entry and splashdown corridor in the Indian Ocean from November 13 through November 20, the clearest regulatory signal yet that the Flight 15 license amendment authorizing SpaceX's first-ever dual mechanical catch of both a Super Heavy booster and a Starship upper stage is imminent, with SpaceX completing stacking of Ship 42 atop Booster 22 at Orbital Launch Mount 2 at Starbase, Texas, on November 12 ahead of a 4:45 p.m. CT launch window the following day. The Flight 15 mission profile calls for Mechazilla's chopstick arms to catch Booster 22 approximately seven minutes after liftoff, then catch Ship 42 roughly 65 minutes later following a partial orbital trajectory and controlled re-entry — a double mechanical recovery that has never been attempted in the history of spaceflight. SpaceX CEO Elon Musk confirmed the vehicle stack is flight-ready and that the company awaits only the FAA's formal issuance of the license amendment to proceed with final propellant loading operations. The 75-minute November 13 launch window and backup opportunities through November 20 give SpaceX multiple chances to attempt the historic mission, which would also carry 26 Starlink V3 satellites to low Earth orbit if the dual-catch succeeds.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-moves-starship-flight-15-booster-to-launch-pad-for-squeeze-test-ahead-of-epic-double-catch-attempt-photos",
+        timestamp: "2026-11-12T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Astronaut Recruitment",
+        headline: "NASA Opens Applications for Next Astronaut Class With December 3 Deadline — Agency Seeks Candidates With Advanced STEM Degrees and Jet Pilot or Research Experience as Artemis Lunar Program and Commercial Station Era Drive Demand for New Flight Crew",
+        body: "NASA opened applications for its next astronaut class on November 7, with the window closing at 11:59 p.m. Eastern Standard Time on December 3, 2026, as the agency seeks candidates to join the corps that will fly Artemis lunar surface missions and crewed flights to the emerging commercial low-Earth-orbit station era that follows ISS retirement. Applicants must hold at minimum a master's degree in a STEM field or complete two years of doctoral program work, with the agency giving preference to candidates holding jet pilot experience or significant research credentials in fields including aerospace engineering, medicine, or planetary science. The new class will follow the Artemis Generation cohort that includes the crew of Artemis II, which launched in April 2026 on the first crewed lunar flyby since Apollo 17, as NASA's operational focus expands from ISS increment operations to multi-destination human spaceflight. The selection process typically takes 18 to 24 months from application close to class announcement, with successful candidates entering a two-year initial training pipeline at Johnson Space Center.",
+        sourceUrl: "https://businesstoday.in/jobs/story/want-to-become-an-astronaut-nasa-opens-applications-check-eligibility-and-deadline-566867-2026-11-12",
+        timestamp: "2026-11-12T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Telescopes",
+        headline: "NASA's Nancy Grace Roman Space Telescope May Deliver Images 30% Sharper and Operate Twice as Long as Originally Planned, Scientists Report — Improved Mirror Alignment and Thermal Stability Findings Give Mission Team Confidence in Enhanced Science Return Across Wide-Field Survey Programs",
+        body: "Scientists working on NASA's Nancy Grace Roman Space Telescope reported that the observatory is on track to deliver images approximately 30 percent sharper than the original design specification and may remain fully operational for twice its baseline mission lifetime of five years, based on updated assessments of mirror alignment quality and the telescope's thermal environment in its L2 halo orbit. The improved sharpness, driven by better-than-predicted wavefront error in the 2.4-meter primary mirror assembly and refined attitude control performance, will increase the effective angular resolution of the Wide Field Instrument across all 18 of its near-infrared detectors and materially improve the science return from Roman's core survey programs targeting dark energy, exoplanet demographics through microlensing, and deep wide-field infrared mapping of the galactic plane. The doubled lifetime projection, if borne out by ongoing propellant budget assessments and hardware performance trends, would extend Roman's science operations into the mid-2030s and allow follow-up and legacy survey programs well beyond those planned at launch. Mission team members described the findings at the November 2026 Roman Science Team meeting as among the most positive early-operations assessments in the observatory's history.",
+        sourceUrl: "https://www.livescience.com/space/space-exploration/the-possibilities-are-truly-breathtaking-nasas-roman-space-telescope-will-take-better-images-and-last-longer-than-experts-predicted",
+        timestamp: "2026-11-12T10:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mars Exploration",
+        headline: "NASA Launches Perseverance Sample Retrieval Architecture Initiative for Mars Sample Return — Revised Approach Leverages Rover's Own Capabilities to Reduce Cost and Schedule Risk After Original Multi-Billion-Dollar MSR Architecture Was Cancelled in 2024",
+        body: "NASA announced a new initiative called the Perseverance Sample Retrieval Architecture for Mars Sample Return, a revised mission approach designed to bring back the cache of drilled rock core samples collected by the Perseverance rover at Jezero Crater by leveraging the rover's existing mobility and arm capabilities alongside new commercial partnerships, moving away from the original Mars Sample Return architecture that was cancelled in 2024 after projected costs exceeded $10 billion. The new approach reduces the mass and complexity of the sample retrieval lander by assigning Perseverance — still operational as of late 2026 — the task of depositing samples directly into the ascent vehicle rather than relying on a dedicated fetch rover, a simplification that agency engineers say eliminates one of the highest-risk elements of the original design. NASA has not yet announced a target launch date for the revised Earth Entry Vehicle or the sample retrieval lander, but the agency said the new architecture is intended to be achievable within a significantly lower budget envelope and has been coordinated with ESA, which remains a partner on sample retrieval and Earth reception. The Perseverance rover currently holds 24 sealed sample tubes across a range of scientifically prioritized geological units at Jezero Crater, including potential biosignature-bearing sedimentary units in the ancient delta deposit.",
+        sourceUrl: "https://science.nasa.gov/science-news/",
+        timestamp: "2026-11-12T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China Launches New Satellite Aboard Long March-2D From Jiuquan in 677th Long March Mission — Payload Enters Preset Orbit Successfully as CASC Prepares November Launches From Wenchang Ahead of Anticipated Xuntian Space Telescope Flight",
+        body: "China launched a new satellite from the Jiuquan Satellite Launch Center on a Long March-2D carrier rocket at 7:41 p.m. Beijing time on November 12, with the payload entering its preset orbit successfully in what state media reported as the 677th orbital mission of the Long March rocket family since the series' debut in 1970. The launch is the latest in a sustained Chinese government satellite campaign that has seen CASC and CASIC deploy dozens of Earth observation, remote sensing, and military reconnaissance satellites in 2026 as Beijing continues to expand its space-based intelligence and civil monitoring architecture. The successful mission comes as China Aerospace Science and Technology Corporation prepares for two additional launches from Wenchang Space Launch Site later in November, including a Long March 8A flight targeting approximately November 20 and a Long March 12 mission expected around November 24. The Long March 12 flight is of particular interest to the international astronomy community, as it is linked to the anticipated launch of the Xuntian space telescope, which will operate in a co-orbital formation with Tiangong station and deliver a wide-field optical survey capability comparable to Hubble's resolution over a sky coverage area approximately 300 times larger.",
+        sourceUrl: "http://www.china.org.cn/2026-11/12/content_118771440.shtml",
+        timestamp: "2026-11-12T11:41:00Z"
+      }
+    ]
+  },
 
   "2026-11-11": {
     date: "November 11, 2026",
