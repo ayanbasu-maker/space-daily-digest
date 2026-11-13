@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-13": {
+    date: "November 13, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Starship Flight 15 Launches Today in Historic Double-Catch Attempt — FAA Clears Booster 22 and Ship 42 Mission as 22:45 UTC Window Opens for First-Ever Simultaneous Mechanical Recovery of Both Rocket Stages, With 26 Starlink V3 Satellites Aboard",
+        body: "SpaceX's Starship Flight 15 mission is slated to lift off from Orbital Launch Mount 2 at Starbase, Texas today with the 22:45 UTC launch window opening for a 75-minute opportunity, following FAA issuance of the license amendment authorizing the most ambitious flight profile in the program's history: an attempt to mechanically catch both Super Heavy Booster 22 and Starship Ship 42 using Mechazilla's chopstick arms at the launch tower. The mission calls for Mechazilla to catch Booster 22 approximately seven minutes after liftoff, then catch Ship 42 roughly 65 minutes later following a partial orbital trajectory and controlled re-entry through Earth's atmosphere — a double mechanical recovery that has never been attempted in the history of human spaceflight. Ship 42 will also carry 26 Starlink V3 satellites to low Earth orbit if the vehicle's performance is nominal, adding an operational payload dimension to what is already the most technically demanding Starship test flight to date. SpaceX will call off the Ship 42 catch if any anomaly develops during the flight, reverting to a splashdown in the Indian Ocean as a fallback.",
+        sourceUrl: "https://www.technology.org/2026/11/13/starship-flight-15-launch-double-tower-catch-ship-42/",
+        timestamp: "2026-11-13T12:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Artemis / Moon",
+        headline: "NASA Reveals Accelerated Lunar Landing Plan Targeting 2028 Crewed Surface Touchdown — Administrator Isaacman Calls for SpaceX Starship HLS and Blue Origin Blue Moon to Compete for Artemis III and IV Surface Mission Assignments as China Accelerates Rival Lunar Program",
+        body: "NASA Administrator Jared Isaacman unveiled an accelerated lunar landing roadmap on approximately November 9 that targets the first crewed American Moon landing since Apollo 17 for 2028, two years ahead of the previously projected 2030 timeline, citing the competitive pressure of China's rapidly maturing lunar program and the operational readiness of commercial lander partners SpaceX and Blue Origin. Under the revised plan, both SpaceX's Human Landing System Starship variant and Blue Origin's Blue Moon Mark 2 lander would compete for crewed surface mission assignments beginning with Artemis III, with performance and schedule adherence determining which vehicle receives the Artemis III landing opportunity and which is assigned to Artemis IV. The accelerated timeline has drawn both praise from lawmakers who have long advocated a faster lunar return and scrutiny from independent advisors who warn that compressing the schedule increases the risk of mission failures similar to those that plagued Apollo's early crewed flights. NASA has said it will outline the specific milestones and funding requirements for the 2028 acceleration to Congress in a report due in the first quarter of 2027.",
+        sourceUrl: "https://thenationaldesk.com/news/americas-news-now/nasa-announces-plan-to-build-20-billion-moon-base-jared-isaacman-congress-china-space-race-artemis-missions-rrt",
+        timestamp: "2026-11-13T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Propulsion",
+        headline: "Blue Origin Unveils New High-Performance Upper Stage Engine and GS3 Cryogenic Third Stage for New Glenn — Company Says New Hardware Will Extend Rocket's Reach to Geostationary Transfer Orbit and Deep Space Destinations Independent of Return-to-Flight Timeline",
+        body: "Blue Origin publicly unveiled a new high-thrust upper stage engine and the GS3 cryogenic third stage for the New Glenn rocket, with the company describing the hardware as a capability expansion that will enable New Glenn to reach geostationary transfer orbit, lunar orbit, and other high-energy destinations that are currently beyond the reach of the two-stage configuration flying today. The new engine, details of which Blue Origin has not yet fully disclosed, is designed to burn liquid oxygen and liquid hydrogen in a staged combustion cycle optimized for high specific impulse in vacuum, extending New Glenn's payload reach for commercial satellite operators and NASA science mission payloads requiring trajectories beyond low Earth orbit. Blue Origin said the GS3 third stage and its new engine are on a development schedule independent of the ongoing launch complex reconstruction at Cape Canaveral, with the company targeting the first New Glenn flight with GS3 for the second half of 2027. The unveiling positions Blue Origin to compete directly with SpaceX's Falcon Heavy and emerging United Launch Alliance Vulcan Centaur for high-energy commercial and government payloads.",
+        sourceUrl: "https://spacecoastdaily.com/2026/11/blue-origin-unveils-powerful-new-rocket-engine-and-third-stage-for-new-glenn-program/",
+        timestamp: "2026-11-13T09:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Launch Vehicles",
+        headline: "ISRO Conducts Successful Static Fire Test of Upgraded PSLV Third Stage at Sriharikota — Agency Implements Nozzle, Sealing, and Material Improvements After Root Cause Analysis of PSLV-C61 and PSLV-C62 Anomalies, With Further Testing Planned Before Next Flight",
+        body: "The Indian Space Research Organisation successfully conducted a ground static hot-fire test of the upgraded PSLV third stage, designated PS3, at Satish Dhawan Space Centre in Sriharikota on November 12, validating a package of engineering changes implemented after root cause analysis of the anomalies that affected recent PSLV-C61 and PSLV-C62 missions. ISRO engineers redesigned the PS3 nozzle geometry, improved the sealing systems at key joints, tightened raw material acceptance criteria, and enhanced non-destructive testing procedures to address the failure modes identified in the post-mission investigations, with the agency describing the test as a successful demonstration of the corrective measures. The PS3 third stage is a solid-propellant motor critical to achieving the precise orbital insertion velocities required for PSLV's primary mission profile, and anomalies in its performance have directly affected mission success on recent flights. ISRO said further static fire tests will be conducted based on data analysis from the November 12 test before the upgraded stage is cleared for integration into the next PSLV mission.",
+        sourceUrl: "https://thecsrjournal.in/isro-introduces-changes-to-pslv-after-repeated-failures-conducts-key-test",
+        timestamp: "2026-11-13T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Earth Observation",
+        headline: "ESA Awards OHB €554 Million Contract to Build First Sentinel-3 Next Generation Topography Satellite — New Mission Will Continue Europe's Critical Sea Level, Ice Sheet, and River Discharge Monitoring With Improved Radar Altimetry After Sentinel-3A and 3B Reach End of Life",
+        body: "The European Space Agency awarded a €554 million contract to OHB SE to develop and build the first satellite of the Sentinel-3 Next Generation Topography series, ensuring continuity of Europe's critical topographic and oceanographic monitoring capability after the operational Sentinel-3A and Sentinel-3B satellites approach the end of their design lifetimes later this decade. Sentinel-3 NGT will carry an advanced synthetic aperture radar altimeter operating in delay-Doppler mode across a wider swath than its predecessors, enabling higher-resolution measurements of sea surface height, ice sheet elevation changes, and inland water levels including river discharge — data products central to the European Union's Copernicus environmental monitoring program. OHB secured the contract through the Copernicus Space Component procurement process and will lead a European industrial consortium responsible for satellite design, manufacturing, testing, and delivery to ESA for launch, with the mission targeting operations in the early 2030s to bridge the gap before Sentinel-3 NG could become fully operational. The award underscores Europe's long-term commitment to maintaining independent, operational Earth observation infrastructure as climate monitoring and environmental treaty verification demand continuity of multi-decadal geophysical data records.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-11-13T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-12": {
     date: "November 12, 2026",
     stories: [
