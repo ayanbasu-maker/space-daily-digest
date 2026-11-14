@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-14": {
+    date: "November 14, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Attempts First-Ever Starship Tower Catch as Ship 42 Swoops Back to Starbase After 22 Hours in Orbit — Mechazilla Chopsticks Poised to Grab Ship 42 Around 21:20 UTC Following Booster 22's Gulf of Mexico Splashdown, in a Historic Bid for the First Fully Orbital Round Trip",
+        body: "SpaceX is attempting the first-ever mechanical catch of a Starship upper stage on November 14, with Ship 42 — which has been orbiting Earth for more than 22 hours after launching on Flight 15 — lined up to return to Starbase's Mechazilla tower at approximately 21:20 UTC for a chopstick arm catch that has never been attempted in spaceflight history. The attempt follows a disappointing booster outcome on November 13, when Super Heavy Booster 22 aborted its planned return to the launch tower due to a guidance and navigation anomaly and splashed down in the Gulf of Mexico, where it burst into flames — a setback that left the ship catch as the sole recovery objective for Flight 15. Ship 42 successfully deployed all 26 Starlink V3 satellites during its orbital transit, demonstrating the vehicle's payload deployment capability even as the dual mechanical recovery plan was partially foiled by the booster anomaly. SpaceX engineers reported that Ship 42's heat shield performed well during re-entry, raising confidence that the vehicle's return trajectory and structural integrity are within parameters for the catch attempt.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+        timestamp: "2026-11-14T21:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial Crew",
+        headline: "SpaceX and NASA in Discussions to Retire Crew Dragon Capsule in Favor of Starship for Future ISS Crew Rotation — Transition Would Reshape Commercial Crew Program and Accelerate Agency's Reliance on Starship as Its Primary Human Spaceflight Vehicle",
+        body: "SpaceX and NASA are in active discussions about potentially retiring the Crew Dragon capsule and transitioning future ISS crew rotation missions to Starship, according to reporting published November 13, a move that would mark the end of an era for the Falcon 9-based vehicle that has carried astronauts to the station since 2020. The transition would align NASA's low-Earth-orbit crew transport with SpaceX's strategic priority of Starship as its dominant launch and crew vehicle, eliminating the need to maintain a parallel Dragon production and certification line alongside the larger vehicle. NASA officials have not formally announced a Crew Dragon retirement timeline, and any transition to Starship for ISS crew rotation would require new certifications, docking adapter compatibility work, and regulatory review by NASA's Commercial Crew Program office. The discussions underscore the rapidly shifting landscape of NASA's commercial crew relationships as Starship demonstrates increasing operational maturity through the ongoing Flight 15 mission.",
+        sourceUrl: "https://mprnews.org/story/2026/11/13/npr-spacex-nasa-starship-iss-dragon-falcon-musk",
+        timestamp: "2026-11-14T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Space Stations",
+        headline: "Blue Origin Exits NASA Commercial Space Station Competition, Withdrawing Orbital Reef Bid to Redirect Resources Toward Lunar Infrastructure — CEO Dave Limp Tells Staff Company Will Not Compete in Phase 2 Round With Proposals Due December 8",
+        body: "Blue Origin CEO Dave Limp informed company staff on November 12 that the company will not submit a proposal for Orbital Reef in NASA's Commercial Low Earth Orbit Destinations Phase 2 competition, whose proposals are due December 8, 2026, effectively withdrawing from the low-Earth-orbit space station race to concentrate resources on lunar infrastructure under the Artemis program. The decision ends Blue Origin's bid to build and operate a commercially owned station in partnership with Sierra Space, MDA Space, Boeing, and Genesis Engineering, though analysts note that the withdrawal does not necessarily foreclose a future return to the commercial station market once the company's lunar commitments are met. Blue Origin cited its growing role as a critical Artemis contractor — including the Blue Moon Mark 2 lander competing for crewed lunar landing assignments — as the driver of the resource reallocation, with the company also facing competing demands from New Glenn launch manifest growth and GS3 third-stage development. The remaining competitors for NASA's Phase 2 commercial station award include Voyager Technologies' Starlab, Axiom Space's planned standalone module cluster, and startup Vast's Haven-class station design.",
+        sourceUrl: "https://spacenews.com/blue-origin-bows-out-of-nasa-commercial-space-station-competition/",
+        timestamp: "2026-11-14T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Space Telescopes",
+        headline: "ESA's Euclid Space Telescope Releases Landmark 1.7-Million-Gigabyte Dataset Cataloguing Over 900 Million Galaxies — DR1-Foundation Archive Covers 1,900 Square Degrees and Includes 15,000 Gravitational Lens Candidates, Laying the Foundation for the Most Detailed 3D Map of the Universe Ever Made",
+        body: "The European Space Agency released Euclid's first major science dataset, DR1-Foundation, on November 12, 2026, providing the global astronomy community with a 1.7-million-gigabyte archive spanning approximately 1,900 square degrees of sky and cataloguing over 900 million galaxies, 15,000 strong gravitational lens candidates, more than 60 million quasar candidates, and spectra from over 160 million sources — derived from just 13 months of observations covering about 14 percent of Euclid's planned total survey area. The release represents the most statistically powerful weak-gravitational-lensing dataset ever assembled, enabling cosmologists to begin measuring the distribution of dark matter and the influence of dark energy on large-scale structure with unprecedented precision, though ESA notes that the full DR1 release with complete spectroscopic processing is expected in mid-2027. Euclid's visible and near-infrared imaging achieves sharp enough resolution to detect the subtle distortion of background galaxy shapes by dark matter halos along the line of sight, the foundational measurement required to constrain the dark energy equation of state across cosmic time. The six-year Euclid survey is ultimately designed to cover more than a third of the entire sky and produce a three-dimensional atlas of the cosmos stretching back approximately 10 billion years, with the complete 3D map expected around 2031.",
+        sourceUrl: "https://spacewatch.global/2026/11/esas-euclid-telescope-maps-more-than-900-million-galaxies-in-first-major-data-release/",
+        timestamp: "2026-11-14T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Prepares Shenzhou-24 Crewed Mission for Late-November Launch With Pakistan's First Astronaut Aboard — Long March 2F Set to Fly From Jiuquan No Earlier Than November 25 as CMSA Finalizes Crew Selection Between Two SUPARCO Candidates",
+        body: "China's Manned Space Agency is preparing Shenzhou-24 for a no-earlier-than November 25, 2026 launch on a Long March 2F rocket from the Jiuquan Satellite Launch Center, with the mission set to carry Pakistan's first astronaut to Tiangong station as part of a joint human spaceflight agreement between China and Pakistan's SUPARCO space agency. The two Pakistani finalists — Muhammad Zeeshan Ali and Khurram Daud — have both completed training at China's astronaut center in Beijing, and the crew announcement is expected no earlier than the day before launch, as is standard practice for Chinese crewed missions. Shenzhou-24 will dock with Tiangong station currently occupied by the Shenzhou-23 crew that launched in May 2026, with the Pakistani astronaut conducting a short-duration visit before returning with departing Shenzhou-23 crew members, while one Shenzhou-23 crewmember remains aboard to complete a year-long mission. The mission, if successful, would make Pakistan only the second Asian nation after India to have a citizen reach a space station, and would mark the first time a foreign national has flown aboard a Chinese spacecraft.",
+        sourceUrl: "https://spacelaunchnow.me/launch/long-march-2fg-shenzhou-24",
+        timestamp: "2026-11-14T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology Demonstration",
+        headline: "ISRO's TDS-01 Technology Demonstration Satellite Enters Final Launch Preparations for Late-November PSLV-XL Liftoff — Spacecraft Carries India's First In-Orbit Electric Thruster Test, Atomic Clock Validation, and a Quantum Communication Payload Developed With IPR Gandhinagar and CSIR-CEERI",
+        body: "The Indian Space Research Organisation's Technology Demonstration Satellite-01 has entered final integration and testing at Satish Dhawan Space Centre ahead of a planned late-November 2026 launch on a PSLV-XL rocket from the First Launch Pad at Sriharikota, targeting geostationary orbit to validate a suite of advanced technologies for future Indian spacecraft. TDS-01 carries a domestically developed 300 mN Hall-effect electric thruster — the first Indian satellite-class electric propulsion system tested in geostationary orbit — alongside precision atomic clocks, travelling wave tube amplifiers relevant to future communications satellites, and a quantum communication demonstration suite developed with the Institute of Plasma Research in Gandhinagar and the CSIR-Central Electronics Engineering Research Institute in Pilani. Electric propulsion offers dramatically longer on-orbit lifetimes and reduced launch mass compared to conventional chemical propulsion, and a successful TDS-01 thruster demonstration would qualify the technology for integration into India's next generation of heavy communications and Earth observation satellites. ISRO has not confirmed a final launch date, with current aggregator listings placing the mission at November 30, 2026, pending completion of spacecraft health checks and range scheduling.",
+        sourceUrl: "https://en.wikipedia.org/wiki/TDS-01",
+        timestamp: "2026-11-14T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-13": {
     date: "November 13, 2026",
     stories: [
