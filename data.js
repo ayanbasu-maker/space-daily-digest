@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-15": {
+    date: "November 15, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Makes History: Mechazilla Catches Starship Ship 42 After Orbital Flight in First-Ever Recovery of an Orbital Upper Stage — Chopstick Arms Snag Returning Vehicle at Starbase Following 22-Hour Mission That Deployed 26 Starlink V3 Satellites",
+        body: "SpaceX achieved a historic spaceflight milestone on November 15 when Mechazilla's chopstick arms at Starbase successfully caught Starship Ship 42 as it returned from orbit, marking the first time an orbital rocket's upper stage has ever been mechanically recovered at its launch site rather than splashing down at sea. Ship 42 had spent roughly 22 hours in orbit after launching on Flight 15 on November 13, successfully deploying all 26 Starlink V3 satellites before executing a controlled re-entry and descending to the launch tower for the unprecedented catch. The recovery came despite Super Heavy Booster 22's failed tower return on November 14, when a guidance and navigation anomaly forced the booster to splash down in flames in the Gulf of Mexico — leaving the Ship 42 catch as the mission's sole recovery achievement. SpaceX CEO Elon Musk called it a pivotal moment for the future of spaceflight, while NASA Administrator Jared Isaacman described the catch as 'almost magical' and noted its direct implications for the Artemis program.",
+        sourceUrl: "https://www.space.com/news/live/spacex-starship-flight-15-live-updates-nov-14-2026-starship-first-double-landing-attempt",
+        timestamp: "2026-11-15T02:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Artemis / Moon",
+        headline: "Starship Ship Catch Reshapes Artemis HLS Certification Path as SpaceX Pledges Routine Reusability Before 2028 Artemis IV Mission — Administrator Isaacman Calls Orbital Catch a Defining Moment for Crewed Lunar Return",
+        body: "NASA Administrator Jared Isaacman issued a statement congratulating SpaceX following the successful Starship Ship 42 catch on November 15, calling the recovery 'almost magical' and underscoring its direct significance for the Artemis lunar program, which depends on Starship as the Human Landing System for crewed Moon surface missions. SpaceX confirmed the company intends to achieve routine, reliable Starship reusability well before Artemis IV — currently scheduled for 2028 — potentially allowing the same vehicle to fly multiple lunar demonstration missions before the crewed surface landing attempt. The catch demonstration substantially advances the technical case for Starship HLS certification, as NASA's requirements include proving the vehicle can survive orbital re-entry loads and be recovered for reflight, a capability Flight 15 has now partially demonstrated. NASA's Commercial Crew Program continued separate discussions about potentially transitioning future ISS crew rotation missions from Dragon to Starship, though no formal decisions have been announced.",
+        sourceUrl: "https://orbitalradar.com/blog/orbital-briefing-2026-11-15",
+        timestamp: "2026-11-15T04:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Deep Space",
+        headline: "Voyager 1 Surpasses One Light-Day Distance in Interstellar Space, Setting New Record for Farthest Human-Made Object — Probe Launched in 1977 Continues Transmitting From Over 170 Astronomical Units",
+        body: "NASA's Voyager 1 spacecraft has surpassed the one-light-day distance threshold in interstellar space, marking the farthest any human-made object has ever traveled from Earth as the probe continues its outbound journey nearly five decades after its 1977 launch. At more than 170 astronomical units from the Sun, Voyager 1 remains operational and still transmits faint signals that take over 23 hours to reach Earth traveling at the speed of light. The spacecraft crossed the heliopause — the boundary between the solar wind and interstellar space — in 2012, and has been providing humanity's only direct in-situ measurements of the interstellar medium ever recorded by a spacecraft. NASA's Jet Propulsion Laboratory continues to operate both Voyager probes using decades-old technology, with engineers periodically adapting onboard software and power management to extend the mission as the plutonium power sources gradually decay.",
+        sourceUrl: "https://science.nasa.gov/mission/voyager/",
+        timestamp: "2026-11-15T06:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Enters Final Countdown for Shenzhou-24 With Pakistan's First Astronaut, Crew Announcement Imminent as November 25 Launch Target Approaches — Two SUPARCO Finalists Complete Beijing Training",
+        body: "China's Manned Space Agency is in the final stages of crew preparation for the Shenzhou-24 mission, targeted for a no-earlier-than November 25, 2026 launch on a Long March 2F rocket from Jiuquan Satellite Launch Center, with the mission set to carry one of Pakistan's two astronaut finalists in what would be the first flight of a Pakistani national to a space station. Muhammad Zeeshan Ali and Khurram Daud, the two candidates from Pakistan's SUPARCO space agency, have both completed extensive training at China's astronaut center in Beijing, with the final crew selection announcement expected no earlier than the day before launch, following standard Chinese mission protocol. The Shenzhou-24 crew will dock with Tiangong station currently occupied by the Shenzhou-23 crew since May 2026, with the Pakistani astronaut completing a short joint stay before returning with departing crew members as the year-long mission handover proceeds. If successful, Pakistan would become only the second Asian nation after India to have a citizen reach a space station, marking a significant expansion of China's international human spaceflight cooperation program.",
+        sourceUrl: "https://spacelaunchnow.me/launch/long-march-2fg-shenzhou-24",
+        timestamp: "2026-11-15T07:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch Vehicles",
+        headline: "Blue Origin Delays New Glenn Return to Flight Until Early 2027, Citing Subsystem Improvements After Engine Anomaly Review — Company Prioritizes Vehicle Reliability Over Launch Cadence as Commercial Manifest Grows",
+        body: "Blue Origin has pushed back New Glenn's next launch to no earlier than early 2027, citing ongoing subsystem improvements identified during post-flight review of a BE-4 engine anomaly from an earlier mission. The delay comes as the company manages competing development priorities including the Blue Moon Mark 2 lunar lander under NASA's Artemis program, GS3 third-stage development for direct-to-Moon payload delivery, and the certification work required by commercial and government customers. Despite the schedule slip, Blue Origin stated that the return-to-flight work is progressing normally and that the delay reflects a deliberate choice to prioritize reliability over cadence — particularly given New Glenn's growing backlog of payloads. The company's withdrawal from NASA's Commercial Low Earth Orbit Destinations competition, announced earlier this week, is expected to free additional engineering resources to accelerate both the New Glenn manifest and the lunar programs.",
+        sourceUrl: "https://spacenews.com/blue-origin-bows-out-of-nasa-commercial-space-station-competition/",
+        timestamp: "2026-11-15T08:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "International Cooperation",
+        headline: "ESA and ISRO Sign Renewed Cooperation Agreement Expanding Joint Activities in Earth Observation, Navigation, and Deep Space — Partnership Eyes Cross-Support for Gaganyaan Crewed Missions and Potential Lunar Gateway Contributions",
+        body: "The European Space Agency and the Indian Space Research Organisation have signed a renewed and broadened cooperation agreement covering joint activities across Earth observation, satellite navigation, deep space exploration, and human spaceflight support, extending a decades-long partnership that has underpinned missions from Chandrayaan-1 to Mangalyaan. The expanded agreement identifies near-term collaborative projects including cross-support for ISRO's upcoming Gaganyaan crewed missions using ESA ground station infrastructure, and potential joint scientific contributions to the international lunar Gateway station planned for the late 2020s. Data sharing between ISRO's large remote sensing satellite constellation and ESA's Sentinel program is expected to generate combined Earth observation products unavailable from either agency working alone. The agreement also formalizes channels for technology transfer and joint scientific analysis, deepening a relationship that both agencies described as a cornerstone of their international engagement strategies.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-11-15T09:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-14": {
     date: "November 14, 2026",
     stories: [
