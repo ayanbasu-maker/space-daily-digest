@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-16": {
+    date: "November 16, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Starship",
+        headline: "SpaceX Begins Flight 16 Preparations With Booster 23 and Ship 43 Targeting December Launch — Engineers Analyze Booster 22 Anomaly From Flight 15 While Dual-Flow Work Advances Toward Potential First Starship Launch From Kennedy Space Center",
+        body: "SpaceX engineers are actively analyzing telemetry from the Booster 22 guidance and navigation anomaly that caused the Flight 15 booster to splash down in flames in the Gulf of Mexico, as the company simultaneously begins stacking and testing Booster 23 and Ship 43 — the vehicles slated for Starship Flight 16. NASASpaceflight reported in October that Flight 16 is on a dual-flow development track targeting a December 2026 launch, with the vehicles for that mission progressing toward Kennedy Space Center's Launch Complex 39A for what could be the first-ever Starship flight from Florida. SpaceX has not confirmed the KSC launch site publicly, with some sources indicating the launch site decision remains open, but the company's stated goal is to close out 2026 with two additional Starship flights following the milestone Ship 42 catch achieved during Flight 15. Flight 16 is expected to again attempt dual mechanical recovery of both the booster and the Ship.",
+        sourceUrl: "https://www.nasaspaceflight.com/2026/10/spacex-flight-15-16-milestones/",
+        timestamp: "2026-11-16T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Deep Space",
+        headline: "NASA Confirms Both ESCAPADE Mars Probes Now in Interplanetary Cruise Phase After Historic Powered Earth Flybys — Twin Heliophysics Orbiters Set for Mars Orbit Insertion in September 2027 Following First-Ever Dual Gravity-Assist of This Kind",
+        body: "NASA has confirmed that both ESCAPADE spacecraft — Escape and Plasma Acceleration and Dynamics Explorers — have successfully completed their powered Earth flybys on November 7 and 9, 2026, using onboard thrusters during the slingshot maneuvers to place them on precise trajectories toward Mars, in an unprecedented double powered gravity-assist technique never before attempted by NASA. The twin orbiters are now in interplanetary cruise toward Mars, with orbit insertion planned for September 7 and 9, 2027, after which they will study the solar wind's interaction with the Martian magnetosphere in a two-spacecraft formation designed to simultaneously sample different regions of Martian space. ESCAPADE, managed by the University of California Berkeley and selected under NASA's Small Innovative Missions for Planetary Exploration program, is designed to investigate how Mars lost its atmosphere over billions of years — a key question for understanding planetary habitability. The powered flyby technique, which is more fuel-efficient than a direct trajectory, is now validated as a viable approach for future small spacecraft Mars missions.",
+        sourceUrl: "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+        timestamp: "2026-11-16T10:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Space Stations",
+        headline: "Blue Origin Formally Places Orbital Reef Space Station on Hold, Redirecting All Remaining Resources to Lunar Infrastructure as CEO Dave Limp Closes Chapter on LEO Station Ambitions — Company Cites Competing Moon Commitments and New Glenn Ramp-Up",
+        body: "Blue Origin officially confirmed on November 16 that it has placed the Orbital Reef commercial space station on indefinite hold, following CEO Dave Limp's internal announcement last week that the company will not submit a Phase 2 bid to NASA's Commercial Low Earth Orbit Destinations program, whose proposals were due December 8. The decision ends the Orbital Reef partnership with Sierra Space, MDA, Boeing, and Genesis Engineering in the near term, as Blue Origin redirects engineering capacity toward the Blue Moon Mark 2 crewed lunar lander under Artemis, the GS3 third stage for New Glenn, and the ramp-up of the New Glenn launch manifest after its recent return-to-flight delay. Blue Origin said the hold does not constitute a permanent cancellation of Orbital Reef and left open the possibility of returning to the commercial station market at a later date, though no timeline or funding pathway for resumption was provided. The withdrawal consolidates the remaining commercial station competition around Voyager Technologies' Starlab, Axiom Space's planned module cluster, and Vast's Haven-class station design.",
+        sourceUrl: "https://www.billionaires.africa/2026/11/16/amazon-billionaire-jeff-bezos-blue-origin-puts-space-station-on-hold-for-moon/",
+        timestamp: "2026-11-16T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-24 Nine Days From Launch as China's Manned Space Agency Enters Final Pre-Launch Operations — Pakistani Astronaut Crew Announcement Expected Day Before Liftoff as Long March 2F Stands Ready at Jiuquan",
+        body: "China's Manned Space Agency has entered the final nine-day pre-launch phase for Shenzhou-24, with the Long March 2F rocket and crew capsule at Jiuquan Satellite Launch Center standing ready for a November 25 liftoff carrying the first Pakistani national to a space station. The crew — comprising two Chinese astronauts and either Muhammad Zeeshan Ali or Khurram Daud of Pakistan's SUPARCO agency — will be announced the day before launch following standard Chinese mission protocol, though both Pakistani finalists have completed extensive training in Beijing. Shenzhou-24 will dock with the occupied Tiangong station, where the Shenzhou-23 crew has been living since May 2026, with the Pakistani cosmonaut conducting a short joint stay before returning to Earth alongside departing Shenzhou-23 crew members. If successful, Pakistan becomes only the second Asian nation after India to have a citizen reach a crewed orbital station, and the first foreign national to fly aboard a Chinese spacecraft.",
+        sourceUrl: "https://spacelaunchnow.me/launch/long-march-2fg-shenzhou-24",
+        timestamp: "2026-11-16T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Gaganyaan-1 Uncrewed Orbital Test Flight Approaches Q4 2026 Target as Crew Module Preparations Continue at Satish Dhawan Space Centre — LVM-3 Rocket Stacking Underway With Launch Trackers Pointing to Late November Window",
+        body: "India's Gaganyaan-1 uncrewed orbital test flight is approaching its Q4 2026 target window, with ISRO conducting final integration of the Gaganyaan crew module at Satish Dhawan Space Centre in Sriharikota ahead of a planned launch on the LVM-3 (GSLV Mk III) rocket, as confirmed by ISRO Chairman S. Somanath in June 2026. Third-party launch trackers list the mission as no earlier than November 2026, though ISRO has not announced a final date or time, consistent with its practice of withholding exact launch windows until closer to the attempt. The mission represents the first full orbital flight of the Gaganyaan capsule and will validate reentry, parachute deployment, and water recovery systems before the crewed Gaganyaan-4 mission currently targeted for no earlier than Q1 2027. The April 2026 successful air-drop test of the crew module's parachute system, conducted from a modified IL-76 aircraft, removed a key qualification milestone ahead of the orbital flight.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Gaganyaan-1",
+        timestamp: "2026-11-16T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-15": {
     date: "November 15, 2026",
     stories: [
