@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-17": {
+    date: "November 17, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Deep Space",
+        headline: "NASA Launches Global 'Shine Bright for Voyager's Light-Day' Event as Humanity Prepares for Voyager 1 to Cross One Light-Day Threshold Wednesday — World Invited to Flash Morse Code 'VGR' After Sunset Tuesday in Symbolic Cosmic Wave of Light",
+        body: "NASA has invited the entire world to participate in a symbolic global light-flashing event on the evening of Tuesday, November 17, asking people to use their smartphones and tablets to flash the Morse code signal for 'VGR' — Voyager's callsign — skyward after local sunset, in a symbolic act timed so the resulting pulse of light will reach Voyager 1 on Wednesday, November 18 at 5:16 a.m. EST when the spacecraft officially crosses the one-light-day threshold. At that moment, Voyager 1 will become the most distant human-made object ever from Earth at over 170 astronomical units, with signals now taking exactly 24 hours to travel between JPL and the probe in interstellar space. NASA's Jet Propulsion Laboratory will host a moderated live discussion with Voyager mission scientists and NASA leadership on Thursday, November 19 at 12 p.m. EST to celebrate the milestone and discuss the probe's status and future. To conserve power ahead of Voyager 1's operational lifetime through the 2030s, JPL shut down the spacecraft's Low-Energy Charged Particle instrument earlier this year, leaving six instruments active as the probe continues the only direct in-situ measurements of the interstellar medium ever recorded.",
+        sourceUrl: "https://www.click2houston.com/news/local/2026/11/17/nasa-wants-you-to-shine-a-light-into-the-sky-tuesday-night-heres-why/",
+        timestamp: "2026-11-17T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Falcon 9 Launch of Classified USSF-317 Space Force Mission From Vandenberg Tuesday Evening — Four-Hour Window Opens at 7:14 PM Pacific for Drone Ship Recovery as Classified National Security Payload Heads to Orbit",
+        body: "SpaceX is targeting the launch of the USSF-317 classified Space Force mission from Vandenberg Space Force Base's Space Launch Complex 4E on Tuesday, November 17, with a four-hour window opening at 7:14 p.m. PT carrying a national security payload for the United States Space Force aboard a Falcon 9 Block 5 rocket with a planned drone ship booster recovery at sea. The USSF-317 designation covers a classified military payload — the exact nature of which the Space Force has not disclosed, though analysts have suggested it may involve Starshield-bus national security smallsats. The launch continues SpaceX's dominant role in the U.S. government launch manifest, with the company having completed over 60 Falcon 9 missions in 2026, while simultaneously processing Starship Flight 16 vehicles at Starbase following the historic Ship 42 catch achieved on November 15. A successful USSF-317 mission would further extend SpaceX's unbroken streak of Falcon 9 launches without a loss, now extending nearly a decade.",
+        sourceUrl: "https://www.spacelaunchschedule.com/launch/falcon-9-block-5-ussf-317",
+        timestamp: "2026-11-17T20:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch Vehicles",
+        headline: "Blue Origin Formally Confirms New Glenn Return to Flight Delayed to Early 2027, Citing BE-4 Engine Subsystem Improvements Identified in Post-Flight Review — Company Prioritizes Reliability as Commercial and Military Manifests Continue to Grow",
+        body: "Blue Origin has formally confirmed a New Glenn return-to-flight delay to no earlier than January 2027, following a post-flight review that identified BE-4 engine subsystem improvements needed before the vehicle can safely return to service, in a delay that extends a schedule already under pressure from the company's refocusing on lunar and deep-space programs. The confirmation comes amid broader scrutiny of BE-4 engine performance after ULA's Vulcan Centaur suffered a catastrophic failure on November 15 that destroyed 40 Amazon Leo satellites — a failure whose investigation will draw on shared propulsion data between both programs given BE-4's role in both rockets. Blue Origin stated the delay reflects a deliberate choice to prioritize vehicle reliability over launch cadence, particularly as New Glenn's commercial and government customer backlog continues to grow as an alternative to Falcon 9. The early 2027 timeline also allows Blue Origin to redirect engineering capacity toward Blue Moon Mark 2 lunar lander development and GS3 third-stage work, following the company's November 16 decision to withdraw from NASA's commercial space station competition.",
+        sourceUrl: "https://spacenews.com/blue-origin-bows-out-of-nasa-commercial-space-station-competition/",
+        timestamp: "2026-11-17T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-24 Enters Eight-Day Final Countdown as China's Manned Space Agency Locks Down Jiuquan Launch Site — Pakistani Astronaut Finalists Zeeshan Ali and Khurram Daud Complete Last Mission Simulations Before Liftoff-Day Announcement",
+        body: "With eight days remaining until the targeted November 25 Shenzhou-24 launch, China's Manned Space Agency has locked down Jiuquan Satellite Launch Center and entered final pre-flight operations, as Pakistani astronaut finalists Muhammad Zeeshan Ali and Khurram Daud complete their last mission simulations and briefings before the standard liftoff-day crew announcement that will reveal which of the two SUPARCO candidates will fly. The Shenzhou-24 crew will carry two Chinese taikonauts and the Pakistani national to Tiangong station, where the Shenzhou-23 crew has been living since May 2026, for a joint stay followed by a partial crew exchange and return of the outgoing crew. If successful, Pakistan becomes the second Asian nation after India to send a citizen to a space station, and the first to do so aboard a Chinese spacecraft, marking a significant expansion of CNSA's international human spaceflight cooperation. CNSA's November launch manifest also includes a Long March 2D mission scheduled around November 18, maintaining China's position as one of the world's highest-cadence launch nations with over 60 orbital launches completed in 2026.",
+        sourceUrl: "https://spacelaunchnow.me/launch/long-march-2fg-shenzhou-24",
+        timestamp: "2026-11-17T07:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Gaganyaan-1 Uncrewed Test Enters Final Integration Phase at Sriharikota as LVM-3 Stacking Nears Completion — Three Critical Qualification Tests Cleared and Parachute System Qualified Ahead of Late November or December Launch Window",
+        body: "India's Gaganyaan-1 uncrewed orbital test mission has entered the most advanced pre-launch phase yet, with LVM-3 (GSLV Mk III) rocket stacking in its final stages at Satish Dhawan Space Centre in Sriharikota as ISRO approaches a late November or early December launch window for India's first full orbital crew module test. ISRO confirmed in July 2026 that three critical qualification tests for the Gaganyaan crew module had been successfully completed, adding to the April 2026 air-drop parachute qualification test from a modified IL-76 aircraft that cleared a key pre-orbital milestone. The uncrewed Gaganyaan-1 mission will validate the complete mission sequence — ascent, orbital flight, reentry, parachute deployment, and Bay of Bengal water recovery — before India proceeds toward the crewed Gaganyaan-4 mission targeting no earlier than Q1 2027. ISRO Chairman V. Narayanan has described preparations as proceeding smoothly, and the agency has committed to completing the uncrewed test before year's end, which would mark a transformational milestone for India's decades-long ambition of independent human spaceflight capability.",
+        sourceUrl: "https://starlust.org/indias-uncrewed-gaganyaan-test-mission-getting-ready-for-launch-in-late-2026-isro-chief-confirms/",
+        timestamp: "2026-11-17T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-16": {
     date: "November 16, 2026",
     stories: [
