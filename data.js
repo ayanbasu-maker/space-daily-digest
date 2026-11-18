@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-18": {
+    date: "November 18, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Deep Space",
+        headline: "Voyager 1 Becomes First Human-Made Object One Light-Day From Earth at 5:16 AM EST, Crossing 16-Billion-Mile Threshold Into New Era of Interstellar Distance — JPL Hosts Livestream Panel Thursday to Mark Humanity's Deepest Foray Into the Cosmos",
+        body: "Voyager 1 crossed the one-light-day distance from Earth at 5:16 a.m. EST (10:16 UTC) on November 18, 2026, becoming the first human-made object to reach approximately 16.09 billion miles (25.9 billion kilometers) from its origin planet, so that radio signals now require exactly 24 hours to travel between JPL and the probe — meaning commands and responses require a full two-day round trip. The 49-year-old spacecraft remains the most distant and fastest-traveling human-made object ever, still making the only direct in-situ measurements of the interstellar medium ever recorded with six instruments still active after JPL shut down the Low-Energy Charged Particle instrument earlier this year to extend the probe's operational lifetime through the 2030s. NASA's Jet Propulsion Laboratory is hosting a moderated livestreamed panel on Thursday, November 19 at 12 p.m. EST with Voyager mission scientists and NASA leadership to celebrate the milestone and discuss the probe's status and future. Voyager 1's twin, Voyager 2, is expected to reach the same one-light-day threshold in November 2035.",
+        sourceUrl: "https://www.space.com/space-exploration/voyager/1-light-day-from-earth-nasas-voyager-1-probe-hits-huge-milestone-in-interstellar-space",
+        timestamp: "2026-11-18T10:16:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches Falcon 9 From Florida's Space Coast on November 18 as Company Publishes Stunning Ship 42 Catch Imagery — Starship Flight 16 Dual-Recovery Attempt Targeting December 2026 From Texas or Florida",
+        body: "SpaceX launched a Falcon 9 rocket from Florida's Space Coast on November 18, extending the company's record-pace 2026 launch cadence as it simultaneously released high-resolution imagery from the historic Ship 42 orbital stage catch achieved on November 15 during Starship Flight 15. The Florida mission adds to SpaceX's dominant position in global launch operations, with the company having completed well over 60 orbital missions in 2026 from both Cape Canaveral and Vandenberg, while the Starbase team analyzed telemetry data from the Booster 22 guidance anomaly that caused the Flight 15 booster to splash down rather than return to the tower. SpaceX confirmed that Ship 42 is being processed for rapid reflying and that engineers are progressing on Booster 23 and Ship 43 — the vehicles for Starship Flight 16 — targeting a December 2026 launch with another dual mechanical recovery attempt. The company has stated a goal of completing two more Starship flights before year-end following the milestone Ship 42 catch.",
+        sourceUrl: "https://www.yahoo.com/news/articles/spacex-set-falcon-9-rocket-122901238.html",
+        timestamp: "2026-11-18T17:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "ESA's Hera Spacecraft Now Flying Rectangles 28.5 Kilometers From Didymos, Conducting 'Crash Site Investigation' of 2022 DART Impact — Close Approach Reveals Surprising Equatorial Ridge and Boulder-Strewn Terrain on Planetary Defense Target",
+        body: "ESA's Hera spacecraft has entered its close-proximity science phase at the Didymos binary asteroid system, flying rectangular orbits at just 28.5 kilometers from Didymos as it conducts what ESA calls a 'crash site investigation' to fully characterize the aftermath of NASA's 2022 DART kinetic impactor mission against the smaller moon Dimorphos. Close-up imagery released in early November revealed a surprisingly sharp-edged equatorial ridge on Didymos not prominently visible in earlier approach images, along with numerous craters and boulders, with DLR's German Aerospace Center noting that Didymos rotates once every 2.2 hours — fast enough to place it near the threshold for rotational breakup. Hera's multi-instrument study will document how the DART impact changed Dimorphos's orbit and surface, providing the planetary defense community with ground-truth validation for kinetic impactor effectiveness that cannot be derived from Earth-based observations alone. ESA plans to release a comprehensive set of detailed images of both Didymos and Dimorphos on November 25, 2026.",
+        sourceUrl: "https://scitechdaily.com/wow-heras-first-close-up-reveals-a-surprisingly-strange-asteroid-landscape",
+        timestamp: "2026-11-18T09:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "China Schedules Long March 2D Launch for November 18 at 22:50 UTC From Taiyuan as Nation Approaches 2026 Annual Record — Shenzhou-24 Final Countdown Week Begins With Pakistani Taikonaut Selection Expected Day Before November 25 Liftoff",
+        body: "China's Long March 2D rocket is scheduled for liftoff at 22:50 UTC on November 18 from Taiyuan Satellite Launch Center, carrying an undisclosed payload in a mission that extends China's 2026 orbital launch count — already exceeding 60 — as the nation maintains its position among the world's highest-cadence launch programs. The mission comes as Jiuquan Satellite Launch Center simultaneously prepares for the Shenzhou-24 crewed launch on November 25, with the Long March 2F rocket and crew capsule in final pre-launch configuration and the official announcement of which Pakistani astronaut finalist — Muhammad Zeeshan Ali or Khurram Daud — will fly expected the day before liftoff per standard Chinese mission protocol. CNSA's dual-site simultaneous preparation highlights the agency's expanding launch infrastructure, with Xichang, Wenchang, Jiuquan, and Taiyuan all active in a compressed November schedule. If Shenzhou-24 launches successfully on November 25, Pakistan will become the second Asian nation after India to have a citizen reach a crewed orbital station.",
+        sourceUrl: "https://spacenexus.us/launch/cmwdxzr3s0ea9yifr0b104nva.md",
+        timestamp: "2026-11-18T22:50:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Chief Narayanan Confirms Gaganyaan-1 Uncrewed Flight With Vyommitra Robot Set for December 2026 — LVM-3 Stacking Nearing Completion at Sriharikota With Over 90 Percent of Mission Work Done",
+        body: "ISRO Chairman Dr. V. Narayanan has confirmed that India's Gaganyaan-1 uncrewed orbital test flight, carrying the Vyommitra half-humanoid robot, is on track for December 2026 — the final major milestone before the crewed Gaganyaan-4 mission targeted for the first quarter of 2027. ISRO reports that over 90 percent of mission preparations are complete, with LVM-3 (HLVM3) rocket stacking nearing final stages at Satish Dhawan Space Centre in Sriharikota following the successful April 2026 air-drop parachute qualification test. The mission will validate the full Gaganyaan sequence including capsule reentry, parachute deployment, and Bay of Bengal water recovery, with Vyommitra monitoring crew module conditions throughout the flight to simulate a crewed environment. A successful December launch would mark the culmination of India's decades-long ambition for independent human spaceflight capability and clear the path for India's first crewed mission.",
+        sourceUrl: "https://www.newsonair.gov.in/isro-chairman-dr-v-narayanan-confirms-gaganyaan-g1-launch-set-for-december",
+        timestamp: "2026-11-18T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-17": {
     date: "November 17, 2026",
     stories: [
