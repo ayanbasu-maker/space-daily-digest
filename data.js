@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-19": {
+    date: "November 19, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Deep Space",
+        headline: "JPL Hosts Live Voyager 1 Celebration Panel at 12 PM EST Today in von Kármán Auditorium — Project Manager Dodd, Mission Manager Badaruddin, and Deputy Science Lead Rankin Mark One-Light-Day Milestone in First Livestreamed Interstellar-Probe Panel Dedicated to Historic Distance Record",
+        body: "NASA's Jet Propulsion Laboratory is hosting a moderated live discussion at 12 p.m. EST on Thursday, November 19, in JPL's von Kármán Auditorium to celebrate Voyager 1 reaching one light-day from Earth at 5:16 a.m. EST on November 18, with Voyager project manager Suzanne Dodd, mission manager Kareem Badaruddin, and Princeton deputy project scientist Jamie Rankin appearing alongside NASA leadership. The event, streamed on nasa.gov/live, is the first dedicated public celebration of Voyager 1's distance record since it crossed the heliopause into interstellar space in 2012, and comes the morning after scientists received the first commands requiring a full 24-hour one-way signal travel time. Voyager 1 remains the most distant human-made object ever, transmitting real-time measurements of the interstellar medium with six instruments still active following JPL's decision this year to shut down the Low-Energy Charged Particle instrument to extend the probe's operational life through the 2030s. Signals from Voyager 1 now require a full 48 hours for a command-and-response round trip — meaning the commands sent on the milestone day are only now being confirmed as received.",
+        sourceUrl: "https://spacepolicyonline.com/?p=91818",
+        timestamp: "2026-11-19T17:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Exploration",
+        headline: "Lunar Outpost Completes Preliminary Design Review for Pegasus Lunar Terrain Vehicle, Clearing Major Milestone Toward 2028 Lunar Delivery — NASA's $220 Million LTV Contract Award Advances as Astronaut Crew Mockup Evaluations at JSC Shaped Final PDR Design",
+        body: "Colorado-based Lunar Outpost has completed the Preliminary Design Review for its Pegasus Lunar Terrain Vehicle, a critical engineering milestone under NASA's $220 million Lunar Terrain Vehicle Services contract that clears the company to advance from conceptual design toward final engineering and fabrication ahead of a planned 2028 lunar south pole delivery. The Pegasus rover is designed to operate in support of NASA's Artemis crewed surface operations, rated for up to a year of continuous use and capable of manual, autonomous, and teleoperations driving modes. In September and October 2026, NASA astronauts evaluated a third Pegasus static mockup at Johnson Space Center for crew usability and comfort, providing direct feedback that informed the final PDR design iteration. The LTV Services program runs alongside Astrolab's competing FLEX rover under a parallel development track, with Astrolab's PDR scheduled for December 2026.",
+        sourceUrl: "https://www.globenewswire.com/news-release/2026/11/19/3406620/0/en/lunar-outpost-completes-nasa-preliminary-design-review-for-pegasus-ltv-advancing-toward-2028-mission-to-the-moon.html",
+        timestamp: "2026-11-19T14:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Classified USSF-317 Falcon 9 Launch Tonight From Vandenberg After Two-Day Delay — Four-Hour Window Opens at 9:46 PM ET With Battle-Tested Booster on 11th Flight Landing on Pacific Droneship",
+        body: "SpaceX is making a second attempt at launching the classified USSF-317 mission for the United States Space Force from Space Launch Complex 4E at Vandenberg Space Force Base, California, with a four-hour window opening at 9:46 p.m. ET (6:46 p.m. PT) on Thursday, November 19, after the original November 17 attempt was stood down due to weather and range availability. The Falcon 9 booster assigned to the mission is completing its 11th flight, with SpaceX planning an autonomous drone ship recovery on the Of Course I Still Love You in the Pacific Ocean following stage separation and engine cutoff. The USSF-317 designation covers a classified national security payload whose specific nature the Space Force has not publicly disclosed, continuing a cadence of Starshield-class and other high-priority national security orbital placements that have accelerated throughout 2026. If successful, the mission pushes SpaceX's total 2026 orbital launch count well above 65, maintaining the company's historic pace as the world's dominant commercial and government launch provider.",
+        sourceUrl: "https://tokenpost.com/news/technology/60528",
+        timestamp: "2026-11-20T02:46:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China's Long March 2D Lifts Off Successfully From Taiyuan on Schedule as Shenzhou-24 Final Crew Announcement Window Narrows to Six Days — Pakistani Taikonaut Zeeshan Ali or Khurram Daud Expected to Be Named Before Weekend Ahead of November 25 Liftoff",
+        body: "China's Long March 2D rocket successfully launched from Taiyuan Satellite Launch Center late on November 18 at 22:50 UTC, delivering an undisclosed satellite payload to low Earth orbit in the latest addition to China's 2026 launch cadence that now exceeds 62 orbital missions. With Shenzhou-24 set to lift off from Jiuquan Satellite Launch Center on November 25, attention is turning to the official crew announcement — expected Friday or Saturday per standard Chinese mission protocol of naming the crew the day before launch — revealing which of the two Pakistani finalists, Muhammad Zeeshan Ali or Khurram Daud, will fly. The Shenzhou-24 mission will carry two Chinese taikonauts and the first Pakistani national to reach Tiangong station, joining the outgoing Shenzhou-23 crew for a brief joint stay before the crew rotation and return. If the November 25 launch proceeds as scheduled, Pakistan becomes the second Asian nation after India to send a citizen to a crewed orbital station.",
+        sourceUrl: "https://spacenexus.us/launch/cmwdxzr3s0ea9yifr0b104nva.md",
+        timestamp: "2026-11-19T08:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Human Spaceflight",
+        headline: "ISRO Completes Key Qualification Test for Gaganyaan-1 Crew Module Ahead of December Launch — Final Verification Clears Technical Path for India's First Full Orbital Human Spaceflight Rehearsal With Vyommitra Robot",
+        body: "The Indian Space Research Organisation has completed a critical qualification test for the Gaganyaan-1 crew module system, clearing one of the final technical milestones before India's first full uncrewed orbital test flight that ISRO Chairman V. Narayanan has confirmed is targeting December 2026. The qualification test, reported by The Hindu, validates key aspects of the crew module's performance profile that must be certified before Vyommitra — the half-humanoid robot that will ride as a crew surrogate — can safely fly the full ascent-to-splashdown sequence aboard the LVM-3 rocket from Sriharikota. ISRO has now completed over 90 percent of Gaganyaan-1 mission preparations, with LVM-3 stacking in its final stages and all major parachute and recovery systems previously qualified through air-drop tests in April 2026. A successful Gaganyaan-1 mission in December would make India the fourth nation to independently demonstrate crewed orbital vehicle technology and clear the runway for the crewed Gaganyaan-4 mission targeting Q1 2027.",
+        sourceUrl: "https://www.newsonair.gov.in/isro-chairman-dr-v-narayanan-confirms-gaganyaan-g1-launch-set-for-december",
+        timestamp: "2026-11-19T06:30:00Z"
+      }
+    ]
+  },
+
   "2026-11-18": {
     date: "November 18, 2026",
     stories: [
