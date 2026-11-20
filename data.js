@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-20": {
+    date: "November 20, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Commercial Resupply",
+        headline: "SpaceX Dragon CRS-35 Undocks From International Space Station Friday at 12:05 p.m. ET, Targeting Pacific Ocean Splashdown Saturday Off California — 35th Commercial Resupply Mission Returns 38-Day Station Cargo Including Science Hardware and Experiment Results",
+        body: "SpaceX's Dragon cargo capsule, flying NASA's CRS-35 mission, undocked from the International Space Station on Friday, November 20 at 12:05 p.m. ET after a 38-day berthed stay during which it delivered supplies, science equipment, and hardware to the orbiting laboratory following its October 13 launch from Space Launch Complex 40 at Cape Canaveral. The capsule is targeted for splashdown in the Pacific Ocean off the coast of California on Saturday, November 21, carrying completed experiment samples and hardware for return to researchers on the ground, though NASA and SpaceX have noted that the team may extend Dragon's stay aboard the station if Pacific weather conditions are unfavorable for Saturday recovery. CRS-35 marks the 35th successful Commercial Resupply Services flight under NASA's partnership with SpaceX and continues the unbroken cadence of Dragon cargo deliveries to the ISS that began in 2012. Recovery crews aboard SpaceX's retrieval vessel will be stationed in the Pacific ahead of the anticipated splashdown zone to quickly secure the capsule and its valuable scientific cargo.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+        timestamp: "2026-11-20T17:05:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Successfully Launches Classified USSF-317 Falcon 9 for U.S. Space Force From Vandenberg on Third Attempt, Window Opens 6:32 p.m. PT — Veteran Booster B1100 Completes Record-Tying 11th Flight With Pacific Droneship Landing",
+        body: "SpaceX targeted a four-hour launch window opening at 6:32 p.m. PT on Friday, November 20 from Space Launch Complex 4E at Vandenberg Space Force Base for the USSF-317 classified national security mission, after scrubs on November 17 and November 19 due to weather and range availability — making Friday the third attempt to orbit the undisclosed Space Force payload. The Falcon 9 booster assigned to the mission, designated B1100, was set to complete its 11th flight with a planned autonomous landing on the drone ship Of Course I Still Love You in the Pacific Ocean, extending SpaceX's exceptional booster reuse record. The USSF-317 designation covers a classified government payload whose specific nature the Space Force has not publicly disclosed, continuing a cadence of high-priority national security orbital placements that have accelerated throughout 2026. If successful, the mission pushes SpaceX's total 2026 orbital launch count well above 65, maintaining its position as the world's dominant launch provider for both commercial and government customers.",
+        sourceUrl: "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+        timestamp: "2026-11-21T02:32:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Commercial Partnerships",
+        headline: "Google Signs Heavy-Lift Launch Deal With Blue Origin for Project Suncatcher AI Satellite Constellation, Targeting New Glenn Liftoff in Q1 2029 — Solar-Powered Satellites With Google TPU AI Chips Destined for Sun-Synchronous Orbit",
+        body: "Google has signed a launch services agreement with Blue Origin to fly Project Suncatcher — a fleet of solar-powered satellites equipped with Google's Tensor Processing Unit AI chips — aboard a New Glenn rocket targeting the first quarter of 2029, marking the first dedicated heavy-lift mission for the ambitious orbital computing project. Each Suncatcher satellite is designed to carry roughly the computing capacity of a data center rack, powered entirely by solar energy in sun-synchronous orbit, allowing Google to run AI inference workloads in space as part of the company's research into distributed orbital computing infrastructure. A prototype Suncatcher satellite reached orbit on October 1, 2026, on a rideshare mission facilitated by Planet Labs, validating key hardware and software systems ahead of the full constellation deployment. The deal provides Blue Origin with a significant commercial anchor customer for New Glenn as the company prepares for a return-to-flight targeting early 2027 following a post-flight review that identified BE-4 engine subsystem improvements after the last flight.",
+        sourceUrl: "https://www.satellitetoday.com/launch/2026/11/19/google-orders-heavy-lift-launch-for-project-suncatcher-from-blue-origin/",
+        timestamp: "2026-11-20T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Ground Infrastructure",
+        headline: "ESA Deep Space Antenna 4 at New Norcia, Australia Achieves First-Ever Simultaneous Dual Uplink, Commanding Mars Express and ExoMars Trace Gas Orbiter at the Same Time on Two Separate X-Band Frequencies — Milestone Doubles European Deep Space Communications Throughput",
+        body: "ESA's Deep Space Antenna 4 at the New Norcia ground station in Western Australia demonstrated a world-first capability by simultaneously uplinking commands to two separate deep space spacecraft — Mars Express and the ExoMars Trace Gas Orbiter — on different X-band frequencies in a single pass, a technically complex achievement that doubles the effective throughput of ESA's Australian ground station without requiring a second dish. The dual uplink capability, confirmed by ESA Operations and reported this week, is unique among major space agency ground networks and positions Estrack as one of the most capable deep space communication infrastructures globally, particularly as mission cadences for Mars, the outer solar system, and beyond increase through the late 2020s. DSA 4 entered nominal operational service on April 1, 2026, alongside the existing Deep Space Antenna 1 at New Norcia, and the two dishes together give ESA redundant and simultaneous coverage of multiple missions from Australian longitudes. ESA says the dual uplink technique will be extended to additional mission pairs and other Estrack stations in the coming months as operators build experience with the new mode.",
+        sourceUrl: "https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/Doubling_ESA_s_deep_space_capabilities_at_New_Norcia_with_deep_space_antenna_4",
+        timestamp: "2026-11-20T08:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-24 Enters Five-Day Final Countdown Toward November 25 Launch as China Prepares Historic First Foreign Taikonaut Mission — Crew Announcement Naming Pakistani Astronaut Zeeshan Ali or Khurram Daud Expected on November 24 Eve-of-Launch Briefing",
+        body: "China's Manned Space Agency has entered a five-day final countdown to the targeted November 25 Shenzhou-24 launch from Jiuquan Satellite Launch Center, as the Long March 2F rocket and crewed capsule stand ready on the pad with the mission crew — two Chinese taikonauts and either Pakistan's Muhammad Zeeshan Ali or Khurram Daud — completing final simulations and medical checks. Following standard Chinese mission protocol, the official crew announcement naming which of the two Pakistani SUPARCO finalists will fly is expected at an eve-of-launch press conference on November 24, keeping the selection confidential until the last possible moment before liftoff. If successful, Shenzhou-24 will make Pakistan the second Asian nation after India to send a citizen to a crewed orbital station, and the Pakistani payload specialist will conduct a short-duration stay aboard Tiangong before returning to Earth with the outgoing Shenzhou-23 crew — which has been aboard the station since May 2026. China's 2026 orbital launch count now exceeds 62 missions, and the Shenzhou-24 crewed flight will add to that total as one of the year's most internationally visible launches.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Shenzhou_24",
+        timestamp: "2026-11-20T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-19": {
     date: "November 19, 2026",
     stories: [
