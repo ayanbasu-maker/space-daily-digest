@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-21": {
+    date: "November 21, 2026",
+    stories: [
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "BepiColombo Begins Historic Mercury Orbit Insertion After 8-Year Journey, Firing First Braking Burns to Capture Joint ESA/JAXA Spacecraft at Innermost Planet — 16-Burn Sequence Runs Through March 2027 Before MPO and Mio Orbiters Separate December 9–10 Ahead of April 2027 Science Operations",
+        body: "BepiColombo, the joint ESA/JAXA mission to Mercury, began its orbit insertion sequence on November 21, 2026 — the climax of an eight-year journey from Earth that had been delayed a full year after a 2024 thruster anomaly forced engineers to devise a revised low-thrust trajectory that conserved enough propellant to still reach the planet. The initial capture fires the first of 16 planned braking maneuvers that ESA says will progressively lower and circularize the spacecraft's orbit through March 2027, at which point science operations begin in April 2027. ESA's Mercury Planetary Orbiter (MPO) and JAXA's Mercury Magnetospheric Orbiter (Mio) remain stacked together as the Mercury Composite Spacecraft throughout the insertion, scheduled to separate on December 9–10, 2026, with MPO taking a low close orbit for surface and interior mapping and Mio moving to a larger elliptical orbit for magnetosphere studies. BepiColombo carries 16 scientific instruments and is expected to study Mercury's thin exosphere, magnetic field, interior structure, and surface composition in unprecedented detail across a planned one-year primary science mission.",
+        sourceUrl: "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/Latest_updates_BepiColombo_s_arrival_at_Mercury",
+        timestamp: "2026-11-21T07:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Confirms USSF-317 Falcon 9 Mission Success From Vandenberg at 04:22 UTC Saturday, Sending Classified Space Force Payload to Orbit in Company's 121st Orbital Launch of 2026 — Battle-Tested Booster B1100 Nails Record 11th Landing on Pacific Droneship",
+        body: "SpaceX successfully launched the classified USSF-317 mission for the United States Space Force from Space Launch Complex 4E at Vandenberg Space Force Base at 04:22 UTC on Saturday, November 21 — after two prior scrubs on November 17 and 19 — delivering an undisclosed national security payload to orbit and confirming it as the company's 121st orbital launch of 2026. Booster B1100 completed its record-tying 11th flight and landed precisely on the drone ship Of Course I Still Love You in the Pacific Ocean, extending SpaceX's exceptional booster reuse record. It was the third Space Force mission SpaceX launched in November 2026 alone, as the company maintains its dominant position in both government and commercial launch markets globally. Some analysts speculate the payload could be part of a Starshield reconnaissance satellite batch, though the specific nature of the USSF-317 cargo remains officially undisclosed by the Space Force.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+        timestamp: "2026-11-21T04:22:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Commercial Resupply",
+        headline: "SpaceX Dragon CRS-35 Splashes Down in Pacific Ocean Off California Saturday, Closing Out 38-Day Station Stay and Returning Completed Experiment Samples to Earth — SpaceX Recovery Vessel Retrieves Capsule With No Live Broadcast",
+        body: "The SpaceX Dragon cargo capsule flying NASA's CRS-35 mission splashed down in the Pacific Ocean off the coast of California at approximately 4:55 p.m. EST (21:55 UTC) on Saturday, November 21, closing out its 38-day stay at the International Space Station and returning completed experiment samples, hardware, and science results to Earth-based researchers. The capsule had undocked from the station's Harmony module at 12:05 p.m. EST on November 20 and completed an approximately 29-hour deorbit and re-entry sequence; NASA announced there would be no livestream, instead posting updates to its ISS blog as SpaceX's recovery vessel secured the capsule. CRS-35 marks the 35th successful Commercial Resupply Services flight under NASA's SpaceX partnership, continuing the unbroken Dragon cargo delivery record stretching back to 2012. The returned cargo will be transported to NASA's research facilities for rapid post-flight analysis as the agency maintains the ISS supply pipeline through the late 2020s.",
+        sourceUrl: "https://www.space.com/space-exploration/launches-spacecraft/spacex-crs-35-dragon-iss-cargo-mission-return-to-earth",
+        timestamp: "2026-11-21T21:55:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Mars Exploration",
+        headline: "NASA Pauses Science on Two Mars Spacecraft Simultaneously as Perseverance Loses UHF Radio Relay Link and Mars Odyssey Orbiter's Reaction Wheel Fails — Engineers Targeting End-of-November Recovery for Both Platforms as Diagnostics Continue",
+        body: "NASA engineers are simultaneously troubleshooting hardware anomalies on two active Mars assets: the Perseverance rover, which lost the use of both its UHF relay radios after the primary radio stopped sending regular heartbeat signals and the backup was found operating at half its expected power, and the Mars Odyssey orbiter, which entered safe mode between November 4–6 after one of its four reaction wheels stopped spinning. Perseverance is now communicating with Earth only through its direct-to-Earth high-gain antenna at reduced data rates, forcing the team to suspend all science activities including imaging while diagnostic telemetry takes priority. Odyssey — the longest-operating spacecraft at Mars with over 25 years in orbit — is separately recovering from its reaction wheel failure, with engineers testing workarounds to restore attitude control reliability before returning it to its data-relay duties supporting the surface rovers. NASA confirmed both anomalies in a November 19 update and said the team targets restoring science operations on both platforms by the end of November if investigations proceed as hoped.",
+        sourceUrl: "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+        timestamp: "2026-11-21T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Enters Four-Day Countdown to Shenzhou-24 Launch as November 25 Liftoff Would Send First Foreign National to Tiangong — Pakistani Payload Specialist Identity, Zeeshan Ali or Khurram Daud, to Be Announced at Monday Eve-of-Launch Briefing",
+        body: "China's Manned Space Agency is four days from the targeted November 25 Shenzhou-24 crewed launch from Jiuquan Satellite Launch Center, with the Long March 2F rocket and crewed capsule already on the pad as the multinational crew finalizes simulations and medical clearances for the historic mission. If the November 25 liftoff proceeds as planned, it will mark the first time a foreign national has flown aboard a Chinese crewed spacecraft and reached the Tiangong station — a milestone for China's international human spaceflight outreach. Following China's standard protocol of withholding the crew list until the eve-of-launch press conference, the identity of the Pakistani payload specialist — either Muhammad Zeeshan Ali or Khurram Daud, both of whom have trained for months at the China Astronaut Research and Training Center in Beijing — is expected to be announced on Monday, November 24. The Pakistani astronaut will make a short-duration visit aboard Tiangong before returning to Earth with the outgoing Shenzhou-23 crew that has been on-station since May 2026.",
+        sourceUrl: "https://www.usnews.com/news/world/articles/2026-11-06/pakistani-astronaut-to-join-china-space-stations-shenzhou-24-mission",
+        timestamp: "2026-11-21T07:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-20": {
     date: "November 20, 2026",
     stories: [
