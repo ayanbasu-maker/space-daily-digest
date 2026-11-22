@@ -68,6 +68,60 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-22": {
+    date: "November 22, 2026",
+    stories: [
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Launches NROL-136 Spy Satellite Mission for National Reconnaissance Office From Vandenberg, Completing Two Falcon 9 Flights From Same California Pad in Just 32 Hours — Battle-Tested Booster B1097 Nails 14th Landing at LZ-4",
+        body: "SpaceX executed the NROL-136 mission for the U.S. National Reconnaissance Office from Space Launch Complex 4E at Vandenberg Space Force Base in the early morning hours of Sunday, November 22, with the launch window opening at 4:16 a.m. PT — roughly 32 hours after a previous Falcon 9 lifted off from the same pad on November 21. Booster B1097, flying its 14th mission, performed a return-to-launch-site burn and touched down at Landing Zone 4 at Vandenberg, continuing SpaceX's near-perfect booster recovery record. The classified NRO payload was delivered to a low Earth orbit trajectory consistent with a signals intelligence or imagery reconnaissance architecture; the specific nature of the cargo remains undisclosed. The back-to-back Vandenberg launches underscore SpaceX's high-cadence 2026 operations and its dominant position as the primary launch provider for U.S. national security space missions.",
+        sourceUrl: "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+        timestamp: "2026-11-22T12:16:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch Vehicle",
+        headline: "Blue Origin Formally Pushes New Glenn Return-to-Flight to January 2027 After May Launchpad Explosion Investigation Reveals Pad Reconstruction Delay — Amazon Kuiper Satellite Backlog Mounts as Only Launch Complex 36 Remains Out of Service",
+        body: "Blue Origin has officially moved the next New Glenn launch no earlier than January 2027, confirming what industry observers feared after the catastrophic May 28, 2026 explosion destroyed the rocket, its erector-gantry, and a lightning tower at Launch Complex 36 at Cape Canaveral — the only pad equipped to fly New Glenn. The company had initially targeted a 2026 return-to-flight after completing its accident investigation, but reconstruction of the pad infrastructure has taken longer than projected. The delay has cascading effects on Amazon's Project Kuiper broadband satellite constellation, which depends on New Glenn as one of its primary launch vehicles, forcing Amazon to file for an FCC timeline extension. Blue Origin has continued building New Glenn vehicles in preparation for a resumption of its ambitious 2026 manifest of 12+ launches, though those plans are now effectively deferred to 2027.",
+        sourceUrl: "https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/",
+        timestamp: "2026-11-22T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Planetary Science",
+        headline: "NASA's ESCAPADE Twin Mars Orbiters Complete Final Powered Earth Flybys and Begin Long Interplanetary Cruise Phase Toward September 2027 Mars Arrival — Blue and Gold Spacecraft Carry Identical Three-Instrument Science Suites to Study Solar Wind-Mars Interaction",
+        body: "NASA's ESCAPADE mission — a pair of small twin spacecraft named Blue and Gold — has completed its powered Earth flyby maneuvers and is now on a confirmed interplanetary trajectory toward Mars, targeting arrival in September 2027 after launching aboard a Blue Origin New Glenn rocket in November 2025. The spacecraft are flying a novel dual-orbiter architecture that will allow simultaneous measurements of Mars' magnetosphere from two vantage points, enabling scientists to disentangle spatial and temporal variations in how the solar wind strips away the Martian atmosphere over geological time. Each spacecraft carries an identical trio of instruments including a magnetometer, an energetic particle detector, and a plasma wave instrument. The primary science mission is expected to begin in spring 2028 after the vehicles are placed in their coordinated science orbits following orbital capture.",
+        sourceUrl: "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+        timestamp: "2026-11-22T14:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Deep Space Exploration",
+        headline: "Voyager 1 Approaches One Light-Day Distance From Earth, Becoming First Human-Made Object to Cross the Threshold — Probe Now 173 AU From Sun and Transmitting Science Data on Interstellar Medium Despite 46-Year Age",
+        body: "NASA's Voyager 1 spacecraft is on the verge of crossing a historic milestone: reaching one light-day — approximately 173 astronomical units — from the Sun, making it the first human-made object to venture that far from our star while still operational. The probe, launched in 1977, continues to transmit scientific data on the properties of the interstellar medium beyond the heliopause, requiring roughly 24 hours for a signal to reach Earth at the speed of light. Engineers at NASA's Jet Propulsion Laboratory have kept Voyager 1 functional by powering down non-essential systems and carefully managing its decaying radioisotope thermoelectric generators, which now produce only a fraction of their original output. The achievement underscores the extraordinary longevity of the mission and provides irreplaceable in-situ measurements of deep interstellar space that no other spacecraft has ever made.",
+        sourceUrl: "https://www.nasa.gov/",
+        timestamp: "2026-11-22T10:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "International Cooperation",
+        headline: "ESA and ISRO Sign Renewed and Expanded Cooperation Framework, Broadening Joint Mission Opportunities in Earth Observation, Deep Space Science, and Human Spaceflight Training — Agreement Builds on Decades of Collaboration Including Chandrayaan and Mars Express Cross-Support",
+        body: "The European Space Agency and the Indian Space Research Organisation have signed a renewed cooperation agreement that significantly broadens the scope of their joint activities to encompass Earth observation data sharing, coordinated deep space science, and mutual human spaceflight training support — expanding a relationship that has historically included ground station cross-support, shared science data from missions like Chandrayaan and Mars Express, and collaborative atmospheric research. The expanded framework opens the door for European astronauts to train in India and Indian astronauts to access ESA facilities in Europe, as ISRO accelerates its Gaganyaan crewed spaceflight programme toward its first operational crewed missions. ESA Director General Josef Aschbacher and ISRO Chairman V. Narayanan signed the agreement, which covers a ten-year horizon aligned with both agencies' long-range exploration and science strategies. The pact is seen as part of a broader pattern of democratic spacefaring nations deepening technical and diplomatic ties as the global space landscape grows more competitive.",
+        sourceUrl: "https://www.esa.int/Newsroom",
+        timestamp: "2026-11-22T09:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Lunar Exploration",
+        headline: "NASA Launches $1 Million Moon Base Challenge for U.S. University Students, Seeking Innovative Concepts for Permanent Lunar Outpost Infrastructure in Support of Artemis Long-Duration Surface Operations",
+        body: "NASA has opened its $1 million Moon Base Challenge, a competition aimed at U.S. university students and young engineers to propose novel, practical concepts for building and sustaining a permanent crewed outpost on the lunar surface in support of the agency's Artemis programme long-duration exploration goals. The challenge asks teams to address fundamental infrastructure problems including in-situ resource utilization for water ice extraction and oxygen production, radiation-hardened habitat construction, power generation in the permanently shadowed regions of the lunar south pole, and autonomous maintenance systems. Submissions will be evaluated by a panel of NASA engineers and mission planners with awards distributed across multiple categories and prize tiers. The contest is modeled on NASA's decades-long tradition of Centennial Challenges and is intended to pipeline fresh engineering talent directly into the Artemis Moon-to-Mars architecture as NASA plans the first long-duration crewed stays on the lunar surface in the late 2020s.",
+        sourceUrl: "https://www.nasa.gov/",
+        timestamp: "2026-11-22T16:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-21": {
     date: "November 21, 2026",
     stories: [
