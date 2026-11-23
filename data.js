@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-23": {
+    date: "November 23, 2026",
+    stories: [
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Ariane 6 Countdown Halted by Ground Support Equipment Fault During VA271 Amazon Leo LE-04 Launch Attempt, Rescheduled to November 24 — 36 Project Kuiper Satellites Aboard Ariane 64 for Milestone 10th Ariane 6 Flight",
+        body: "Arianespace's Ariane 6 launch of 36 Amazon Project Kuiper broadband satellites was halted on the pad at Kourou, French Guiana, early Monday after a technical event affecting the launcher's ground support systems interrupted the countdown before the mobile gantry could be retracted. The rocket and payload are reported stable and safe, with technical teams assessing the fault to determine when the countdown can resume. The mission, designated VA271 by Arianespace and LE-04 (Leo Europe 4) by Amazon, would be the 10th flight for Ariane 6 and uses an Ariane 64 variant equipped with four P160C solid-propellant strap-on boosters. The next launch attempt is targeted no earlier than November 24, with a window opening at approximately 10:45 Kourou local time — a critical flight for Amazon given the November 15 loss of 40 Kuiper satellites in a Vulcan Centaur failure.",
+        sourceUrl: "https://newsroom.arianespace.com/arianespace-to-launch-36-amazon-leo-satellites-on-november-23-at-the-earliest-for-10th-ariane-6-flight/?lang=eng",
+        timestamp: "2026-11-23T11:09:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Planetary Science",
+        headline: "NASA Pauses Science on Both Perseverance Rover and Mars Odyssey Orbiter After Simultaneous Hardware Failures — UHF Radio Fault Grounds Rover While Odyssey's Second Reaction Wheel Stops Spinning",
+        body: "NASA faces an unusual double setback at Mars, with both the Perseverance rover and the aging Mars Odyssey orbiter halting science operations due to separate hardware failures that emerged in late October and early November 2026. Perseverance's primary UHF radio ceased functioning on October 30, forcing the rover into safe mode and onto its backup radio, which subsequently operated at only half its rated power, rendering both units effectively unusable and cutting the rover's data return rate significantly. Mars Odyssey — now 25 years into its mission — suffered a reaction wheel failure in early November, its second wheel loss after one failed in 2013, raising urgent concerns about attitude control since at least three functioning wheels are needed to maintain orientation. NASA engineers are conducting tests on Odyssey's failed wheel, which showed partial movement in one test, while also working to restore Perseverance's communications; the agency hopes to resume science operations on both spacecraft before the end of November.",
+        sourceUrl: "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/",
+        timestamp: "2026-11-23T12:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Eyes November 24 for USSF-266 National Security Mission Aboard Falcon 9 From Vandenberg — Follows Back-to-Back NROL-136 Launches From the Same Pad Just Two Days Prior",
+        body: "SpaceX is targeting November 24 for the USSF-266 mission for the U.S. Space Force, launching aboard a Falcon 9 rocket from Vandenberg Space Force Base, extending the company's relentless cadence of national security launches at the California pad. The mission follows the NROL-136 spy satellite launch on November 22, which itself lifted off roughly 32 hours after a previous Falcon 9 from the same complex — an operational tempo that underscores SpaceX's dominant position in U.S. government launch contracts in 2026. Details of the USSF-266 payload remain classified, as is standard for military satellite missions. If successful, the launch will continue Falcon 9's exceptional consecutive success record in 2026 and maintain the streak of near-perfect first-stage booster recoveries.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-11-23T15:55:00Z"
+      },
+      {
+        agency: "Roscosmos",
+        category: "ISS Operations",
+        headline: "Roscosmos Progress MS-36 Cargo Freighter Poised to Launch November 24 Aboard Soyuz-2.1a to Resupply International Space Station — Spacecraft to Dock at Poisk Nadir Port",
+        body: "Russia's Progress MS-36 uncrewed cargo spacecraft, designated Progress 97 by NASA, is set to launch aboard a Soyuz-2.1a rocket from Site 31/6 at the Baikonur Cosmodrome in Kazakhstan on November 24, 2026, delivering food, water, fuel, and equipment to the International Space Station crew. The freighter will dock at the Poisk module's nadir port following its rendezvous profile, maintaining the regular logistics cadence that Roscosmos has sustained throughout 2026 despite geopolitical pressures affecting other aspects of the Russian space programme. Progress MS-36 is the successor to Progress MS-35, which launched in September 2026 and remains docked at the station. The mission underscores the continuing operational interdependence of the international ISS partnership for life support and station maintenance.",
+        sourceUrl: "https://en.wikipedia.org/wiki/Progress_MS-36",
+        timestamp: "2026-11-23T09:03:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Technology",
+        headline: "ISRO Finalizes TDS-01 Technology Demonstrator for Late-November PSLV-XL Launch, Carrying Quantum Key Distribution and High-Thrust Electric Propulsion Payloads From Indian Research Institutions",
+        body: "India's ISRO is preparing to launch the TDS-01 (Technology Demonstration Satellite-01) on a PSLV-XL rocket from Sriharikota's First Launch Pad no earlier than late November 2026, with the mission targeting validation of two advanced space technologies — quantum key distribution for secure satellite communications and a high-thrust electric propulsion system designed to extend future satellite mission lifetimes. The quantum key distribution payload is supplied by IPR Gandhinagar while the electric propulsion experiment comes from CSIR-CEERI, reflecting ISRO's strategy of using low-cost demonstration missions to mature next-generation capabilities before they fly on operational satellites. The TDS-01 mission follows the successful GSLV-F17/EOS-05 and IND NVS-03 launches earlier in 2026, extending ISRO's productive year of flight operations. The satellite was originally planned for early 2026 before multiple schedule slips pushed it to its current late-November target.",
+        sourceUrl: "https://en.wikipedia.org/wiki/TDS-01",
+        timestamp: "2026-11-23T06:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-22": {
     date: "November 22, 2026",
     stories: [
