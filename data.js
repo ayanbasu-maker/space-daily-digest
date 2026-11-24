@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-24": {
+    date: "November 24, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "China Set to Launch Shenzhou-24 Tonight With Pakistan's First Astronaut Muhammad Zeeshan Ali — Historic First Foreign National Aboard Tiangong Space Station in Major Space Diplomacy Milestone",
+        body: "China's Shenzhou-24 mission is set to lift off from the Jiuquan Satellite Launch Center on a Long March-2F rocket at 8:18 a.m. Beijing time Wednesday (00:18 UTC, 7:18 p.m. EST Tuesday), carrying Pakistani payload specialist Muhammad Zeeshan Ali alongside Chinese taikonauts Tang Hongbo and Liu Yangyang — the first time a foreign national will board China's Tiangong space station. Ali, a Pakistani Air Force pilot selected through a bilateral space cooperation agreement between China and Pakistan, will conduct microgravity experiments during the approximately week-long mission as a payload specialist. The crew will dock with Tiangong's Tianhe core module and return to Earth aboard the previously-docked Shenzhou-23 spacecraft, which has been parked at the station since May 2026. The mission is widely seen as a landmark in China's growing space diplomacy and its bid to position Tiangong as an international station open to allied partner nations.",
+        sourceUrl: "https://www.space.com/space-exploration/human-spaceflight/china-shenzhou-24-first-international-astronaut-launch-tiangong-space-station",
+        timestamp: "2026-11-24T14:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "BepiColombo Enters Mercury Orbit Despite Software Anomaly That Cut First Braking Burn to 77% of Planned Delta-V — ESA and Airbus Teams Investigating Thruster Control Fault Before Next Insertion Burn",
+        body: "ESA's BepiColombo spacecraft has entered orbit around Mercury following its first capture burn, but a software fault caused the initial braking maneuver to terminate early — delivering only 77% of the planned velocity change and raising questions about trajectory adjustments needed for the remaining 15 burns in the multi-month insertion sequence. Teams at ESA's ESOC mission control and spacecraft prime contractor Airbus are actively investigating the anomaly, which appears to have originated in BepiColombo's attitude and thruster control software during the extended burn. ESA stressed that the spacecraft is stable and in contact with ground controllers, and engineers are assessing what adjustments are needed to still achieve the target science orbits ahead of the planned April 2027 start of science operations. The joint ESA/JAXA mission already overcame a severe thruster anomaly in 2024 that delayed Mercury arrival by one full year, making every subsequent anomaly especially scrutinized by the mission team and the planetary science community.",
+        sourceUrl: "https://europeanspaceflight.com/bepicolombo-enters-orbit-around-mercury-despite-software-glitch",
+        timestamp: "2026-11-24T09:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Launch",
+        headline: "Ariane 6 Lifts Off on VA271 Amazon Kuiper LE-04 Mission After 24-Hour Delay — 36 Project Kuiper Satellites Delivered to LEO in 10th Ariane 6 Flight and Fourth Amazon Leo Mission",
+        body: "Arianespace's Ariane 6 rocket lifted off from the Guiana Space Centre in Kourou on its second attempt at the VA271 mission, delivering 36 Amazon Project Kuiper broadband satellites to low Earth orbit after Monday's countdown was halted by a ground support equipment anomaly before the mobile gantry could be retracted. The Ariane 64 configuration — equipped with four P160C solid-propellant strap-on boosters — carried the LE-04 payload to orbit, marking the 10th flight for the Ariane 6 vehicle overall and the fourth Amazon Leo mission for the rocket. The rescheduled launch window opened at 10:45 UTC on November 24, with satellite separation confirmed approximately two hours and four minutes after liftoff. For Amazon, the successful deployment is especially welcome given the loss of 40 Kuiper satellites just nine days earlier in the November 15 Vulcan Centaur failure.",
+        sourceUrl: "https://newsroom.arianespace.com/mission-va271le-04-ariane-6-launch-rescheduled-for-november-24-2026/",
+        timestamp: "2026-11-24T10:45:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Vandenberg for Classified USSF-266 Space Force Launch at 15:55 UTC — Third National Security Mission in Four Days Showcasing Falcon 9's Unprecedented Government Launch Cadence",
+        body: "SpaceX is targeting 15:55 UTC on November 24 for the classified USSF-266 mission for the United States Space Force from Space Launch Complex 4E at Vandenberg Space Force Base, delivering an undisclosed national security payload to low Earth orbit on a polar trajectory. The mission represents SpaceX's third Space Force launch in just four days from the same California pad, following the NROL-136 on November 22 and USSF-317 on November 21 — an operational tempo unprecedented in the history of U.S. government space launches. Industry analysts have speculated the USSF-266 payload could be part of SpaceX's classified Starshield reconnaissance satellite network, though the specific mission purpose remains officially undisclosed by the Space Force. The first stage booster is expected to attempt a landing on the Of Course I Still Love You drone ship in the Pacific Ocean, maintaining SpaceX's near-perfect 2026 booster recovery record.",
+        sourceUrl: "https://spaceflightnow.com/launch-schedule/",
+        timestamp: "2026-11-24T15:55:00Z"
+      },
+      {
+        agency: "Roscosmos",
+        category: "ISS Operations",
+        headline: "Progress MS-36 Launches Flawlessly on Soyuz-2.1a From Baikonur at 10:17 UTC, Carrying 2.5 Tonnes of Supplies to ISS — Automated Docking at Poisk Module Targeted for November 26",
+        body: "Russia's Progress MS-36 uncrewed cargo spacecraft successfully launched on a Soyuz-2.1a rocket from Site 31/6 at the Baikonur Cosmodrome in Kazakhstan at 10:17 UTC on November 24, carrying approximately 2.5 tonnes of food, water, fuel, spare parts, and scientific equipment to the International Space Station crew. The freighter, designated Progress 97 by NASA, is set to dock at the Poisk module's nadir port using the standard two-day rendezvous profile, with automated docking expected on November 26. Progress MS-36 is the second cargo delivery mission to the station in quick succession, following Progress MS-35 which remains docked at the station after its September 2026 launch. The successful launch sustains the critical logistics pipeline for the ISS international partnership through the late 2020s, with Roscosmos maintaining its reliable station resupply cadence despite broader geopolitical pressures affecting other aspects of the Russian space programme.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/11/24/progress-cargo-craft-counts-down-to-launch-from-kazakhstan/",
+        timestamp: "2026-11-24T10:17:00Z"
+      }
+    ]
+  },
+
   "2026-11-23": {
     date: "November 23, 2026",
     stories: [
