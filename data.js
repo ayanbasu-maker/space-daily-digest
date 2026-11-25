@@ -68,6 +68,44 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-25": {
+    date: "November 25, 2026",
+    stories: [
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-24 Docks at Tiangong With Pakistan's Muhammad Zeeshan Ali Aboard, Completing Historic First Foreign-National Crew Arrival at China's Space Station — 'A New Era Begins' as Ali Joins Taikonauts Tang Hongbo and Wu Yi",
+        body: "China's Shenzhou-24 spacecraft docked at the Tiangong space station on November 25, delivering Pakistani payload specialist Muhammad Zeeshan Ali alongside taikonauts Tang Hongbo and Wu Yi — marking the first time a foreign national has entered China's permanent orbital outpost. Ali, 40, a Pakistani Air Force pilot, will conduct a photosynthetic cyanobacteria microgravity experiment during his short stay before returning to Earth aboard the Shenzhou-23 spacecraft, which has been parked at the station since May 2026. Pakistan's Prime Minister Shehbaz Sharif hailed the achievement as a source of national pride and an inspiration for Pakistani youth, while Ali himself declared 'a new era begins' for Pakistan's space programme. Tang Hongbo is set to become the first astronaut to visit the Tiangong station three times, extending China's growing record of milestone human spaceflight achievements.",
+        sourceUrl: "https://www.nbcnews.com/world/china/china-shenzhou-24-spacecraft-docks-space-station-foreign-astronaut-rcna611251",
+        timestamp: "2026-11-25T06:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "ESA's Hera Spacecraft Releases First Close-Up Images of Asteroid Dimorphos in Historic Planetary Defense Reveal — Livestream Shows Moonlet's Detailed Surface for First Time Since DART Impact Reshaped It in 2022",
+        body: "The European Space Agency unveiled the first detailed close-up images of asteroid Dimorphos captured by its Hera spacecraft during a livestream event on November 25, offering humanity's first view of the moonlet's surface since NASA's DART probe crashed into it in September 2022 and altered its orbit. Hera arrived at the Didymos-Dimorphos binary asteroid system earlier this week, and the new imagery reveals the DART impact site and the full extent of surface changes caused by the kinetic impactor — data critical to validating planetary defense models. Scientists are using the images to test three competing predictions about the size and depth of the DART crater, with Hera's close approach delivering resolution far beyond what DART's final seconds of imagery could show. The spacecraft will conduct a detailed crash-site investigation of Dimorphos over the coming months using instruments including a lidar, a thermal infrared imager, and a hyperspectral camera.",
+        sourceUrl: "https://www.esa.int/media/about-us/directorates/operations/join-us-live-for-the-first-images-of-asteroid-dimorphos",
+        timestamp: "2026-11-25T18:45:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Space Science",
+        headline: "NASA's SPHEREx Space Telescope Reveals How Mid-Infrared Light Pierces Milky Way's Dusty Core in New Astronomy Picture of the Day — Observatory Shows Galactic Center Fully Obscured at Near-Infrared But Visible at Longer Wavelengths",
+        body: "NASA's SPHEREx space telescope has produced a striking new visualization of the Milky Way's galactic center featured as the Astronomy Picture of the Day for November 25, illustrating how near-infrared light is completely blocked by dense dust clouds while mid-infrared wavelengths penetrate through to reveal hidden stellar nurseries and structures surrounding the galaxy's supermassive black hole. The false-color video compares SPHEREx observations across its 102-color spectral range, showing the galactic center transition from completely shrouded to visible as wavelengths lengthen from near-infrared to mid-infrared. SPHEREx completed its first full all-sky infrared map in late 2025 and is now in its second survey pass, progressively building the richest infrared map of the cosmos ever constructed across a two-year primary mission. The data will help scientists map the distribution of water ice and other prebiotic molecules relevant to the origins of life throughout the Milky Way.",
+        sourceUrl: "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+        timestamp: "2026-11-25T05:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Earth Science",
+        headline: "NASA Deploys P-3 Orion and TEMPO Satellite to Monitor Toxic Lead Plume From U.S. Army's Iowa Ammunition Plant Controlled Detonation — 9,700 Pounds of Degraded Lead Azide Explosives Detonated at Middletown",
+        body: "NASA deployed a P-3 Orion atmospheric research aircraft, a Gulfstream III, a King Air B200, and observations from its space-based TEMPO air quality monitoring instrument to track the toxic lead dust plume generated when the U.S. Army conducted a controlled detonation of approximately 9,700 pounds of deteriorating lead azide at the Iowa Army Ammunition Plant in Middletown on November 25. The Army was forced to detonate the 68 drums of recrystallized lead azide after the material — a primary explosive used in detonators — became too unstable for safe transport or conventional disposal, with spontaneous detonation risk rising as the crystals aged. TEMPO, which provides hourly air quality monitoring across North America from geostationary orbit, complemented the low-altitude aircraft sampling by offering a wide-area view of how the lead-bearing plume dispersed across the surrounding region. Illinois and Iowa environmental officials warned nearby residents to shelter in place during the detonation and said the dust plume was expected to dissipate within an hour depending on wind conditions.",
+        sourceUrl: "https://local12.com/news/nation-world/nasa-deploys-research-aircraft-and-satellite-tools-to-aid-in-lead-azide-detonation-in-iowa",
+        timestamp: "2026-11-25T15:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-24": {
     date: "November 24, 2026",
     stories: [
