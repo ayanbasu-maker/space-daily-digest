@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-26": {
+    date: "November 26, 2026",
+    stories: [
+      {
+        agency: "Roscosmos",
+        category: "ISS Operations",
+        headline: "Progress MS-36 Docks at International Space Station's Poisk Module at 12:11 UTC, Delivering 2.5 Tonnes of Supplies to Expedition 73 — Two-Day Rendezvous Completes Russia's Latest ISS Resupply Mission",
+        body: "Russia's Progress MS-36 cargo spacecraft, designated Progress 97 by NASA, successfully docked at the Poisk module's nadir port of the International Space Station at 12:11 UTC on November 26, completing a two-day orbital rendezvous after launching from the Baikonur Cosmodrome on November 24. The freighter is carrying approximately 2.5 tonnes of food, water, fuel, spare parts, and scientific equipment for the Expedition 73 crew. Progress MS-36 joins Progress MS-35, which launched in September 2026 and remains docked at the Zvezda aft port, ensuring robust supply buffers for the multinational crew through the northern hemisphere winter. NASA provided live coverage starting at 11:30 UTC, with the automated Kurs rendezvous system performing the approach and docking without crew intervention.",
+        sourceUrl: "https://spacepolicyonline.com/events/progress-ms-36-docks-at-the-iss-nov-26-2026-earth-orbit-711-am-et/",
+        timestamp: "2026-11-26T12:11:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Shenzhou-24 Crew Begins 90-Plus Science Experiments Aboard Tiangong as China Confirms One Shenzhou-23 Taikonaut Will Extend Stay to Nearly a Full Year in Orbit — Historic Milestone for Chinese Human Spaceflight Program",
+        body: "With Pakistan's Muhammad Zeeshan Ali and taikonauts Tang Hongbo and Wu Yi now settled aboard China's Tiangong space station, the China Manned Space Agency confirmed that the combined six-person crew will carry out more than 90 scientific experiments and technology demonstrations spanning microbiology, materials science, remote sensing, and medical research. CMSA also disclosed that one member of the existing Shenzhou-23 crew will extend their mission duration to approach a full year in orbit — a first for China's space programme, intended to gather long-duration physiological data as CMSA prepares for future crewed lunar and deep-space missions. Pakistan's Muhammad Zeeshan Ali, the first foreign national to board Tiangong, is scheduled to return to Earth in roughly one week aboard the Shenzhou-23 spacecraft already docked at the station's forward port. The milestone adds to China's rapidly advancing human spaceflight record, with Tiangong now hosting its first multinational crew.",
+        sourceUrl: "https://www.pbs.org/newshour/amp/world/china-launches-latest-shenzhou-mission-with-1-of-3-astronauts-preparing-for-a-yearlong-stay",
+        timestamp: "2026-11-26T08:00:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "Planetary Science",
+        headline: "NASA's Titan-Bound Dragonfly Rotorcraft Receives DragonCam Suite — Seven Cameras Built by Malin Space Science Systems Will Navigate Saturn's Moon and Capture First In-Situ Surface Science Imagery at Titan",
+        body: "Engineers at Johns Hopkins Applied Physics Laboratory have completed integration of DragonCam, a seven-camera imaging suite developed by Malin Space Science Systems, onto NASA's Dragonfly nuclear-powered rotorcraft destined for Saturn's moon Titan. The cameras will serve dual roles: providing navigation imagery to safely fly and land the rotorcraft across Titan's dune fields and craters, and capturing detailed science images of the moon's organic-rich surface to help researchers understand prebiotic chemistry relevant to the origin of life. Dragonfly is scheduled to launch in July 2028 and will arrive at Titan in late 2034, where it will fly to multiple sites over its primary mission. DraMS, the mass spectrometer instrument from NASA Goddard Space Flight Center and France's CNES, is expected to be integrated in the coming months as hardware assembly continues toward the launch date.",
+        sourceUrl: "https://mediarelease.co/us/mr03239-nasa-dragonfly-rotorcraft-titan-cameras-dragoncam-24112026.html",
+        timestamp: "2026-11-26T05:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "ESA's Hera Scientists Reveal Dimorphos Crater Is 'Stadium-Sized' and Asteroid Is Now Tumbling Wildly After DART Impact — New Findings Exceed Pre-Mission Deflection Models and Reframe Planetary Defense Assessment",
+        body: "Detailed analysis of imagery from ESA's Hera spacecraft has revealed that the crater created by NASA's 2022 DART kinetic impactor spans the full width of asteroid Dimorphos's widest face — roughly comparable in footprint to a sports stadium — and that the moonlet is now tumbling in an irregular rotation that was not predicted by pre-mission deflection models. ESA's Hera mission scientist said the degree of tumbling was unexpected, with the ejecta plume's reaction force amplifying the momentum transfer well beyond the impactor's own kinetic contribution, meaning DART was significantly more effective than the most optimistic pre-flight estimates. The spacecraft, currently about 30 kilometres from Dimorphos, will progressively close in for high-resolution crater mapping using its lidar, thermal infrared imager, and hyperspectral camera over the coming weeks. Scientists have also not yet determined the origin of several boulders visible near the impact site, with competing hypotheses pointing to DART-generated ejecta or pre-existing material from the parent asteroid Didymos.",
+        sourceUrl: "https://cnn.com/2026/11/25/science/hera-mission-dimorphos-asteroid-arrival-images",
+        timestamp: "2026-11-26T14:00:00Z"
+      },
+      {
+        agency: "Blue Origin",
+        category: "Launch",
+        headline: "Blue Origin CEO Dave Limp Confirms New Glenn Return-to-Flight Slips to January 2027 as Cape Canaveral Pad Rebuild Runs Behind Schedule — GS3 Third Stage and Northstar Engine Unveiled to Offset Delay Setback",
+        body: "Blue Origin CEO Dave Limp confirmed in an internal memo to staff that New Glenn's return to flight has slipped to January 2027, as reconstruction of Cape Canaveral Launch Complex 36 continues to run behind schedule following the May 2026 explosion caused by an engine valve failure during ground testing. The delay, first reported by the Financial Times, leaves Amazon's Project Kuiper broadband constellation — which had already lost 40 satellites in the November 15 Vulcan Centaur failure — without its primary next-generation launch vehicle through the end of the year. Blue Origin partially offset the news by unveiling the New Glenn GS3 third stage and Northstar upper-stage engine, enhancements intended to increase the rocket's direct-to-Moon payload capacity for the company's Blue Moon lunar landers supporting NASA's Artemis III mission. Limp told employees the Cape Canaveral pad rebuild had been hampered by severe summer weather and recent flash flooding at the site.",
+        sourceUrl: "https://newspaceeconomy.ca/2026/11/07/blue-origin-delays-new-glenn-return-to-flight-until-january-2027/",
+        timestamp: "2026-11-26T10:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-25": {
     date: "November 25, 2026",
     stories: [
