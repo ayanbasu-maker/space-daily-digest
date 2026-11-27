@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-27": {
+    date: "November 27, 2026",
+    stories: [
+      {
+        agency: "NASA",
+        category: "Human Spaceflight",
+        headline: "Expedition 75 Celebrates Thanksgiving in Orbit With Space-Grown Greens and Holiday Feast — ISS Crew Marks U.S. Holiday One Day After Progress MS-36 Thanksgiving Delivery, Prepares for Cygnus NG-25 Arrival in Coming Days",
+        body: "The six-member Expedition 75 crew aboard the International Space Station observed Thanksgiving by preparing a holiday meal that included fresh greens harvested from the Columbus laboratory's grow systems alongside packaged turkey, stuffing, and traditional American holiday fare, sharing the celebration with families via video link and with flight controllers at NASA's Johnson Space Center and international partner agencies. The occasion marked a small step toward in-orbit food self-sufficiency, with crew members reporting successful harvests from both the Advanced Plant Habitat and Veggie systems in the same day — an incremental milestone on the long road to the bio-regenerative life support systems needed for future deep-space missions. Coming just one day after Russia's Progress MS-36 cargo spacecraft docked at the Poisk module on November 26, the crew entered the holiday weekend with fully replenished food and water stores. NASA confirmed that Northrop Grumman's Cygnus XL spacecraft, designated NG-25, will launch on a SpaceX Falcon 9 from Cape Canaveral in the coming days as the final scheduled cargo delivery of 2026.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/11/25/crew-works-biomedical-research-day-before-thanksgiving-space-delivery/",
+        timestamp: "2026-11-27T00:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Business",
+        headline: "Elon Musk Pledges Annual SpaceX Share for Every American Child on Thanksgiving — Stock Surges More Than 5% in Friday Premarket Trading as Investors React, Distribution Mechanism and Regulatory Path Remain Undefined",
+        body: "SpaceX CEO Elon Musk announced on Thanksgiving that he intends to give a share of SpaceX stock to every American child each year, describing the pledge as a way to give young people a direct stake in the future of space exploration and to build a generation that grows up as SpaceX shareholders. The announcement sent SpaceX shares up sharply from $127.44 at Wednesday's close to $133.79 in premarket trading on Friday, as markets responded to the implied signal of confidence from the company's chief executive. Neither SpaceX nor Musk's office released operational details about eligibility criteria, the custodial mechanism for delivering shares to minors, how many total shares would be issued annually, or the SEC regulatory path required to distribute private company equity at scale to millions of children. The pledge follows a broader pattern of sweeping public commitments from Musk — particularly around the holiday season — that have historically required substantial logistical and legal groundwork before they could be acted upon.",
+        sourceUrl: "https://forbes.com/sites/siladityaray/2026/11/27/spacex-shares-rise-as-musk-vows-to-expand-stock-giveaway-pledges-a-share-to-every-child-each-year",
+        timestamp: "2026-11-27T18:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Launch",
+        headline: "Long March 6A Rocket Launches New Tranche of Qianfan G60 Broadband Constellation Satellites From Taiyuan — Mission Marks Latest Step in China's Push to Build Starlink Rival With Thousands of Low-Earth-Orbit Nodes",
+        body: "China's Long March 6A rocket lifted off from Launch Complex 9A at the Taiyuan Satellite Launch Center at 13:00 UTC on November 27, delivering a new batch of Qianfan G60 broadband internet constellation satellites to sun-synchronous low Earth orbit in the latest of a series of rapid-cadence deployment missions. The Qianfan network — also known as the G60 Xingzuo constellation and operated by Shanghai Spacecom Satellite Technology under Chinese state investment — is targeting a first operational tier of several hundred satellites before expanding to thousands of nodes to deliver global broadband internet coverage competitive with SpaceX's Starlink and Amazon's Project Kuiper. China has significantly accelerated Qianfan deployment flights throughout 2026, with the Long March 6A's solid-propellant strap-on boosters making it the preferred workhorse for Taiyuan's high-inclination polar-orbit missions. The constellation represents a central strategic pillar in China's ambition to establish independent, state-sovereign global communications infrastructure rather than relying on foreign-operated networks.",
+        sourceUrl: "https://spacelaunchnow.me/launch/long-march-6a-unknown-payload/",
+        timestamp: "2026-11-27T13:00:00Z"
+      },
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "ESA's Hera Enters Third Day of Close-Proximity Science at Dimorphos, Mapping Asteroid's Post-DART Tumbling Motion and Stadium-Sized Crater With Full Instrument Suite — CubeSat Deployment Planned for Early 2027",
+        body: "ESA's Hera asteroid mission has entered its third full day of close-proximity operations at the Didymos-Dimorphos binary asteroid system, with the spacecraft's science team systematically collecting data from the onboard lidar, thermal infrared imager, and hyperspectral camera to characterise the full scope of deformation caused by NASA's 2022 DART kinetic impactor. Following the dramatic November 25 reveal that DART had punched a stadium-sized crater spanning the full width of Dimorphos and left the moonlet tumbling in an irregular rotation that exceeded all pre-mission models, scientists are now focused on refining the moonlet's mass estimate and constructing a detailed 3D shape model of the post-impact body — work requiring several more weeks of close observation from roughly 25 to 30 kilometres distance. The confirmed orbital period shortening of 33 minutes already surpasses the most optimistic pre-flight predictions, and the ongoing crater depth and rotation data will allow researchers to precisely quantify how much extra momentum transfer came from the escaping ejecta plume versus the impactor itself. The two Hera CubeSats — Juventas, which will perform radar sounding to probe Dimorphos's interior, and Milani, designed for spectral and dust-environment analysis — remain on schedule for deployment in early 2027, once surface hazard mapping is complete.",
+        sourceUrl: "https://www.esa.int/missions/about-us/directorates/operations/space-safety/hera",
+        timestamp: "2026-11-27T10:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Pakistan's Muhammad Zeeshan Ali and Shenzhou-23 Crew Lock In November 30 Return as First Foreign National on Tiangong Wraps Six-Day Mission — Zhang Zhiyuan's Crew to Undock for Dongfeng Landing in Inner Mongolia",
+        body: "China's Manned Space Agency has confirmed that the Shenzhou-23 spacecraft will undock from Tiangong's forward port and return Pakistan's Muhammad Zeeshan Ali along with commander Zhang Zhiyuan and the remaining Shenzhou-23 crewmates to Earth at the Dongfeng Landing Site in Inner Mongolia on November 30, formally closing the most closely watched chapter of Tiangong's operational history. Ali completed his primary science assignment — a microgravity photosynthesis experiment using cyanobacteria — with samples transferred to the station's scientific storage system for continued monitoring by the Shenzhou-24 crew after his departure. One member of the original Shenzhou-23 crew, which launched in May 2026, will remain aboard Tiangong to push toward a full year in orbit, a first for China's human spaceflight programme intended to gather the long-duration physiological data needed for future crewed lunar and deep-space missions. The upcoming Shenzhou-23 return will mark the conclusion of the mission that officially opened Tiangong to international visitors — a milestone Chinese space officials have framed as the beginning of a new chapter for the station as a genuinely multinational outpost.",
+        sourceUrl: "https://www.leonarddavid.com/china-space-station-crew-prepares-for-return-to-earth-next-mission-includes-pakistani-astronaut/",
+        timestamp: "2026-11-27T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-26": {
     date: "November 26, 2026",
     stories: [
