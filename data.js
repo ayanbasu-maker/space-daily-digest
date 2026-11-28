@@ -68,6 +68,52 @@ const AGENCIES = [
 
 const DIGESTS = {
 
+  "2026-11-28": {
+    date: "November 28, 2026",
+    stories: [
+      {
+        agency: "ESA",
+        category: "Planetary Science",
+        headline: "BepiColombo Completes First Full Week in Mercury Orbit as ESA and JAXA Set December 9 for Stacked Orbiter Separation — MPO and Mio to Split for Independent Polar Orbits Ahead of April 2027 Science Start",
+        body: "The BepiColombo spacecraft, a joint ESA and JAXA mission, completed its first full week in elliptical polar orbit around Mercury after a successful orbit insertion on November 21, with flight operations teams now finalising procedures for the planned separation of its two stacked science probes — ESA's Mercury Planetary Orbiter (MPO) and JAXA's Mercury Magnetospheric Orbiter (Mio) — scheduled for December 9–10. The insertion burn ran slightly shorter than planned due to a software anomaly detected in the final approach, but ESA confirmed the spacecraft is healthy and the achieved orbit is within mission tolerances, allowing all subsequent phases to proceed as planned. After separation, MPO will perform a series of propulsive manoeuvres over several months to spiral down to its final 480-by-1,500-kilometre science orbit, while Mio will occupy a more distant elliptical orbit suited to its magnetospheric measurements; both probes are expected to begin primary science operations in April 2027. BepiColombo becomes only the second mission ever to orbit Mercury, following NASA's MESSENGER, which operated there from 2011 to 2015.",
+        sourceUrl: "https://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury",
+        timestamp: "2026-11-28T10:00:00Z"
+      },
+      {
+        agency: "SpaceX",
+        category: "Launch",
+        headline: "SpaceX Targets Saturday Night USSF-380 Classified Falcon 9 Launch From Vandenberg SLC-4E — Veteran Booster B1082 Makes 27th Flight With Drone Ship Landing Planned Downrange in the Pacific",
+        body: "SpaceX opened a four-hour window at 8:39 p.m. Pacific Time on Saturday, November 28, targeting a Falcon 9 liftoff from Space Launch Complex 4E at Vandenberg Space Force Base, California, for the classified USSF-380 national security mission for the U.S. Space Force. The first stage, booster B1082, is making its 27th flight and is expected to separate approximately two-and-a-half minutes after liftoff and land on the drone ship Of Course I Still Love You stationed downrange in the Pacific Ocean. The U.S. Space Force has not disclosed the payload's nature, though one aerospace outlet characterised USSF-380 as likely part of the Space-Based Sensing and Targeting portfolio built on SpaceX's Starshield bus — a claim that has not been officially confirmed. Residents of Santa Barbara, San Luis Obispo, and Ventura counties were alerted to a moderate chance of sonic booms during both the ascent and the booster's return landing burn.",
+        sourceUrl: "https://www.spacex.com/launches/ussf380",
+        timestamp: "2026-11-28T04:39:00Z"
+      },
+      {
+        agency: "NASA",
+        category: "ISS Operations",
+        headline: "NASA and Northrop Grumman Clear NG-25 Cygnus XL for Sunday Falcon 9 Launch — 11,000-Pound Manifest Includes Pioneering Space Crops Research as Final Cargo Delivery of 2026 Heads to Expedition 75",
+        body: "NASA and Northrop Grumman completed final pre-launch processing for the NG-25 Cygnus XL cargo spacecraft, clearing it for a targeted liftoff at 10:47 a.m. Eastern Time on Sunday, November 29, aboard a SpaceX Falcon 9 from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida. The spacecraft is carrying approximately 11,000 pounds of science investigations, food, spare hardware, and crew provisions, including a payload package focused on space-grown crop research intended to advance the in-orbit food production systems essential for long-duration Moon and Mars missions. NG-25 represents the final scheduled cargo delivery to the ISS in 2026, giving the Expedition 75 crew a fully restocked pantry and science supply chain heading into the new year. The Cygnus spacecraft will approach the station on December 1, with astronaut capture using the robotic arm planned for approximately 4 a.m. Eastern.",
+        sourceUrl: "https://www.nasa.gov/blogs/spacestation/2026/11/27/nasa-partners-preps-on-track-for-sunday-space-station-cargo-launch/",
+        timestamp: "2026-11-28T12:00:00Z"
+      },
+      {
+        agency: "ISRO",
+        category: "Space Science",
+        headline: "ISRO Completes Cryogenic Engine Acceptance Test for GSLV-F19 NVS-04 NavIC Mission as Agency Eyes December Window for Gaganyaan G1 Uncrewed Test Flight",
+        body: "The Indian Space Research Organisation successfully completed a flight acceptance hot-fire test of the cryogenic upper stage engine for the GSLV-F19 mission, which will carry the NVS-04 navigation satellite to geosynchronous transfer orbit as part of ISRO's effort to restore the NavIC regional navigation constellation to full seven-satellite operational capacity. The test was conducted at the ISRO Propulsion Complex in Mahendragiri, Tamil Nadu — a mandatory pre-launch qualification step that clears the cryogenic stage for integration onto the vehicle stack. Simultaneously, ISRO officials confirmed that preparations for the Gaganyaan G1 uncrewed orbital test — the first full orbital demonstration of India's human-rated crew module and LVM3 launch vehicle — remain on track for a window in December 2026 or January 2027, with final vehicle integration continuing at the Satish Dhawan Space Centre in Sriharikota. The Gaganyaan programme aims to certify all systems for a crewed Indian spaceflight mission in 2027, which would make India only the fourth country to independently send humans to orbit.",
+        sourceUrl: "https://www.uniindia.com/south-india/isro-conducts-flight-acceptance-test-of-cryo-engine-for-next-gslv-f19-nvs-04-mission/241587",
+        timestamp: "2026-11-28T07:00:00Z"
+      },
+      {
+        agency: "CNSA",
+        category: "Human Spaceflight",
+        headline: "Pakistan's Zeeshan Ali Wraps Final Science Sessions Aboard Tiangong and Transfers Cyanobacteria Samples to Resident Crew — Shenzhou-23 Return Preparations Under Way for November 30 Landing in Inner Mongolia",
+        body: "Pakistani payload specialist Muhammad Zeeshan Ali completed the final session of his primary cyanobacteria microgravity photosynthesis experiment aboard China's Tiangong space station on Saturday and formally transferred sealed biological samples to the resident Shenzhou-24 crew for continued long-duration monitoring after his departure, the China Manned Space Agency confirmed. Ali and his Shenzhou-23 crewmates will undock from Tiangong's forward port on November 30 for a ballistic re-entry and parachute landing at the Dongfeng landing zone in Inner Mongolia, bringing to a close the first chapter of Tiangong's history as an internationally crewed outpost. The handoff protocol marks a central feature of CMSA's emerging international guest-researcher model, in which short-stay foreign astronauts design experiments whose sample chains are sustained by the resident crew after the visitor's return to Earth. Among the four Pakistani experiments on the mission, the cyanobacteria study is considered highest-priority, given its potential relevance to closed-loop life support systems for long-duration spaceflight beyond low Earth orbit.",
+        sourceUrl: "https://www.brecorder.com/news/40451133/pakistani-astronaut-aboard-chinas-tiangong-space-station-urges-youth-to-pursue-science-technology",
+        timestamp: "2026-11-28T08:00:00Z"
+      }
+    ]
+  },
+
   "2026-11-27": {
     date: "November 27, 2026",
     stories: [
